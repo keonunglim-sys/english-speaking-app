@@ -1,0 +1,30 @@
+{
+  "last_updated": "2026-04-13",
+  "total_sentences": 3,
+  "sentences": [
+    {
+      "id": "2026-04-13_sent_01",
+      "date_added": "2026-04-13",
+      "english": "Let's find a time that works for everyone and schedule the quarterly review meeting.",
+      "korean": "분기별 검토 회의를 위해 모두에게 맞는 시간을 찾아 일정을 잡아봅시다.",
+      "category": "business",
+      "grammar_point": "관계대명사 that - 선행사를 수식하는 관계절"
+    },
+    {
+      "id": "2026-04-13_sent_02",
+      "date_added": "2026-04-13",
+      "english": "We need to be more flexible with our approach to handle unexpected client requests.",
+      "korean": "예상치 못한 고객 요청을 처리하기 위해 우리의 접근 방식을 더욱 유연하게 해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형 - 필요성이나 의무를 나타내는 표현"
+    },
+    {
+      "id": "2026-04-13_sent_03",
+      "date_added": "2026-04-13",
+      "english": "I'm trying to organize a get-together with my college friends this weekend.",
+      "korean": "이번 주말에 대학 친구들과 모임을 주선하려고 해요.",
+      "category": "daily",
+      "grammar_point": "try to + 동사원형 - 노력이나 시도를 나타내는 표현"
+    }
+  ]
+}
