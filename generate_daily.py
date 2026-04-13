@@ -5,6 +5,7 @@
 - Claude API로 학습 콘텐츠 생성
 """
 
+import base64
 import glob
 import json
 import os
@@ -111,6 +112,87 @@ def load_source_file(program, date_str):
                 return content
 
     print(f"  소스 파일 없음: {program}_{date_str}")
+    return None
+
+
+def load_photo_file(program, date_str):
+    """source/ 폴더에서 핸드폰으로 찍은 교재 사진을 찾아 Claude Vision으로 OCR합니다."""
+    os.makedirs(SOURCE_DIR, exist_ok=True)
+
+    # 이미지 파일 탐색 (단일/복수 페이지 모두 지원)
+    image_patterns = [
+        os.path.join(SOURCE_DIR, f"{program}_{date_str}.jpg"),
+        os.path.join(SOURCE_DIR, f"{program}_{date_str}.jpeg"),
+        os.path.join(SOURCE_DIR, f"{program}_{date_str}.png"),
+        os.path.join(SOURCE_DIR, f"{program}_{date_str}_*.jpg"),
+        os.path.join(SOURCE_DIR, f"{program}_{date_str}_*.jpeg"),
+        os.path.join(SOURCE_DIR, f"{program}_{date_str}_*.png"),
+    ]
+
+    image_files = []
+    for pattern in image_patterns:
+        matches = sorted(glob.glob(pattern))
+        image_files.extend(matches)
+
+    # 중복 제거
+    seen = set()
+    unique_images = []
+    for f in image_files:
+        if f not in seen:
+            seen.add(f)
+            unique_images.append(f)
+
+    if not unique_images:
+        return None
+
+    print(f"  사진 파일 발견: {[os.path.basename(f) for f in unique_images]}")
+    print(f"  Claude Vision으로 OCR 중...")
+
+    # 이미지 → base64 인코딩
+    content_blocks = []
+    for img_path in unique_images:
+        ext = os.path.splitext(img_path)[1].lower()
+        media_type = "image/jpeg" if ext in (".jpg", ".jpeg") else "image/png"
+        with open(img_path, "rb") as f:
+            img_data = base64.standard_b64encode(f.read()).decode("utf-8")
+        content_blocks.append({
+            "type": "image",
+            "source": {"type": "base64", "media_type": media_type, "data": img_data},
+        })
+
+    content_blocks.append({
+        "type": "text",
+        "text": f"""이 사진은 EBS '{program}' 교재의 페이지를 촬영한 것입니다.
+사진에 있는 모든 텍스트를 정확하게 추출해주세요.
+영어 본문, 한국어 설명, 핵심 표현, 예문 등 모든 내용을 빠짐없이 텍스트로 출력해주세요.
+사진이 여러 장이면 순서대로 이어서 출력하세요.""",
+    })
+
+    headers = {
+        "Content-Type": "application/json",
+        "x-api-key": ANTHROPIC_API_KEY,
+        "anthropic-version": "2023-06-01",
+    }
+    payload = {
+        "model": CLAUDE_MODEL,
+        "max_tokens": 4000,
+        "messages": [{"role": "user", "content": content_blocks}],
+    }
+
+    try:
+        resp = requests.post(API_URL, headers=headers, json=payload, timeout=120)
+        resp.raise_for_status()
+        data = resp.json()
+        extracted = ""
+        for block in data.get("content", []):
+            if block.get("type") == "text":
+                extracted += block.get("text", "")
+        if extracted:
+            print(f"  OCR 완료: {len(extracted)}자 추출")
+            return extracted
+    except Exception as e:
+        print(f"  OCR 실패: {e}")
+
     return None
 
 
@@ -369,7 +451,12 @@ def main():
     # 2. source/ 폴더 확인 (EPUB이 없으면)
     print("\n[2/5] 소스 파일 확인")
     if not 입트영_source:
+        # 사진 파일 먼저 확인 (OCR)
+        입트영_source = load_photo_file("입트영", date_str)
+    if not 입트영_source:
         입트영_source = load_source_file("입트영", date_str)
+    if not 귀트영_source:
+        귀트영_source = load_photo_file("귀트영", date_str)
     if not 귀트영_source:
         귀트영_source = load_source_file("귀트영", date_str)
 
