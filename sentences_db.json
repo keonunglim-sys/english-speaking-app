@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-13",
-  "total_sentences": 3,
+  "last_updated": "2026-04-14",
+  "total_sentences": 6,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -25,6 +25,30 @@
       "korean": "이 사진 컬렉션은 단순한 장식이 아니라 내 모든 여행 추억을 보존하는 것입니다.",
       "category": "daily",
       "grammar_point": "more than just + 명사, 대시(-)를 이용한 부연설명"
+    },
+    {
+      "id": "2026-04-14_sent_01",
+      "date_added": "2026-04-14",
+      "english": "I'd like to schedule a meeting to discuss our quarterly performance.",
+      "korean": "분기 실적을 논의하기 위한 회의를 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to' - 정중한 의향 표현"
+    },
+    {
+      "id": "2026-04-14_sent_02",
+      "date_added": "2026-04-14",
+      "english": "We need to establish clear guidelines for remote work policies.",
+      "korean": "재택근무 정책에 대한 명확한 가이드라인을 수립해야 합니다.",
+      "category": "business",
+      "grammar_point": "'need to' - 필요성 표현"
+    },
+    {
+      "id": "2026-04-14_sent_03",
+      "date_added": "2026-04-14",
+      "english": "I usually grab a quick lunch at the convenience store nearby.",
+      "korean": "보통 근처 편의점에서 간단히 점심을 해결해요.",
+      "category": "daily",
+      "grammar_point": "'grab' - 빠르게 가져가다/해결하다"
     }
   ]
 }

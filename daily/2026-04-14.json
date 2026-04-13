@@ -1,0 +1,163 @@
+{
+  "date": "2026-04-14",
+  "day_of_week": "화요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "The Art of Work-Life Balance in Modern Korea",
+    "text": "Achieving work-life balance has become increasingly challenging for Korean professionals in today's fast-paced society. Many of us find ourselves staying late at the office, responding to emails after hours, and sacrificing personal time for career advancement. However, I've learned that true productivity comes from maintaining healthy boundaries. Last year, I made a conscious decision to leave the office by 7 PM and avoid checking work emails on weekends. Initially, I worried about falling behind my colleagues, but the results were surprising. My creativity improved, my stress levels decreased, and my work quality actually enhanced. I started exercising regularly, spending quality time with family, and pursuing hobbies I had abandoned. The key is setting clear priorities and communicating them effectively with your team. When we respect our own time, others learn to respect it too. Work-life balance isn't a luxury—it's essential for long-term success and personal well-being. Small changes in our daily routine can lead to significant improvements in our overall quality of life.",
+    "korean_summary": "현대 한국 직장인들에게 일과 삶의 균형은 점점 더 어려운 과제가 되고 있습니다. 저녁 7시에 퇴근하고 주말에 업무 이메일을 확인하지 않기로 결심한 후, 창의성과 업무 품질이 오히려 향상되었습니다. 명확한 우선순위 설정과 팀과의 효과적인 소통이 핵심이며, 일과 삶의 균형은 장기적인 성공과 개인의 행복을 위해 필수적입니다."
+  },
+  "gwitunyeong": {
+    "title": "Essential Strategies for Navigating Toddler Tantrums",
+    "text": "Child development experts are sharing new insights on managing toddler tantrums, which affect nearly all families with young children. According to recent research, tantrums are a normal part of brain development in children aged 18 months to 4 years. Dr. Sarah Chen, a pediatric psychologist, emphasizes that parents should remain calm and avoid engaging in power struggles. The most effective strategies include acknowledging the child's emotions, offering simple choices, and maintaining consistent routines. Distraction techniques work well for minor meltdowns, while major tantrums require patience and physical comfort. Experts warn against giving in to demands during tantrums, as this reinforces the behavior. Instead, parents should validate feelings while maintaining boundaries. Prevention is key—ensuring adequate sleep, regular meals, and avoiding overstimulating environments can significantly reduce tantrum frequency. The research shows that children who experience empathetic responses during tantrums develop better emotional regulation skills as they mature.",
+    "korean_summary": "전문가들은 18개월에서 4세 아이들의 떼쓰기가 뇌 발달의 정상적인 과정이라고 설명합니다. 효과적인 대처법으로는 아이의 감정을 인정하고, 간단한 선택권을 주며, 일관된 루틴을 유지하는 것이 있으며, 충분한 수면과 규칙적인 식사로 예방이 가능합니다."
+  },
+  "key_expressions": [
+    {
+      "english": "make a conscious decision",
+      "korean": "의식적인 결정을 내리다",
+      "example": "I made a conscious decision to prioritize my health over overtime work.",
+      "source": "입트영"
+    },
+    {
+      "english": "fall behind",
+      "korean": "뒤처지다, 뒤떨어지다",
+      "example": "I was worried about falling behind in the project deadline.",
+      "source": "입트영"
+    },
+    {
+      "english": "quality time",
+      "korean": "알찬 시간, 의미 있는 시간",
+      "example": "We should spend more quality time with our children on weekends.",
+      "source": "입트영"
+    },
+    {
+      "english": "long-term success",
+      "korean": "장기적인 성공",
+      "example": "Continuous learning is essential for long-term success in any field.",
+      "source": "입트영"
+    },
+    {
+      "english": "engage in power struggles",
+      "korean": "권력 다툼을 벌이다",
+      "example": "Parents should avoid engaging in power struggles with their teenagers.",
+      "source": "귀트영"
+    },
+    {
+      "english": "maintain boundaries",
+      "korean": "경계를 유지하다",
+      "example": "It's important to maintain boundaries between work and personal life.",
+      "source": "귀트영"
+    },
+    {
+      "english": "validate feelings",
+      "korean": "감정을 인정해주다",
+      "example": "Teachers should validate students' feelings when they face difficulties.",
+      "source": "귀트영"
+    },
+    {
+      "english": "emotional regulation",
+      "korean": "감정 조절",
+      "example": "Meditation can help improve your emotional regulation skills.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I'd like to schedule a meeting to discuss our quarterly performance.",
+      "korean": "분기 실적을 논의하기 위한 회의를 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to' - 정중한 의향 표현"
+    },
+    {
+      "english": "We need to establish clear guidelines for remote work policies.",
+      "korean": "재택근무 정책에 대한 명확한 가이드라인을 수립해야 합니다.",
+      "category": "business",
+      "grammar_point": "'need to' - 필요성 표현"
+    },
+    {
+      "english": "I usually grab a quick lunch at the convenience store nearby.",
+      "korean": "보통 근처 편의점에서 간단히 점심을 해결해요.",
+      "category": "daily",
+      "grammar_point": "'grab' - 빠르게 가져가다/해결하다"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "일과 삶의 균형을 유지하는 것은 장기적인 성공에 필수적입니다.",
+      "answer": "Maintaining work-life balance is essential for long-term success.",
+      "acceptable_keywords": [
+        "work-life balance",
+        "essential",
+        "long-term success"
+      ],
+      "hint": "'유지하다'는 maintaining, '필수적인'은 essential"
+    },
+    {
+      "type": "translation",
+      "korean": "아이의 감정을 인정해주면서 경계를 유지하는 것이 중요합니다.",
+      "answer": "It's important to validate feelings while maintaining boundaries.",
+      "acceptable_keywords": [
+        "validate",
+        "feelings",
+        "maintaining",
+        "boundaries"
+      ],
+      "hint": "'인정해주다'는 validate, '경계'는 boundaries"
+    },
+    {
+      "type": "translation",
+      "korean": "우리는 분기 실적에 대해 논의하기 위한 회의를 잡아야 합니다.",
+      "answer": "We need to schedule a meeting to discuss our quarterly performance.",
+      "acceptable_keywords": [
+        "schedule",
+        "meeting",
+        "quarterly",
+        "performance"
+      ],
+      "hint": "'잡다'는 schedule, '분기의'는 quarterly"
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "I made a conscious _____ to prioritize my health over work.",
+      "answer": "decision",
+      "options": [
+        "decision",
+        "choice",
+        "selection",
+        "option"
+      ],
+      "korean": "나는 일보다 건강을 우선시하기로 의식적인 결정을 내렸다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Parents should avoid engaging in power _____ with their children.",
+      "answer": "struggles",
+      "options": [
+        "struggles",
+        "fights",
+        "battles",
+        "conflicts"
+      ],
+      "korean": "부모들은 아이들과 권력 다툼을 벌이는 것을 피해야 한다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "We need to establish clear _____ for the new project.",
+      "answer": "guidelines",
+      "options": [
+        "guidelines",
+        "rules",
+        "policies",
+        "standards"
+      ],
+      "korean": "우리는 새 프로젝트에 대한 명확한 가이드라인을 수립해야 한다."
+    }
+  ],
+  "audio": {
+    "입트영": "",
+    "귀트영": ""
+  },
+  "audio_local": {}
+}
