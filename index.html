@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<title>Daily English Speaking</title>
+<title>EBS English Speaking</title>
 <style>
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body {
@@ -12,14 +12,14 @@ body {
   background: #f0f2f5; color: #1a1a2e; min-height: 100vh;
   padding-bottom: 80px;
 }
-/* Header */
 .header {
   background: linear-gradient(135deg, #1e3a5f, #2563eb);
   color: #fff; padding: 16px 20px;
   position: sticky; top: 0; z-index: 100;
 }
 .header h1 { font-size: 18px; font-weight: 700; }
-.header .date-info { font-size: 13px; color: #93c5fd; margin-top: 2px; }
+.header .subtitle { font-size: 11px; color: #93c5fd; margin-top: 1px; }
+.header .date-info { font-size: 13px; color: #93c5fd; margin-top: 4px; }
 .header .date-nav {
   display: flex; align-items: center; gap: 8px; margin-top: 8px;
 }
@@ -27,24 +27,21 @@ body {
   background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.3);
   color: #fff; padding: 6px 10px; border-radius: 8px; font-size: 14px;
 }
-/* Tab Navigation */
 .tabs {
   display: flex; background: #fff; border-bottom: 1px solid #e5e7eb;
   overflow-x: auto; -webkit-overflow-scrolling: touch;
-  position: sticky; top: 72px; z-index: 99;
+  position: sticky; top: 88px; z-index: 99;
 }
 .tabs button {
-  flex: 0 0 auto; padding: 12px 16px; border: none; background: none;
-  font-size: 13px; font-weight: 500; color: #6b7280; cursor: pointer;
+  flex: 0 0 auto; padding: 12px 14px; border: none; background: none;
+  font-size: 12px; font-weight: 500; color: #6b7280; cursor: pointer;
   white-space: nowrap; border-bottom: 2px solid transparent;
   transition: all 0.2s;
 }
 .tabs button.active { color: #2563eb; border-bottom-color: #2563eb; font-weight: 700; }
-/* Content */
 .content { padding: 16px; max-width: 720px; margin: 0 auto; }
 .section { display: none; }
 .section.active { display: block; }
-/* Cards */
 .card {
   background: #fff; border-radius: 12px; padding: 20px;
   margin-bottom: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);
@@ -57,19 +54,15 @@ body {
   display: inline-block; font-size: 10px; font-weight: 600;
   padding: 2px 8px; border-radius: 10px;
 }
+.badge-ipt { background: #dbeafe; color: #2563eb; }
+.badge-gwi { background: #fce7f3; color: #db2777; }
 .badge-biz { background: #ede9fe; color: #7c3aed; }
 .badge-daily { background: #fef3c7; color: #d97706; }
-.badge-qt { background: #dbeafe; color: #2563eb; }
-.badge-essay { background: #f0fdf4; color: #16a34a; }
-/* Read Aloud */
 .read-text {
   font-size: 16px; line-height: 1.8; color: #374151;
   white-space: pre-wrap; word-break: keep-all;
 }
-.read-text b, .read-text strong { color: #1e3a5f; }
 .korean-text { font-size: 14px; color: #6b7280; line-height: 1.6; margin-top: 12px; }
-.bible-ref { font-size: 13px; color: #9ca3af; margin-bottom: 8px; }
-/* Key Expressions */
 .expr-card {
   background: #fff; border-radius: 10px; padding: 14px 16px;
   margin-bottom: 10px; border-left: 3px solid #2563eb;
@@ -81,7 +74,6 @@ body {
 .expr-ko { font-size: 13px; color: #6b7280; margin-top: 4px; }
 .expr-ex { font-size: 13px; color: #4b5563; margin-top: 6px; font-style: italic; }
 .expr-hidden .expr-ko, .expr-hidden .expr-ex { display: none; }
-/* Today's Sentences */
 .sent-card {
   background: #fff; border-radius: 12px; padding: 20px;
   margin-bottom: 14px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);
@@ -97,7 +89,6 @@ body {
 .sent-en.show { display: block; }
 .sent-grammar { font-size: 12px; color: #9ca3af; margin-top: 6px; }
 .tap-hint { font-size: 12px; color: #9ca3af; text-align: center; margin-top: 8px; }
-/* Quiz */
 .quiz-question {
   background: #fff; border-radius: 12px; padding: 24px;
   margin-bottom: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);
@@ -140,7 +131,6 @@ body {
 }
 .quiz-score .score-num { font-size: 48px; font-weight: 800; color: #2563eb; }
 .quiz-score .score-label { font-size: 14px; color: #6b7280; margin-top: 4px; }
-/* Review */
 .review-card {
   background: #fff; border-radius: 12px; padding: 24px;
   margin-bottom: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);
@@ -161,7 +151,6 @@ body {
 }
 .review-btn-ok { background: #16a34a; color: #fff; }
 .review-btn-retry { background: #dc2626; color: #fff; }
-/* Progress */
 .progress-stat {
   display: flex; justify-content: space-between; padding: 16px 0;
   border-bottom: 1px solid #f3f4f6;
@@ -186,7 +175,6 @@ body {
 .streak-day.done { background: #16a34a; color: #fff; }
 .streak-day.today { background: #2563eb; color: #fff; }
 .streak-day.empty { background: #f3f4f6; }
-/* Loading */
 .loading { text-align: center; padding: 40px; color: #9ca3af; }
 .loading-spinner {
   width: 32px; height: 32px; border: 3px solid #e5e7eb;
@@ -194,10 +182,8 @@ body {
   animation: spin 0.8s linear infinite; margin: 0 auto 12px;
 }
 @keyframes spin { to { transform: rotate(360deg); } }
-/* Empty state */
 .empty-state { text-align: center; padding: 40px 20px; }
 .empty-state p { color: #9ca3af; font-size: 14px; margin-top: 8px; }
-/* Font size toggle */
 .font-toggle {
   display: flex; gap: 6px; margin-bottom: 12px; justify-content: flex-end;
 }
@@ -206,13 +192,17 @@ body {
   background: #fff; cursor: pointer; font-size: 12px; color: #6b7280;
 }
 .font-toggle button.active { background: #2563eb; color: #fff; border-color: #2563eb; }
-/* TTS button */
 .tts-btn {
   background: none; border: 1px solid #e5e7eb; border-radius: 8px;
   padding: 6px 12px; cursor: pointer; font-size: 13px; color: #6b7280;
   display: inline-flex; align-items: center; gap: 4px;
 }
 .tts-btn:active { background: #f3f4f6; }
+.source-badge {
+  display: inline-block; font-size: 10px; padding: 2px 6px;
+  border-radius: 4px; background: #dcfce7; color: #16a34a;
+  margin-left: 8px;
+}
 @media (min-width: 768px) {
   .content { padding: 24px; }
   .header { padding: 20px 24px; }
@@ -223,7 +213,8 @@ body {
 <body>
 
 <div class="header">
-  <h1>Daily English Speaking</h1>
+  <h1>EBS English Speaking</h1>
+  <div class="subtitle">입트영 + 귀트영 daily practice</div>
   <div class="date-info" id="dateInfo">Loading...</div>
   <div class="date-nav">
     <input type="date" id="datePicker" onchange="loadDate(this.value)">
@@ -231,7 +222,8 @@ body {
 </div>
 
 <div class="tabs" id="tabs">
-  <button class="active" onclick="switchTab('read')">Read Aloud</button>
+  <button class="active" onclick="switchTab('ipteunyeong')">입트영</button>
+  <button onclick="switchTab('gwitunyeong')">귀트영</button>
   <button onclick="switchTab('expressions')">Expressions</button>
   <button onclick="switchTab('sentences')">3 Sentences</button>
   <button onclick="switchTab('quiz')">Quiz</button>
@@ -240,14 +232,19 @@ body {
 </div>
 
 <div class="content">
-  <!-- Read Aloud -->
-  <div class="section active" id="sec-read">
+  <!-- 입트영 -->
+  <div class="section active" id="sec-ipteunyeong">
     <div class="font-toggle">
-      <button onclick="setFontSize(14)" id="fs14">Small</button>
-      <button class="active" onclick="setFontSize(16)" id="fs16">Medium</button>
-      <button onclick="setFontSize(18)" id="fs18">Large</button>
+      <button onclick="setFontSize(14)" id="fs14">S</button>
+      <button class="active" onclick="setFontSize(16)" id="fs16">M</button>
+      <button onclick="setFontSize(18)" id="fs18">L</button>
     </div>
-    <div id="readContent"><div class="loading"><div class="loading-spinner"></div>Loading...</div></div>
+    <div id="iptContent"><div class="loading"><div class="loading-spinner"></div>Loading...</div></div>
+  </div>
+
+  <!-- 귀트영 -->
+  <div class="section" id="sec-gwitunyeong">
+    <div id="gwiContent"></div>
   </div>
 
   <!-- Key Expressions -->
@@ -279,9 +276,8 @@ body {
 </div>
 
 <script>
-// ===== STATE =====
 let state = {
-  currentTab: 'read',
+  currentTab: 'ipteunyeong',
   currentDate: '',
   dailyData: null,
   sentencesDB: null,
@@ -292,8 +288,8 @@ let state = {
 };
 
 const BASE_URL = '.';
+const TABS = ['ipteunyeong','gwitunyeong','expressions','sentences','quiz','review','progress'];
 
-// ===== INIT =====
 document.addEventListener('DOMContentLoaded', () => {
   state.progress = JSON.parse(localStorage.getItem('eng_progress') || '{}');
   const today = new Date();
@@ -312,27 +308,22 @@ async function loadDate(dateStr) {
     const resp = await fetch(`${BASE_URL}/daily/${dateStr}.json`);
     if (!resp.ok) throw new Error('Not found');
     state.dailyData = await resp.json();
-    document.getElementById('dateInfo').textContent =
-      `${state.dailyData.date} (${state.dailyData.day_of_week})`;
+    let info = `${state.dailyData.date} (${state.dailyData.day_of_week})`;
+    if (state.dailyData.has_source) info += ' [EBS source]';
+    document.getElementById('dateInfo').textContent = info;
     renderCurrentTab();
   } catch (e) {
     document.getElementById('dateInfo').textContent = `${dateStr} - No content yet`;
-    document.getElementById('readContent').innerHTML =
-      '<div class="empty-state"><p>This date has no content yet.</p><p>Try selecting a different date.</p></div>';
+    document.getElementById('iptContent').innerHTML =
+      '<div class="empty-state"><p>No content for this date.</p><p>Try a different date.</p></div>';
   }
 }
 
-// ===== TABS =====
 function switchTab(tab) {
   state.currentTab = tab;
-  document.querySelectorAll('.tabs button').forEach((b, i) => {
-    b.classList.toggle('active', b.textContent.toLowerCase().includes(tab.slice(0, 4)) ||
-      ['read','expressions','sentences','quiz','review','progress'][i] === tab);
-  });
-  const tabs = ['read','expressions','sentences','quiz','review','progress'];
   const btns = document.querySelectorAll('.tabs button');
   btns.forEach(b => b.classList.remove('active'));
-  tabs.forEach((t, i) => {
+  TABS.forEach((t, i) => {
     document.getElementById('sec-' + t).classList.toggle('active', t === tab);
     if (t === tab && btns[i]) btns[i].classList.add('active');
   });
@@ -343,7 +334,8 @@ function renderCurrentTab() {
   if (!state.dailyData) return;
   const d = state.dailyData;
   switch (state.currentTab) {
-    case 'read': renderRead(d); break;
+    case 'ipteunyeong': renderIpt(d); break;
+    case 'gwitunyeong': renderGwi(d); break;
     case 'expressions': renderExpressions(d); break;
     case 'sentences': renderSentences(d); break;
     case 'quiz': renderQuiz(d); break;
@@ -352,36 +344,45 @@ function renderCurrentTab() {
   }
 }
 
-// ===== READ ALOUD =====
-function renderRead(d) {
-  let html = '';
-
-  // QT Section
-  if (d.qt && (d.qt.scripture_text || d.qt.reflection)) {
-    html += `<div class="card">
-      <div class="card-title"><span class="badge badge-qt">QT</span> ${d.qt.title || 'Living Life'}</div>
-      ${d.qt.bible_ref ? `<div class="bible-ref">${d.qt.bible_ref}</div>` : ''}
-      <button class="tts-btn" onclick="speak(document.getElementById('qt-text').textContent)">Listen</button>
-      <div class="read-text" id="qt-text" style="font-size:${state.fontSize}px; margin-top:10px;">${
-        escHtml(d.qt.scripture_text || '')}\n\n${escHtml(d.qt.reflection || '')}</div>
-      ${d.qt.prayer ? `<div class="korean-text" style="margin-top:16px;font-style:italic;">${escHtml(d.qt.prayer)}</div>` : ''}
-    </div>`;
+// ===== 입트영 =====
+function renderIpt(d) {
+  const ipt = d.ipteunyeong;
+  if (!ipt || !ipt.text) {
+    document.getElementById('iptContent').innerHTML = '<div class="empty-state"><p>No content.</p></div>';
+    return;
   }
-
-  // Essay Section
-  if (d.essay && d.essay.text) {
-    const cat = d.essay.category === 'business' ? 'badge-biz' : 'badge-daily';
-    const catLabel = d.essay.category === 'business' ? 'Business' : 'Daily';
-    html += `<div class="card">
-      <div class="card-title"><span class="badge ${cat}">${catLabel}</span> ${escHtml(d.essay.title || '')}</div>
-      <button class="tts-btn" onclick="speak(document.getElementById('essay-text').textContent)">Listen</button>
-      <div class="read-text" id="essay-text" style="font-size:${state.fontSize}px; margin-top:10px;">${escHtml(d.essay.text)}</div>
-      ${d.essay.korean_summary ? `<div class="korean-text">${escHtml(d.essay.korean_summary)}</div>` : ''}
+  document.getElementById('iptContent').innerHTML = `
+    <div class="card">
+      <div class="card-title">
+        <span class="badge badge-ipt">입트영</span> ${escHtml(ipt.title || '')}
+      </div>
+      <button class="tts-btn" onclick="speak(document.getElementById('ipt-text').textContent)">Listen</button>
+      <div class="read-text" id="ipt-text" style="font-size:${state.fontSize}px; margin-top:10px;">${escHtml(ipt.text)}</div>
+      ${ipt.korean_summary ? `<div class="korean-text">${escHtml(ipt.korean_summary)}</div>` : ''}
     </div>`;
-  }
+}
 
-  if (!html) html = '<div class="empty-state"><p>No reading content available.</p></div>';
-  document.getElementById('readContent').innerHTML = html;
+// ===== 귀트영 =====
+function renderGwi(d) {
+  const gwi = d.gwitunyeong;
+  if (!gwi || !gwi.text) {
+    document.getElementById('gwiContent').innerHTML = '<div class="empty-state"><p>No content.</p></div>';
+    return;
+  }
+  document.getElementById('gwiContent').innerHTML = `
+    <div class="font-toggle">
+      <button onclick="setFontSize(14)" id="fs14b">S</button>
+      <button class="active" onclick="setFontSize(16)" id="fs16b">M</button>
+      <button onclick="setFontSize(18)" id="fs18b">L</button>
+    </div>
+    <div class="card">
+      <div class="card-title">
+        <span class="badge badge-gwi">귀트영</span> ${escHtml(gwi.title || '')}
+      </div>
+      <button class="tts-btn" onclick="speak(document.getElementById('gwi-text').textContent)">Listen</button>
+      <div class="read-text" id="gwi-text" style="font-size:${state.fontSize}px; margin-top:10px;">${escHtml(gwi.text)}</div>
+      ${gwi.korean_summary ? `<div class="korean-text">${escHtml(gwi.korean_summary)}</div>` : ''}
+    </div>`;
 }
 
 // ===== KEY EXPRESSIONS =====
@@ -392,9 +393,9 @@ function renderExpressions(d) {
     return;
   }
   let html = '';
-  exprs.forEach((e, i) => {
-    const src = e.source === 'qt' ? 'badge-qt' : 'badge-essay';
-    const srcLabel = e.source === 'qt' ? 'QT' : 'Essay';
+  exprs.forEach(e => {
+    const src = e.source === '입트영' ? 'badge-ipt' : 'badge-gwi';
+    const srcLabel = e.source === '입트영' ? '입트영' : '귀트영';
     html += `<div class="expr-card expr-hidden" onclick="this.classList.toggle('expr-hidden')">
       <div style="display:flex;justify-content:space-between;align-items:center;">
         <span class="expr-en">${escHtml(e.english)}</span>
@@ -435,13 +436,11 @@ function renderSentences(d) {
 function renderQuiz(d) {
   const quizzes = d.quiz || [];
   if (!quizzes.length) {
-    document.getElementById('quizContent').innerHTML = '<div class="empty-state"><p>No quiz available.</p></div>';
+    document.getElementById('quizContent').innerHTML = '<div class="empty-state"><p>No quiz.</p></div>';
     return;
   }
-
   const qs = state.quizState;
   if (qs.idx >= quizzes.length) {
-    // Show score
     document.getElementById('quizContent').innerHTML = `
       <div class="quiz-score">
         <div class="score-num">${qs.score} / ${quizzes.length}</div>
@@ -450,16 +449,14 @@ function renderQuiz(d) {
       </div>`;
     return;
   }
-
   const q = quizzes[qs.idx];
   let html = `<div style="font-size:12px;color:#9ca3af;margin-bottom:8px;">${qs.idx + 1} / ${quizzes.length}</div>`;
-
   if (q.type === 'translation') {
     html += `<div class="quiz-question">
       <div class="quiz-type-label">Korean to English</div>
       <div class="quiz-prompt">${escHtml(q.korean)}</div>
       ${q.hint ? `<div class="quiz-hint">Hint: ${escHtml(q.hint)}</div>` : ''}
-      <textarea class="quiz-input" id="quizInput" rows="3" placeholder="Type your answer in English..."
+      <textarea class="quiz-input" id="quizInput" rows="3" placeholder="Type in English..."
         ${qs.answered ? 'disabled' : ''}></textarea>
       ${!qs.answered ? `<button class="quiz-btn quiz-btn-primary" onclick="checkTranslation()">Check</button>` : ''}
       <div class="quiz-answer" id="quizAnswer"></div>
@@ -480,7 +477,6 @@ function renderQuiz(d) {
       ${qs.answered ? `<button class="quiz-btn quiz-btn-next" onclick="nextQuiz()">Next</button>` : ''}
     </div>`;
   }
-
   document.getElementById('quizContent').innerHTML = html;
   if (!qs.answered && q.type === 'translation') {
     setTimeout(() => document.getElementById('quizInput')?.focus(), 100);
@@ -492,7 +488,6 @@ function checkTranslation() {
   const input = document.getElementById('quizInput').value.trim();
   const answer = q.answer || '';
   const keywords = q.acceptable_keywords || [];
-
   let correct = false;
   if (input.toLowerCase() === answer.toLowerCase()) {
     correct = true;
@@ -500,36 +495,27 @@ function checkTranslation() {
     const matched = keywords.filter(k => input.toLowerCase().includes(k.toLowerCase()));
     correct = matched.length >= Math.ceil(keywords.length * 0.6);
   }
-
   if (correct) state.quizState.score++;
   state.quizState.answered = true;
-
   const el = document.getElementById('quizAnswer');
   el.className = `quiz-answer show ${correct ? 'correct' : 'wrong'}`;
   el.innerHTML = correct
     ? `Correct! <br><strong>${escHtml(answer)}</strong>`
-    : `The answer is:<br><strong>${escHtml(answer)}</strong>`;
-
+    : `Answer:<br><strong>${escHtml(answer)}</strong>`;
   renderQuiz(state.dailyData);
 }
 
 function checkFillBlank(el, answer) {
   if (state.quizState.answered) return;
   state.quizState.answered = true;
-
   const val = el.dataset.val;
   const correct = val.toLowerCase() === answer.toLowerCase();
   if (correct) state.quizState.score++;
-
   document.querySelectorAll('.quiz-option').forEach(opt => {
     opt.style.pointerEvents = 'none';
-    if (opt.dataset.val.toLowerCase() === answer.toLowerCase()) {
-      opt.classList.add('correct');
-    } else if (opt === el && !correct) {
-      opt.classList.add('wrong');
-    }
+    if (opt.dataset.val.toLowerCase() === answer.toLowerCase()) opt.classList.add('correct');
+    else if (opt === el && !correct) opt.classList.add('wrong');
   });
-
   renderQuiz(state.dailyData);
 }
 
@@ -547,49 +533,40 @@ function resetQuiz() {
 // ===== REVIEW =====
 async function renderReview() {
   if (!state.sentencesDB) {
-    document.getElementById('reviewContent').innerHTML = '<div class="loading"><div class="loading-spinner"></div>Loading sentences...</div>';
+    document.getElementById('reviewContent').innerHTML = '<div class="loading"><div class="loading-spinner"></div>Loading...</div>';
     try {
       const resp = await fetch(`${BASE_URL}/sentences_db.json`);
       state.sentencesDB = await resp.json();
     } catch (e) {
-      document.getElementById('reviewContent').innerHTML = '<div class="empty-state"><p>No review data yet. Complete a few days first!</p></div>';
+      document.getElementById('reviewContent').innerHTML = '<div class="empty-state"><p>Complete a few days first!</p></div>';
       return;
     }
   }
-
   const db = state.sentencesDB;
   if (!db.sentences || !db.sentences.length) {
-    document.getElementById('reviewContent').innerHTML = '<div class="empty-state"><p>No sentences to review yet.</p></div>';
+    document.getElementById('reviewContent').innerHTML = '<div class="empty-state"><p>No sentences to review.</p></div>';
     return;
   }
-
-  // Filter last 14 days, prioritize unmastered
   const cutoff = new Date();
   cutoff.setDate(cutoff.getDate() - 14);
   const cutoffStr = cutoff.toISOString().slice(0, 10);
-
   let candidates = db.sentences.filter(s => s.date_added >= cutoffStr);
   if (candidates.length < 5) candidates = db.sentences.slice(-15);
-
-  // Shuffle and pick 10
   candidates = shuffle(candidates).slice(0, 10);
-
   if (!state.reviewState.sentences.length || state.reviewState.idx >= state.reviewState.sentences.length) {
     state.reviewState = { idx: 0, sentences: candidates, revealed: false };
   }
-
   const rs = state.reviewState;
   if (rs.idx >= rs.sentences.length) {
     document.getElementById('reviewContent').innerHTML = `
       <div class="quiz-score">
-        <div class="score-num">Review Complete</div>
+        <div class="score-num">Complete!</div>
         <div class="score-label">${rs.sentences.length} sentences reviewed</div>
         <button class="quiz-btn quiz-btn-primary" style="margin-top:20px"
-          onclick="state.reviewState={idx:0,sentences:[],revealed:false};renderReview();">Start New Review</button>
+          onclick="state.reviewState={idx:0,sentences:[],revealed:false};renderReview();">New Review</button>
       </div>`;
     return;
   }
-
   const s = rs.sentences[rs.idx];
   document.getElementById('reviewContent').innerHTML = `
     <div style="font-size:12px;color:#9ca3af;margin-bottom:8px;">${rs.idx + 1} / ${rs.sentences.length}</div>
@@ -614,7 +591,6 @@ function markReview(correct) {
   p.lastReview = state.currentDate;
   state.progress[s.id] = p;
   localStorage.setItem('eng_progress', JSON.stringify(state.progress));
-
   state.reviewState.idx++;
   state.reviewState.revealed = false;
   renderReview();
@@ -626,18 +602,13 @@ async function renderProgress() {
     try {
       const resp = await fetch(`${BASE_URL}/sentences_db.json`);
       state.sentencesDB = await resp.json();
-    } catch (e) {
-      state.sentencesDB = { sentences: [] };
-    }
+    } catch (e) { state.sentencesDB = { sentences: [] }; }
   }
-
   const total = state.sentencesDB.sentences?.length || 0;
   const mastered = Object.values(state.progress).filter(p => p.mastered).length;
   const reviewed = Object.values(state.progress).filter(p => p.attempts > 0).length;
   const bizCount = (state.sentencesDB.sentences || []).filter(s => s.category === 'business').length;
   const dailyCount = total - bizCount;
-
-  // Streak calendar (last 14 days)
   let streakHtml = '';
   const today = new Date();
   for (let i = 13; i >= 0; i--) {
@@ -650,40 +621,21 @@ async function renderProgress() {
     const cls = isToday ? 'today' : hasData ? 'done' : 'empty';
     streakHtml += `<div class="streak-day ${cls}">${dayLabel}</div>`;
   }
-
   const pct = total > 0 ? Math.round((mastered / total) * 100) : 0;
-
   document.getElementById('progressContent').innerHTML = `
     <div class="card">
       <div class="card-title">Learning Stats</div>
-      <div class="progress-stat">
-        <span class="stat-label">Total Sentences</span>
-        <span class="stat-value">${total}</span>
-      </div>
-      <div class="progress-stat">
-        <span class="stat-label">Mastered</span>
-        <span class="stat-value" style="color:#16a34a;">${mastered}</span>
-      </div>
-      <div class="progress-stat">
-        <span class="stat-label">Reviewed</span>
-        <span class="stat-value">${reviewed}</span>
-      </div>
+      <div class="progress-stat"><span class="stat-label">Total Sentences</span><span class="stat-value">${total}</span></div>
+      <div class="progress-stat"><span class="stat-label">Mastered</span><span class="stat-value" style="color:#16a34a;">${mastered}</span></div>
+      <div class="progress-stat"><span class="stat-label">Reviewed</span><span class="stat-value">${reviewed}</span></div>
       <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
       <div style="font-size:12px;color:#9ca3af;margin-top:4px;text-align:right;">${pct}% mastered</div>
     </div>
-
     <div class="card">
-      <div class="card-title">Category Breakdown</div>
-      <div class="progress-stat">
-        <span class="stat-label"><span class="badge badge-biz">Business</span></span>
-        <span class="stat-value">${bizCount}</span>
-      </div>
-      <div class="progress-stat">
-        <span class="stat-label"><span class="badge badge-daily">Daily</span></span>
-        <span class="stat-value">${dailyCount}</span>
-      </div>
+      <div class="card-title">Category</div>
+      <div class="progress-stat"><span class="stat-label"><span class="badge badge-biz">Business</span></span><span class="stat-value">${bizCount}</span></div>
+      <div class="progress-stat"><span class="stat-label"><span class="badge badge-daily">Daily</span></span><span class="stat-value">${dailyCount}</span></div>
     </div>
-
     <div class="card">
       <div class="card-title">14-Day Activity</div>
       <div class="streak-grid">${streakHtml}</div>
@@ -694,10 +646,12 @@ async function renderProgress() {
 function setFontSize(size) {
   state.fontSize = size;
   document.querySelectorAll('.font-toggle button').forEach(b => b.classList.remove('active'));
-  document.getElementById('fs' + size)?.classList.add('active');
+  ['fs14','fs16','fs18','fs14b','fs16b','fs18b'].forEach(id => {
+    const el = document.getElementById(id);
+    if (el && id.replace('b','').endsWith(size)) el.classList.add('active');
+  });
   document.querySelectorAll('.read-text').forEach(el => el.style.fontSize = size + 'px');
 }
-
 function speak(text) {
   if ('speechSynthesis' in window) {
     window.speechSynthesis.cancel();
@@ -706,7 +660,6 @@ function speak(text) {
     window.speechSynthesis.speak(u);
   }
 }
-
 function shuffle(arr) {
   const a = [...arr];
   for (let i = a.length - 1; i > 0; i--) {
@@ -715,7 +668,6 @@ function shuffle(arr) {
   }
   return a;
 }
-
 function escHtml(s) {
   if (!s) return '';
   return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/\n/g,'<br>');

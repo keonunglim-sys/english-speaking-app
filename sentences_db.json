@@ -5,26 +5,26 @@
     {
       "id": "2026-04-13_sent_01",
       "date_added": "2026-04-13",
-      "english": "Let's find a time that works for everyone and schedule the quarterly review meeting.",
-      "korean": "분기별 검토 회의를 위해 모두에게 맞는 시간을 찾아 일정을 잡아봅시다.",
+      "english": "I'd like to schedule a follow-up meeting to discuss the next steps.",
+      "korean": "다음 단계를 논의하기 위해 후속 회의를 잡고 싶습니다.",
       "category": "business",
-      "grammar_point": "관계대명사 that - 선행사를 수식하는 관계절"
+      "grammar_point": "would like to + 동사원형으로 정중한 의사 표현"
     },
     {
       "id": "2026-04-13_sent_02",
       "date_added": "2026-04-13",
-      "english": "We need to be more flexible with our approach to handle unexpected client requests.",
-      "korean": "예상치 못한 고객 요청을 처리하기 위해 우리의 접근 방식을 더욱 유연하게 해야 합니다.",
+      "english": "Could you walk me through the quarterly performance report?",
+      "korean": "분기별 성과 보고서를 차근차근 설명해주실 수 있나요?",
       "category": "business",
-      "grammar_point": "need to + 동사원형 - 필요성이나 의무를 나타내는 표현"
+      "grammar_point": "walk someone through: ~을 자세히 설명하다"
     },
     {
       "id": "2026-04-13_sent_03",
       "date_added": "2026-04-13",
-      "english": "I'm trying to organize a get-together with my college friends this weekend.",
-      "korean": "이번 주말에 대학 친구들과 모임을 주선하려고 해요.",
+      "english": "I'm trying to cut down on coffee because it keeps me up at night.",
+      "korean": "커피가 밤에 잠을 못 자게 해서 줄이려고 하고 있어요.",
       "category": "daily",
-      "grammar_point": "try to + 동사원형 - 노력이나 시도를 나타내는 표현"
+      "grammar_point": "cut down on: ~을 줄이다, keep someone up: ~을 깨어있게 하다"
     }
   ]
 }
