@@ -1,163 +1,172 @@
 {
   "date": "2026-04-13",
   "day_of_week": "월요일",
-  "has_source": false,
+  "has_source": true,
   "ipteunyeong": {
     "title": "Collecting Fridge Magnets",
-    "text": "I have a unique hobby that might seem childish to some people - collecting fridge magnets. It all started during my first business trip to Japan five years ago. I bought a small Tokyo Tower magnet as a souvenir, and it looked so lonely on my empty refrigerator that I decided to find it some company. Now, my fridge is covered with magnets from over thirty different places. Each magnet tells a story of where I've been or where my friends have traveled. When colleagues visit my apartment, they're always surprised by my colorful collection. Some magnets are from famous landmarks like the Eiffel Tower or Big Ben, while others are quirky local finds from small towns. My favorite is a handmade ceramic magnet from a pottery shop in Busan that my mother bought for me. Collecting fridge magnets has become more than just a hobby - it's a way to preserve memories and share travel experiences with visitors. Every time I open my refrigerator, I'm reminded of wonderful places and the people who thought of me during their journeys.",
-    "korean_summary": "5년 전 첫 출장에서 시작된 냉장고 자석 수집 취미에 관한 이야기입니다. 현재 30개 이상의 나라와 도시 자석을 수집하고 있으며, 각각이 여행의 추억과 이야기를 담고 있습니다. 단순한 취미를 넘어 추억을 보존하고 사람들과 여행 경험을 나누는 방법이 되었습니다."
+    "text": "My hobby of collecting fridge magnets started quite by accident during a family trip to Jeju Island five years ago. What began as a simple souvenir purchase has now grown into a passionate collection of over 200 magnets from around the world. Each magnet tells a unique story of the places I've visited or the friends who have traveled abroad and thought of me. My refrigerator has become a colorful mosaic of memories, featuring everything from iconic landmarks like the Eiffel Tower to quirky local designs from small towns. Friends and family members now automatically look for magnets when they travel, knowing how much joy these small tokens bring me. The best part about this hobby is its affordability and practicality. Unlike other collectibles that require special storage, my magnets serve a dual purpose - they hold up important notes, shopping lists, and photos while brightening up my kitchen. Every morning, as I reach for milk or leftovers, I'm reminded of wonderful adventures and the thoughtful people in my life.",
+    "korean_summary": "제주도 여행 중 우연히 시작된 냉장고 자석 수집이 5년 만에 200개가 넘는 세계 각국의 자석 컬렉션으로 성장했습니다. 각 자석은 여행의 추억이나 친구들의 마음이 담긴 특별한 이야기를 담고 있으며, 실용적이면서도 매일 행복한 기억을 떠올리게 해주는 소중한 취미가 되었습니다."
   },
   "gwitunyeong": {
     "title": "Global Stock Rally Faces Growing Risk of a Market Correction",
-    "text": "Global stock markets are showing signs of vulnerability after months of unprecedented gains, with analysts warning of an impending correction. The S&P 500 and other major indices have reached record highs, driven by artificial intelligence hype and hopes of economic resilience. However, several warning signals are emerging. Market valuations have stretched to concerning levels, with price-to-earnings ratios hitting multi-year peaks. Additionally, trading volumes have declined significantly, suggesting waning investor enthusiasm. Geopolitical tensions and persistent inflation concerns are adding to market uncertainty. Financial experts are particularly worried about the concentration of gains in a handful of technology stocks, creating an unstable foundation for continued growth. Meanwhile, rising bond yields are making fixed-income investments more attractive compared to stocks. Market strategists recommend investors exercise caution and consider taking some profits off the table. While no one can predict the exact timing of a correction, many believe the current rally is unsustainable in its present form.",
-    "korean_summary": "글로벌 증시가 수개월간의 급등 이후 조정 위험에 직면하고 있습니다. 높은 밸류에이션, 거래량 감소, 지정학적 긴장 등이 우려 요인으로 지적되고 있습니다. 전문가들은 투자자들에게 신중한 접근을 권고하고 있습니다."
+    "text": "Global stock markets are showing signs of vulnerability after months of sustained gains, with analysts warning of an increasing likelihood of a significant market correction. The recent rally, driven by artificial intelligence enthusiasm and expectations of economic recovery, has pushed major indices to near-record highs. However, concerns are mounting over stretched valuations, geopolitical tensions, and potential shifts in monetary policy. Market experts point to several red flags, including decreased trading volumes, overconfidence among retail investors, and widening gaps between stock prices and fundamental economic indicators. The technology sector, which has been the primary driver of recent gains, appears particularly susceptible to a pullback. Financial advisors are recommending that investors reassess their portfolios and consider taking profits while maintaining a long-term perspective. Despite the warning signs, some analysts remain optimistic, citing strong corporate earnings and resilient consumer spending as factors that could sustain the current market momentum.",
+    "korean_summary": "수개월간 지속된 글로벌 증시 상승 랠리 이후 시장 조정에 대한 우려가 커지고 있습니다. AI 열풍과 경제 회복 기대감으로 주요 지수들이 사상 최고치 근처까지 올랐지만, 높은 밸류에이션과 지정학적 긴장, 통화정책 변화 가능성 등이 위험 요인으로 지적되고 있습니다."
   },
   "key_expressions": [
     {
-      "english": "tell a story",
-      "korean": "이야기를 들려주다, 의미를 담다",
-      "example": "Each photo on my desk tells a story of my career journey.",
+      "english": "started by accident",
+      "korean": "우연히 시작되다",
+      "example": "My interest in photography started by accident when I found an old camera in my grandmother's attic.",
       "source": "입트영"
     },
     {
-      "english": "preserve memories",
-      "korean": "추억을 보존하다",
-      "example": "I keep a travel journal to preserve memories of my business trips.",
+      "english": "serve a dual purpose",
+      "korean": "두 가지 목적을 동시에 수행하다",
+      "example": "This new app serves a dual purpose - it tracks expenses and provides financial advice.",
       "source": "입트영"
     },
     {
-      "english": "more than just",
-      "korean": "단순히 ~이상의",
-      "example": "This project is more than just a job - it's my passion.",
+      "english": "brighten up",
+      "korean": "밝게 만들다, 활기를 불어넣다",
+      "example": "A few plants can really brighten up your office workspace.",
       "source": "입트영"
     },
     {
-      "english": "remind someone of",
-      "korean": "~에게 ~을 상기시키다",
-      "example": "This meeting room reminds me of my first presentation here.",
+      "english": "reach for",
+      "korean": "~을 집으려고 손을 뻗다",
+      "example": "I always reach for my phone first thing in the morning.",
       "source": "입트영"
     },
     {
-      "english": "unprecedented gains",
-      "korean": "전례없는 상승",
-      "example": "The company reported unprecedented gains in the fourth quarter.",
+      "english": "show signs of vulnerability",
+      "korean": "취약성의 징후를 보이다",
+      "example": "The company's stock is showing signs of vulnerability after the recent scandal.",
       "source": "귀트영"
     },
     {
-      "english": "warning signals",
-      "korean": "경고 신호",
-      "example": "The CEO ignored the warning signals about declining sales.",
+      "english": "stretched valuations",
+      "korean": "과도하게 부풀려진 가치평가",
+      "example": "Many tech stocks are trading at stretched valuations compared to their earnings.",
       "source": "귀트영"
     },
     {
-      "english": "exercise caution",
-      "korean": "신중함을 기하다",
-      "example": "Investors should exercise caution when entering emerging markets.",
+      "english": "red flags",
+      "korean": "경고 신호, 위험 신호",
+      "example": "The auditor identified several red flags in the company's financial statements.",
       "source": "귀트영"
     },
     {
-      "english": "take profits off the table",
-      "korean": "수익을 실현하다",
-      "example": "Many fund managers decided to take profits off the table before the earnings report.",
+      "english": "maintain a long-term perspective",
+      "korean": "장기적 관점을 유지하다",
+      "example": "Successful investors always maintain a long-term perspective despite short-term market volatility.",
       "source": "귀트영"
     }
   ],
   "today_sentences": [
     {
-      "english": "We need to exercise caution when expanding into new markets this quarter.",
-      "korean": "이번 분기에 신규 시장으로 확장할 때 신중함을 기해야 합니다.",
+      "english": "We need to reassess our marketing strategy before the next quarter.",
+      "korean": "다음 분기 전에 우리의 마케팅 전략을 재평가해야 합니다.",
       "category": "business",
-      "grammar_point": "need to + 동사원형으로 필요성 표현, when + 현재분사 시간표현"
+      "grammar_point": "need to + 동사원형으로 필요성을 표현"
     },
     {
-      "english": "Each project milestone tells a story of our team's dedication and hard work.",
-      "korean": "각각의 프로젝트 이정표는 우리 팀의 헌신과 노력의 이야기를 보여줍니다.",
+      "english": "The recent data shows concerning trends that require immediate attention.",
+      "korean": "최근 데이터는 즉각적인 관심이 필요한 우려스러운 추세를 보여줍니다.",
       "category": "business",
-      "grammar_point": "Each + 단수명사, tell a story of + 명사구 표현"
+      "grammar_point": "관계대명사 that으로 명사를 수식"
     },
     {
-      "english": "This photo collection is more than just decoration - it preserves all my travel memories.",
-      "korean": "이 사진 컬렉션은 단순한 장식이 아니라 내 모든 여행 추억을 보존하는 것입니다.",
+      "english": "Every time I look at my fridge magnets, I'm reminded of wonderful memories.",
+      "korean": "냉장고 자석을 볼 때마다 멋진 추억들이 떠오릅니다.",
       "category": "daily",
-      "grammar_point": "more than just + 명사, 대시(-)를 이용한 부연설명"
+      "grammar_point": "every time + 주어 + 동사 구조로 '~할 때마다' 표현"
     }
   ],
   "quiz": [
     {
       "type": "translation",
-      "korean": "각각의 기념품은 특별한 여행의 추억을 담고 있습니다.",
-      "answer": "Each souvenir tells a story of a special travel memory.",
+      "korean": "이 취미는 우연히 시작되었지만 지금은 제 삶의 중요한 부분이 되었습니다.",
+      "answer": "This hobby started by accident, but now it has become an important part of my life.",
       "acceptable_keywords": [
-        "each",
-        "souvenir",
-        "tells",
-        "story",
-        "travel",
-        "memory"
+        "hobby",
+        "started",
+        "accident",
+        "important",
+        "part",
+        "life"
       ],
-      "hint": "'tell a story of'라는 표현을 사용해보세요"
+      "hint": "'우연히'는 'by accident'로 표현하세요."
     },
     {
       "type": "translation",
-      "korean": "투자자들은 시장이 불안정할 때 신중함을 기해야 합니다.",
-      "answer": "Investors should exercise caution when the market is unstable.",
+      "korean": "분석가들은 시장 조정의 가능성이 높아지고 있다고 경고하고 있습니다.",
+      "answer": "Analysts are warning of an increasing likelihood of a market correction.",
       "acceptable_keywords": [
-        "investors",
-        "exercise",
-        "caution",
+        "analysts",
+        "warning",
+        "likelihood",
         "market",
-        "unstable"
+        "correction"
       ],
-      "hint": "'exercise caution'이라는 표현을 기억하세요"
+      "hint": "'가능성'은 'likelihood'로 표현할 수 있습니다."
     },
     {
       "type": "translation",
-      "korean": "이 프로젝트는 단순한 업무 이상의 의미가 있습니다.",
-      "answer": "This project is more than just work.",
+      "korean": "장기적 관점을 유지하면서 수익을 실현하는 것을 고려해보세요.",
+      "answer": "Consider taking profits while maintaining a long-term perspective.",
       "acceptable_keywords": [
-        "project",
-        "more",
-        "than",
-        "just",
-        "work"
-      ],
-      "hint": "'more than just + 명사' 구조를 사용하세요"
-    },
-    {
-      "type": "fill_in_blank",
-      "sentence": "The company reported _______ gains in revenue this quarter.",
-      "answer": "unprecedented",
-      "options": [
-        "unprecedented",
-        "traditional",
-        "expected",
-        "minimal"
-      ],
-      "korean": "회사는 이번 분기에 전례없는 수익 증가를 보고했습니다."
-    },
-    {
-      "type": "fill_in_blank",
-      "sentence": "Many investors decided to take _______ off the table before the market correction.",
-      "answer": "profits",
-      "options": [
+        "consider",
+        "taking",
         "profits",
-        "losses",
-        "risks",
-        "chances"
+        "maintaining",
+        "long-term",
+        "perspective"
       ],
-      "korean": "많은 투자자들이 시장 조정 전에 수익을 실현하기로 결정했습니다."
+      "hint": "'~을 고려하다'는 'consider -ing' 형태로 표현합니다."
     },
     {
       "type": "fill_in_blank",
-      "sentence": "This old music box _______ me of my childhood in Korea.",
-      "answer": "reminds",
+      "sentence": "Each magnet tells a unique story of the places I've visited or the friends who have ___ abroad.",
+      "answer": "traveled",
       "options": [
-        "reminds",
-        "forgets",
-        "ignores",
-        "avoids"
+        "traveled",
+        "lived",
+        "studied",
+        "worked"
       ],
-      "korean": "이 오래된 오르골은 한국에서의 어린 시절을 떠올리게 합니다."
+      "korean": "각 자석은 제가 방문한 장소나 해외를 여행한 친구들의 독특한 이야기를 담고 있습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Market experts point to several ___ flags, including decreased trading volumes.",
+      "answer": "red",
+      "options": [
+        "red",
+        "green",
+        "blue",
+        "yellow"
+      ],
+      "korean": "시장 전문가들은 거래량 감소를 포함한 여러 경고 신호를 지적하고 있습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "My refrigerator has become a colorful ___ of memories from around the world.",
+      "answer": "mosaic",
+      "options": [
+        "mosaic",
+        "picture",
+        "collection",
+        "display"
+      ],
+      "korean": "제 냉장고는 전 세계의 추억들로 이루어진 다채로운 모자이크가 되었습니다."
     }
-  ]
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66248&part_seq=26565",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66273&part_seq=26566"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-04-13.mp3",
+    "귀트영": "audio/귀트영_2026-04-13.mp3"
+  }
 }

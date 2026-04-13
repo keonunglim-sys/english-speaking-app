@@ -198,6 +198,15 @@ body {
   display: inline-flex; align-items: center; gap: 4px;
 }
 .tts-btn:active { background: #f3f4f6; }
+.audio-player {
+  margin-top: 12px; padding: 12px 16px; background: #f8fafc;
+  border-radius: 10px; border: 1px solid #e2e8f0;
+}
+.audio-player .audio-label {
+  font-size: 12px; font-weight: 600; color: #475569; margin-bottom: 8px;
+  display: flex; align-items: center; gap: 6px;
+}
+.audio-player audio { width: 100%; height: 36px; }
 .source-badge {
   display: inline-block; font-size: 10px; padding: 2px 6px;
   border-radius: 4px; background: #dcfce7; color: #16a34a;
@@ -351,12 +360,22 @@ function renderIpt(d) {
     document.getElementById('iptContent').innerHTML = '<div class="empty-state"><p>No content.</p></div>';
     return;
   }
+  const audioUrl = d.audio && d.audio['입트영'] ? d.audio['입트영'] : '';
   document.getElementById('iptContent').innerHTML = `
     <div class="card">
       <div class="card-title">
         <span class="badge badge-ipt">입트영</span> ${escHtml(ipt.title || '')}
       </div>
-      <button class="tts-btn" onclick="speak(document.getElementById('ipt-text').textContent)">Listen</button>
+      <div style="display:flex;gap:8px;flex-wrap:wrap;">
+        <button class="tts-btn" onclick="speak(document.getElementById('ipt-text').textContent)">TTS</button>
+      </div>
+      ${audioUrl ? `<div class="audio-player">
+        <div class="audio-label">EBS 본문 듣기</div>
+        ${d.audio_local && d.audio_local['입트영']
+          ? `<audio controls preload="none" src="${escAttr(d.audio_local['입트영'])}"></audio>`
+          : `<a href="${escAttr(audioUrl)}" class="tts-btn" style="text-decoration:none;display:inline-flex;margin-top:4px;">MP3 다운로드</a>`
+        }
+      </div>` : ''}
       <div class="read-text" id="ipt-text" style="font-size:${state.fontSize}px; margin-top:10px;">${escHtml(ipt.text)}</div>
       ${ipt.korean_summary ? `<div class="korean-text">${escHtml(ipt.korean_summary)}</div>` : ''}
     </div>`;
@@ -369,6 +388,7 @@ function renderGwi(d) {
     document.getElementById('gwiContent').innerHTML = '<div class="empty-state"><p>No content.</p></div>';
     return;
   }
+  const audioUrl = d.audio && d.audio['귀트영'] ? d.audio['귀트영'] : '';
   document.getElementById('gwiContent').innerHTML = `
     <div class="font-toggle">
       <button onclick="setFontSize(14)" id="fs14b">S</button>
@@ -379,7 +399,16 @@ function renderGwi(d) {
       <div class="card-title">
         <span class="badge badge-gwi">귀트영</span> ${escHtml(gwi.title || '')}
       </div>
-      <button class="tts-btn" onclick="speak(document.getElementById('gwi-text').textContent)">Listen</button>
+      <div style="display:flex;gap:8px;flex-wrap:wrap;">
+        <button class="tts-btn" onclick="speak(document.getElementById('gwi-text').textContent)">TTS</button>
+      </div>
+      ${audioUrl ? `<div class="audio-player">
+        <div class="audio-label">EBS 본문 듣기</div>
+        ${d.audio_local && d.audio_local['귀트영']
+          ? `<audio controls preload="none" src="${escAttr(d.audio_local['귀트영'])}"></audio>`
+          : `<a href="${escAttr(audioUrl)}" class="tts-btn" style="text-decoration:none;display:inline-flex;margin-top:4px;">MP3 다운로드</a>`
+        }
+      </div>` : ''}
       <div class="read-text" id="gwi-text" style="font-size:${state.fontSize}px; margin-top:10px;">${escHtml(gwi.text)}</div>
       ${gwi.korean_summary ? `<div class="korean-text">${escHtml(gwi.korean_summary)}</div>` : ''}
     </div>`;

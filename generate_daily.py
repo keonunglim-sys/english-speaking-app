@@ -15,6 +15,7 @@ from datetime import datetime, timedelta, timezone
 import requests
 from bs4 import BeautifulSoup
 
+from bookdonga import get_daily_audio
 from config import ANTHROPIC_API_KEY, CLAUDE_MODEL, MAX_TOKENS, SOURCE_DIR
 from epub_parser import get_content_from_epub
 
@@ -372,8 +373,19 @@ def main():
     if not 귀트영_source:
         귀트영_source = load_source_file("귀트영", date_str)
 
-    # 3. EBS 에피소드 제목 조회 (소스가 없으면)
-    print("\n[3/5] EBS 에피소드 조회")
+    # 3. 오디오 자료 조회 (bookdonga.com)
+    print("\n[3/6] 오디오 자료 조회 (bookdonga.com)")
+    audio_urls = {}
+    for program in ["입트영", "귀트영"]:
+        audio = get_daily_audio(program, date_str)
+        if audio:
+            audio_urls[program] = audio["url"]
+            print(f"  {program}: 오디오 URL 확보")
+        else:
+            print(f"  {program}: 오디오 없음")
+
+    # 4. EBS 에피소드 제목 조회 (소스가 없으면)
+    print("\n[4/6] EBS 에피소드 조회")
     입트영_title = None
     귀트영_title = None
     if not 입트영_source:
@@ -389,8 +401,8 @@ def main():
     else:
         print("  → 소스 없음, Claude가 자체 주제로 생성")
 
-    # 4. Claude API로 콘텐츠 생성
-    print("\n[4/5] 콘텐츠 생성")
+    # 5. Claude API로 콘텐츠 생성
+    print("\n[5/6] 콘텐츠 생성")
     content = generate_content_with_claude(
         입트영_source, 귀트영_source, date_str,
         입트영_title, 귀트영_title
@@ -402,7 +414,25 @@ def main():
 
     print("  콘텐츠 생성 완료!")
 
-    # 3. 데이터 조합
+    # 오디오 파일 다운로드 (GitHub Pages에서 재생 가능하도록)
+    audio_dir = os.path.join(SCRIPT_DIR, "audio")
+    os.makedirs(audio_dir, exist_ok=True)
+    audio_local = {}
+    for program, url in audio_urls.items():
+        fname = f"{program}_{date_str}.mp3"
+        fpath = os.path.join(audio_dir, fname)
+        try:
+            print(f"  오디오 다운로드: {fname}")
+            resp = requests.get(url, timeout=60)
+            resp.raise_for_status()
+            with open(fpath, "wb") as f:
+                f.write(resp.content)
+            audio_local[program] = f"audio/{fname}"
+            print(f"  저장: {len(resp.content) / 1024:.0f}KB")
+        except Exception as e:
+            print(f"  다운로드 실패: {e}")
+
+    # 데이터 조합
     daily_data = {
         "date": date_str,
         "day_of_week": day_of_week,
@@ -412,16 +442,21 @@ def main():
         "key_expressions": content.get("key_expressions", []),
         "today_sentences": content.get("today_sentences", []),
         "quiz": content.get("quiz", []),
+        "audio": {
+            "입트영": audio_urls.get("입트영", ""),
+            "귀트영": audio_urls.get("귀트영", ""),
+        },
+        "audio_local": audio_local,
     }
 
-    # 4. JSON 저장
+    # 6. JSON 저장
     daily_dir = os.path.join(SCRIPT_DIR, "daily")
     os.makedirs(daily_dir, exist_ok=True)
 
     daily_path = os.path.join(daily_dir, f"{date_str}.json")
     with open(daily_path, "w", encoding="utf-8") as f:
         json.dump(daily_data, f, ensure_ascii=False, indent=2)
-    print(f"\n[5/5] 저장 완료: {daily_path}")
+    print(f"\n[6/6] 저장 완료: {daily_path}")
 
     # 5. 누적 DB 업데이트
     sentences = content.get("today_sentences", [])
