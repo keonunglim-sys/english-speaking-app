@@ -16,11 +16,13 @@ import requests
 from bs4 import BeautifulSoup
 
 from config import ANTHROPIC_API_KEY, CLAUDE_MODEL, MAX_TOKENS, SOURCE_DIR
+from epub_parser import get_content_from_epub
 
 KST = timezone(timedelta(hours=9))
 API_URL = "https://api.anthropic.com/v1/messages"
 EBS_AJAX_URL = "https://5dang.ebs.co.kr/auschool/replayAjax"
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+EBOOKS_DIR = os.path.join(SCRIPT_DIR, "ebooks")
 
 # EBS 프로그램 설정
 EBS_PROGRAMS = {
@@ -347,26 +349,48 @@ def main():
     print(f"  {date_str} ({day_of_week})")
     print("=" * 60)
 
-    # 1. EBS 에피소드 제목 조회 (로그인 불필요)
-    print("\n[1/4] EBS 에피소드 조회")
-    입트영_title = fetch_ebs_episode_title("입트영", date_str)
-    귀트영_title = fetch_ebs_episode_title("귀트영", date_str)
+    # 1. EPUB 교재 확인
+    os.makedirs(EBOOKS_DIR, exist_ok=True)
+    print("\n[1/5] EPUB 교재 확인")
+    입트영_source = None
+    귀트영_source = None
 
-    # 2. 소스 파일 확인 (사용자가 직접 넣은 스크립트)
-    print("\n[2/4] 소스 자료 확인")
-    입트영_source = load_source_file("입트영", date_str)
-    귀트영_source = load_source_file("귀트영", date_str)
+    for program in ["입트영", "귀트영"]:
+        epub_content = get_content_from_epub(EBOOKS_DIR, program, date_str)
+        if epub_content and epub_content.get("full_text"):
+            source_text = f"제목: {epub_content.get('title', '')}\n\n{epub_content['full_text']}"
+            if program == "입트영":
+                입트영_source = source_text
+            else:
+                귀트영_source = source_text
+            print(f"  {program}: EPUB에서 추출 완료")
+
+    # 2. source/ 폴더 확인 (EPUB이 없으면)
+    print("\n[2/5] 소스 파일 확인")
+    if not 입트영_source:
+        입트영_source = load_source_file("입트영", date_str)
+    if not 귀트영_source:
+        귀트영_source = load_source_file("귀트영", date_str)
+
+    # 3. EBS 에피소드 제목 조회 (소스가 없으면)
+    print("\n[3/5] EBS 에피소드 조회")
+    입트영_title = None
+    귀트영_title = None
+    if not 입트영_source:
+        입트영_title = fetch_ebs_episode_title("입트영", date_str)
+    if not 귀트영_source:
+        귀트영_title = fetch_ebs_episode_title("귀트영", date_str)
 
     has_source = bool(입트영_source or 귀트영_source)
     if has_source:
-        print("  → 소스 자료 기반으로 콘텐츠 생성")
+        print("  → 교재/소스 기반으로 콘텐츠 생성")
     elif 입트영_title or 귀트영_title:
         print("  → EBS 제목 기반으로 콘텐츠 생성")
     else:
         print("  → 소스 없음, Claude가 자체 주제로 생성")
 
-    # 3. Claude API로 콘텐츠 생성
-    print("\n[3/4] 콘텐츠 생성")
+    # 4. Claude API로 콘텐츠 생성
+    print("\n[4/5] 콘텐츠 생성")
     content = generate_content_with_claude(
         입트영_source, 귀트영_source, date_str,
         입트영_title, 귀트영_title
@@ -397,7 +421,7 @@ def main():
     daily_path = os.path.join(daily_dir, f"{date_str}.json")
     with open(daily_path, "w", encoding="utf-8") as f:
         json.dump(daily_data, f, ensure_ascii=False, indent=2)
-    print(f"\n[4/4] 저장 완료: {daily_path}")
+    print(f"\n[5/5] 저장 완료: {daily_path}")
 
     # 5. 누적 DB 업데이트
     sentences = content.get("today_sentences", [])
