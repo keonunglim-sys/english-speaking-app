@@ -3,156 +3,161 @@
   "day_of_week": "월요일",
   "has_source": false,
   "ipteunyeong": {
-    "title": "The Art of Giving Presentations at Work",
-    "text": "Giving presentations is an essential skill for Korean office workers, yet many of us feel nervous when standing in front of colleagues or clients. I used to break into a cold sweat whenever I had to present quarterly reports or project updates. However, I've learned that effective presentations are less about perfection and more about clear communication. The key is thorough preparation. I always rehearse my presentation at least three times, paying attention to timing and smooth transitions between slides. Visual aids should complement, not overwhelm, your message. Simple charts and bullet points work better than cluttered slides with too much text. During the actual presentation, making eye contact with the audience and speaking at a steady pace helps build confidence. I've also discovered that acknowledging nervousness can actually make you more relatable to your audience. These days, I approach presentations as opportunities to share knowledge rather than performances to be judged. This mindset shift has made me a more confident and effective presenter.",
-    "korean_summary": "직장에서의 프레젠테이션은 필수 기술이지만 많은 한국인들이 긴장을 느낍니다. 철저한 준비와 연습, 간결한 시각 자료, 그리고 청중과의 아이컨택이 핵심입니다. 완벽함보다는 명확한 소통에 집중하고, 프레젠테이션을 평가받는 무대가 아닌 지식을 나누는 기회로 생각하면 더 자신감 있게 발표할 수 있습니다."
+    "title": "Collecting Fridge Magnets",
+    "text": "I have a unique hobby that might seem childish to some people - collecting fridge magnets. It all started during my first business trip to Japan five years ago. I bought a small Tokyo Tower magnet as a souvenir, and it looked so lonely on my empty refrigerator that I decided to find it some company. Now, my fridge is covered with magnets from over thirty different places. Each magnet tells a story of where I've been or where my friends have traveled. When colleagues visit my apartment, they're always surprised by my colorful collection. Some magnets are from famous landmarks like the Eiffel Tower or Big Ben, while others are quirky local finds from small towns. My favorite is a handmade ceramic magnet from a pottery shop in Busan that my mother bought for me. Collecting fridge magnets has become more than just a hobby - it's a way to preserve memories and share travel experiences with visitors. Every time I open my refrigerator, I'm reminded of wonderful places and the people who thought of me during their journeys.",
+    "korean_summary": "5년 전 첫 출장에서 시작된 냉장고 자석 수집 취미에 관한 이야기입니다. 현재 30개 이상의 나라와 도시 자석을 수집하고 있으며, 각각이 여행의 추억과 이야기를 담고 있습니다. 단순한 취미를 넘어 추억을 보존하고 사람들과 여행 경험을 나누는 방법이 되었습니다."
   },
   "gwitunyeong": {
-    "title": "South Korea Leads Global Innovation in Digital Healthcare",
-    "text": "South Korea has emerged as a frontrunner in digital healthcare innovation, with the government announcing a $2.3 billion investment plan for the sector through 2027. The initiative focuses on telemedicine expansion, AI-powered diagnostic tools, and digital therapeutics. Major Korean tech giants like Samsung and LG are partnering with healthcare providers to develop wearable devices that can monitor chronic conditions in real-time. The COVID-19 pandemic accelerated the adoption of digital health solutions, with telehealth consultations increasing by 300% since 2020. Korean hospitals are now implementing AI systems that can detect early signs of cancer with 95% accuracy. The government's Digital New Deal includes plans to establish 10 smart hospitals nationwide, featuring robot-assisted surgeries and automated patient care systems. Industry experts predict that Korea's digital healthcare market will reach $8.5 billion by 2026, positioning the country as a global leader in medical technology innovation.",
-    "korean_summary": "한국이 디지털 헬스케어 분야에서 글로벌 선두주자로 떠오르고 있으며, 정부는 2027년까지 23억 달러를 투자한다고 발표했습니다. 삼성과 LG 같은 대기업들이 의료진과 협력해 웨어러블 기기를 개발하고 있으며, AI 진단 시스템과 스마트 병원 구축이 진행되고 있습니다."
+    "title": "Global Stock Rally Faces Growing Risk of a Market Correction",
+    "text": "Global stock markets are showing signs of vulnerability after months of unprecedented gains, with analysts warning of an impending correction. The S&P 500 and other major indices have reached record highs, driven by artificial intelligence hype and hopes of economic resilience. However, several warning signals are emerging. Market valuations have stretched to concerning levels, with price-to-earnings ratios hitting multi-year peaks. Additionally, trading volumes have declined significantly, suggesting waning investor enthusiasm. Geopolitical tensions and persistent inflation concerns are adding to market uncertainty. Financial experts are particularly worried about the concentration of gains in a handful of technology stocks, creating an unstable foundation for continued growth. Meanwhile, rising bond yields are making fixed-income investments more attractive compared to stocks. Market strategists recommend investors exercise caution and consider taking some profits off the table. While no one can predict the exact timing of a correction, many believe the current rally is unsustainable in its present form.",
+    "korean_summary": "글로벌 증시가 수개월간의 급등 이후 조정 위험에 직면하고 있습니다. 높은 밸류에이션, 거래량 감소, 지정학적 긴장 등이 우려 요인으로 지적되고 있습니다. 전문가들은 투자자들에게 신중한 접근을 권고하고 있습니다."
   },
   "key_expressions": [
     {
-      "english": "break into a cold sweat",
-      "korean": "식은땀을 흘리다",
-      "example": "I always break into a cold sweat before important meetings.",
+      "english": "tell a story",
+      "korean": "이야기를 들려주다, 의미를 담다",
+      "example": "Each photo on my desk tells a story of my career journey.",
       "source": "입트영"
     },
     {
-      "english": "pay attention to",
-      "korean": "~에 주의를 기울이다",
-      "example": "We need to pay attention to the timing of our product launch.",
+      "english": "preserve memories",
+      "korean": "추억을 보존하다",
+      "example": "I keep a travel journal to preserve memories of my business trips.",
       "source": "입트영"
     },
     {
-      "english": "complement rather than overwhelm",
-      "korean": "압도하기보다는 보완하다",
-      "example": "Good graphics should complement rather than overwhelm your presentation.",
+      "english": "more than just",
+      "korean": "단순히 ~이상의",
+      "example": "This project is more than just a job - it's my passion.",
       "source": "입트영"
     },
     {
-      "english": "mindset shift",
-      "korean": "사고방식의 전환",
-      "example": "The mindset shift from perfectionism to progress helped me grow professionally.",
+      "english": "remind someone of",
+      "korean": "~에게 ~을 상기시키다",
+      "example": "This meeting room reminds me of my first presentation here.",
       "source": "입트영"
     },
     {
-      "english": "emerge as a frontrunner",
-      "korean": "선두주자로 떠오르다",
-      "example": "Our company has emerged as a frontrunner in sustainable technology.",
+      "english": "unprecedented gains",
+      "korean": "전례없는 상승",
+      "example": "The company reported unprecedented gains in the fourth quarter.",
       "source": "귀트영"
     },
     {
-      "english": "accelerate the adoption of",
-      "korean": "~의 도입을 가속화하다",
-      "example": "The crisis accelerated the adoption of remote working technologies.",
+      "english": "warning signals",
+      "korean": "경고 신호",
+      "example": "The CEO ignored the warning signals about declining sales.",
       "source": "귀트영"
     },
     {
-      "english": "in real-time",
-      "korean": "실시간으로",
-      "example": "Our system can track inventory changes in real-time.",
+      "english": "exercise caution",
+      "korean": "신중함을 기하다",
+      "example": "Investors should exercise caution when entering emerging markets.",
       "source": "귀트영"
     },
     {
-      "english": "position as a global leader",
-      "korean": "글로벌 리더로 자리매김하다",
-      "example": "This partnership will position us as a global leader in renewable energy.",
+      "english": "take profits off the table",
+      "korean": "수익을 실현하다",
+      "example": "Many fund managers decided to take profits off the table before the earnings report.",
       "source": "귀트영"
     }
   ],
   "today_sentences": [
     {
-      "english": "I'd like to schedule a follow-up meeting to discuss the next steps.",
-      "korean": "다음 단계를 논의하기 위해 후속 회의를 잡고 싶습니다.",
+      "english": "We need to exercise caution when expanding into new markets this quarter.",
+      "korean": "이번 분기에 신규 시장으로 확장할 때 신중함을 기해야 합니다.",
       "category": "business",
-      "grammar_point": "would like to + 동사원형으로 정중한 의사 표현"
+      "grammar_point": "need to + 동사원형으로 필요성 표현, when + 현재분사 시간표현"
     },
     {
-      "english": "Could you walk me through the quarterly performance report?",
-      "korean": "분기별 성과 보고서를 차근차근 설명해주실 수 있나요?",
+      "english": "Each project milestone tells a story of our team's dedication and hard work.",
+      "korean": "각각의 프로젝트 이정표는 우리 팀의 헌신과 노력의 이야기를 보여줍니다.",
       "category": "business",
-      "grammar_point": "walk someone through: ~을 자세히 설명하다"
+      "grammar_point": "Each + 단수명사, tell a story of + 명사구 표현"
     },
     {
-      "english": "I'm trying to cut down on coffee because it keeps me up at night.",
-      "korean": "커피가 밤에 잠을 못 자게 해서 줄이려고 하고 있어요.",
+      "english": "This photo collection is more than just decoration - it preserves all my travel memories.",
+      "korean": "이 사진 컬렉션은 단순한 장식이 아니라 내 모든 여행 추억을 보존하는 것입니다.",
       "category": "daily",
-      "grammar_point": "cut down on: ~을 줄이다, keep someone up: ~을 깨어있게 하다"
+      "grammar_point": "more than just + 명사, 대시(-)를 이용한 부연설명"
     }
   ],
   "quiz": [
     {
       "type": "translation",
-      "korean": "이 프로젝트의 다음 단계를 논의해야 합니다.",
-      "answer": "We need to discuss the next steps for this project.",
+      "korean": "각각의 기념품은 특별한 여행의 추억을 담고 있습니다.",
+      "answer": "Each souvenir tells a story of a special travel memory.",
       "acceptable_keywords": [
-        "discuss",
-        "next steps",
-        "project"
+        "each",
+        "souvenir",
+        "tells",
+        "story",
+        "travel",
+        "memory"
       ],
-      "hint": "'논의하다'와 '다음 단계'를 영어로 표현해보세요."
+      "hint": "'tell a story of'라는 표현을 사용해보세요"
     },
     {
       "type": "translation",
-      "korean": "AI 기술이 의료 분야의 혁신을 가속화하고 있습니다.",
-      "answer": "AI technology is accelerating innovation in the healthcare sector.",
+      "korean": "투자자들은 시장이 불안정할 때 신중함을 기해야 합니다.",
+      "answer": "Investors should exercise caution when the market is unstable.",
       "acceptable_keywords": [
-        "AI",
-        "accelerating",
-        "innovation",
-        "healthcare"
+        "investors",
+        "exercise",
+        "caution",
+        "market",
+        "unstable"
       ],
-      "hint": "'가속화하다'는 'accelerate'를 사용하세요."
+      "hint": "'exercise caution'이라는 표현을 기억하세요"
     },
     {
       "type": "translation",
-      "korean": "우리 시스템은 실시간으로 데이터를 모니터링할 수 있습니다.",
-      "answer": "Our system can monitor data in real-time.",
+      "korean": "이 프로젝트는 단순한 업무 이상의 의미가 있습니다.",
+      "answer": "This project is more than just work.",
       "acceptable_keywords": [
-        "system",
-        "monitor",
-        "real-time",
-        "data"
+        "project",
+        "more",
+        "than",
+        "just",
+        "work"
       ],
-      "hint": "'실시간으로'는 'in real-time'입니다."
+      "hint": "'more than just + 명사' 구조를 사용하세요"
     },
     {
       "type": "fill_in_blank",
-      "sentence": "I always ___ into a cold sweat before important presentations.",
-      "answer": "break",
+      "sentence": "The company reported _______ gains in revenue this quarter.",
+      "answer": "unprecedented",
       "options": [
-        "break",
-        "fall",
-        "get",
-        "go"
+        "unprecedented",
+        "traditional",
+        "expected",
+        "minimal"
       ],
-      "korean": "중요한 프레젠테이션 전에 항상 식은땀을 흘린다."
+      "korean": "회사는 이번 분기에 전례없는 수익 증가를 보고했습니다."
     },
     {
       "type": "fill_in_blank",
-      "sentence": "Our company has ___ as a frontrunner in digital innovation.",
-      "answer": "emerged",
+      "sentence": "Many investors decided to take _______ off the table before the market correction.",
+      "answer": "profits",
       "options": [
-        "emerged",
-        "appeared",
-        "developed",
-        "grown"
+        "profits",
+        "losses",
+        "risks",
+        "chances"
       ],
-      "korean": "우리 회사는 디지털 혁신 분야의 선두주자로 떠올랐다."
+      "korean": "많은 투자자들이 시장 조정 전에 수익을 실현하기로 결정했습니다."
     },
     {
       "type": "fill_in_blank",
-      "sentence": "Could you ___ me through the new software features?",
-      "answer": "walk",
+      "sentence": "This old music box _______ me of my childhood in Korea.",
+      "answer": "reminds",
       "options": [
-        "walk",
-        "talk",
-        "show",
-        "guide"
+        "reminds",
+        "forgets",
+        "ignores",
+        "avoids"
       ],
-      "korean": "새로운 소프트웨어 기능들을 차근차근 설명해주실 수 있나요?"
+      "korean": "이 오래된 오르골은 한국에서의 어린 시절을 떠올리게 합니다."
     }
   ]
 }

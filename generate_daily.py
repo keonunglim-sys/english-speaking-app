@@ -13,19 +13,84 @@ import sys
 from datetime import datetime, timedelta, timezone
 
 import requests
+from bs4 import BeautifulSoup
 
 from config import ANTHROPIC_API_KEY, CLAUDE_MODEL, MAX_TOKENS, SOURCE_DIR
 
 KST = timezone(timedelta(hours=9))
 API_URL = "https://api.anthropic.com/v1/messages"
+EBS_AJAX_URL = "https://5dang.ebs.co.kr/auschool/replayAjax"
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# EBS 프로그램 설정
+EBS_PROGRAMS = {
+    "입트영": {
+        "prodId": "200",
+        "courseId": "BK0KAKC0000000014",
+        "stepId": "01BK0KAKC0000000014",
+    },
+    "귀트영": {
+        "prodId": "207",
+        "courseId": "BK0KAKG0000000001",
+        "stepId": "01BK0KAKG0000000001",
+    },
+}
+
+
+def fetch_ebs_episode_title(program, date_str):
+    """EBS AJAX API에서 당일 에피소드 제목을 가져옵니다 (로그인 불필요)."""
+    config = EBS_PROGRAMS.get(program)
+    if not config:
+        return None
+
+    date_compact = date_str.replace("-", "")
+
+    data = {
+        "prodId": config["prodId"],
+        "courseId": config["courseId"],
+        "stepId": config["stepId"],
+        "lectId": "",
+        "pageNum": "1",
+        "orderby": "NEW",
+        "pdfOnly": "",
+        "situ": "",
+        "startDate": date_compact,
+        "endDate": date_compact,
+        "date": "",
+        "pageSize": "10",
+        "subMenuId": "",
+        "prodChrgClsNm": "유료",
+    }
+
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "Referer": "https://5dang.ebs.co.kr/auschool/sub/replay",
+    }
+
+    try:
+        resp = requests.post(EBS_AJAX_URL, data=data, headers=headers, timeout=15)
+        resp.encoding = "utf-8"
+        soup = BeautifulSoup(resp.text, "html.parser")
+
+        # 에피소드 제목 추출 (테이블 행에서)
+        links = soup.find_all("a", href=re.compile(r"prodId="))
+        for link in links:
+            title = link.get_text(strip=True)
+            if title and len(title) > 3:
+                print(f"  EBS {program} 제목: {title}")
+                return title
+
+        print(f"  EBS {program}: {date_str} 에피소드 없음")
+        return None
+    except Exception as e:
+        print(f"  EBS {program} 조회 실패: {e}")
+        return None
 
 
 def load_source_file(program, date_str):
     """source/ 폴더에서 당일 방송 자료를 읽습니다."""
     os.makedirs(SOURCE_DIR, exist_ok=True)
 
-    # 파일명 패턴: 입트영_2026-04-14.txt 또는 귀트영_2026-04-14.txt
     patterns = [
         os.path.join(SOURCE_DIR, f"{program}_{date_str}.txt"),
         os.path.join(SOURCE_DIR, f"{program}_{date_str}.md"),
@@ -46,7 +111,8 @@ def load_source_file(program, date_str):
     return None
 
 
-def generate_content_with_claude(입트영_source, 귀트영_source, date_str):
+def generate_content_with_claude(입트영_source, 귀트영_source, date_str,
+                                  입트영_title=None, 귀트영_title=None):
     """Claude API로 오늘의 전체 콘텐츠를 생성합니다."""
 
     # 소스 자료 구성
@@ -57,6 +123,11 @@ def generate_content_with_claude(입트영_source, 귀트영_source, date_str):
 ---
 {입트영_source[:3000]}
 ---"""
+    elif 입트영_title:
+        입트영_section = f"""## 소스 1: 입트영 (입이 트이는 영어)
+오늘의 입트영 방송 제목: "{입트영_title}"
+스크립트 자료는 없지만, 위 제목을 주제로 입트영 스타일의 에세이를 작성해주세요.
+150-200단어 분량으로, 한국인이 소리내어 읽기 좋은 자연스러운 영어로 작성하세요."""
     else:
         입트영_section = """## 소스 1: 입트영 (입이 트이는 영어)
 오늘의 입트영 방송 자료가 없습니다.
@@ -70,6 +141,11 @@ def generate_content_with_claude(입트영_source, 귀트영_source, date_str):
 ---
 {귀트영_source[:3000]}
 ---"""
+    elif 귀트영_title:
+        귀트영_section = f"""## 소스 2: 귀트영 (귀가 트이는 영어)
+오늘의 귀트영 방송 제목: "{귀트영_title}"
+스크립트 자료는 없지만, 위 제목/주제로 귀트영 스타일의 뉴스 텍스트를 작성해주세요.
+뉴스 기사 스타일로 100-150단어 분량으로 작성하세요."""
     else:
         귀트영_section = """## 소스 2: 귀트영 (귀가 트이는 영어)
 오늘의 귀트영 방송 자료가 없습니다.
@@ -271,20 +347,30 @@ def main():
     print(f"  {date_str} ({day_of_week})")
     print("=" * 60)
 
-    # 1. 소스 파일 확인
-    print("\n[1/3] 소스 자료 확인")
+    # 1. EBS 에피소드 제목 조회 (로그인 불필요)
+    print("\n[1/4] EBS 에피소드 조회")
+    입트영_title = fetch_ebs_episode_title("입트영", date_str)
+    귀트영_title = fetch_ebs_episode_title("귀트영", date_str)
+
+    # 2. 소스 파일 확인 (사용자가 직접 넣은 스크립트)
+    print("\n[2/4] 소스 자료 확인")
     입트영_source = load_source_file("입트영", date_str)
     귀트영_source = load_source_file("귀트영", date_str)
 
     has_source = bool(입트영_source or 귀트영_source)
     if has_source:
         print("  → 소스 자료 기반으로 콘텐츠 생성")
+    elif 입트영_title or 귀트영_title:
+        print("  → EBS 제목 기반으로 콘텐츠 생성")
     else:
         print("  → 소스 없음, Claude가 자체 주제로 생성")
 
-    # 2. Claude API로 콘텐츠 생성
-    print("\n[2/3] 콘텐츠 생성")
-    content = generate_content_with_claude(입트영_source, 귀트영_source, date_str)
+    # 3. Claude API로 콘텐츠 생성
+    print("\n[3/4] 콘텐츠 생성")
+    content = generate_content_with_claude(
+        입트영_source, 귀트영_source, date_str,
+        입트영_title, 귀트영_title
+    )
 
     if not content:
         print("  콘텐츠 생성 실패!")
@@ -311,7 +397,7 @@ def main():
     daily_path = os.path.join(daily_dir, f"{date_str}.json")
     with open(daily_path, "w", encoding="utf-8") as f:
         json.dump(daily_data, f, ensure_ascii=False, indent=2)
-    print(f"\n[3/3] 저장 완료: {daily_path}")
+    print(f"\n[4/4] 저장 완료: {daily_path}")
 
     # 5. 누적 DB 업데이트
     sentences = content.get("today_sentences", [])
