@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-14",
-  "total_sentences": 6,
+  "last_updated": "2026-04-15",
+  "total_sentences": 9,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -49,6 +49,30 @@
       "korean": "보통 근처 편의점에서 간단히 점심을 해결해요.",
       "category": "daily",
       "grammar_point": "'grab' - 빠르게 가져가다/해결하다"
+    },
+    {
+      "id": "2026-04-15_sent_01",
+      "date_added": "2026-04-15",
+      "english": "I'd like to schedule a follow-up meeting to discuss the project timeline in more detail.",
+      "korean": "프로젝트 일정을 더 자세히 논의하기 위해 후속 회의 일정을 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to' + 동사원형으로 정중한 요청 표현하기"
+    },
+    {
+      "id": "2026-04-15_sent_02",
+      "date_added": "2026-04-15",
+      "english": "Could you please send me the updated version by the end of today?",
+      "korean": "오늘 끝나기 전에 업데이트된 버전을 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "'Could you please' + 동사원형으로 공손한 부탁하기"
+    },
+    {
+      "id": "2026-04-15_sent_03",
+      "date_added": "2026-04-15",
+      "english": "I'm planning to grab some coffee before the movie starts. Do you want to join me?",
+      "korean": "영화 시작 전에 커피를 마시러 갈 계획인데, 같이 갈래요?",
+      "category": "daily",
+      "grammar_point": "현재진행형(be + -ing)으로 미래 계획 표현하기"
     }
   ]
 }

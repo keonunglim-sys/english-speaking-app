@@ -1,0 +1,178 @@
+{
+  "date": "2026-04-15",
+  "day_of_week": "수요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Remote Work Challenges and Solutions",
+    "text": "Working from home has become the new normal for many professionals since the pandemic. While remote work offers flexibility and eliminates commuting time, it also presents unique challenges that we must address. One of the biggest hurdles is maintaining work-life balance. When your bedroom is just steps away from your home office, it's tempting to work longer hours or check emails late at night. I've learned to set clear boundaries by creating a dedicated workspace and sticking to regular office hours. Another challenge is staying connected with colleagues. Without casual coffee break conversations, it's easy to feel isolated. I make an effort to schedule regular video calls and participate actively in virtual team meetings. Communication becomes even more crucial when working remotely. I've found that over-communicating is better than leaving things unclear. Finally, staying motivated without direct supervision requires strong self-discipline. I create daily to-do lists and celebrate small wins to maintain momentum throughout the day.",
+    "korean_summary": "재택근무는 유연성을 제공하지만 일과 삶의 균형 유지, 동료들과의 연결, 효과적인 의사소통, 자기 동기 부여 등의 고유한 도전과제들을 가지고 있습니다. 이러한 문제들을 해결하기 위해서는 명확한 경계 설정, 적극적인 소통, 그리고 강한 자기 훈련이 필요합니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea Leads Global Digital Innovation",
+    "text": "South Korea continues to solidify its position as a global leader in digital technology and innovation. According to a recent report by the World Economic Forum, the country ranks third worldwide in digital competitiveness, following Singapore and Denmark. The nation's success stems from its robust 5G infrastructure, widespread adoption of digital payments, and strong government support for tech startups. Korean companies like Samsung and LG are at the forefront of developing next-generation technologies including foldable smartphones and smart home appliances. The government's Digital New Deal initiative, launched in 2020, has allocated over $58 billion to accelerate digital transformation across various sectors. This investment focuses on artificial intelligence, big data, and creating smart cities. Additionally, South Korea boasts one of the world's highest internet penetration rates at 96%, enabling rapid adoption of new digital services. The country's gaming and entertainment industries, particularly K-pop and Korean dramas, have also leveraged digital platforms to achieve unprecedented global reach.",
+    "korean_summary": "한국이 세계 디지털 경쟁력 3위를 차지하며 글로벌 디지털 혁신을 선도하고 있습니다. 5G 인프라, 디지털 결제 확산, 그리고 정부의 디지털 뉴딜 정책이 이러한 성공을 뒷받침하고 있습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "set clear boundaries",
+      "korean": "명확한 경계를 설정하다",
+      "example": "It's important to set clear boundaries between work and personal time when working from home.",
+      "source": "입트영"
+    },
+    {
+      "english": "over-communicate",
+      "korean": "과도할 정도로 소통하다",
+      "example": "In remote work settings, it's better to over-communicate than to leave team members confused.",
+      "source": "입트영"
+    },
+    {
+      "english": "maintain momentum",
+      "korean": "추진력을 유지하다",
+      "example": "Regular feedback helps employees maintain momentum on long-term projects.",
+      "source": "입트영"
+    },
+    {
+      "english": "celebrate small wins",
+      "korean": "작은 성공을 축하하다",
+      "example": "Our team leader always encourages us to celebrate small wins along the way.",
+      "source": "입트영"
+    },
+    {
+      "english": "solidify its position",
+      "korean": "입지를 굳건히 하다",
+      "example": "The company aims to solidify its position as a market leader through continuous innovation.",
+      "source": "귀트영"
+    },
+    {
+      "english": "at the forefront of",
+      "korean": "~의 최전선에서",
+      "example": "Korean tech companies are at the forefront of developing 6G technology.",
+      "source": "귀트영"
+    },
+    {
+      "english": "unprecedented global reach",
+      "korean": "전례 없는 글로벌 영향력",
+      "example": "K-pop has achieved unprecedented global reach through social media platforms.",
+      "source": "귀트영"
+    },
+    {
+      "english": "leverage digital platforms",
+      "korean": "디지털 플랫폼을 활용하다",
+      "example": "Many businesses are learning to leverage digital platforms for marketing.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I'd like to schedule a follow-up meeting to discuss the project timeline in more detail.",
+      "korean": "프로젝트 일정을 더 자세히 논의하기 위해 후속 회의 일정을 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to' + 동사원형으로 정중한 요청 표현하기"
+    },
+    {
+      "english": "Could you please send me the updated version by the end of today?",
+      "korean": "오늘 끝나기 전에 업데이트된 버전을 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "'Could you please' + 동사원형으로 공손한 부탁하기"
+    },
+    {
+      "english": "I'm planning to grab some coffee before the movie starts. Do you want to join me?",
+      "korean": "영화 시작 전에 커피를 마시러 갈 계획인데, 같이 갈래요?",
+      "category": "daily",
+      "grammar_point": "현재진행형(be + -ing)으로 미래 계획 표현하기"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "재택근무를 할 때는 일과 개인 시간 사이에 명확한 경계를 설정하는 것이 중요합니다.",
+      "answer": "It's important to set clear boundaries between work and personal time when working from home.",
+      "acceptable_keywords": [
+        "important",
+        "set",
+        "clear",
+        "boundaries",
+        "work",
+        "personal",
+        "time",
+        "working",
+        "home"
+      ],
+      "hint": "'경계를 설정하다'는 'set boundaries'로 표현합니다."
+    },
+    {
+      "type": "translation",
+      "korean": "한국 기업들은 차세대 기술 개발의 최전선에 있습니다.",
+      "answer": "Korean companies are at the forefront of developing next-generation technologies.",
+      "acceptable_keywords": [
+        "Korean",
+        "companies",
+        "forefront",
+        "developing",
+        "next-generation",
+        "technologies"
+      ],
+      "hint": "'최전선에 있다'는 'be at the forefront of'로 표현합니다."
+    },
+    {
+      "type": "translation",
+      "korean": "프로젝트 일정을 더 자세히 논의하기 위해 후속 회의를 잡고 싶습니다.",
+      "answer": "I'd like to schedule a follow-up meeting to discuss the project timeline in more detail.",
+      "acceptable_keywords": [
+        "like",
+        "schedule",
+        "follow-up",
+        "meeting",
+        "discuss",
+        "project",
+        "timeline",
+        "detail"
+      ],
+      "hint": "'~하고 싶다'는 정중하게 'I'd like to'로 표현할 수 있습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Remote work offers flexibility but also presents unique ___ that we must address.",
+      "answer": "challenges",
+      "options": [
+        "challenges",
+        "opportunities",
+        "benefits",
+        "advantages"
+      ],
+      "korean": "원격근무는 유연성을 제공하지만 우리가 해결해야 할 독특한 ___도 제시합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The government's Digital New Deal initiative has ___ over $58 billion to accelerate digital transformation.",
+      "answer": "allocated",
+      "options": [
+        "allocated",
+        "distributed",
+        "invested",
+        "donated"
+      ],
+      "korean": "정부의 디지털 뉴딜 이니셔티브는 디지털 변환을 가속화하기 위해 580억 달러 이상을 ___했습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "I make an effort to ___ regular video calls and participate actively in virtual team meetings.",
+      "answer": "schedule",
+      "options": [
+        "schedule",
+        "attend",
+        "organize",
+        "cancel"
+      ],
+      "korean": "나는 정기적인 화상통화를 ___하고 가상 팀 회의에 적극적으로 참여하려고 노력합니다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66250&part_seq=26565",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66275&part_seq=26566"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-04-15.mp3",
+    "귀트영": "audio/귀트영_2026-04-15.mp3"
+  }
+}
