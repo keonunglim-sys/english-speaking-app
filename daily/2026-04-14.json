@@ -4,153 +4,153 @@
   "has_source": true,
   "ipteunyeong": {
     "title": "The Joy of Robot Vacuums",
-    "text": "It's been a few months since I got a robot vacuum, and it has completely transformed my daily routine. At first, I thought of it as just another appliance, but now it feels like a beloved companion that has improved my quality of life significantly. While I'm getting ready for work on busy mornings, it cleans every corner of the house all on its own. When I come home from work and see the spotless floors without a speck of dust, it seems to melt away my fatigue and stress instantly. It's especially helpful when I have guests over on weekends - having the place cleaned in advance makes entertaining so much easier. I even find it endearing watching it work so hard while dodging obstacles like furniture and toys. The robot vacuum has freed me from the stress of cleaning, allowing me to focus on other important things or simply relax. My little cleaning companion has truly given me the gift of time and breathing room in my hectic life.",
-    "korean_summary": "로봇 청소기를 사용한 지 몇 달이 지났는데, 단순한 가전제품이 아닌 삶의 질을 향상시켜주는 소중한 동반자가 되었습니다. 바쁜 아침에 출근 준비를 하는 동안 혼자서 집 구석구석을 청소해주고, 퇴근 후 깨끗한 바닥을 보면 하루의 피로가 사라집니다. 청소 스트레스에서 해방되어 더 중요한 일에 집중하거나 휴식을 취할 수 있게 되었습니다."
+    "text": "It's been a few months since I got a robot vacuum, and it has completely transformed my daily routine. At first, I thought of it as just another appliance, but now it feels like a beloved companion that has improved my quality of life significantly. Every morning while I'm getting ready for work, it quietly cleans every corner of the house all on its own. When I come home from work and see the spotless floors without a speck of dust, it melts away my daily fatigue. It's especially helpful on weekends when I have guests over, as having the place cleaned in advance makes hosting so much easier. I find it endearing to watch it work hard while dodging obstacles around the furniture. The robot vacuum has freed me from the stress of cleaning, allowing me to use that time to focus on other important things or simply relax. It has truly given me the gift of time and breathing room in my busy life.",
+    "korean_summary": "로봇 청소기를 구입한 지 몇 달이 되었는데, 일상을 완전히 바꿔놓았습니다. 처음엔 단순한 가전제품으로 생각했지만, 이제는 삶의 질을 높여주는 소중한 동반자가 되었습니다. 출근 준비를 하는 동안 혼자서 집안 구석구석을 청소해주고, 퇴근 후 깨끗한 바닥을 보면 하루의 피로가 풀립니다. 청소 스트레스에서 해방되어 다른 일에 집중하거나 휴식할 수 있는 시간과 여유를 선물받았습니다."
   },
   "gwitunyeong": {
-    "title": "Global Stock Rally Faces Growing Risk of Market Correction",
-    "text": "Global equities entered 2026 after a powerful rally, but veteran investors warn the advance may be fragile. Strong gains in 2025 and early 2026 have pushed valuations higher, while months without meaningful pullbacks have reduced buffers against potential shocks. Strategists at Goldman Sachs argue that markets are historically overdue for correction, suggesting that geopolitical tensions, policy shifts, or earnings disappointments could abruptly change market sentiment. High-profile analysts caution that stretched valuations and frothy optimism may magnify downside risks when a catalyst appears. Additional concerns include market complacency, narrowing leadership among stocks, and heavy reliance on megacap technology shares. Any stumble among market leaders, particularly regarding AI spending durability, could amplify volatility during the next market adjustment phase.",
-    "korean_summary": "2026년 글로벌 주식시장이 강력한 상승세를 보였지만, 베테랑 투자자들은 조정 위험이 커지고 있다고 경고하고 있습니다. 골드만삭스 전략가들은 시장이 역사적으로 조정 시기가 늦어지고 있으며, 지정학적 긴장이나 정책 변화가 시장 심리를 급변시킬 수 있다고 분석했습니다. 특히 AI 관련 지출의 지속성에 대한 우려와 대형 기술주 의존도가 높아 변동성이 증폭될 가능성이 있습니다."
+    "title": "Global Stock Rally Faces Growing Market Correction Risks",
+    "text": "Global equities entered 2026 after a powerful rally, but veteran investors warn the advance may be fragile. Strong gains in 2025 and early 2026 have pushed valuations higher, while months without meaningful pullbacks have reduced buffers against market shocks. Goldman Sachs strategists argue markets are historically overdue for correction, suggesting that geopolitical tensions, policy shifts, or earnings disappointments could abruptly change sentiment. High-profile analysts warn that frothy valuations and excessive optimism magnify downside risks when a catalyst appears. Some experts caution against focusing solely on timing, noting concerns about market complacency, narrowing leadership, and heavy reliance on megacap technology shares. Particular attention is being paid to AI spending durability and potential stumbles among market leaders that could amplify volatility during the next adjustment period.",
+    "korean_summary": "2026년 글로벌 주식시장이 강력한 상승세 이후 조정 위험에 직면하고 있습니다. 골드만삭스를 비롯한 전문가들은 높아진 밸류에이션과 과도한 낙관론이 하락 리스크를 증폭시킬 수 있다고 경고했습니다. 특히 AI 투자의 지속성과 거대 기술주 의존도가 주요 우려 요인으로 지적되고 있습니다."
   },
   "key_expressions": [
     {
       "english": "think of it as",
-      "korean": "~으로 여기다, ~으로 생각하다",
-      "example": "I used to think of it as just a simple task, but now I realize its importance.",
+      "korean": "~으로 여기다, 생각하다",
+      "example": "I used to think of it as just a hobby, but now it's my full-time career.",
       "source": "입트영"
     },
     {
-      "english": "quality of life",
-      "korean": "삶의 질",
-      "example": "Working from home has significantly improved my quality of life.",
+      "english": "beloved companion",
+      "korean": "소중한 동반자, 반려자",
+      "example": "My dog has been my beloved companion for over ten years.",
       "source": "입트영"
     },
     {
       "english": "melt away",
-      "korean": "녹아 없어지다, 사라지다",
-      "example": "All my worries seemed to melt away when I heard the good news.",
+      "korean": "녹아내리다, 사라지다",
+      "example": "A warm cup of tea can melt away the stress of a long day.",
       "source": "입트영"
     },
     {
-      "english": "free someone from",
-      "korean": "~로부터 해방시키다",
-      "example": "This new system will free us from repetitive manual work.",
+      "english": "breathing room",
+      "korean": "여유, 숨 돌릴 틈",
+      "example": "The new deadline gives us some breathing room to perfect our proposal.",
       "source": "입트영"
     },
     {
-      "english": "overdue for",
-      "korean": "~할 때가 지나서, ~이 늦어진",
-      "example": "The company is overdue for a major restructuring.",
+      "english": "overdue for correction",
+      "korean": "조정이 늦어진, 조정받을 때가 된",
+      "example": "Many analysts believe the housing market is overdue for correction.",
       "source": "귀트영"
     },
     {
       "english": "abruptly change",
-      "korean": "갑작스럽게 변화시키다",
-      "example": "The announcement could abruptly change investor sentiment.",
-      "source": "귀트영"
-    },
-    {
-      "english": "magnify risks",
-      "korean": "위험을 확대시키다",
-      "example": "High leverage can magnify risks during market downturns.",
+      "korean": "급격히 변화하다",
+      "example": "Market sentiment can abruptly change due to unexpected news.",
       "source": "귀트영"
     },
     {
       "english": "amplify volatility",
       "korean": "변동성을 증폭시키다",
-      "example": "Algorithmic trading can amplify volatility during uncertain times.",
+      "example": "Political uncertainty tends to amplify volatility in emerging markets.",
+      "source": "귀트영"
+    },
+    {
+      "english": "maintain composure",
+      "korean": "침착함을 유지하다",
+      "example": "Good leaders maintain composure even in challenging situations.",
       "source": "귀트영"
     }
   ],
   "today_sentences": [
     {
-      "english": "The quarterly earnings report could abruptly change market sentiment if it falls short of expectations.",
-      "korean": "분기 실적 보고서가 예상에 미치지 못하면 시장 심리를 갑작스럽게 바꿀 수 있습니다.",
+      "english": "We need to schedule a follow-up meeting to discuss the project timeline in detail.",
+      "korean": "프로젝트 일정에 대해 자세히 논의하기 위한 후속 회의를 잡아야 합니다.",
       "category": "business",
-      "grammar_point": "조건절(if)과 가정법 현재 - 현재나 미래의 가능한 상황을 표현"
+      "grammar_point": "need to + 동사원형 (필요성 표현)"
     },
     {
-      "english": "We need to implement measures that will free our team from repetitive manual tasks.",
-      "korean": "우리 팀을 반복적인 수작업으로부터 해방시킬 조치들을 시행해야 합니다.",
+      "english": "Could you please send me the quarterly report by the end of this week?",
+      "korean": "이번 주말까지 분기 보고서를 보내주실 수 있나요?",
       "category": "business",
-      "grammar_point": "관계대명사절 - that will ~로 명사를 수식하여 구체적 설명 제공"
+      "grammar_point": "Could you please + 동사원형 (정중한 요청)"
     },
     {
-      "english": "This robot vacuum has completely transformed my quality of life at home.",
-      "korean": "이 로봇청소기가 집에서의 삶의 질을 완전히 바꾸어 놓았습니다.",
+      "english": "I'm planning to pick up a new hobby this weekend to help me relax.",
+      "korean": "긴장을 풀기 위해 이번 주말에 새로운 취미를 시작할 계획입니다.",
       "category": "daily",
-      "grammar_point": "현재완료시제 - has + 과거분사로 과거부터 현재까지 지속되는 영향 표현"
+      "grammar_point": "be planning to + 동사원형 (계획 표현)"
     }
   ],
   "quiz": [
     {
       "type": "translation",
-      "korean": "이 새로운 시스템은 우리를 반복적인 업무로부터 해방시켜 줄 것입니다.",
-      "answer": "This new system will free us from repetitive work.",
+      "korean": "로봇 청소기가 내 삶의 질을 크게 향상시켰다.",
+      "answer": "The robot vacuum has greatly improved my quality of life.",
       "acceptable_keywords": [
-        "free",
-        "repetitive",
-        "work"
+        "robot vacuum",
+        "improved",
+        "quality of life"
       ],
-      "hint": "'~로부터 해방시키다'는 'free someone from'을 사용하세요."
+      "hint": "'삶의 질'은 'quality of life'로 표현합니다."
     },
     {
       "type": "translation",
-      "korean": "시장은 역사적으로 조정이 늦어진 상태입니다.",
-      "answer": "The market is historically overdue for correction.",
+      "korean": "주식 시장이 조정받을 때가 되었다고 전문가들이 경고하고 있다.",
+      "answer": "Experts are warning that the stock market is overdue for correction.",
       "acceptable_keywords": [
+        "experts",
+        "warning",
+        "overdue for correction"
+      ],
+      "hint": "'조정받을 때가 된'은 'overdue for correction'으로 표현합니다."
+    },
+    {
+      "type": "translation",
+      "korean": "어려운 상황에서도 침착함을 유지하는 것이 중요하다.",
+      "answer": "It's important to maintain composure even in difficult situations.",
+      "acceptable_keywords": [
+        "important",
+        "maintain composure",
+        "difficult situations"
+      ],
+      "hint": "'침착함을 유지하다'는 'maintain composure'입니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "When I come home from work and see the _____ floors, it melts away my fatigue.",
+      "answer": "spotless",
+      "options": [
+        "spotless",
+        "dirty",
+        "wooden",
+        "cold"
+      ],
+      "korean": "퇴근 후 집에 와서 얼룩 하나 없이 깨끗한 바닥을 보면 피로가 풀린다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Goldman Sachs strategists argue that markets are historically _____ for correction.",
+      "answer": "overdue",
+      "options": [
         "overdue",
-        "correction",
-        "historically"
+        "ready",
+        "prepared",
+        "waiting"
       ],
-      "hint": "'~할 때가 지나서'는 'overdue for'를 사용하세요."
-    },
-    {
-      "type": "translation",
-      "korean": "처음에는 그것을 단순한 가전제품으로만 생각했습니다.",
-      "answer": "At first, I thought of it as just a simple appliance.",
-      "acceptable_keywords": [
-        "thought",
-        "appliance",
-        "simple"
-      ],
-      "hint": "'~으로 생각하다'는 'think of ~ as'를 사용하세요."
+      "korean": "골드만삭스 전략가들은 시장이 역사적으로 조정받을 때가 되었다고 주장한다."
     },
     {
       "type": "fill_in_blank",
-      "sentence": "Strong gains have pushed _______ higher, creating vulnerability in the market.",
-      "answer": "valuations",
+      "sentence": "Political uncertainty tends to _____ volatility in the markets.",
+      "answer": "amplify",
       "options": [
-        "valuations",
-        "expectations",
-        "predictions",
-        "calculations"
+        "amplify",
+        "reduce",
+        "ignore",
+        "prevent"
       ],
-      "korean": "강력한 상승세가 _______을 높여 시장에 취약성을 만들었습니다."
-    },
-    {
-      "type": "fill_in_blank",
-      "sentence": "The robot vacuum has given me the gift of time and _______ in my busy life.",
-      "answer": "breathing room",
-      "options": [
-        "breathing room",
-        "working space",
-        "living area",
-        "comfort zone"
-      ],
-      "korean": "로봇청소기가 바쁜 삶에서 시간과 _______을 선물해 주었습니다."
-    },
-    {
-      "type": "fill_in_blank",
-      "sentence": "Market _______ and heavy reliance on tech stocks could amplify risks.",
-      "answer": "complacency",
-      "options": [
-        "complacency",
-        "complexity",
-        "competency",
-        "compatibility"
-      ],
-      "korean": "시장의 _______과 기술주에 대한 높은 의존도가 위험을 증폭시킬 수 있습니다."
+      "korean": "정치적 불확실성은 시장의 변동성을 증폭시키는 경향이 있다."
     }
   ],
   "audio": {
