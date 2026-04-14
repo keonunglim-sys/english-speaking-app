@@ -1,163 +1,164 @@
 {
   "date": "2026-04-14",
   "day_of_week": "화요일",
-  "has_source": false,
+  "has_source": true,
   "ipteunyeong": {
-    "title": "The Art of Work-Life Balance in Modern Korea",
-    "text": "Achieving work-life balance has become increasingly challenging for Korean professionals in today's fast-paced society. Many of us find ourselves staying late at the office, responding to emails after hours, and sacrificing personal time for career advancement. However, I've learned that true productivity comes from maintaining healthy boundaries. Last year, I made a conscious decision to leave the office by 7 PM and avoid checking work emails on weekends. Initially, I worried about falling behind my colleagues, but the results were surprising. My creativity improved, my stress levels decreased, and my work quality actually enhanced. I started exercising regularly, spending quality time with family, and pursuing hobbies I had abandoned. The key is setting clear priorities and communicating them effectively with your team. When we respect our own time, others learn to respect it too. Work-life balance isn't a luxury—it's essential for long-term success and personal well-being. Small changes in our daily routine can lead to significant improvements in our overall quality of life.",
-    "korean_summary": "현대 한국 직장인들에게 일과 삶의 균형은 점점 더 어려운 과제가 되고 있습니다. 저녁 7시에 퇴근하고 주말에 업무 이메일을 확인하지 않기로 결심한 후, 창의성과 업무 품질이 오히려 향상되었습니다. 명확한 우선순위 설정과 팀과의 효과적인 소통이 핵심이며, 일과 삶의 균형은 장기적인 성공과 개인의 행복을 위해 필수적입니다."
+    "title": "The Joy of Robot Vacuums",
+    "text": "It's been a few months since I got a robot vacuum, and it has completely transformed my daily routine. At first, I thought of it as just another appliance, but now it feels like a beloved companion that has improved my quality of life significantly. While I'm getting ready for work on busy mornings, it cleans every corner of the house all on its own. When I come home from work and see the spotless floors without a speck of dust, it seems to melt away my fatigue and stress instantly. It's especially helpful when I have guests over on weekends - having the place cleaned in advance makes entertaining so much easier. I even find it endearing watching it work so hard while dodging obstacles like furniture and toys. The robot vacuum has freed me from the stress of cleaning, allowing me to focus on other important things or simply relax. My little cleaning companion has truly given me the gift of time and breathing room in my hectic life.",
+    "korean_summary": "로봇 청소기를 사용한 지 몇 달이 지났는데, 단순한 가전제품이 아닌 삶의 질을 향상시켜주는 소중한 동반자가 되었습니다. 바쁜 아침에 출근 준비를 하는 동안 혼자서 집 구석구석을 청소해주고, 퇴근 후 깨끗한 바닥을 보면 하루의 피로가 사라집니다. 청소 스트레스에서 해방되어 더 중요한 일에 집중하거나 휴식을 취할 수 있게 되었습니다."
   },
   "gwitunyeong": {
-    "title": "Essential Strategies for Navigating Toddler Tantrums",
-    "text": "Child development experts are sharing new insights on managing toddler tantrums, which affect nearly all families with young children. According to recent research, tantrums are a normal part of brain development in children aged 18 months to 4 years. Dr. Sarah Chen, a pediatric psychologist, emphasizes that parents should remain calm and avoid engaging in power struggles. The most effective strategies include acknowledging the child's emotions, offering simple choices, and maintaining consistent routines. Distraction techniques work well for minor meltdowns, while major tantrums require patience and physical comfort. Experts warn against giving in to demands during tantrums, as this reinforces the behavior. Instead, parents should validate feelings while maintaining boundaries. Prevention is key—ensuring adequate sleep, regular meals, and avoiding overstimulating environments can significantly reduce tantrum frequency. The research shows that children who experience empathetic responses during tantrums develop better emotional regulation skills as they mature.",
-    "korean_summary": "전문가들은 18개월에서 4세 아이들의 떼쓰기가 뇌 발달의 정상적인 과정이라고 설명합니다. 효과적인 대처법으로는 아이의 감정을 인정하고, 간단한 선택권을 주며, 일관된 루틴을 유지하는 것이 있으며, 충분한 수면과 규칙적인 식사로 예방이 가능합니다."
+    "title": "Global Stock Rally Faces Growing Risk of Market Correction",
+    "text": "Global equities entered 2026 after a powerful rally, but veteran investors warn the advance may be fragile. Strong gains in 2025 and early 2026 have pushed valuations higher, while months without meaningful pullbacks have reduced buffers against potential shocks. Strategists at Goldman Sachs argue that markets are historically overdue for correction, suggesting that geopolitical tensions, policy shifts, or earnings disappointments could abruptly change market sentiment. High-profile analysts caution that stretched valuations and frothy optimism may magnify downside risks when a catalyst appears. Additional concerns include market complacency, narrowing leadership among stocks, and heavy reliance on megacap technology shares. Any stumble among market leaders, particularly regarding AI spending durability, could amplify volatility during the next market adjustment phase.",
+    "korean_summary": "2026년 글로벌 주식시장이 강력한 상승세를 보였지만, 베테랑 투자자들은 조정 위험이 커지고 있다고 경고하고 있습니다. 골드만삭스 전략가들은 시장이 역사적으로 조정 시기가 늦어지고 있으며, 지정학적 긴장이나 정책 변화가 시장 심리를 급변시킬 수 있다고 분석했습니다. 특히 AI 관련 지출의 지속성에 대한 우려와 대형 기술주 의존도가 높아 변동성이 증폭될 가능성이 있습니다."
   },
   "key_expressions": [
     {
-      "english": "make a conscious decision",
-      "korean": "의식적인 결정을 내리다",
-      "example": "I made a conscious decision to prioritize my health over overtime work.",
+      "english": "think of it as",
+      "korean": "~으로 여기다, ~으로 생각하다",
+      "example": "I used to think of it as just a simple task, but now I realize its importance.",
       "source": "입트영"
     },
     {
-      "english": "fall behind",
-      "korean": "뒤처지다, 뒤떨어지다",
-      "example": "I was worried about falling behind in the project deadline.",
+      "english": "quality of life",
+      "korean": "삶의 질",
+      "example": "Working from home has significantly improved my quality of life.",
       "source": "입트영"
     },
     {
-      "english": "quality time",
-      "korean": "알찬 시간, 의미 있는 시간",
-      "example": "We should spend more quality time with our children on weekends.",
+      "english": "melt away",
+      "korean": "녹아 없어지다, 사라지다",
+      "example": "All my worries seemed to melt away when I heard the good news.",
       "source": "입트영"
     },
     {
-      "english": "long-term success",
-      "korean": "장기적인 성공",
-      "example": "Continuous learning is essential for long-term success in any field.",
+      "english": "free someone from",
+      "korean": "~로부터 해방시키다",
+      "example": "This new system will free us from repetitive manual work.",
       "source": "입트영"
     },
     {
-      "english": "engage in power struggles",
-      "korean": "권력 다툼을 벌이다",
-      "example": "Parents should avoid engaging in power struggles with their teenagers.",
+      "english": "overdue for",
+      "korean": "~할 때가 지나서, ~이 늦어진",
+      "example": "The company is overdue for a major restructuring.",
       "source": "귀트영"
     },
     {
-      "english": "maintain boundaries",
-      "korean": "경계를 유지하다",
-      "example": "It's important to maintain boundaries between work and personal life.",
+      "english": "abruptly change",
+      "korean": "갑작스럽게 변화시키다",
+      "example": "The announcement could abruptly change investor sentiment.",
       "source": "귀트영"
     },
     {
-      "english": "validate feelings",
-      "korean": "감정을 인정해주다",
-      "example": "Teachers should validate students' feelings when they face difficulties.",
+      "english": "magnify risks",
+      "korean": "위험을 확대시키다",
+      "example": "High leverage can magnify risks during market downturns.",
       "source": "귀트영"
     },
     {
-      "english": "emotional regulation",
-      "korean": "감정 조절",
-      "example": "Meditation can help improve your emotional regulation skills.",
+      "english": "amplify volatility",
+      "korean": "변동성을 증폭시키다",
+      "example": "Algorithmic trading can amplify volatility during uncertain times.",
       "source": "귀트영"
     }
   ],
   "today_sentences": [
     {
-      "english": "I'd like to schedule a meeting to discuss our quarterly performance.",
-      "korean": "분기 실적을 논의하기 위한 회의를 잡고 싶습니다.",
+      "english": "The quarterly earnings report could abruptly change market sentiment if it falls short of expectations.",
+      "korean": "분기 실적 보고서가 예상에 미치지 못하면 시장 심리를 갑작스럽게 바꿀 수 있습니다.",
       "category": "business",
-      "grammar_point": "'would like to' - 정중한 의향 표현"
+      "grammar_point": "조건절(if)과 가정법 현재 - 현재나 미래의 가능한 상황을 표현"
     },
     {
-      "english": "We need to establish clear guidelines for remote work policies.",
-      "korean": "재택근무 정책에 대한 명확한 가이드라인을 수립해야 합니다.",
+      "english": "We need to implement measures that will free our team from repetitive manual tasks.",
+      "korean": "우리 팀을 반복적인 수작업으로부터 해방시킬 조치들을 시행해야 합니다.",
       "category": "business",
-      "grammar_point": "'need to' - 필요성 표현"
+      "grammar_point": "관계대명사절 - that will ~로 명사를 수식하여 구체적 설명 제공"
     },
     {
-      "english": "I usually grab a quick lunch at the convenience store nearby.",
-      "korean": "보통 근처 편의점에서 간단히 점심을 해결해요.",
+      "english": "This robot vacuum has completely transformed my quality of life at home.",
+      "korean": "이 로봇청소기가 집에서의 삶의 질을 완전히 바꾸어 놓았습니다.",
       "category": "daily",
-      "grammar_point": "'grab' - 빠르게 가져가다/해결하다"
+      "grammar_point": "현재완료시제 - has + 과거분사로 과거부터 현재까지 지속되는 영향 표현"
     }
   ],
   "quiz": [
     {
       "type": "translation",
-      "korean": "일과 삶의 균형을 유지하는 것은 장기적인 성공에 필수적입니다.",
-      "answer": "Maintaining work-life balance is essential for long-term success.",
+      "korean": "이 새로운 시스템은 우리를 반복적인 업무로부터 해방시켜 줄 것입니다.",
+      "answer": "This new system will free us from repetitive work.",
       "acceptable_keywords": [
-        "work-life balance",
-        "essential",
-        "long-term success"
+        "free",
+        "repetitive",
+        "work"
       ],
-      "hint": "'유지하다'는 maintaining, '필수적인'은 essential"
+      "hint": "'~로부터 해방시키다'는 'free someone from'을 사용하세요."
     },
     {
       "type": "translation",
-      "korean": "아이의 감정을 인정해주면서 경계를 유지하는 것이 중요합니다.",
-      "answer": "It's important to validate feelings while maintaining boundaries.",
+      "korean": "시장은 역사적으로 조정이 늦어진 상태입니다.",
+      "answer": "The market is historically overdue for correction.",
       "acceptable_keywords": [
-        "validate",
-        "feelings",
-        "maintaining",
-        "boundaries"
+        "overdue",
+        "correction",
+        "historically"
       ],
-      "hint": "'인정해주다'는 validate, '경계'는 boundaries"
+      "hint": "'~할 때가 지나서'는 'overdue for'를 사용하세요."
     },
     {
       "type": "translation",
-      "korean": "우리는 분기 실적에 대해 논의하기 위한 회의를 잡아야 합니다.",
-      "answer": "We need to schedule a meeting to discuss our quarterly performance.",
+      "korean": "처음에는 그것을 단순한 가전제품으로만 생각했습니다.",
+      "answer": "At first, I thought of it as just a simple appliance.",
       "acceptable_keywords": [
-        "schedule",
-        "meeting",
-        "quarterly",
-        "performance"
+        "thought",
+        "appliance",
+        "simple"
       ],
-      "hint": "'잡다'는 schedule, '분기의'는 quarterly"
+      "hint": "'~으로 생각하다'는 'think of ~ as'를 사용하세요."
     },
     {
       "type": "fill_in_blank",
-      "sentence": "I made a conscious _____ to prioritize my health over work.",
-      "answer": "decision",
+      "sentence": "Strong gains have pushed _______ higher, creating vulnerability in the market.",
+      "answer": "valuations",
       "options": [
-        "decision",
-        "choice",
-        "selection",
-        "option"
+        "valuations",
+        "expectations",
+        "predictions",
+        "calculations"
       ],
-      "korean": "나는 일보다 건강을 우선시하기로 의식적인 결정을 내렸다."
+      "korean": "강력한 상승세가 _______을 높여 시장에 취약성을 만들었습니다."
     },
     {
       "type": "fill_in_blank",
-      "sentence": "Parents should avoid engaging in power _____ with their children.",
-      "answer": "struggles",
+      "sentence": "The robot vacuum has given me the gift of time and _______ in my busy life.",
+      "answer": "breathing room",
       "options": [
-        "struggles",
-        "fights",
-        "battles",
-        "conflicts"
+        "breathing room",
+        "working space",
+        "living area",
+        "comfort zone"
       ],
-      "korean": "부모들은 아이들과 권력 다툼을 벌이는 것을 피해야 한다."
+      "korean": "로봇청소기가 바쁜 삶에서 시간과 _______을 선물해 주었습니다."
     },
     {
       "type": "fill_in_blank",
-      "sentence": "We need to establish clear _____ for the new project.",
-      "answer": "guidelines",
+      "sentence": "Market _______ and heavy reliance on tech stocks could amplify risks.",
+      "answer": "complacency",
       "options": [
-        "guidelines",
-        "rules",
-        "policies",
-        "standards"
+        "complacency",
+        "complexity",
+        "competency",
+        "compatibility"
       ],
-      "korean": "우리는 새 프로젝트에 대한 명확한 가이드라인을 수립해야 한다."
+      "korean": "시장의 _______과 기술주에 대한 높은 의존도가 위험을 증폭시킬 수 있습니다."
     }
   ],
   "audio": {
-    "입트영": "",
-    "귀트영": ""
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66249&part_seq=26565",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66274&part_seq=26566"
   },
-  "audio_local": {}
+  "audio_local": {
+    "입트영": "audio/입트영_2026-04-14.mp3",
+    "귀트영": "audio/귀트영_2026-04-14.mp3"
+  }
 }

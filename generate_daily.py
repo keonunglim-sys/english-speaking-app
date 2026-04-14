@@ -119,28 +119,22 @@ def load_photo_file(program, date_str):
     """source/ 폴더에서 핸드폰으로 찍은 교재 사진을 찾아 Claude Vision으로 OCR합니다."""
     os.makedirs(SOURCE_DIR, exist_ok=True)
 
-    # 이미지 파일 탐색 (단일/복수 페이지 모두 지원)
-    image_patterns = [
-        os.path.join(SOURCE_DIR, f"{program}_{date_str}.jpg"),
-        os.path.join(SOURCE_DIR, f"{program}_{date_str}.jpeg"),
-        os.path.join(SOURCE_DIR, f"{program}_{date_str}.png"),
-        os.path.join(SOURCE_DIR, f"{program}_{date_str}_*.jpg"),
-        os.path.join(SOURCE_DIR, f"{program}_{date_str}_*.jpeg"),
-        os.path.join(SOURCE_DIR, f"{program}_{date_str}_*.png"),
-    ]
-
-    image_files = []
-    for pattern in image_patterns:
-        matches = sorted(glob.glob(pattern))
-        image_files.extend(matches)
-
-    # 중복 제거
-    seen = set()
+    # 이미지 파일 탐색 - os.listdir() 사용 (macOS 한글 파일명 NFD 호환)
+    prefix = f"{program}_{date_str}"
+    image_exts = {".jpg", ".jpeg", ".png", ".JPG", ".JPEG", ".PNG"}
+    all_files = sorted(os.listdir(SOURCE_DIR))
     unique_images = []
-    for f in image_files:
-        if f not in seen:
-            seen.add(f)
-            unique_images.append(f)
+    for fname in all_files:
+        name, ext = os.path.splitext(fname)
+        if ext not in image_exts:
+            continue
+        # 정확히 prefix이거나 prefix_숫자 형태 (예: 입트영_2026-04-14_1)
+        import unicodedata
+        fname_nfc = unicodedata.normalize("NFC", name)
+        prefix_nfc = unicodedata.normalize("NFC", prefix)
+        if fname_nfc == prefix_nfc or fname_nfc.startswith(prefix_nfc + "_"):
+            unique_images.append(os.path.join(SOURCE_DIR, fname))
+    unique_images = sorted(unique_images)
 
     if not unique_images:
         return None
@@ -148,13 +142,28 @@ def load_photo_file(program, date_str):
     print(f"  사진 파일 발견: {[os.path.basename(f) for f in unique_images]}")
     print(f"  Claude Vision으로 OCR 중...")
 
-    # 이미지 → base64 인코딩
+    # 이미지 → 리사이즈 후 base64 인코딩 (Claude API 제한: 이미지당 5MB)
     content_blocks = []
     for img_path in unique_images:
-        ext = os.path.splitext(img_path)[1].lower()
-        media_type = "image/jpeg" if ext in (".jpg", ".jpeg") else "image/png"
-        with open(img_path, "rb") as f:
-            img_data = base64.standard_b64encode(f.read()).decode("utf-8")
+        try:
+            from PIL import Image as PILImage
+            import io
+            img = PILImage.open(img_path)
+            # 최장변 1568px 이하로 리사이즈
+            max_side = 1568
+            w, h = img.size
+            if max(w, h) > max_side:
+                ratio = max_side / max(w, h)
+                img = img.resize((int(w * ratio), int(h * ratio)), PILImage.LANCZOS)
+            buf = io.BytesIO()
+            img.convert("RGB").save(buf, format="JPEG", quality=85)
+            img_data = base64.standard_b64encode(buf.getvalue()).decode("utf-8")
+            media_type = "image/jpeg"
+        except Exception:
+            ext = os.path.splitext(img_path)[1].lower()
+            media_type = "image/jpeg" if ext in (".jpg", ".jpeg", ".JPG") else "image/png"
+            with open(img_path, "rb") as f:
+                img_data = base64.standard_b64encode(f.read()).decode("utf-8")
         content_blocks.append({
             "type": "image",
             "source": {"type": "base64", "media_type": media_type, "data": img_data},
