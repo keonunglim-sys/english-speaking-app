@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-15",
-  "total_sentences": 9,
+  "last_updated": "2026-04-16",
+  "total_sentences": 12,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -73,6 +73,30 @@
       "korean": "영화 시작 전에 커피를 마시러 갈 계획인데, 같이 갈래요?",
       "category": "daily",
       "grammar_point": "현재진행형(be + -ing)으로 미래 계획 표현하기"
+    },
+    {
+      "id": "2026-04-16_sent_01",
+      "date_added": "2026-04-16",
+      "english": "Could we schedule a hybrid meeting so both remote and in-office team members can participate?",
+      "korean": "재택근무자와 사무실 근무자 모두 참여할 수 있도록 하이브리드 회의로 일정을 잡을 수 있을까요?",
+      "category": "business",
+      "grammar_point": "Could we + 동사원형: 정중한 제안이나 요청을 할 때 사용"
+    },
+    {
+      "id": "2026-04-16_sent_02",
+      "date_added": "2026-04-16",
+      "english": "Our company is implementing new policies to improve work-life balance for all employees.",
+      "korean": "우리 회사는 모든 직원의 워라밸 개선을 위해 새로운 정책을 시행하고 있습니다.",
+      "category": "business",
+      "grammar_point": "현재진행형(is implementing): 현재 진행 중인 변화나 정책을 나타낼 때 사용"
+    },
+    {
+      "id": "2026-04-16_sent_03",
+      "date_added": "2026-04-16",
+      "english": "I'm trying to reduce my carbon footprint by using public transportation more often.",
+      "korean": "대중교통을 더 자주 이용해서 탄소 발자국을 줄이려고 노력하고 있어요.",
+      "category": "daily",
+      "grammar_point": "try to + 동사원형: 노력하거나 시도함을 나타내는 표현"
     }
   ]
 }

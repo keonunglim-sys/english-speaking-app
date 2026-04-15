@@ -1,0 +1,167 @@
+{
+  "date": "2026-04-16",
+  "day_of_week": "목요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Hybrid Work: The New Normal",
+    "text": "Hybrid work has become the new normal for many companies worldwide. This flexible approach combines remote work with office days, giving employees the best of both worlds. Many Korean companies have also adopted this model after experiencing its benefits during the pandemic. Working from home allows for better work-life balance and eliminates commuting time, while office days maintain team collaboration and company culture. However, hybrid work isn't without challenges. Communication gaps can occur when team members are in different locations, and some employees struggle with self-discipline at home. Companies need to invest in proper technology and establish clear guidelines for effective hybrid work. Virtual meetings have become second nature, and digital collaboration tools are essential. The key to successful hybrid work lies in finding the right balance between flexibility and productivity. As we move forward, companies that master this balance will likely attract and retain top talent in the competitive job market.",
+    "korean_summary": "하이브리드 근무가 전 세계적으로 새로운 표준이 되고 있습니다. 이는 재택근무와 사무실 출근을 결합한 유연한 업무 방식으로, 팬데믹 이후 많은 한국 기업들도 도입했습니다. 소통의 어려움과 자기관리 문제 등의 도전이 있지만, 적절한 기술 투자와 명확한 가이드라인을 통해 성공적인 하이브리드 근무가 가능합니다."
+  },
+  "gwitunyeong": {
+    "title": "Global Climate Summit Addresses Carbon Reduction Goals",
+    "text": "World leaders gathered in Dubai this week for the annual Global Climate Summit to discuss accelerated carbon reduction strategies. The conference highlighted the urgent need for countries to meet their 2030 emission targets, with current progress falling short of international agreements. South Korea announced new investments in renewable energy infrastructure, including expanded solar and wind power projects. The summit also focused on green technology innovations and sustainable business practices. Major corporations pledged to achieve carbon neutrality by 2035, five years earlier than previous commitments. However, environmental groups criticized the lack of concrete enforcement mechanisms for these promises. The conference concluded with renewed commitments to phase out fossil fuels gradually while supporting developing nations in their transition to clean energy. Climate experts emphasize that immediate action is crucial to limit global temperature rise to 1.5 degrees Celsius.",
+    "korean_summary": "두바이에서 열린 글로벌 기후 정상회담에서 세계 지도자들이 탄소 감축 전략을 논의했습니다. 한국은 재생에너지 인프라 투자를 발표했고, 주요 기업들은 탄소 중립 달성 목표를 2035년으로 앞당겼습니다. 전문가들은 지구 온도 상승을 1.5도로 제한하기 위한 즉각적인 행동이 필요하다고 강조했습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "work-life balance",
+      "korean": "일과 삶의 균형",
+      "example": "Hybrid work helps employees achieve better work-life balance.",
+      "source": "입트영"
+    },
+    {
+      "english": "second nature",
+      "korean": "자연스러운 것, 몸에 밴 것",
+      "example": "Virtual meetings have become second nature for remote workers.",
+      "source": "입트영"
+    },
+    {
+      "english": "attract and retain talent",
+      "korean": "인재를 유치하고 보유하다",
+      "example": "Companies with flexible policies can attract and retain top talent.",
+      "source": "입트영"
+    },
+    {
+      "english": "establish clear guidelines",
+      "korean": "명확한 가이드라인을 수립하다",
+      "example": "We need to establish clear guidelines for hybrid work policies.",
+      "source": "입트영"
+    },
+    {
+      "english": "carbon reduction strategies",
+      "korean": "탄소 감축 전략",
+      "example": "The summit focused on implementing carbon reduction strategies globally.",
+      "source": "귀트영"
+    },
+    {
+      "english": "fall short of expectations",
+      "korean": "기대에 미치지 못하다",
+      "example": "Current climate progress is falling short of international targets.",
+      "source": "귀트영"
+    },
+    {
+      "english": "phase out gradually",
+      "korean": "단계적으로 폐지하다",
+      "example": "Countries agreed to phase out fossil fuels gradually over the next decade.",
+      "source": "귀트영"
+    },
+    {
+      "english": "renewable energy infrastructure",
+      "korean": "재생에너지 인프라",
+      "example": "Investment in renewable energy infrastructure is crucial for carbon neutrality.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "Could we schedule a hybrid meeting so both remote and in-office team members can participate?",
+      "korean": "재택근무자와 사무실 근무자 모두 참여할 수 있도록 하이브리드 회의로 일정을 잡을 수 있을까요?",
+      "category": "business",
+      "grammar_point": "Could we + 동사원형: 정중한 제안이나 요청을 할 때 사용"
+    },
+    {
+      "english": "Our company is implementing new policies to improve work-life balance for all employees.",
+      "korean": "우리 회사는 모든 직원의 워라밸 개선을 위해 새로운 정책을 시행하고 있습니다.",
+      "category": "business",
+      "grammar_point": "현재진행형(is implementing): 현재 진행 중인 변화나 정책을 나타낼 때 사용"
+    },
+    {
+      "english": "I'm trying to reduce my carbon footprint by using public transportation more often.",
+      "korean": "대중교통을 더 자주 이용해서 탄소 발자국을 줄이려고 노력하고 있어요.",
+      "category": "daily",
+      "grammar_point": "try to + 동사원형: 노력하거나 시도함을 나타내는 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "하이브리드 근무는 직원들에게 더 나은 워라밸을 제공합니다.",
+      "answer": "Hybrid work provides employees with better work-life balance.",
+      "acceptable_keywords": [
+        "hybrid work",
+        "work-life balance",
+        "employees",
+        "provides"
+      ],
+      "hint": "'제공하다'는 provide를 사용하세요"
+    },
+    {
+      "type": "translation",
+      "korean": "우리는 탄소 중립 목표를 달성하기 위해 재생에너지에 투자해야 합니다.",
+      "answer": "We need to invest in renewable energy to achieve carbon neutrality goals.",
+      "acceptable_keywords": [
+        "invest",
+        "renewable energy",
+        "carbon neutrality",
+        "achieve"
+      ],
+      "hint": "'투자하다'는 invest in을 사용하세요"
+    },
+    {
+      "type": "translation",
+      "korean": "많은 기업들이 인재 유치를 위해 유연한 근무 정책을 도입하고 있습니다.",
+      "answer": "Many companies are adopting flexible work policies to attract talent.",
+      "acceptable_keywords": [
+        "companies",
+        "adopting",
+        "flexible",
+        "attract talent"
+      ],
+      "hint": "'도입하다'는 adopt를 사용하세요"
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Virtual meetings have become ___ nature for remote workers.",
+      "answer": "second",
+      "options": [
+        "first",
+        "second",
+        "third",
+        "human"
+      ],
+      "korean": "화상회의는 재택근무자들에게 자연스러운 것이 되었습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Countries need to ___ out fossil fuels gradually to meet climate goals.",
+      "answer": "phase",
+      "options": [
+        "phase",
+        "face",
+        "place",
+        "chase"
+      ],
+      "korean": "각국은 기후 목표 달성을 위해 화석 연료를 단계적으로 폐지해야 합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Current progress is falling ___ of international emission targets.",
+      "answer": "short",
+      "options": [
+        "short",
+        "long",
+        "high",
+        "low"
+      ],
+      "korean": "현재 진전 상황은 국제 배출량 목표에 미치지 못하고 있습니다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66251&part_seq=26565",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66276&part_seq=26566"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-04-16.mp3",
+    "귀트영": "audio/귀트영_2026-04-16.mp3"
+  }
+}
