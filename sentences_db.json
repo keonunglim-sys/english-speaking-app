@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-16",
-  "total_sentences": 12,
+  "last_updated": "2026-04-17",
+  "total_sentences": 15,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -97,6 +97,30 @@
       "korean": "대중교통을 더 자주 이용해서 탄소 발자국을 줄이려고 노력하고 있어요.",
       "category": "daily",
       "grammar_point": "try to + 동사원형: 노력하거나 시도함을 나타내는 표현"
+    },
+    {
+      "id": "2026-04-17_sent_01",
+      "date_added": "2026-04-17",
+      "english": "I need to wrap up this project by the end of the week to meet our quarterly targets.",
+      "korean": "분기 목표를 달성하기 위해 이번 주 말까지 이 프로젝트를 마무리해야 합니다.",
+      "category": "business",
+      "grammar_point": "'need to + 동사원형'으로 필요나 의무를 표현"
+    },
+    {
+      "id": "2026-04-17_sent_02",
+      "date_added": "2026-04-17",
+      "english": "Could you please schedule a follow-up meeting with the client for next Tuesday?",
+      "korean": "다음 화요일에 고객과 후속 미팅을 잡아주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "'Could you please + 동사원형'으로 정중한 요청 표현"
+    },
+    {
+      "id": "2026-04-17_sent_03",
+      "date_added": "2026-04-17",
+      "english": "I'm planning to try that new coffee shop everyone's been talking about this weekend.",
+      "korean": "이번 주말에 모든 사람들이 얘기하고 있는 그 새로운 커피숍에 가볼 계획입니다.",
+      "category": "daily",
+      "grammar_point": "현재진행형(be + ing)으로 미래 계획 표현"
     }
   ]
 }

@@ -1,0 +1,164 @@
+{
+  "date": "2026-04-17",
+  "day_of_week": "금요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Managing Work-Life Balance as a Korean Office Worker",
+    "text": "Achieving work-life balance has become increasingly challenging for Korean office workers. Long working hours and heavy workloads often make it difficult to maintain personal time and relationships. However, I've learned that setting clear boundaries is essential for both productivity and well-being. I make it a point to leave the office by 7 PM whenever possible and avoid checking work emails after hours. On weekends, I dedicate time to hobbies like hiking or reading, which help me recharge for the week ahead. I've also started saying no to unnecessary overtime and focusing on working smarter, not harder. While company culture in Korea still emphasizes dedication through long hours, I believe that a well-rested employee is more creative and efficient. Taking regular breaks during the workday and using my vacation days has actually improved my job performance. Finding this balance isn't easy, but it's crucial for long-term career success and personal happiness.",
+    "korean_summary": "한국 직장인에게 일과 삶의 균형은 점점 어려워지고 있지만, 명확한 경계 설정이 중요합니다. 야근을 피하고 주말에는 취미 생활을 하며 재충전하는 것이 도움이 됩니다. 충분한 휴식을 취한 직원이 더 창의적이고 효율적이며, 장기적인 성공과 행복을 위해서는 균형이 필수적입니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea Introduces Four-Day Work Week Pilot Program",
+    "text": "The South Korean government announced a pilot program to test a four-day work week in select public institutions starting next month. The initiative aims to improve employee well-being and boost productivity amid growing concerns about work-life balance. Under the program, employees will work 32 hours per week while maintaining their current salary levels. Early participants include several municipal offices and public research institutes. Labor experts believe this could be a game-changer for Korea's notoriously demanding work culture, which has long been criticized for excessive overtime and burnout. The program will run for six months, with regular assessments of productivity, employee satisfaction, and public service quality. If successful, the government plans to expand the initiative to more public sector organizations and encourage private companies to adopt similar policies. This move follows similar experiments in countries like Belgium and the UK, where shortened work weeks have shown promising results.",
+    "korean_summary": "한국 정부가 다음 달부터 일부 공공기관에서 주 4일 근무제 시범 사업을 시작한다고 발표했습니다. 이 프로그램은 직원 복지 향상과 생산성 증대를 목표로 하며, 성공할 경우 더 많은 기관으로 확대할 계획입니다."
+  },
+  "key_expressions": [
+    {
+      "english": "set clear boundaries",
+      "korean": "명확한 경계를 설정하다",
+      "example": "It's important to set clear boundaries between work and personal time.",
+      "source": "입트영"
+    },
+    {
+      "english": "work smarter, not harder",
+      "korean": "더 열심히가 아니라 더 똑똑하게 일하다",
+      "example": "Our company motto is to work smarter, not harder, to improve efficiency.",
+      "source": "입트영"
+    },
+    {
+      "english": "recharge for the week ahead",
+      "korean": "다가올 한 주를 위해 재충전하다",
+      "example": "I use weekends to recharge for the week ahead by spending time in nature.",
+      "source": "입트영"
+    },
+    {
+      "english": "long-term career success",
+      "korean": "장기적인 직업적 성공",
+      "example": "Continuous learning is essential for long-term career success in today's market.",
+      "source": "입트영"
+    },
+    {
+      "english": "pilot program",
+      "korean": "시범 사업, 파일럿 프로그램",
+      "example": "The company launched a pilot program to test remote working policies.",
+      "source": "귀트영"
+    },
+    {
+      "english": "game-changer",
+      "korean": "판도를 바꾸는 것, 혁신적 변화",
+      "example": "The new technology could be a real game-changer for the industry.",
+      "source": "귀트영"
+    },
+    {
+      "english": "notoriously demanding",
+      "korean": "악명 높게 까다로운",
+      "example": "The legal profession is notoriously demanding in terms of working hours.",
+      "source": "귀트영"
+    },
+    {
+      "english": "promising results",
+      "korean": "유망한 결과",
+      "example": "The clinical trial showed promising results for the new treatment.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I need to wrap up this project by the end of the week to meet our quarterly targets.",
+      "korean": "분기 목표를 달성하기 위해 이번 주 말까지 이 프로젝트를 마무리해야 합니다.",
+      "category": "business",
+      "grammar_point": "'need to + 동사원형'으로 필요나 의무를 표현"
+    },
+    {
+      "english": "Could you please schedule a follow-up meeting with the client for next Tuesday?",
+      "korean": "다음 화요일에 고객과 후속 미팅을 잡아주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "'Could you please + 동사원형'으로 정중한 요청 표현"
+    },
+    {
+      "english": "I'm planning to try that new coffee shop everyone's been talking about this weekend.",
+      "korean": "이번 주말에 모든 사람들이 얘기하고 있는 그 새로운 커피숍에 가볼 계획입니다.",
+      "category": "daily",
+      "grammar_point": "현재진행형(be + ing)으로 미래 계획 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "일과 개인 시간 사이에 명확한 경계를 설정하는 것이 중요합니다.",
+      "answer": "It's important to set clear boundaries between work and personal time.",
+      "acceptable_keywords": [
+        "boundaries",
+        "work",
+        "personal",
+        "important"
+      ],
+      "hint": "'경계를 설정하다'는 'set boundaries'로 표현하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "정부는 다음 달부터 시범 사업을 시작할 예정입니다.",
+      "answer": "The government plans to start a pilot program next month.",
+      "acceptable_keywords": [
+        "government",
+        "pilot program",
+        "start",
+        "next month"
+      ],
+      "hint": "'시범 사업'은 'pilot program'입니다."
+    },
+    {
+      "type": "translation",
+      "korean": "이 새로운 정책은 업계의 판도를 바꿀 수 있습니다.",
+      "answer": "This new policy could be a game-changer for the industry.",
+      "acceptable_keywords": [
+        "policy",
+        "game-changer",
+        "industry",
+        "could"
+      ],
+      "hint": "'판도를 바꾸는 것'은 'game-changer'로 표현하세요."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "I make it a point to leave the office by 7 PM and avoid checking work ___ after hours.",
+      "answer": "emails",
+      "options": [
+        "emails",
+        "documents",
+        "reports",
+        "messages"
+      ],
+      "korean": "나는 오후 7시까지 사무실을 떠나고 시간 외에는 업무 이메일 확인을 피하려고 노력한다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The program will run for six months with regular ___ of productivity and employee satisfaction.",
+      "answer": "assessments",
+      "options": [
+        "assessments",
+        "meetings",
+        "reports",
+        "reviews"
+      ],
+      "korean": "이 프로그램은 6개월간 진행되며 생산성과 직원 만족도를 정기적으로 평가할 예정이다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Taking regular breaks has actually ___ my job performance significantly.",
+      "answer": "improved",
+      "options": [
+        "improved",
+        "decreased",
+        "maintained",
+        "changed"
+      ],
+      "korean": "정기적으로 휴식을 취하는 것이 실제로 내 업무 성과를 크게 향상시켰다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66252&part_seq=26565",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66277&part_seq=26566"
+  },
+  "audio_local": {}
+}
