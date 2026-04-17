@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-17",
-  "total_sentences": 15,
+  "last_updated": "2026-04-18",
+  "total_sentences": 18,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -121,6 +121,30 @@
       "korean": "이번 주말에 모든 사람들이 얘기하고 있는 그 새로운 커피숍에 가볼 계획입니다.",
       "category": "daily",
       "grammar_point": "현재진행형(be + ing)으로 미래 계획 표현"
+    },
+    {
+      "id": "2026-04-18_sent_01",
+      "date_added": "2026-04-18",
+      "english": "We need to establish clear protocols for remote collaboration to ensure project efficiency.",
+      "korean": "프로젝트 효율성을 보장하기 위해 원격 협업을 위한 명확한 프로토콜을 수립해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형: 필요성을 나타내는 표현"
+    },
+    {
+      "id": "2026-04-18_sent_02",
+      "date_added": "2026-04-18",
+      "english": "Our digital transformation strategy aims to surpass industry benchmarks by next quarter.",
+      "korean": "우리의 디지털 전환 전략은 다음 분기까지 업계 벤치마크를 넘어서는 것을 목표로 합니다.",
+      "category": "business",
+      "grammar_point": "aim to + 동사원형: 목표를 나타내는 표현"
+    },
+    {
+      "id": "2026-04-18_sent_03",
+      "date_added": "2026-04-18",
+      "english": "I always shut down my laptop completely before going to bed to disconnect from work.",
+      "korean": "일로부터 완전히 분리되기 위해 잠자리에 들기 전에는 항상 노트북을 완전히 종료합니다.",
+      "category": "daily",
+      "grammar_point": "before + -ing: ~하기 전에를 나타내는 시간 표현"
     }
   ]
 }
