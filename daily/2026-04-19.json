@@ -1,0 +1,165 @@
+{
+  "date": "2026-04-19",
+  "day_of_week": "일요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Working from Home Challenges",
+    "text": "Working from home has become the new normal for many Korean office workers since the pandemic. While it offers flexibility and eliminates commuting time, it comes with its own set of challenges. The biggest issue I face is maintaining work-life balance. When your bedroom is just a few steps away from your desk, it's tempting to work longer hours or check emails late at night. Another challenge is staying focused during online meetings. Without the physical presence of colleagues, it's easy to get distracted by household chores or personal tasks. Communication has also become more difficult. The casual conversations by the water cooler or quick discussions in hallways are now replaced by scheduled video calls. Despite these challenges, I've learned to create boundaries by setting specific work hours and dedicating a separate space for work. Remote work isn't perfect, but with proper discipline and time management, it can be just as productive as working in a traditional office environment.",
+    "korean_summary": "팬데믹 이후 재택근무가 일반화되면서 많은 한국 직장인들이 새로운 도전에 직면하고 있습니다. 유연성과 출퇴근 시간 절약의 장점이 있지만, 일과 생활의 균형 유지, 집중력 관리, 동료들과의 소통 등에서 어려움을 겪고 있습니다. 하지만 명확한 업무 시간 설정과 전용 업무 공간 마련 등을 통해 효과적으로 재택근무를 할 수 있습니다."
+  },
+  "gwitunyeong": {
+    "title": "Korea's Four-Day Workweek Trial",
+    "text": "South Korea is considering implementing a four-day workweek pilot program in select companies to improve work-life balance and boost productivity. The Ministry of Employment and Labor announced plans to support businesses willing to participate in the trial, which would reduce the standard 52-hour workweek to 32 hours. This initiative comes as Korea struggles with one of the longest working hours among OECD countries and rising mental health concerns among workers. Several European countries, including Belgium and Iceland, have already successfully adopted shorter workweeks, reporting increased employee satisfaction and maintained productivity levels. However, critics argue that Korea's demanding corporate culture and competitive business environment may not be ready for such a drastic change. The pilot program is expected to launch in the second half of 2024, with participating companies receiving government subsidies to offset potential revenue losses during the transition period.",
+    "korean_summary": "한국 정부가 일과 생활의 균형 개선과 생산성 향상을 위해 주 4일 근무제 시범 사업을 검토하고 있다고 발표했습니다. 고용노동부는 참여 기업들을 지원할 계획이며, 2024년 하반기 시행을 목표로 하고 있습니다. 하지만 한국의 기업 문화와 경쟁적 비즈니스 환경에서 성공할 수 있을지에 대한 우려도 제기되고 있습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "maintain work-life balance",
+      "korean": "일과 생활의 균형을 유지하다",
+      "example": "It's challenging to maintain work-life balance when working from home.",
+      "source": "입트영"
+    },
+    {
+      "english": "set specific work hours",
+      "korean": "구체적인 근무 시간을 정하다",
+      "example": "I've learned to set specific work hours to avoid overworking.",
+      "source": "입트영"
+    },
+    {
+      "english": "stay focused during meetings",
+      "korean": "회의 중 집중력을 유지하다",
+      "example": "Using headphones helps me stay focused during online meetings.",
+      "source": "입트영"
+    },
+    {
+      "english": "eliminate commuting time",
+      "korean": "출퇴근 시간을 없애다",
+      "example": "Remote work eliminates commuting time and reduces stress.",
+      "source": "입트영"
+    },
+    {
+      "english": "implement a pilot program",
+      "korean": "시범 프로그램을 실시하다",
+      "example": "The government will implement a pilot program for the four-day workweek.",
+      "source": "귀트영"
+    },
+    {
+      "english": "boost productivity",
+      "korean": "생산성을 높이다",
+      "example": "Flexible working hours can help boost productivity in the workplace.",
+      "source": "귀트영"
+    },
+    {
+      "english": "offset potential losses",
+      "korean": "잠재적 손실을 상쇄하다",
+      "example": "Government subsidies will help offset potential revenue losses.",
+      "source": "귀트영"
+    },
+    {
+      "english": "corporate culture",
+      "korean": "기업 문화",
+      "example": "Korea's demanding corporate culture may resist the four-day workweek.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I'd like to schedule a meeting to discuss our quarterly performance review.",
+      "korean": "분기별 성과 검토를 논의하기 위한 회의 일정을 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to + 동사원형' - 정중한 요청이나 희망 표현"
+    },
+    {
+      "english": "Could you please send me the updated project timeline by Friday?",
+      "korean": "금요일까지 업데이트된 프로젝트 일정표를 보내주시겠습니까?",
+      "category": "business",
+      "grammar_point": "'Could you please + 동사원형' - 공손한 부탁 표현"
+    },
+    {
+      "english": "I'm thinking about redecorating my living room this weekend.",
+      "korean": "이번 주말에 거실을 다시 꾸밀까 생각하고 있어요.",
+      "category": "daily",
+      "grammar_point": "'be thinking about + -ing' - 현재 계획이나 고려 중인 일 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "재택근무는 출퇴근 시간을 절약하지만 일과 생활의 균형을 유지하기 어렵습니다.",
+      "answer": "Working from home saves commuting time but makes it difficult to maintain work-life balance.",
+      "acceptable_keywords": [
+        "working from home",
+        "commuting time",
+        "work-life balance"
+      ],
+      "hint": "'save'와 'maintain' 동사를 사용하세요"
+    },
+    {
+      "type": "translation",
+      "korean": "정부는 주 4일 근무제 시범 사업을 통해 생산성을 높이려고 합니다.",
+      "answer": "The government aims to boost productivity through a four-day workweek pilot program.",
+      "acceptable_keywords": [
+        "government",
+        "boost productivity",
+        "four-day workweek",
+        "pilot program"
+      ],
+      "hint": "'aim to'와 'through' 표현을 활용하세요"
+    },
+    {
+      "type": "translation",
+      "korean": "온라인 회의 중에는 집중력을 유지하기가 더 어려워요.",
+      "answer": "It's harder to stay focused during online meetings.",
+      "acceptable_keywords": [
+        "harder",
+        "stay focused",
+        "online meetings"
+      ],
+      "hint": "'It's + 형용사 + to + 동사원형' 구문을 사용하세요"
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The company decided to _____ a new policy to improve employee satisfaction.",
+      "answer": "implement",
+      "options": [
+        "implement",
+        "eliminate",
+        "maintain",
+        "offset"
+      ],
+      "korean": "회사는 직원 만족도를 향상시키기 위해 새로운 정책을 실시하기로 결정했다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Working from home offers _____ but requires strong self-discipline.",
+      "answer": "flexibility",
+      "options": [
+        "flexibility",
+        "productivity",
+        "difficulty",
+        "challenge"
+      ],
+      "korean": "재택근무는 유연성을 제공하지만 강한 자기 절제가 필요하다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The pilot program aims to _____ the standard working hours from 52 to 32 hours.",
+      "answer": "reduce",
+      "options": [
+        "reduce",
+        "increase",
+        "maintain",
+        "eliminate"
+      ],
+      "korean": "시범 사업은 표준 근무 시간을 52시간에서 32시간으로 줄이는 것을 목표로 한다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66255&part_seq=26565",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66278&part_seq=26566"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-04-19.mp3",
+    "귀트영": "audio/귀트영_2026-04-19.mp3"
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-18",
-  "total_sentences": 18,
+  "last_updated": "2026-04-19",
+  "total_sentences": 21,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -145,6 +145,30 @@
       "korean": "일로부터 완전히 분리되기 위해 잠자리에 들기 전에는 항상 노트북을 완전히 종료합니다.",
       "category": "daily",
       "grammar_point": "before + -ing: ~하기 전에를 나타내는 시간 표현"
+    },
+    {
+      "id": "2026-04-19_sent_01",
+      "date_added": "2026-04-19",
+      "english": "I'd like to schedule a meeting to discuss our quarterly performance review.",
+      "korean": "분기별 성과 검토를 논의하기 위한 회의 일정을 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to + 동사원형' - 정중한 요청이나 희망 표현"
+    },
+    {
+      "id": "2026-04-19_sent_02",
+      "date_added": "2026-04-19",
+      "english": "Could you please send me the updated project timeline by Friday?",
+      "korean": "금요일까지 업데이트된 프로젝트 일정표를 보내주시겠습니까?",
+      "category": "business",
+      "grammar_point": "'Could you please + 동사원형' - 공손한 부탁 표현"
+    },
+    {
+      "id": "2026-04-19_sent_03",
+      "date_added": "2026-04-19",
+      "english": "I'm thinking about redecorating my living room this weekend.",
+      "korean": "이번 주말에 거실을 다시 꾸밀까 생각하고 있어요.",
+      "category": "daily",
+      "grammar_point": "'be thinking about + -ing' - 현재 계획이나 고려 중인 일 표현"
     }
   ]
 }
