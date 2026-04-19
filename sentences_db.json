@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-19",
-  "total_sentences": 21,
+  "last_updated": "2026-04-20",
+  "total_sentences": 24,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -169,6 +169,30 @@
       "korean": "이번 주말에 거실을 다시 꾸밀까 생각하고 있어요.",
       "category": "daily",
       "grammar_point": "'be thinking about + -ing' - 현재 계획이나 고려 중인 일 표현"
+    },
+    {
+      "id": "2026-04-20_sent_01",
+      "date_added": "2026-04-20",
+      "english": "I'd like to schedule a follow-up meeting to discuss the project details.",
+      "korean": "프로젝트 세부사항을 논의하기 위한 후속 회의를 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "would like to + 동사원형: 정중한 요청 표현"
+    },
+    {
+      "id": "2026-04-20_sent_02",
+      "date_added": "2026-04-20",
+      "english": "Could you walk me through the quarterly report findings?",
+      "korean": "분기 보고서 결과를 자세히 설명해 주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "walk through: ~을 차근차근 설명하다"
+    },
+    {
+      "id": "2026-04-20_sent_03",
+      "date_added": "2026-04-20",
+      "english": "I'm planning to catch up with some friends this weekend.",
+      "korean": "이번 주말에 친구들과 시간을 보낼 계획입니다.",
+      "category": "daily",
+      "grammar_point": "catch up with: ~와 시간을 보내다, 근황을 나누다"
     }
   ]
 }
