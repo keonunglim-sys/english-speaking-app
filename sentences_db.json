@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-20",
-  "total_sentences": 24,
+  "last_updated": "2026-04-21",
+  "total_sentences": 27,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -193,6 +193,30 @@
       "korean": "이번 주말에 친구들과 시간을 보낼 계획입니다.",
       "category": "daily",
       "grammar_point": "catch up with: ~와 시간을 보내다, 근황을 나누다"
+    },
+    {
+      "id": "2026-04-21_sent_01",
+      "date_added": "2026-04-21",
+      "english": "I'd like to schedule a follow-up meeting to discuss the project timeline in more detail.",
+      "korean": "프로젝트 일정을 더 자세히 논의하기 위해 후속 회의를 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to + 동사원형' - 정중한 의사 표현"
+    },
+    {
+      "id": "2026-04-21_sent_02",
+      "date_added": "2026-04-21",
+      "english": "Could you please send me the updated report by the end of this week?",
+      "korean": "이번 주말까지 업데이트된 보고서를 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "'Could you please + 동사원형' - 정중한 요청 표현"
+    },
+    {
+      "id": "2026-04-21_sent_03",
+      "date_added": "2026-04-21",
+      "english": "I'm trying to cut down on coffee these days because I've been having trouble sleeping.",
+      "korean": "요즘 잠을 잘 못 자서 커피를 줄이려고 노력하고 있어요.",
+      "category": "daily",
+      "grammar_point": "'cut down on' - ~을 줄이다, 현재완료진행형 활용"
     }
   ]
 }

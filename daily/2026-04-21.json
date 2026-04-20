@@ -1,0 +1,168 @@
+{
+  "date": "2026-04-21",
+  "day_of_week": "화요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Adapting to Hybrid Work Environment",
+    "text": "The pandemic has fundamentally changed how we work. Many Korean companies have embraced hybrid work models, allowing employees to work both from home and in the office. Initially, I was skeptical about this arrangement. I worried about maintaining productivity and staying connected with my colleagues. However, after two years of experience, I've learned to appreciate the flexibility it offers. Working from home has eliminated my lengthy commute and given me more time with my family. I can focus better on complex tasks without office distractions. On office days, I maximize face-to-face interactions and attend important meetings. The key to success in hybrid work is establishing clear boundaries and maintaining consistent communication. I've created a dedicated workspace at home and stick to regular working hours. Technology has become our lifeline – video calls, collaboration tools, and instant messaging keep us connected. While hybrid work isn't perfect, it has taught me to be more adaptable and self-disciplined. I believe this flexibility will remain an essential part of our work culture.",
+    "korean_summary": "팬데믹으로 인해 많은 한국 기업들이 하이브리드 근무 모델을 도입했습니다. 처음에는 생산성과 동료들과의 연결성에 대해 걱정했지만, 2년간의 경험을 통해 이 모델의 유연성을 높이 평가하게 되었습니다. 재택근무는 통근 시간을 절약하고 가족과 더 많은 시간을 보낼 수 있게 해주었으며, 명확한 경계 설정과 일관된 소통이 성공의 핵심이라는 것을 배웠습니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea's Four-Day Work Week Trial",
+    "text": "South Korea has launched a pilot program to test a four-day work week in select companies and government agencies. The initiative aims to improve work-life balance and boost productivity in a country known for its demanding work culture. Participating organizations will reduce weekly working hours from 52 to 32 hours while maintaining the same salary levels. Early results from companies in Belgium and Iceland show promising outcomes, with employees reporting higher job satisfaction and reduced burnout. However, critics worry about potential impacts on economic competitiveness and customer service quality. The Korean government plans to monitor the trial for six months, examining productivity metrics, employee wellness indicators, and overall business performance. If successful, the program could be expanded nationwide, potentially transforming Korea's traditional work culture. Labor unions have expressed strong support for the initiative, while some business groups remain cautious about implementation challenges.",
+    "korean_summary": "한국이 선별된 기업과 정부기관에서 주 4일 근무제 시범 프로그램을 시작했습니다. 이 계획은 일과 삶의 균형을 개선하고 생산성을 높이는 것을 목표로 하며, 주당 근무시간을 52시간에서 32시간으로 줄이되 동일한 급여 수준을 유지합니다. 정부는 6개월간 시범 운영을 모니터링하여 성공 시 전국 확대를 검토할 예정입니다."
+  },
+  "key_expressions": [
+    {
+      "english": "embrace a new model",
+      "korean": "새로운 모델을 받아들이다/도입하다",
+      "example": "Our company decided to embrace a flexible work model after the pandemic.",
+      "source": "입트영"
+    },
+    {
+      "english": "maintain productivity",
+      "korean": "생산성을 유지하다",
+      "example": "The key challenge is to maintain productivity while working remotely.",
+      "source": "입트영"
+    },
+    {
+      "english": "establish clear boundaries",
+      "korean": "명확한 경계를 설정하다",
+      "example": "It's important to establish clear boundaries between work and personal time.",
+      "source": "입트영"
+    },
+    {
+      "english": "maximize face-to-face interactions",
+      "korean": "대면 상호작용을 극대화하다",
+      "example": "During office days, we try to maximize face-to-face interactions with clients.",
+      "source": "입트영"
+    },
+    {
+      "english": "pilot program",
+      "korean": "시범 프로그램",
+      "example": "The government launched a pilot program to test the new policy.",
+      "source": "귀트영"
+    },
+    {
+      "english": "work-life balance",
+      "korean": "일과 삶의 균형",
+      "example": "Many employees prioritize work-life balance when choosing jobs.",
+      "source": "귀트영"
+    },
+    {
+      "english": "promising outcomes",
+      "korean": "유망한/긍정적인 결과",
+      "example": "The research shows promising outcomes for the new treatment.",
+      "source": "귀트영"
+    },
+    {
+      "english": "express strong support",
+      "korean": "강력한 지지를 표명하다",
+      "example": "Union members expressed strong support for the wage increase proposal.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I'd like to schedule a follow-up meeting to discuss the project timeline in more detail.",
+      "korean": "프로젝트 일정을 더 자세히 논의하기 위해 후속 회의를 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to + 동사원형' - 정중한 의사 표현"
+    },
+    {
+      "english": "Could you please send me the updated report by the end of this week?",
+      "korean": "이번 주말까지 업데이트된 보고서를 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "'Could you please + 동사원형' - 정중한 요청 표현"
+    },
+    {
+      "english": "I'm trying to cut down on coffee these days because I've been having trouble sleeping.",
+      "korean": "요즘 잠을 잘 못 자서 커피를 줄이려고 노력하고 있어요.",
+      "category": "daily",
+      "grammar_point": "'cut down on' - ~을 줄이다, 현재완료진행형 활용"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "하이브리드 근무는 직원들에게 더 많은 유연성을 제공합니다.",
+      "answer": "Hybrid work provides employees with more flexibility.",
+      "acceptable_keywords": [
+        "hybrid",
+        "work",
+        "provides",
+        "employees",
+        "flexibility"
+      ],
+      "hint": "'provide A with B' 구문을 사용하세요"
+    },
+    {
+      "type": "translation",
+      "korean": "정부는 새로운 정책의 효과를 6개월간 모니터링할 예정입니다.",
+      "answer": "The government plans to monitor the effects of the new policy for six months.",
+      "acceptable_keywords": [
+        "government",
+        "plans",
+        "monitor",
+        "effects",
+        "policy",
+        "months"
+      ],
+      "hint": "'plan to + 동사원형' 구문을 사용하세요"
+    },
+    {
+      "type": "translation",
+      "korean": "많은 직원들이 업무 스트레스 감소를 보고했습니다.",
+      "answer": "Many employees reported reduced work stress.",
+      "acceptable_keywords": [
+        "employees",
+        "reported",
+        "reduced",
+        "work",
+        "stress"
+      ],
+      "hint": "과거시제와 과거분사 형태에 주의하세요"
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The company decided to _____ a flexible work schedule to improve employee satisfaction.",
+      "answer": "embrace",
+      "options": [
+        "embrace",
+        "reject",
+        "ignore",
+        "postpone"
+      ],
+      "korean": "회사는 직원 만족도를 높이기 위해 유연한 근무 일정을 도입하기로 결정했다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "It's important to establish clear _____ between work and personal life.",
+      "answer": "boundaries",
+      "options": [
+        "boundaries",
+        "connections",
+        "relationships",
+        "meetings"
+      ],
+      "korean": "업무와 개인 생활 사이에 명확한 경계를 설정하는 것이 중요하다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The pilot program showed _____ results in improving work-life balance.",
+      "answer": "promising",
+      "options": [
+        "promising",
+        "disappointing",
+        "confusing",
+        "temporary"
+      ],
+      "korean": "시범 프로그램은 일과 삶의 균형 개선에 있어 유망한 결과를 보여주었다."
+    }
+  ],
+  "audio": {
+    "입트영": "",
+    "귀트영": ""
+  },
+  "audio_local": {}
+}
