@@ -1,0 +1,167 @@
+{
+  "date": "2026-04-22",
+  "day_of_week": "수요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Remote Work Culture in Korean Companies",
+    "text": "The remote work culture has dramatically transformed Korean corporate environments since the pandemic. Initially, many traditional companies were hesitant to embrace flexible working arrangements, but necessity drove rapid adaptation. Today, hybrid work models have become increasingly common, with employees splitting time between home and office.\n\nThis shift has brought both opportunities and challenges. On the positive side, employees enjoy better work-life balance and reduced commuting stress. Companies have discovered that productivity doesn't necessarily decline with remote work. However, maintaining team cohesion and company culture remains difficult. Many managers struggle with performance evaluation and communication in virtual settings.\n\nThe younger generation particularly welcomes this change, viewing flexible work as a key factor in job selection. Meanwhile, senior executives are learning to trust results over physical presence. As we move forward, the most successful companies will be those that find the right balance between flexibility and collaboration, creating work environments that attract top talent while maintaining organizational effectiveness.",
+    "korean_summary": "팬데믹 이후 한국 기업들의 원격근무 문화가 크게 변화했습니다. 처음에는 전통적인 회사들이 유연근무제 도입을 꺼렸지만, 이제는 하이브리드 근무모델이 일반화되고 있습니다. 직원들은 더 나은 워라밸을 누리고 있지만, 팀 결속력 유지와 성과 평가에는 여전히 어려움이 있습니다. 앞으로는 유연성과 협업의 균형을 잘 맞춘 회사가 성공할 것으로 보입니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea Leads Global EV Battery Market",
+    "text": "South Korean battery manufacturers are dominating the global electric vehicle market, with companies like LG Energy Solution, SK On, and Samsung SDI securing major contracts worldwide. Recent data shows Korean firms control approximately 30% of the global EV battery market share, competing closely with Chinese manufacturers.\n\nThe success stems from significant investments in research and development, particularly in lithium-ion technology and next-generation solid-state batteries. Korean companies have established manufacturing facilities across the United States, Europe, and Southeast Asia to meet growing demand and reduce supply chain risks.\n\nHowever, challenges remain as Chinese competitors offer lower prices, while European and American governments push for domestic battery production through subsidies and regulations. The industry expects the competition to intensify as global EV adoption accelerates, making technological innovation and cost efficiency crucial for maintaining market leadership.",
+    "korean_summary": "LG에너지솔루션, SK온, 삼성SDI 등 한국 배터리 제조업체들이 전 세계 전기차 배터리 시장의 약 30%를 점유하며 선두를 달리고 있습니다. 연구개발 투자와 해외 생산기지 확대가 성공 요인으로 분석됩니다. 하지만 중국의 가격 경쟁력과 각국 정부의 자국 생산 장려 정책으로 인한 도전과제도 남아있습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "embrace flexible working arrangements",
+      "korean": "유연근무제를 받아들이다",
+      "example": "Many companies are now embracing flexible working arrangements to attract younger employees.",
+      "source": "입트영"
+    },
+    {
+      "english": "work-life balance",
+      "korean": "일과 삶의 균형, 워라밸",
+      "example": "Achieving a good work-life balance has become a priority for many professionals.",
+      "source": "입트영"
+    },
+    {
+      "english": "maintain team cohesion",
+      "korean": "팀 결속력을 유지하다",
+      "example": "It's challenging to maintain team cohesion when everyone is working remotely.",
+      "source": "입트영"
+    },
+    {
+      "english": "physical presence",
+      "korean": "물리적 존재, 실제 출근",
+      "example": "Some managers still believe that physical presence equals productivity.",
+      "source": "입트영"
+    },
+    {
+      "english": "dominate the market",
+      "korean": "시장을 지배하다",
+      "example": "Korean battery manufacturers are dominating the global EV market.",
+      "source": "귀트영"
+    },
+    {
+      "english": "secure major contracts",
+      "korean": "주요 계약을 확보하다",
+      "example": "The company secured major contracts with European automakers.",
+      "source": "귀트영"
+    },
+    {
+      "english": "supply chain risks",
+      "korean": "공급망 위험",
+      "example": "Companies are diversifying their operations to reduce supply chain risks.",
+      "source": "귀트영"
+    },
+    {
+      "english": "intensify competition",
+      "korean": "경쟁을 심화시키다",
+      "example": "The new regulations will intensify competition in the renewable energy sector.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "We need to schedule a hybrid meeting to accommodate both in-office and remote team members.",
+      "korean": "사무실에 있는 직원들과 재택근무하는 팀원들을 모두 고려해서 하이브리드 회의를 예정해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형으로 필요성 표현"
+    },
+    {
+      "english": "Our company is investing heavily in R&D to stay competitive in the global market.",
+      "korean": "우리 회사는 글로벌 시장에서 경쟁력을 유지하기 위해 연구개발에 많은 투자를 하고 있습니다.",
+      "category": "business",
+      "grammar_point": "현재진행형으로 지속적인 행동 표현"
+    },
+    {
+      "english": "I'm trying to maintain a better work-life balance by not checking emails after 8 PM.",
+      "korean": "저는 오후 8시 이후에는 이메일을 확인하지 않음으로써 더 나은 워라밸을 유지하려고 노력하고 있습니다.",
+      "category": "daily",
+      "grammar_point": "by + -ing 형태로 방법 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "우리 회사는 유연근무제를 도입한 후 직원 만족도가 크게 향상되었습니다.",
+      "answer": "Employee satisfaction has greatly improved since our company introduced flexible working arrangements.",
+      "acceptable_keywords": [
+        "employee satisfaction",
+        "improved",
+        "flexible working",
+        "introduced"
+      ],
+      "hint": "'도입하다'는 'introduce', '향상되다'는 'improve' 사용"
+    },
+    {
+      "type": "translation",
+      "korean": "한국 배터리 제조업체들이 전 세계 전기차 시장을 주도하고 있습니다.",
+      "answer": "Korean battery manufacturers are leading the global electric vehicle market.",
+      "acceptable_keywords": [
+        "Korean battery manufacturers",
+        "leading",
+        "global",
+        "electric vehicle market"
+      ],
+      "hint": "'주도하다'는 'lead' 또는 'dominate' 사용 가능"
+    },
+    {
+      "type": "translation",
+      "korean": "원격근무 환경에서 팀 결속력을 유지하는 것은 매우 어려운 일입니다.",
+      "answer": "Maintaining team cohesion in a remote work environment is very challenging.",
+      "acceptable_keywords": [
+        "maintaining",
+        "team cohesion",
+        "remote work",
+        "challenging"
+      ],
+      "hint": "주어로 동명사(-ing) 사용"
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Companies need to find the right balance between flexibility and _____ to succeed.",
+      "answer": "collaboration",
+      "options": [
+        "competition",
+        "collaboration",
+        "isolation",
+        "regulation"
+      ],
+      "korean": "기업들은 성공하기 위해 유연성과 협업 사이의 적절한 균형을 찾아야 합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The younger generation views flexible work as a key _____ in job selection.",
+      "answer": "factor",
+      "options": [
+        "problem",
+        "factor",
+        "barrier",
+        "mistake"
+      ],
+      "korean": "젊은 세대는 유연근무를 직업 선택의 핵심 요소로 여깁니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Korean firms _____ approximately 30% of the global EV battery market share.",
+      "answer": "control",
+      "options": [
+        "ignore",
+        "control",
+        "abandon",
+        "destroy"
+      ],
+      "korean": "한국 기업들은 전 세계 전기차 배터리 시장 점유율의 약 30%를 차지하고 있습니다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66255&part_seq=26565",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66281&part_seq=26566"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-04-22.mp3",
+    "귀트영": "audio/귀트영_2026-04-22.mp3"
+  }
+}
