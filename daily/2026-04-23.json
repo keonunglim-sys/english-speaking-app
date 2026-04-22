@@ -1,0 +1,163 @@
+{
+  "date": "2026-04-23",
+  "day_of_week": "목요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "The Art of Networking in Business",
+    "text": "Building professional relationships is one of the most valuable skills in today's business world. Many Korean professionals feel nervous about networking, especially when it involves making small talk with strangers. However, effective networking doesn't require being the most outgoing person in the room. The key is to show genuine interest in others and find common ground. Start by preparing a few conversation starters about current industry trends or shared experiences. Listen actively and ask follow-up questions to keep the conversation flowing. Remember that networking is about building mutually beneficial relationships, not just collecting business cards. Quality connections matter more than quantity. Even introverted professionals can excel at networking by focusing on one-on-one conversations rather than working the entire room. The relationships you build today can open doors to opportunities, collaborations, and valuable insights throughout your career. Don't wait for the perfect moment – start building your professional network now.",
+    "korean_summary": "비즈니스 세계에서 인맥 형성은 매우 중요한 스킬입니다. 효과적인 네트워킹은 외향적일 필요 없이 상대방에게 진정한 관심을 보이는 것이 핵심입니다. 양보다는 질 높은 관계를 구축하는 것이 중요하며, 내향적인 사람도 일대일 대화에 집중하면 네트워킹을 잘할 수 있습니다."
+  },
+  "gwitunyeong": {
+    "title": "AI Revolution Transforms Global Workforce",
+    "text": "Artificial intelligence continues to reshape industries worldwide, with both opportunities and challenges emerging for workers across all sectors. Recent studies show that while AI may automate certain routine tasks, it's also creating new job categories that didn't exist five years ago. Companies are increasingly investing in AI training programs to help their employees adapt to this technological shift. South Korea, known for its technological advancement, has announced a national AI strategy that includes reskilling initiatives for workers. Tech giants are reporting that AI-assisted workers are showing increased productivity levels, but concerns about job displacement remain. Experts suggest that the key to thriving in an AI-driven economy is continuous learning and developing skills that complement artificial intelligence rather than compete with it. The transition period requires both government support and individual adaptation to ensure that the benefits of AI technology are shared broadly across society.",
+    "korean_summary": "인공지능이 전 세계 산업을 변화시키고 있으며, 새로운 직업군을 창출하는 동시에 기존 업무를 자동화하고 있습니다. 한국은 근로자 재교육을 포함한 국가 AI 전략을 발표했으며, 전문가들은 AI와 경쟁하기보다는 보완하는 기술을 개발하는 것이 중요하다고 조언합니다."
+  },
+  "key_expressions": [
+    {
+      "english": "make small talk",
+      "korean": "가벼운 대화를 나누다",
+      "example": "I'm not good at making small talk with new colleagues at office parties.",
+      "source": "입트영"
+    },
+    {
+      "english": "find common ground",
+      "korean": "공통점을 찾다",
+      "example": "We were able to find common ground by discussing our shared interest in sustainable business practices.",
+      "source": "입트영"
+    },
+    {
+      "english": "mutually beneficial",
+      "korean": "상호 이익이 되는",
+      "example": "The partnership turned out to be mutually beneficial for both companies.",
+      "source": "입트영"
+    },
+    {
+      "english": "work the room",
+      "korean": "행사장을 돌며 인사하다",
+      "example": "The CEO spent the entire evening working the room at the industry conference.",
+      "source": "입트영"
+    },
+    {
+      "english": "reshape industries",
+      "korean": "산업을 재편하다",
+      "example": "Digital transformation is reshaping industries at an unprecedented pace.",
+      "source": "귀트영"
+    },
+    {
+      "english": "job displacement",
+      "korean": "일자리 대체",
+      "example": "The company addressed concerns about job displacement due to automation.",
+      "source": "귀트영"
+    },
+    {
+      "english": "reskilling initiatives",
+      "korean": "재교육 계획",
+      "example": "The government launched reskilling initiatives to prepare workers for the digital economy.",
+      "source": "귀트영"
+    },
+    {
+      "english": "complement rather than compete",
+      "korean": "경쟁보다는 보완하다",
+      "example": "Human creativity should complement rather than compete with AI capabilities.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I'd like to schedule a follow-up meeting to discuss the project timeline in more detail.",
+      "korean": "프로젝트 일정에 대해 더 자세히 논의하기 위한 후속 미팅을 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to + 동사원형' 구조로 정중한 요청 표현"
+    },
+    {
+      "english": "Our team needs to pivot our strategy based on the latest market research findings.",
+      "korean": "우리 팀은 최신 시장 조사 결과를 바탕으로 전략을 전환해야 합니다.",
+      "category": "business",
+      "grammar_point": "'based on' - ~을 바탕으로, ~에 근거하여"
+    },
+    {
+      "english": "I'm trying to cut back on coffee, so I've been drinking green tea instead.",
+      "korean": "커피를 줄이려고 해서 대신 녹차를 마시고 있어요.",
+      "category": "daily",
+      "grammar_point": "'cut back on' - ~을 줄이다, 'instead' - 대신에"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "저는 새로운 동료들과 가벼운 대화를 나누는 것이 어려워요.",
+      "answer": "I find it difficult to make small talk with new colleagues.",
+      "acceptable_keywords": [
+        "difficult",
+        "small talk",
+        "colleagues"
+      ],
+      "hint": "'가벼운 대화'는 'small talk'로 표현합니다."
+    },
+    {
+      "type": "translation",
+      "korean": "인공지능이 많은 산업을 재편하고 있습니다.",
+      "answer": "Artificial intelligence is reshaping many industries.",
+      "acceptable_keywords": [
+        "artificial intelligence",
+        "reshaping",
+        "industries"
+      ],
+      "hint": "'재편하다'는 'reshape'로 표현할 수 있습니다."
+    },
+    {
+      "type": "translation",
+      "korean": "우리는 상호 이익이 되는 파트너십을 구축했습니다.",
+      "answer": "We built a mutually beneficial partnership.",
+      "acceptable_keywords": [
+        "mutually beneficial",
+        "partnership"
+      ],
+      "hint": "'상호 이익이 되는'은 'mutually beneficial'입니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The key to successful networking is to show genuine _____ in others.",
+      "answer": "interest",
+      "options": [
+        "interest",
+        "concern",
+        "attention",
+        "focus"
+      ],
+      "korean": "성공적인 네트워킹의 핵심은 다른 사람들에게 진정한 관심을 보이는 것입니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Companies are investing in AI training programs to help employees _____ to technological changes.",
+      "answer": "adapt",
+      "options": [
+        "adapt",
+        "adopt",
+        "adjust",
+        "accept"
+      ],
+      "korean": "기업들은 직원들이 기술적 변화에 적응할 수 있도록 AI 교육 프로그램에 투자하고 있습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Quality connections matter more than _____ when building professional relationships.",
+      "answer": "quantity",
+      "options": [
+        "quantity",
+        "quality",
+        "frequency",
+        "intensity"
+      ],
+      "korean": "전문적인 관계를 구축할 때 양보다는 질 높은 관계가 더 중요합니다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66256&part_seq=26565",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66282&part_seq=26566"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-04-23.mp3",
+    "귀트영": "audio/귀트영_2026-04-23.mp3"
+  }
+}

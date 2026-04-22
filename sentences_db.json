@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-22",
-  "total_sentences": 30,
+  "last_updated": "2026-04-23",
+  "total_sentences": 33,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -241,6 +241,30 @@
       "korean": "저는 오후 8시 이후에는 이메일을 확인하지 않음으로써 더 나은 워라밸을 유지하려고 노력하고 있습니다.",
       "category": "daily",
       "grammar_point": "by + -ing 형태로 방법 표현"
+    },
+    {
+      "id": "2026-04-23_sent_01",
+      "date_added": "2026-04-23",
+      "english": "I'd like to schedule a follow-up meeting to discuss the project timeline in more detail.",
+      "korean": "프로젝트 일정에 대해 더 자세히 논의하기 위한 후속 미팅을 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to + 동사원형' 구조로 정중한 요청 표현"
+    },
+    {
+      "id": "2026-04-23_sent_02",
+      "date_added": "2026-04-23",
+      "english": "Our team needs to pivot our strategy based on the latest market research findings.",
+      "korean": "우리 팀은 최신 시장 조사 결과를 바탕으로 전략을 전환해야 합니다.",
+      "category": "business",
+      "grammar_point": "'based on' - ~을 바탕으로, ~에 근거하여"
+    },
+    {
+      "id": "2026-04-23_sent_03",
+      "date_added": "2026-04-23",
+      "english": "I'm trying to cut back on coffee, so I've been drinking green tea instead.",
+      "korean": "커피를 줄이려고 해서 대신 녹차를 마시고 있어요.",
+      "category": "daily",
+      "grammar_point": "'cut back on' - ~을 줄이다, 'instead' - 대신에"
     }
   ]
 }
