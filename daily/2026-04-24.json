@@ -1,0 +1,168 @@
+{
+  "date": "2026-04-24",
+  "day_of_week": "금요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Building Professional Relationships Through Small Talk",
+    "text": "Many Korean professionals struggle with small talk in the workplace, often viewing it as unnecessary chatter. However, mastering the art of casual conversation is crucial for career advancement and building meaningful professional relationships. Small talk serves as a bridge between formal business discussions and personal connections. It helps break the ice before important meetings and creates a more comfortable atmosphere for collaboration. The key is to find common ground with colleagues through topics like weekend plans, current events, or shared interests. For instance, asking 'How was your weekend?' or commenting on the weather might seem trivial, but these interactions build trust and rapport over time. Effective small talk also demonstrates emotional intelligence and cultural awareness, which are highly valued in today's global business environment. Rather than jumping straight into work-related topics, taking a few minutes for genuine conversation can make colleagues feel valued and respected. This investment in relationships often pays dividends when you need support on projects or are seeking new opportunities within the company.",
+    "korean_summary": "많은 한국 직장인들이 직장에서의 잡담을 어려워하지만, 이는 경력 발전과 의미 있는 직업적 관계 형성에 매우 중요합니다. 잡담은 공식적인 업무 논의와 개인적 유대감 사이의 다리 역할을 하며, 동료들과의 신뢰와 친밀감을 쌓는 데 도움이 됩니다. 진정성 있는 대화에 시간을 투자하면 프로젝트 지원이나 새로운 기회를 찾을 때 큰 도움이 됩니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea's Four-Day Work Week Trial Gains Momentum",
+    "text": "South Korea is piloting a four-day work week program across various industries as part of efforts to improve work-life balance and boost productivity. The initiative, launched by the Ministry of Employment and Labor, involves over 100 companies experimenting with reduced working hours while maintaining employee wages. Early results show promising outcomes, with participating companies reporting increased job satisfaction and reduced employee turnover rates. Workers have expressed greater enthusiasm for their jobs and improved mental health. However, some challenges remain, particularly in client-facing industries where customer expectations must be managed carefully. Companies are adopting flexible approaches, with some implementing shorter daily hours while others offer extended weekends. The program comes as South Korea grapples with one of the world's longest working hours and seeks to address declining birth rates linked to work stress. If successful, the pilot program could lead to nationwide policy changes, potentially revolutionizing Korea's traditional work culture and setting an example for other countries facing similar workplace challenges.",
+    "korean_summary": "한국이 일과 삶의 균형 개선과 생산성 향상을 위해 주 4일 근무제 시범 프로그램을 실시하고 있습니다. 100여 개 기업이 참여하는 이 프로그램은 초기 결과에서 직무 만족도 증가와 이직률 감소 등 긍정적 성과를 보이고 있습니다. 성공할 경우 전국적인 정책 변화로 이어져 한국의 전통적인 근무 문화를 혁신할 수 있을 것으로 기대됩니다."
+  },
+  "key_expressions": [
+    {
+      "english": "break the ice",
+      "korean": "분위기를 부드럽게 하다, 어색함을 깨뜨리다",
+      "example": "I used a joke to break the ice at the beginning of the presentation.",
+      "source": "입트영"
+    },
+    {
+      "english": "find common ground",
+      "korean": "공통점을 찾다, 접점을 찾다",
+      "example": "We need to find common ground to resolve this conflict.",
+      "source": "입트영"
+    },
+    {
+      "english": "pay dividends",
+      "korean": "보상을 받다, 성과를 거두다",
+      "example": "Your hard work on this project will pay dividends in the long run.",
+      "source": "입트영"
+    },
+    {
+      "english": "emotional intelligence",
+      "korean": "감정 지능, 정서적 지능",
+      "example": "Leaders with high emotional intelligence are more effective at managing teams.",
+      "source": "입트영"
+    },
+    {
+      "english": "gain momentum",
+      "korean": "탄력을 받다, 추진력을 얻다",
+      "example": "The environmental movement is gaining momentum worldwide.",
+      "source": "귀트영"
+    },
+    {
+      "english": "work-life balance",
+      "korean": "일과 삶의 균형",
+      "example": "Many companies are prioritizing work-life balance to retain talent.",
+      "source": "귀트영"
+    },
+    {
+      "english": "employee turnover rate",
+      "korean": "직원 이직률",
+      "example": "The company reduced its employee turnover rate by 30% this year.",
+      "source": "귀트영"
+    },
+    {
+      "english": "grapple with",
+      "korean": "씨름하다, 고심하다",
+      "example": "The government is grappling with rising inflation rates.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I'd like to schedule a follow-up meeting to discuss the project timeline.",
+      "korean": "프로젝트 일정을 논의하기 위한 후속 미팅을 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to'는 정중한 요청을 표현할 때 사용하는 표현"
+    },
+    {
+      "english": "Could you please send me the quarterly report by Friday?",
+      "korean": "금요일까지 분기 보고서를 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "'Could you please'는 정중한 부탁을 할 때 사용하는 표현"
+    },
+    {
+      "english": "I'm planning to take a cooking class this weekend to learn new recipes.",
+      "korean": "이번 주말에 새로운 요리법을 배우기 위해 요리 수업을 들을 예정입니다.",
+      "category": "daily",
+      "grammar_point": "현재진행형으로 미래 계획을 표현하는 용법"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "우리는 이 갈등을 해결하기 위해 공통점을 찾아야 합니다.",
+      "answer": "We need to find common ground to resolve this conflict.",
+      "acceptable_keywords": [
+        "find",
+        "common ground",
+        "resolve",
+        "conflict"
+      ],
+      "hint": "'공통점을 찾다'는 'find common ground'로 표현합니다."
+    },
+    {
+      "type": "translation",
+      "korean": "많은 회사들이 인재를 유지하기 위해 일과 삶의 균형을 우선시하고 있습니다.",
+      "answer": "Many companies are prioritizing work-life balance to retain talent.",
+      "acceptable_keywords": [
+        "companies",
+        "prioritizing",
+        "work-life balance",
+        "retain",
+        "talent"
+      ],
+      "hint": "'우선시하다'는 'prioritize'로 표현합니다."
+    },
+    {
+      "type": "translation",
+      "korean": "정부가 상승하는 인플레이션율과 씨름하고 있습니다.",
+      "answer": "The government is grappling with rising inflation rates.",
+      "acceptable_keywords": [
+        "government",
+        "grappling",
+        "rising",
+        "inflation"
+      ],
+      "hint": "'씨름하다'는 'grapple with'로 표현합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "I used a joke to ___ ___ ___ at the beginning of the presentation.",
+      "answer": "break the ice",
+      "options": [
+        "break the ice",
+        "make the point",
+        "take the lead",
+        "set the tone"
+      ],
+      "korean": "발표 시작 부분에서 분위기를 부드럽게 하기 위해 농담을 했습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The environmental movement is ___ ___ worldwide.",
+      "answer": "gaining momentum",
+      "options": [
+        "gaining momentum",
+        "losing ground",
+        "making progress",
+        "taking shape"
+      ],
+      "korean": "환경 운동이 전 세계적으로 탄력을 받고 있습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Leaders with high ___ ___ are more effective at managing teams.",
+      "answer": "emotional intelligence",
+      "options": [
+        "emotional intelligence",
+        "technical skills",
+        "business knowledge",
+        "communication ability"
+      ],
+      "korean": "높은 감정 지능을 가진 리더들이 팀 관리에 더 효과적입니다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66257&part_seq=26565",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66283&part_seq=26566"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-04-24.mp3",
+    "귀트영": "audio/귀트영_2026-04-24.mp3"
+  }
+}

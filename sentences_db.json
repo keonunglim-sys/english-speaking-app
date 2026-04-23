@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-23",
-  "total_sentences": 33,
+  "last_updated": "2026-04-24",
+  "total_sentences": 36,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -265,6 +265,30 @@
       "korean": "커피를 줄이려고 해서 대신 녹차를 마시고 있어요.",
       "category": "daily",
       "grammar_point": "'cut back on' - ~을 줄이다, 'instead' - 대신에"
+    },
+    {
+      "id": "2026-04-24_sent_01",
+      "date_added": "2026-04-24",
+      "english": "I'd like to schedule a follow-up meeting to discuss the project timeline.",
+      "korean": "프로젝트 일정을 논의하기 위한 후속 미팅을 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to'는 정중한 요청을 표현할 때 사용하는 표현"
+    },
+    {
+      "id": "2026-04-24_sent_02",
+      "date_added": "2026-04-24",
+      "english": "Could you please send me the quarterly report by Friday?",
+      "korean": "금요일까지 분기 보고서를 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "'Could you please'는 정중한 부탁을 할 때 사용하는 표현"
+    },
+    {
+      "id": "2026-04-24_sent_03",
+      "date_added": "2026-04-24",
+      "english": "I'm planning to take a cooking class this weekend to learn new recipes.",
+      "korean": "이번 주말에 새로운 요리법을 배우기 위해 요리 수업을 들을 예정입니다.",
+      "category": "daily",
+      "grammar_point": "현재진행형으로 미래 계획을 표현하는 용법"
     }
   ]
 }
