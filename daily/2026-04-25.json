@@ -1,0 +1,163 @@
+{
+  "date": "2026-04-25",
+  "day_of_week": "토요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "The Art of Remote Work Communication",
+    "text": "Working from home has fundamentally changed how we communicate with our colleagues. Gone are the days when we could simply walk over to someone's desk for a quick chat. Now, every interaction requires deliberate planning and digital tools. I've learned that successful remote communication isn't just about having the right technology – it's about developing new social skills. For instance, I now start every video call with a few minutes of casual conversation to maintain personal connections. I've also discovered the importance of being more explicit in my written communication. What might have been a simple nod of understanding in person now requires a clear \"Got it, thanks!\" message. One of the biggest challenges is reading the room during virtual meetings. Without the subtle body language cues we rely on in face-to-face interactions, I've had to become more direct in asking for feedback and ensuring everyone's voice is heard. Despite these challenges, remote work has taught me to be more intentional and thoughtful in my professional relationships.",
+    "korean_summary": "재택근무로 인해 동료들과의 소통 방식이 근본적으로 변화했습니다. 성공적인 원격 소통은 기술뿐만 아니라 새로운 사회적 기술을 개발하는 것이 중요합니다. 화상회의에서는 몸짓 언어를 읽기 어려워 더 직접적인 소통이 필요하며, 원격근무를 통해 더 의도적이고 신중한 업무 관계를 형성하게 되었습니다."
+  },
+  "gwitunyeong": {
+    "title": "AI Chatbots Transform Customer Service Industry",
+    "text": "Major corporations are increasingly adopting AI-powered chatbots to revolutionize their customer service operations. According to recent industry reports, companies using advanced chatbot technology have seen a 40% reduction in response time and a 25% increase in customer satisfaction scores. These intelligent systems can now handle complex queries, process multiple languages, and provide personalized recommendations based on customer history. However, the transition hasn't been without challenges. Some customers still prefer human interaction for sensitive issues, leading companies to implement hybrid models that combine AI efficiency with human empathy. Technology giants like Microsoft and Google are investing billions in improving natural language processing capabilities, making chatbots more conversational and context-aware. Industry experts predict that by 2025, AI chatbots will handle over 80% of routine customer inquiries, allowing human agents to focus on more complex problem-solving tasks.",
+    "korean_summary": "주요 기업들이 고객 서비스 운영을 혁신하기 위해 AI 챗봇을 도입하고 있습니다. 이러한 기술로 응답 시간이 40% 단축되고 고객 만족도가 25% 증가했으며, 2025년까지 AI 챗봇이 일상적인 고객 문의의 80% 이상을 처리할 것으로 예상됩니다."
+  },
+  "key_expressions": [
+    {
+      "english": "read the room",
+      "korean": "분위기를 파악하다",
+      "example": "It's important to read the room before making controversial suggestions in meetings.",
+      "source": "입트영"
+    },
+    {
+      "english": "walk over to someone's desk",
+      "korean": "누군가의 책상으로 걸어가다",
+      "example": "I used to walk over to my colleague's desk whenever I had questions.",
+      "source": "입트영"
+    },
+    {
+      "english": "deliberate planning",
+      "korean": "의도적인 계획",
+      "example": "Remote work success requires deliberate planning of all communications.",
+      "source": "입트영"
+    },
+    {
+      "english": "ensure everyone's voice is heard",
+      "korean": "모든 사람의 의견이 들릴 수 있도록 하다",
+      "example": "As a team leader, I try to ensure everyone's voice is heard during discussions.",
+      "source": "입트영"
+    },
+    {
+      "english": "revolutionize operations",
+      "korean": "운영을 혁신하다",
+      "example": "The new software will revolutionize our manufacturing operations.",
+      "source": "귀트영"
+    },
+    {
+      "english": "hybrid model",
+      "korean": "하이브리드 모델",
+      "example": "Many companies are adopting a hybrid model that combines remote and office work.",
+      "source": "귀트영"
+    },
+    {
+      "english": "context-aware",
+      "korean": "맥락을 인식하는",
+      "example": "Modern AI systems are becoming more context-aware and intelligent.",
+      "source": "귀트영"
+    },
+    {
+      "english": "routine inquiries",
+      "korean": "일상적인 문의",
+      "example": "Our chatbot can handle most routine inquiries without human intervention.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I need to schedule a follow-up meeting to discuss the project timeline.",
+      "korean": "프로젝트 일정을 논의하기 위한 후속 회의를 예약해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형 (필요성 표현)"
+    },
+    {
+      "english": "Could you please clarify the requirements for this proposal?",
+      "korean": "이 제안서의 요구사항을 명확히 해주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "Could you please + 동사원형 (정중한 요청)"
+    },
+    {
+      "english": "I'm planning to catch up with some old friends this weekend.",
+      "korean": "이번 주말에 오랜 친구들과 안부를 나눌 계획입니다.",
+      "category": "daily",
+      "grammar_point": "be planning to + 동사원형 (계획 표현)"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "원격근무는 우리의 소통 방식을 근본적으로 바꿔놓았다.",
+      "answer": "Remote work has fundamentally changed our communication methods.",
+      "acceptable_keywords": [
+        "remote work",
+        "fundamentally",
+        "changed",
+        "communication"
+      ],
+      "hint": "'근본적으로'는 'fundamentally'로 표현"
+    },
+    {
+      "type": "translation",
+      "korean": "AI 챗봇은 고객 서비스 업계를 혁신하고 있다.",
+      "answer": "AI chatbots are revolutionizing the customer service industry.",
+      "acceptable_keywords": [
+        "AI chatbots",
+        "revolutionizing",
+        "customer service",
+        "industry"
+      ],
+      "hint": "'혁신하다'는 'revolutionize' 동사 사용"
+    },
+    {
+      "type": "translation",
+      "korean": "회의 분위기를 파악하는 것이 중요하다.",
+      "answer": "It's important to read the room during meetings.",
+      "acceptable_keywords": [
+        "important",
+        "read the room",
+        "meetings"
+      ],
+      "hint": "'분위기를 파악하다'는 'read the room' 표현"
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Companies are implementing ___ models that combine AI with human support.",
+      "answer": "hybrid",
+      "options": [
+        "hybrid",
+        "simple",
+        "complex",
+        "traditional"
+      ],
+      "korean": "기업들은 AI와 인간 지원을 결합한 ___ 모델을 구현하고 있다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Every interaction now requires ___ planning and digital tools.",
+      "answer": "deliberate",
+      "options": [
+        "deliberate",
+        "automatic",
+        "simple",
+        "random"
+      ],
+      "korean": "이제 모든 상호작용에는 ___ 계획과 디지털 도구가 필요하다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "AI systems are becoming more ___ and can understand context better.",
+      "answer": "context-aware",
+      "options": [
+        "context-aware",
+        "user-friendly",
+        "cost-effective",
+        "time-saving"
+      ],
+      "korean": "AI 시스템은 더욱 ___해지고 있으며 맥락을 더 잘 이해할 수 있다."
+    }
+  ],
+  "audio": {
+    "입트영": "",
+    "귀트영": ""
+  },
+  "audio_local": {}
+}
