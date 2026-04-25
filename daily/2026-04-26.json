@@ -1,0 +1,167 @@
+{
+  "date": "2026-04-26",
+  "day_of_week": "일요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Work-Life Balance Strategies",
+    "text": "Maintaining a healthy work-life balance has become increasingly challenging for Korean office workers. With long working hours and high expectations, many employees struggle to find time for personal activities and family. However, establishing boundaries is crucial for both mental health and productivity. One effective strategy is to set specific work hours and stick to them. This means avoiding checking emails after a certain time and delegating tasks when possible. Additionally, scheduling regular breaks throughout the day can help maintain focus and prevent burnout. Companies are also recognizing the importance of employee well-being by implementing flexible work arrangements and promoting vacation time. Taking time for hobbies, exercise, and social connections outside of work isn't selfish—it's necessary. When we're well-rested and fulfilled personally, we perform better professionally. The key is to remember that work is just one aspect of life, not the entire purpose of it.",
+    "korean_summary": "한국 직장인들에게 워라밸 유지가 점점 어려워지고 있습니다. 명확한 업무 경계 설정과 정기적인 휴식이 중요하며, 개인적인 충실함이 오히려 업무 성과 향상에 도움이 됩니다. 일은 인생의 한 부분일 뿐, 전부가 아니라는 점을 기억해야 합니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea Leads Global Digital Innovation",
+    "text": "South Korea continues to rank among the world's most digitally advanced nations, according to recent international studies. The country's rapid adoption of 5G technology and widespread high-speed internet access have transformed daily life and business operations. Mobile payment systems are now ubiquitous, with over 90% of transactions conducted digitally. The government's substantial investment in digital infrastructure has enabled remote work capabilities and smart city initiatives across major metropolitan areas. Korean tech companies are expanding globally, particularly in semiconductors and telecommunications equipment. However, experts warn about the digital divide affecting elderly populations and rural communities. The Ministry of Science and ICT has announced new programs to bridge this gap through digital literacy education and improved rural connectivity. As other nations study Korea's digital transformation model, the focus remains on sustainable innovation and inclusive growth.",
+    "korean_summary": "한국이 5G 기술과 디지털 결제 시스템 등으로 세계적인 디지털 선진국으로 인정받고 있습니다. 정부는 고령층과 농촌 지역의 디지털 격차 해소를 위한 새로운 프로그램을 발표했습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "establish boundaries",
+      "korean": "경계를 설정하다",
+      "example": "It's important to establish boundaries between work and personal time.",
+      "source": "입트영"
+    },
+    {
+      "english": "prevent burnout",
+      "korean": "번아웃을 방지하다",
+      "example": "Regular exercise and hobbies can help prevent burnout at work.",
+      "source": "입트영"
+    },
+    {
+      "english": "flexible work arrangements",
+      "korean": "유연한 근무 형태",
+      "example": "Many companies now offer flexible work arrangements to attract talent.",
+      "source": "입트영"
+    },
+    {
+      "english": "well-rested and fulfilled",
+      "korean": "충분히 휴식을 취하고 만족스러운",
+      "example": "Employees who are well-rested and fulfilled tend to be more creative.",
+      "source": "입트영"
+    },
+    {
+      "english": "widespread adoption",
+      "korean": "광범위한 채택/도입",
+      "example": "The widespread adoption of smartphones has changed communication patterns.",
+      "source": "귀트영"
+    },
+    {
+      "english": "ubiquitous",
+      "korean": "어디에나 있는, 편재하는",
+      "example": "Mobile payments have become ubiquitous in Korean society.",
+      "source": "귀트영"
+    },
+    {
+      "english": "bridge the gap",
+      "korean": "격차를 해소하다",
+      "example": "Education programs aim to bridge the gap in digital literacy.",
+      "source": "귀트영"
+    },
+    {
+      "english": "sustainable innovation",
+      "korean": "지속 가능한 혁신",
+      "example": "The government focuses on sustainable innovation rather than rapid growth alone.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I need to delegate some of these tasks to meet the deadline.",
+      "korean": "마감일을 맞추기 위해 이 업무들 중 일부를 위임해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형 (필요성 표현)"
+    },
+    {
+      "english": "Our company is implementing flexible work arrangements starting next month.",
+      "korean": "우리 회사는 다음 달부터 유연한 근무 제도를 도입할 예정입니다.",
+      "category": "business",
+      "grammar_point": "현재진행형으로 미래 계획 표현"
+    },
+    {
+      "english": "I'm trying to establish better boundaries between work and personal life.",
+      "korean": "일과 개인 생활 사이에 더 나은 경계를 설정하려고 노력하고 있습니다.",
+      "category": "daily",
+      "grammar_point": "try to + 동사원형 (노력하는 행동)"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "번아웃을 방지하기 위해 정기적인 휴식이 필요합니다.",
+      "answer": "Regular breaks are necessary to prevent burnout.",
+      "acceptable_keywords": [
+        "regular",
+        "breaks",
+        "prevent",
+        "burnout"
+      ],
+      "hint": "'prevent burnout' 표현을 사용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "디지털 결제 시스템이 이제 어디에서나 볼 수 있습니다.",
+      "answer": "Digital payment systems are now ubiquitous.",
+      "acceptable_keywords": [
+        "digital",
+        "payment",
+        "ubiquitous"
+      ],
+      "hint": "'어디에나 있는'은 'ubiquitous'로 표현합니다."
+    },
+    {
+      "type": "translation",
+      "korean": "정부는 디지털 격차를 해소하기 위한 새로운 프로그램을 발표했습니다.",
+      "answer": "The government announced new programs to bridge the digital gap.",
+      "acceptable_keywords": [
+        "government",
+        "announced",
+        "bridge",
+        "digital",
+        "gap"
+      ],
+      "hint": "'격차를 해소하다'는 'bridge the gap'입니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "It's important to establish ___ between work and personal time.",
+      "answer": "boundaries",
+      "options": [
+        "boundaries",
+        "connections",
+        "relationships",
+        "distances"
+      ],
+      "korean": "일과 개인 시간 사이에 경계를 설정하는 것이 중요합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The ___ adoption of smartphones has changed our daily lives.",
+      "answer": "widespread",
+      "options": [
+        "widespread",
+        "limited",
+        "partial",
+        "selective"
+      ],
+      "korean": "스마트폰의 광범위한 보급이 우리의 일상을 바꿔놓았습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Companies are offering ___ work arrangements to attract employees.",
+      "answer": "flexible",
+      "options": [
+        "flexible",
+        "rigid",
+        "traditional",
+        "standard"
+      ],
+      "korean": "회사들이 직원들을 유치하기 위해 유연한 근무 형태를 제공하고 있습니다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66261&part_seq=26565",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66284&part_seq=26566"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-04-26.mp3",
+    "귀트영": "audio/귀트영_2026-04-26.mp3"
+  }
+}

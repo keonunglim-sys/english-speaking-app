@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-25",
-  "total_sentences": 39,
+  "last_updated": "2026-04-26",
+  "total_sentences": 42,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -313,6 +313,30 @@
       "korean": "이번 주말에 오랜 친구들과 안부를 나눌 계획입니다.",
       "category": "daily",
       "grammar_point": "be planning to + 동사원형 (계획 표현)"
+    },
+    {
+      "id": "2026-04-26_sent_01",
+      "date_added": "2026-04-26",
+      "english": "I need to delegate some of these tasks to meet the deadline.",
+      "korean": "마감일을 맞추기 위해 이 업무들 중 일부를 위임해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형 (필요성 표현)"
+    },
+    {
+      "id": "2026-04-26_sent_02",
+      "date_added": "2026-04-26",
+      "english": "Our company is implementing flexible work arrangements starting next month.",
+      "korean": "우리 회사는 다음 달부터 유연한 근무 제도를 도입할 예정입니다.",
+      "category": "business",
+      "grammar_point": "현재진행형으로 미래 계획 표현"
+    },
+    {
+      "id": "2026-04-26_sent_03",
+      "date_added": "2026-04-26",
+      "english": "I'm trying to establish better boundaries between work and personal life.",
+      "korean": "일과 개인 생활 사이에 더 나은 경계를 설정하려고 노력하고 있습니다.",
+      "category": "daily",
+      "grammar_point": "try to + 동사원형 (노력하는 행동)"
     }
   ]
 }
