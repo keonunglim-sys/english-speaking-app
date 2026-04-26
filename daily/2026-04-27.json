@@ -1,0 +1,167 @@
+{
+  "date": "2026-04-27",
+  "day_of_week": "월요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Finding Work-Life Balance in Korea",
+    "text": "Achieving work-life balance has become increasingly important for Korean office workers. Many companies are now implementing flexible working hours and encouraging employees to use their vacation days. However, the deeply rooted culture of long working hours still poses challenges. I've learned that setting clear boundaries is essential. For instance, I try not to check work emails after 9 PM and make it a point to take regular breaks during the day. On weekends, I dedicate time to hobbies and spending quality time with family. Some of my colleagues have started exercising before work or joining hobby clubs to maintain their mental health. While Korea's work culture is slowly changing, it requires individual effort to prioritize personal well-being. Companies that support work-life balance tend to have more satisfied and productive employees. It's not just about working less, but working more efficiently and making time for what truly matters in life.",
+    "korean_summary": "한국 직장인들에게 워라밸이 점점 중요해지고 있습니다. 개인적인 경계 설정과 취미 활동을 통해 정신 건강을 유지하는 것이 필요하며, 이를 지원하는 회사들이 더 만족스럽고 생산적인 직원들을 보유하게 됩니다."
+  },
+  "gwitunyeong": {
+    "title": "AI Technology Transforms Customer Service Industry",
+    "text": "Artificial intelligence is revolutionizing the customer service sector worldwide. Major corporations are increasingly adopting AI chatbots and virtual assistants to handle routine inquiries, allowing human agents to focus on complex issues. Recent studies show that AI-powered customer service can reduce response times by up to 70% while maintaining high satisfaction rates. However, concerns about job displacement remain significant. Industry experts suggest that rather than replacing human workers entirely, AI will likely reshape job roles, requiring employees to develop new skills in AI management and emotional intelligence. Companies like Amazon and Google have already invested billions in developing sophisticated AI customer service platforms. The technology can now understand context, detect emotions in text, and provide personalized responses. As AI continues to evolve, the challenge lies in maintaining the human touch that customers value while leveraging technology for efficiency.",
+    "korean_summary": "인공지능이 고객 서비스 산업을 혁신하고 있으며, 응답 시간을 70%까지 단축시킬 수 있습니다. 인간 근로자를 완전히 대체하기보다는 새로운 기술과 감성 지능 개발이 필요한 직무로 변화시킬 것으로 예상됩니다."
+  },
+  "key_expressions": [
+    {
+      "english": "set clear boundaries",
+      "korean": "명확한 경계를 설정하다",
+      "example": "It's important to set clear boundaries between work and personal life.",
+      "source": "입트영"
+    },
+    {
+      "english": "make it a point to",
+      "korean": "~하는 것을 원칙으로 하다",
+      "example": "I make it a point to arrive at meetings 5 minutes early.",
+      "source": "입트영"
+    },
+    {
+      "english": "deeply rooted culture",
+      "korean": "깊이 뿌리박힌 문화",
+      "example": "The deeply rooted culture of respect for elders is still strong in Korea.",
+      "source": "입트영"
+    },
+    {
+      "english": "prioritize personal well-being",
+      "korean": "개인의 웰빙을 우선시하다",
+      "example": "More employees are learning to prioritize personal well-being over overtime work.",
+      "source": "입트영"
+    },
+    {
+      "english": "revolutionize the sector",
+      "korean": "해당 분야를 혁신하다",
+      "example": "Electric vehicles are expected to revolutionize the automotive sector.",
+      "source": "귀트영"
+    },
+    {
+      "english": "job displacement",
+      "korean": "일자리 대체",
+      "example": "Many workers are concerned about job displacement due to automation.",
+      "source": "귀트영"
+    },
+    {
+      "english": "leverage technology",
+      "korean": "기술을 활용하다",
+      "example": "Companies must learn to leverage technology while maintaining human connections.",
+      "source": "귀트영"
+    },
+    {
+      "english": "maintain high satisfaction rates",
+      "korean": "높은 만족도를 유지하다",
+      "example": "The restaurant chain managed to maintain high satisfaction rates despite rapid expansion.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I'd like to schedule a meeting to discuss the quarterly results.",
+      "korean": "분기별 결과를 논의하기 위한 회의 일정을 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "would like to + 동사원형: 정중한 의사 표현"
+    },
+    {
+      "english": "Could you please send me the updated version of the report?",
+      "korean": "보고서의 업데이트된 버전을 보내주시겠어요?",
+      "category": "business",
+      "grammar_point": "Could you please + 동사원형: 정중한 부탁"
+    },
+    {
+      "english": "I'm planning to try that new restaurant this weekend.",
+      "korean": "이번 주말에 그 새로운 레스토랑에 가볼 계획이에요.",
+      "category": "daily",
+      "grammar_point": "be planning to + 동사원형: 계획 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "워라밸을 달성하는 것이 점점 더 중요해지고 있습니다.",
+      "answer": "Achieving work-life balance is becoming increasingly important.",
+      "acceptable_keywords": [
+        "achieving",
+        "work-life balance",
+        "becoming",
+        "increasingly",
+        "important"
+      ],
+      "hint": "'달성하는 것'은 achieving, '점점 더'는 increasingly를 사용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "인공지능이 고객 서비스 분야를 혁신하고 있습니다.",
+      "answer": "Artificial intelligence is revolutionizing the customer service sector.",
+      "acceptable_keywords": [
+        "artificial intelligence",
+        "revolutionizing",
+        "customer service",
+        "sector"
+      ],
+      "hint": "'혁신하다'는 revolutionize, '분야'는 sector를 사용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "명확한 경계를 설정하는 것이 필수적입니다.",
+      "answer": "Setting clear boundaries is essential.",
+      "acceptable_keywords": [
+        "setting",
+        "clear boundaries",
+        "essential"
+      ],
+      "hint": "'경계'는 boundaries, '필수적인'은 essential을 사용하세요."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Companies that support work-life balance tend to have more ___ employees.",
+      "answer": "satisfied",
+      "options": [
+        "satisfied",
+        "tired",
+        "stressed",
+        "busy"
+      ],
+      "korean": "워라밸을 지원하는 회사들은 더 만족한 직원들을 보유하는 경향이 있다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "AI technology can ___ response times by up to 70%.",
+      "answer": "reduce",
+      "options": [
+        "reduce",
+        "increase",
+        "maintain",
+        "ignore"
+      ],
+      "korean": "AI 기술은 응답 시간을 최대 70%까지 줄일 수 있다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "It's important to ___ personal well-being over excessive work.",
+      "answer": "prioritize",
+      "options": [
+        "prioritize",
+        "ignore",
+        "delay",
+        "avoid"
+      ],
+      "korean": "과도한 업무보다 개인의 웰빙을 우선시하는 것이 중요하다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66258&part_seq=26565",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66285&part_seq=26566"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-04-27.mp3",
+    "귀트영": "audio/귀트영_2026-04-27.mp3"
+  }
+}

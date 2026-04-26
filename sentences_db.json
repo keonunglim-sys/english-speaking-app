@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-26",
-  "total_sentences": 42,
+  "last_updated": "2026-04-27",
+  "total_sentences": 45,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -337,6 +337,30 @@
       "korean": "일과 개인 생활 사이에 더 나은 경계를 설정하려고 노력하고 있습니다.",
       "category": "daily",
       "grammar_point": "try to + 동사원형 (노력하는 행동)"
+    },
+    {
+      "id": "2026-04-27_sent_01",
+      "date_added": "2026-04-27",
+      "english": "I'd like to schedule a meeting to discuss the quarterly results.",
+      "korean": "분기별 결과를 논의하기 위한 회의 일정을 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "would like to + 동사원형: 정중한 의사 표현"
+    },
+    {
+      "id": "2026-04-27_sent_02",
+      "date_added": "2026-04-27",
+      "english": "Could you please send me the updated version of the report?",
+      "korean": "보고서의 업데이트된 버전을 보내주시겠어요?",
+      "category": "business",
+      "grammar_point": "Could you please + 동사원형: 정중한 부탁"
+    },
+    {
+      "id": "2026-04-27_sent_03",
+      "date_added": "2026-04-27",
+      "english": "I'm planning to try that new restaurant this weekend.",
+      "korean": "이번 주말에 그 새로운 레스토랑에 가볼 계획이에요.",
+      "category": "daily",
+      "grammar_point": "be planning to + 동사원형: 계획 표현"
     }
   ]
 }
