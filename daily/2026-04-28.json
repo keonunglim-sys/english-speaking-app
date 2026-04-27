@@ -1,0 +1,169 @@
+{
+  "date": "2026-04-28",
+  "day_of_week": "화요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Working from Home: Finding the Right Balance",
+    "text": "Working from home has become the new normal for many Korean office workers since the pandemic. While it offers flexibility and saves commuting time, it also brings unique challenges. One of the biggest struggles is maintaining a clear boundary between work and personal life. When your bedroom is just a few steps away from your home office, it's tempting to work longer hours or check emails late at night. I've learned that setting strict working hours is crucial. I make it a point to shut down my computer at 6 PM and change into casual clothes to signal the end of my workday. Creating a dedicated workspace, even in a small apartment, has also helped me stay focused during work hours. The key is establishing routines that mentally separate work time from personal time. While remote work isn't perfect, with the right strategies, it can actually improve work-life balance rather than blur the lines between professional and personal life.",
+    "korean_summary": "재택근무는 유연성과 통근 시간 절약의 장점이 있지만, 업무와 개인 생활의 경계를 유지하는 것이 가장 큰 어려움입니다. 엄격한 근무 시간 설정, 전용 작업 공간 마련, 그리고 업무 종료를 알리는 루틴 만들기가 핵심입니다. 올바른 전략으로 재택근무는 오히려 일과 삶의 균형을 개선할 수 있습니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea Leads Global 5G Adoption Rate",
+    "text": "South Korea continues to dominate the global 5G market with the highest adoption rate worldwide, according to a recent telecommunications industry report. As of late 2024, over 60% of mobile subscribers in South Korea use 5G services, significantly outpacing other developed nations. The rapid deployment was made possible through aggressive infrastructure investment by major telecom companies including SK Telecom, KT, and LG U+. The widespread 5G coverage has enabled innovations in various sectors, from autonomous vehicle testing to smart factory operations. However, challenges remain as telecom companies work to improve network stability and expand coverage to rural areas. Industry experts predict that South Korea's early 5G leadership will provide a competitive advantage in emerging technologies such as the Internet of Things and artificial intelligence applications.",
+    "korean_summary": "한국이 전 세계에서 가장 높은 5G 도입률을 기록하며 글로벌 5G 시장을 선도하고 있습니다. 2024년 말 기준 한국 이동통신 가입자의 60% 이상이 5G 서비스를 이용하고 있으며, 이는 다양한 산업 분야의 혁신을 가능하게 하고 있습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "maintain a clear boundary",
+      "korean": "명확한 경계를 유지하다",
+      "example": "It's important to maintain a clear boundary between work and personal time.",
+      "source": "입트영"
+    },
+    {
+      "english": "make it a point to",
+      "korean": "~하는 것을 원칙으로 하다, 꼭 ~하다",
+      "example": "I make it a point to exercise every morning before work.",
+      "source": "입트영"
+    },
+    {
+      "english": "blur the lines between",
+      "korean": "~사이의 경계를 모호하게 하다",
+      "example": "Social media tends to blur the lines between public and private life.",
+      "source": "입트영"
+    },
+    {
+      "english": "work-life balance",
+      "korean": "일과 삶의 균형",
+      "example": "Many companies are focusing on improving their employees' work-life balance.",
+      "source": "입트영"
+    },
+    {
+      "english": "significantly outpace",
+      "korean": "현저히 앞서다, 크게 능가하다",
+      "example": "Korea's 5G adoption rate significantly outpaces that of other countries.",
+      "source": "귀트영"
+    },
+    {
+      "english": "aggressive infrastructure investment",
+      "korean": "공격적인 인프라 투자",
+      "example": "The government's aggressive infrastructure investment boosted economic growth.",
+      "source": "귀트영"
+    },
+    {
+      "english": "competitive advantage",
+      "korean": "경쟁 우위",
+      "example": "Innovation provides companies with a sustainable competitive advantage.",
+      "source": "귀트영"
+    },
+    {
+      "english": "emerging technologies",
+      "korean": "신기술, 첨단 기술",
+      "example": "Many investors are interested in emerging technologies like AI and blockchain.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I'd like to schedule a follow-up meeting to discuss the project timeline in more detail.",
+      "korean": "프로젝트 일정을 더 자세히 논의하기 위해 후속 회의를 예약하고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to + 동사원형'으로 정중한 의사 표현"
+    },
+    {
+      "english": "We need to align our marketing strategy with the company's overall objectives.",
+      "korean": "우리는 마케팅 전략을 회사의 전반적인 목표와 일치시켜야 합니다.",
+      "category": "business",
+      "grammar_point": "'align A with B' 구조로 '~을 ~와 일치시키다' 표현"
+    },
+    {
+      "english": "I'm trying to cut back on caffeine, so I switched from coffee to green tea.",
+      "korean": "카페인 섭취를 줄이려고 노력 중이어서 커피에서 녹차로 바꿨어요.",
+      "category": "daily",
+      "grammar_point": "'cut back on'으로 '~을 줄이다', 'switch from A to B'로 변화 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "재택근무의 가장 큰 어려움은 업무와 개인 생활 사이의 명확한 경계를 유지하는 것입니다.",
+      "answer": "The biggest challenge of working from home is maintaining a clear boundary between work and personal life.",
+      "acceptable_keywords": [
+        "challenge",
+        "working from home",
+        "maintain",
+        "boundary",
+        "work",
+        "personal life"
+      ],
+      "hint": "'challenge', 'maintain', 'boundary' 등의 핵심 표현을 활용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "한국의 5G 도입률은 다른 선진국들을 현저히 앞서고 있습니다.",
+      "answer": "Korea's 5G adoption rate significantly outpaces other developed countries.",
+      "acceptable_keywords": [
+        "Korea",
+        "5G adoption rate",
+        "significantly",
+        "outpace",
+        "developed countries"
+      ],
+      "hint": "'significantly outpace' 표현을 사용하여 '현저히 앞서다'를 표현하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "우리는 프로젝트 일정에 대해 후속 회의를 예약해야 합니다.",
+      "answer": "We need to schedule a follow-up meeting about the project timeline.",
+      "acceptable_keywords": [
+        "schedule",
+        "follow-up meeting",
+        "project timeline"
+      ],
+      "hint": "'schedule a follow-up meeting'과 'project timeline' 표현을 활용하세요."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "It's important to _______ a clear boundary between work and personal time.",
+      "answer": "maintain",
+      "options": [
+        "maintain",
+        "create",
+        "destroy",
+        "ignore"
+      ],
+      "korean": "업무와 개인 시간 사이의 명확한 경계를 유지하는 것이 중요합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The company made _______ infrastructure investment to expand globally.",
+      "answer": "aggressive",
+      "options": [
+        "aggressive",
+        "passive",
+        "minimal",
+        "reluctant"
+      ],
+      "korean": "그 회사는 글로벌 확장을 위해 공격적인 인프라 투자를 했습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Innovation provides companies with a sustainable _______ advantage.",
+      "answer": "competitive",
+      "options": [
+        "competitive",
+        "comparative",
+        "comprehensive",
+        "complicated"
+      ],
+      "korean": "혁신은 기업에게 지속 가능한 경쟁 우위를 제공합니다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66259&part_seq=26565",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66286&part_seq=26566"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-04-28.mp3",
+    "귀트영": "audio/귀트영_2026-04-28.mp3"
+  }
+}

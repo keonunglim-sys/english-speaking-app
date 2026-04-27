@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-27",
-  "total_sentences": 45,
+  "last_updated": "2026-04-28",
+  "total_sentences": 48,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -361,6 +361,30 @@
       "korean": "이번 주말에 그 새로운 레스토랑에 가볼 계획이에요.",
       "category": "daily",
       "grammar_point": "be planning to + 동사원형: 계획 표현"
+    },
+    {
+      "id": "2026-04-28_sent_01",
+      "date_added": "2026-04-28",
+      "english": "I'd like to schedule a follow-up meeting to discuss the project timeline in more detail.",
+      "korean": "프로젝트 일정을 더 자세히 논의하기 위해 후속 회의를 예약하고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to + 동사원형'으로 정중한 의사 표현"
+    },
+    {
+      "id": "2026-04-28_sent_02",
+      "date_added": "2026-04-28",
+      "english": "We need to align our marketing strategy with the company's overall objectives.",
+      "korean": "우리는 마케팅 전략을 회사의 전반적인 목표와 일치시켜야 합니다.",
+      "category": "business",
+      "grammar_point": "'align A with B' 구조로 '~을 ~와 일치시키다' 표현"
+    },
+    {
+      "id": "2026-04-28_sent_03",
+      "date_added": "2026-04-28",
+      "english": "I'm trying to cut back on caffeine, so I switched from coffee to green tea.",
+      "korean": "카페인 섭취를 줄이려고 노력 중이어서 커피에서 녹차로 바꿨어요.",
+      "category": "daily",
+      "grammar_point": "'cut back on'으로 '~을 줄이다', 'switch from A to B'로 변화 표현"
     }
   ]
 }
