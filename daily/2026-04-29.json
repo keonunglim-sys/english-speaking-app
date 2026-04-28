@@ -1,0 +1,172 @@
+{
+  "date": "2026-04-29",
+  "day_of_week": "수요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Remote Work Culture in Korean Companies",
+    "text": "The landscape of work in Korea has dramatically shifted since the pandemic. Many Korean companies have embraced remote work, though the transition hasn't been entirely smooth. Traditional corporate culture, which values face-to-face interactions and long office hours, initially clashed with work-from-home policies. However, employees have discovered numerous benefits. Commuting time has been eliminated, allowing for better work-life balance. Parents can spend more quality time with their children, and many report increased productivity when working from their home office. Companies are now investing in digital collaboration tools and rethinking performance evaluation methods. The challenge lies in maintaining team cohesion and company culture in a virtual environment. Video conferences have become the norm, and employees have had to adapt their communication styles. While some senior managers still prefer in-person meetings, younger employees tend to embrace flexible working arrangements. As we move forward, hybrid work models seem to be the most practical solution, combining the benefits of both remote work and office collaboration.",
+    "korean_summary": "팬데믹 이후 한국 기업의 원격근무 문화가 크게 변화했습니다. 전통적인 기업문화와 충돌하면서도 직원들은 출퇴근 시간 단축과 일-가정 균형 개선 등의 혜택을 경험했습니다. 현재는 하이브리드 근무 모델이 가장 실용적인 해결책으로 여겨지고 있습니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea Leads Global EV Battery Market",
+    "text": "South Korean battery manufacturers are dominating the global electric vehicle market, with companies like LG Energy Solution, Samsung SDI, and SK On securing major contracts worldwide. According to recent market data, Korean firms collectively hold over 30% of the global EV battery market share. The success stems from years of technological innovation and strategic partnerships with major automakers including Tesla, Ford, and Volkswagen. The Korean government has also played a crucial role by providing substantial R&D funding and establishing favorable policies for battery technology development. However, competition is intensifying as Chinese manufacturers like CATL expand aggressively, while European and American companies are investing heavily to reduce dependence on Asian suppliers. Korean companies are responding by building production facilities closer to their customers, particularly in the United States and Europe, to secure long-term market position despite geopolitical tensions and supply chain challenges.",
+    "korean_summary": "LG에너지솔루션, 삼성SDI, SK온 등 한국 배터리 제조업체들이 전 세계 전기차 배터리 시장의 30% 이상을 차지하며 선두를 달리고 있습니다. 중국과 서구 기업들의 경쟁이 심화되면서 한국 기업들은 해외 생산시설 구축으로 대응하고 있습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "embrace something",
+      "korean": "~을 받아들이다, 수용하다",
+      "example": "Many companies have embraced flexible working arrangements.",
+      "source": "입트영"
+    },
+    {
+      "english": "work-life balance",
+      "korean": "일과 생활의 균형",
+      "example": "Remote work has helped me achieve better work-life balance.",
+      "source": "입트영"
+    },
+    {
+      "english": "clash with",
+      "korean": "~와 충돌하다, 맞지 않다",
+      "example": "Traditional values sometimes clash with modern business practices.",
+      "source": "입트영"
+    },
+    {
+      "english": "hybrid work model",
+      "korean": "하이브리드 근무 모델",
+      "example": "Our company is implementing a hybrid work model starting next month.",
+      "source": "입트영"
+    },
+    {
+      "english": "dominate the market",
+      "korean": "시장을 지배하다",
+      "example": "Korean companies are dominating the global battery market.",
+      "source": "귀트영"
+    },
+    {
+      "english": "secure contracts",
+      "korean": "계약을 따내다, 확보하다",
+      "example": "The company secured major contracts with European automakers.",
+      "source": "귀트영"
+    },
+    {
+      "english": "market share",
+      "korean": "시장 점유율",
+      "example": "Our market share has increased by 15% this quarter.",
+      "source": "귀트영"
+    },
+    {
+      "english": "geopolitical tensions",
+      "korean": "지정학적 긴장",
+      "example": "Geopolitical tensions are affecting global supply chains.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "Could you please send me the quarterly report by the end of this week?",
+      "korean": "이번 주 말까지 분기 보고서를 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "정중한 요청을 할 때 'Could you please + 동사원형' 사용"
+    },
+    {
+      "english": "We need to schedule a follow-up meeting to discuss the project timeline.",
+      "korean": "프로젝트 일정을 논의하기 위해 후속 회의를 잡아야 합니다.",
+      "category": "business",
+      "grammar_point": "'need to + 동사원형'으로 필요성 표현"
+    },
+    {
+      "english": "I've been trying to maintain a healthy lifestyle by exercising regularly.",
+      "korean": "저는 규칙적인 운동으로 건강한 생활방식을 유지하려고 노력하고 있어요.",
+      "category": "daily",
+      "grammar_point": "현재완료진행형(have been + -ing)으로 지속적인 노력 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "우리 회사는 하이브리드 근무 모델을 도입했습니다.",
+      "answer": "Our company has adopted a hybrid work model.",
+      "acceptable_keywords": [
+        "company",
+        "adopted",
+        "hybrid",
+        "work",
+        "model"
+      ],
+      "hint": "'도입하다'는 'adopt'를 사용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "한국 기업들이 전 세계 배터리 시장을 주도하고 있습니다.",
+      "answer": "Korean companies are leading the global battery market.",
+      "acceptable_keywords": [
+        "Korean",
+        "companies",
+        "leading",
+        "global",
+        "battery",
+        "market"
+      ],
+      "hint": "'주도하다'는 'lead' 또는 'dominate'를 사용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "원격근무는 일과 생활의 균형을 개선하는 데 도움이 되었습니다.",
+      "answer": "Remote work has helped improve work-life balance.",
+      "acceptable_keywords": [
+        "remote",
+        "work",
+        "helped",
+        "improve",
+        "work-life",
+        "balance"
+      ],
+      "hint": "'~하는 데 도움이 되다'는 'help + 동사원형' 구조를 사용하세요."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Many companies have _______ flexible working arrangements during the pandemic.",
+      "answer": "embraced",
+      "options": [
+        "embraced",
+        "rejected",
+        "ignored",
+        "avoided"
+      ],
+      "korean": "많은 회사들이 팬데믹 기간 동안 유연한 근무 방식을 받아들였습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Korean firms collectively hold over 30% of the global EV battery _______ share.",
+      "answer": "market",
+      "options": [
+        "market",
+        "company",
+        "product",
+        "customer"
+      ],
+      "korean": "한국 기업들은 전체적으로 전 세계 전기차 배터리 시장 점유율의 30% 이상을 차지하고 있습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "We need to schedule a _______ meeting to discuss the results.",
+      "answer": "follow-up",
+      "options": [
+        "follow-up",
+        "cancel",
+        "postpone",
+        "avoid"
+      ],
+      "korean": "결과를 논의하기 위해 후속 회의를 잡아야 합니다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66260&part_seq=26565",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66287&part_seq=26566"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-04-29.mp3",
+    "귀트영": "audio/귀트영_2026-04-29.mp3"
+  }
+}

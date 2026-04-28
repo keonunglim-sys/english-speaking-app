@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-28",
-  "total_sentences": 48,
+  "last_updated": "2026-04-29",
+  "total_sentences": 51,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -385,6 +385,30 @@
       "korean": "카페인 섭취를 줄이려고 노력 중이어서 커피에서 녹차로 바꿨어요.",
       "category": "daily",
       "grammar_point": "'cut back on'으로 '~을 줄이다', 'switch from A to B'로 변화 표현"
+    },
+    {
+      "id": "2026-04-29_sent_01",
+      "date_added": "2026-04-29",
+      "english": "Could you please send me the quarterly report by the end of this week?",
+      "korean": "이번 주 말까지 분기 보고서를 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "정중한 요청을 할 때 'Could you please + 동사원형' 사용"
+    },
+    {
+      "id": "2026-04-29_sent_02",
+      "date_added": "2026-04-29",
+      "english": "We need to schedule a follow-up meeting to discuss the project timeline.",
+      "korean": "프로젝트 일정을 논의하기 위해 후속 회의를 잡아야 합니다.",
+      "category": "business",
+      "grammar_point": "'need to + 동사원형'으로 필요성 표현"
+    },
+    {
+      "id": "2026-04-29_sent_03",
+      "date_added": "2026-04-29",
+      "english": "I've been trying to maintain a healthy lifestyle by exercising regularly.",
+      "korean": "저는 규칙적인 운동으로 건강한 생활방식을 유지하려고 노력하고 있어요.",
+      "category": "daily",
+      "grammar_point": "현재완료진행형(have been + -ing)으로 지속적인 노력 표현"
     }
   ]
 }
