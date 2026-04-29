@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-29",
-  "total_sentences": 51,
+  "last_updated": "2026-04-30",
+  "total_sentences": 54,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -409,6 +409,30 @@
       "korean": "저는 규칙적인 운동으로 건강한 생활방식을 유지하려고 노력하고 있어요.",
       "category": "daily",
       "grammar_point": "현재완료진행형(have been + -ing)으로 지속적인 노력 표현"
+    },
+    {
+      "id": "2026-04-30_sent_01",
+      "date_added": "2026-04-30",
+      "english": "We need to streamline our workflow to improve overall productivity.",
+      "korean": "전체적인 생산성 향상을 위해 업무 프로세스를 간소화해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형 (필요성 표현)"
+    },
+    {
+      "id": "2026-04-30_sent_02",
+      "date_added": "2026-04-30",
+      "english": "I'd like to schedule a follow-up meeting to discuss the project details.",
+      "korean": "프로젝트 세부사항을 논의하기 위해 후속 미팅을 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "would like to + 동사원형 (정중한 의사 표현)"
+    },
+    {
+      "id": "2026-04-30_sent_03",
+      "date_added": "2026-04-30",
+      "english": "I'm trying to cut back on coffee because it keeps me up at night.",
+      "korean": "밤에 잠이 안 와서 커피를 줄이려고 노력하고 있어요.",
+      "category": "daily",
+      "grammar_point": "cut back on (줄이다), keep someone up (잠들지 못하게 하다)"
     }
   ]
 }

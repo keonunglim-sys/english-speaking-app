@@ -1,0 +1,167 @@
+{
+  "date": "2026-04-30",
+  "day_of_week": "목요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "The Art of Work-Life Balance in Korea",
+    "text": "Achieving work-life balance in Korea has become increasingly important as our work culture evolves. Many Korean professionals struggle to find time for personal interests while maintaining career success. The traditional concept of staying late at the office is gradually changing, especially among younger generations who prioritize mental health and personal fulfillment. Companies are now implementing flexible working hours and remote work options to attract top talent. However, the challenge remains in setting clear boundaries between work and personal time. I've learned that effective time management and saying 'no' to unnecessary commitments are crucial skills. Weekend activities like hiking, meeting friends, or pursuing hobbies help me recharge for the upcoming week. The key is to be fully present in whatever you're doing - whether it's completing a project at work or enjoying dinner with family. This mindful approach has significantly improved both my productivity at work and my satisfaction in personal relationships. Finding balance isn't about perfect equilibrium; it's about making conscious choices that align with your values and long-term goals.",
+    "korean_summary": "한국의 직장인들에게 일과 삶의 균형이 점점 중요해지고 있습니다. 전통적인 야근 문화가 변화하고 있으며, 기업들도 유연근무제를 도입하고 있습니다. 효과적인 시간 관리와 명확한 경계 설정, 그리고 현재에 집중하는 마음가짐이 균형잡힌 삶의 핵심입니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea's AI Chip Strategy Gains Momentum",
+    "text": "South Korea is accelerating its artificial intelligence semiconductor development to compete with global tech giants. The government announced a comprehensive support package worth 26 trillion won over the next decade to boost the domestic chip industry. Samsung and SK Hynix are leading the charge with significant investments in AI chip research and production facilities. The strategy focuses on developing high-performance memory chips specifically designed for AI applications, including data centers and autonomous vehicles. Industry experts believe this initiative could position South Korea as a major player in the AI chip market, currently dominated by companies like NVIDIA and AMD. The plan includes establishing specialized research institutes and training programs to develop skilled workforce in semiconductor technology. However, challenges remain, including intense global competition and the need for sustained innovation. Success in this sector could significantly impact South Korea's economic growth and technological sovereignty in the coming years.",
+    "korean_summary": "한국 정부가 AI 반도체 개발에 10년간 26조원을 투자하는 종합 지원책을 발표했습니다. 삼성과 SK하이닉스가 주도하는 이 전략은 한국을 AI 칩 시장의 주요 플레이어로 만들 것으로 기대됩니다."
+  },
+  "key_expressions": [
+    {
+      "english": "set clear boundaries",
+      "korean": "명확한 경계를 설정하다",
+      "example": "It's important to set clear boundaries between work and personal time.",
+      "source": "입트영"
+    },
+    {
+      "english": "recharge for the upcoming week",
+      "korean": "다음 주를 위해 재충전하다",
+      "example": "I spend my weekends doing activities that help me recharge for the upcoming week.",
+      "source": "입트영"
+    },
+    {
+      "english": "align with your values",
+      "korean": "가치관에 부합하다",
+      "example": "Make choices that align with your values and long-term goals.",
+      "source": "입트영"
+    },
+    {
+      "english": "be fully present",
+      "korean": "완전히 집중하다, 현재에 몰입하다",
+      "example": "The key is to be fully present in whatever you're doing.",
+      "source": "입트영"
+    },
+    {
+      "english": "leading the charge",
+      "korean": "선두에서 이끌다, 주도하다",
+      "example": "Samsung and SK Hynix are leading the charge with significant investments.",
+      "source": "귀트영"
+    },
+    {
+      "english": "comprehensive support package",
+      "korean": "종합 지원책",
+      "example": "The government announced a comprehensive support package for the tech industry.",
+      "source": "귀트영"
+    },
+    {
+      "english": "position as a major player",
+      "korean": "주요 플레이어로 자리잡다",
+      "example": "This initiative could position South Korea as a major player in the AI market.",
+      "source": "귀트영"
+    },
+    {
+      "english": "sustained innovation",
+      "korean": "지속적인 혁신",
+      "example": "The industry faces challenges including the need for sustained innovation.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "We need to streamline our workflow to improve overall productivity.",
+      "korean": "전체적인 생산성 향상을 위해 업무 프로세스를 간소화해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형 (필요성 표현)"
+    },
+    {
+      "english": "I'd like to schedule a follow-up meeting to discuss the project details.",
+      "korean": "프로젝트 세부사항을 논의하기 위해 후속 미팅을 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "would like to + 동사원형 (정중한 의사 표현)"
+    },
+    {
+      "english": "I'm trying to cut back on coffee because it keeps me up at night.",
+      "korean": "밤에 잠이 안 와서 커피를 줄이려고 노력하고 있어요.",
+      "category": "daily",
+      "grammar_point": "cut back on (줄이다), keep someone up (잠들지 못하게 하다)"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "일과 개인 시간 사이에 명확한 경계를 설정하는 것이 중요합니다.",
+      "answer": "It's important to set clear boundaries between work and personal time.",
+      "acceptable_keywords": [
+        "boundaries",
+        "work",
+        "personal time",
+        "important"
+      ],
+      "hint": "'경계를 설정하다'는 'set boundaries'로 표현합니다."
+    },
+    {
+      "type": "translation",
+      "korean": "정부는 기술 산업을 위한 종합 지원책을 발표했습니다.",
+      "answer": "The government announced a comprehensive support package for the tech industry.",
+      "acceptable_keywords": [
+        "government",
+        "comprehensive",
+        "support package",
+        "announced"
+      ],
+      "hint": "'종합적인'은 'comprehensive'로 표현합니다."
+    },
+    {
+      "type": "translation",
+      "korean": "전체적인 생산성 향상을 위해 업무 프로세스를 간소화해야 합니다.",
+      "answer": "We need to streamline our workflow to improve overall productivity.",
+      "acceptable_keywords": [
+        "streamline",
+        "workflow",
+        "productivity",
+        "improve"
+      ],
+      "hint": "'간소화하다'는 'streamline'으로 표현합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Companies are implementing flexible working hours to ___ top talent.",
+      "answer": "attract",
+      "options": [
+        "attract",
+        "require",
+        "dismiss",
+        "evaluate"
+      ],
+      "korean": "기업들은 우수한 인재를 유치하기 위해 유연근무제를 도입하고 있다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Samsung and SK Hynix are ___ the charge with significant investments.",
+      "answer": "leading",
+      "options": [
+        "leading",
+        "following",
+        "avoiding",
+        "questioning"
+      ],
+      "korean": "삼성과 SK하이닉스가 상당한 투자로 선두에서 이끌고 있다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "This mindful approach has significantly ___ both my productivity and satisfaction.",
+      "answer": "improved",
+      "options": [
+        "improved",
+        "decreased",
+        "maintained",
+        "ignored"
+      ],
+      "korean": "이런 마음가짐은 내 생산성과 만족도를 크게 향상시켰다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66261&part_seq=26565",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66288&part_seq=26566"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-04-30.mp3",
+    "귀트영": "audio/귀트영_2026-04-30.mp3"
+  }
+}
