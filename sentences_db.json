@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-30",
-  "total_sentences": 54,
+  "last_updated": "2026-05-01",
+  "total_sentences": 57,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -433,6 +433,30 @@
       "korean": "밤에 잠이 안 와서 커피를 줄이려고 노력하고 있어요.",
       "category": "daily",
       "grammar_point": "cut back on (줄이다), keep someone up (잠들지 못하게 하다)"
+    },
+    {
+      "id": "2026-05-01_sent_01",
+      "date_added": "2026-05-01",
+      "english": "I need to schedule a follow-up meeting to discuss the project timeline.",
+      "korean": "프로젝트 일정을 논의하기 위해 후속 회의를 잡아야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형으로 필요성 표현"
+    },
+    {
+      "id": "2026-05-01_sent_02",
+      "date_added": "2026-05-01",
+      "english": "Could you send me the updated version of the presentation by tomorrow?",
+      "korean": "내일까지 프레젠테이션의 업데이트된 버전을 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "Could you로 정중한 요청 표현"
+    },
+    {
+      "id": "2026-05-01_sent_03",
+      "date_added": "2026-05-01",
+      "english": "I'm thinking of trying that new restaurant everyone's been talking about.",
+      "korean": "모두가 얘기하고 있는 그 새로운 레스토랑을 가보려고 생각하고 있어요.",
+      "category": "daily",
+      "grammar_point": "I'm thinking of + -ing로 계획이나 고려사항 표현"
     }
   ]
 }
