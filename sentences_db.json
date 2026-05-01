@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-01",
-  "total_sentences": 57,
+  "last_updated": "2026-05-02",
+  "total_sentences": 60,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -457,6 +457,30 @@
       "korean": "모두가 얘기하고 있는 그 새로운 레스토랑을 가보려고 생각하고 있어요.",
       "category": "daily",
       "grammar_point": "I'm thinking of + -ing로 계획이나 고려사항 표현"
+    },
+    {
+      "id": "2026-05-02_sent_01",
+      "date_added": "2026-05-02",
+      "english": "I need to wrap up this project by the end of the week.",
+      "korean": "이번 주말까지 이 프로젝트를 마무리해야 합니다.",
+      "category": "business",
+      "grammar_point": "'need to + 동사원형'으로 의무나 필요성을 표현"
+    },
+    {
+      "id": "2026-05-02_sent_02",
+      "date_added": "2026-05-02",
+      "english": "Could you please schedule a follow-up meeting for next Tuesday?",
+      "korean": "다음 주 화요일에 후속 회의를 잡아 주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "'Could you please + 동사원형'으로 정중한 요청 표현"
+    },
+    {
+      "id": "2026-05-02_sent_03",
+      "date_added": "2026-05-02",
+      "english": "I'm planning to try that new restaurant this weekend.",
+      "korean": "이번 주말에 그 새로운 식당에 가볼 계획입니다.",
+      "category": "daily",
+      "grammar_point": "'be planning to + 동사원형'으로 미래 계획 표현"
     }
   ]
 }

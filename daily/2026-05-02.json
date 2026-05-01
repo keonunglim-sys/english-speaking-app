@@ -1,0 +1,175 @@
+{
+  "date": "2026-05-02",
+  "day_of_week": "토요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Managing Work-Life Balance as a Korean Office Worker",
+    "text": "Work-life balance has become increasingly important for Korean office workers in recent years. Many companies are recognizing that overworked employees are less productive and more likely to burn out. As a result, flexible working arrangements are becoming more common in progressive companies.\n\nPersonally, I've learned to set clear boundaries between work and personal time. I make it a point to leave the office by 7 PM and avoid checking emails after hours unless it's truly urgent. On weekends, I prioritize activities that help me recharge, such as hiking with friends or trying new restaurants.\n\nThe key is learning to say no to unnecessary overtime and focusing on efficiency during work hours. I've also started using productivity techniques like time-blocking to manage my tasks better. While Korean work culture is slowly changing, individuals can take steps to create their own healthy work-life balance. It's not always easy, but it's essential for long-term career success and personal happiness.",
+    "korean_summary": "한국 직장인들에게 워라밸이 점점 중요해지고 있으며, 많은 회사들이 유연근무제를 도입하고 있습니다. 개인적으로 퇴근 시간을 지키고 주말에는 재충전할 수 있는 활동을 우선시합니다. 불필요한 야근을 거절하고 업무 시간 내 효율성에 집중하는 것이 중요하며, 이는 장기적인 커리어 성공과 개인적 행복을 위해 필수적입니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea's Four-Day Work Week Pilot Program",
+    "text": "South Korea has launched a pilot program allowing certain companies to implement a four-day work week without reducing employee salaries. The initiative, supported by the Ministry of Employment and Labor, aims to improve work-life balance and boost productivity in the country known for its long working hours.\n\nParticipating companies report positive results so far. Employees show increased job satisfaction and reduced stress levels, while maintaining similar output levels. The program includes flexible scheduling options, allowing workers to choose their preferred day off or work compressed hours.\n\nExperts believe this could be a significant step toward reforming Korea's demanding work culture. However, challenges remain, particularly in traditional industries where long hours are deeply ingrained. The government plans to expand the program based on initial results and feedback from both employers and employees.",
+    "korean_summary": "한국이 특정 기업들을 대상으로 급여 삭감 없이 주 4일 근무제를 시행하는 시범 프로그램을 시작했습니다. 참여 기업들은 직원 만족도 향상과 스트레스 감소 등 긍정적 결과를 보고하고 있습니다. 정부는 초기 결과를 바탕으로 프로그램 확대를 계획하고 있습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "set clear boundaries",
+      "korean": "명확한 경계를 설정하다",
+      "example": "It's important to set clear boundaries between work and personal life.",
+      "source": "입트영"
+    },
+    {
+      "english": "make it a point to",
+      "korean": "~을 원칙으로 하다, 꼭 ~하다",
+      "example": "I make it a point to exercise at least three times a week.",
+      "source": "입트영"
+    },
+    {
+      "english": "time-blocking",
+      "korean": "시간 블록 나누기 (생산성 기법)",
+      "example": "Time-blocking helps me manage my daily tasks more efficiently.",
+      "source": "입트영"
+    },
+    {
+      "english": "long-term career success",
+      "korean": "장기적인 커리어 성공",
+      "example": "Networking is crucial for long-term career success.",
+      "source": "입트영"
+    },
+    {
+      "english": "pilot program",
+      "korean": "시범 프로그램, 파일럿 프로그램",
+      "example": "The company launched a pilot program to test remote working.",
+      "source": "귀트영"
+    },
+    {
+      "english": "compressed hours",
+      "korean": "압축 근무 시간",
+      "example": "Many employees prefer compressed hours to have longer weekends.",
+      "source": "귀트영"
+    },
+    {
+      "english": "deeply ingrained",
+      "korean": "깊이 뿌리박힌",
+      "example": "Traditional values are deeply ingrained in Korean society.",
+      "source": "귀트영"
+    },
+    {
+      "english": "based on initial results",
+      "korean": "초기 결과를 바탕으로",
+      "example": "We'll make adjustments based on initial results from the survey.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I need to wrap up this project by the end of the week.",
+      "korean": "이번 주말까지 이 프로젝트를 마무리해야 합니다.",
+      "category": "business",
+      "grammar_point": "'need to + 동사원형'으로 의무나 필요성을 표현"
+    },
+    {
+      "english": "Could you please schedule a follow-up meeting for next Tuesday?",
+      "korean": "다음 주 화요일에 후속 회의를 잡아 주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "'Could you please + 동사원형'으로 정중한 요청 표현"
+    },
+    {
+      "english": "I'm planning to try that new restaurant this weekend.",
+      "korean": "이번 주말에 그 새로운 식당에 가볼 계획입니다.",
+      "category": "daily",
+      "grammar_point": "'be planning to + 동사원형'으로 미래 계획 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "일과 개인 생활 사이에 명확한 경계를 설정하는 것이 중요합니다.",
+      "answer": "It's important to set clear boundaries between work and personal life.",
+      "acceptable_keywords": [
+        "important",
+        "set",
+        "clear",
+        "boundaries",
+        "work",
+        "personal",
+        "life"
+      ],
+      "hint": "'경계를 설정하다'는 'set boundaries'로 표현"
+    },
+    {
+      "type": "translation",
+      "korean": "시범 프로그램은 직원들의 만족도를 높이는 데 도움이 되었습니다.",
+      "answer": "The pilot program helped improve employee satisfaction.",
+      "acceptable_keywords": [
+        "pilot",
+        "program",
+        "helped",
+        "improve",
+        "employee",
+        "satisfaction"
+      ],
+      "hint": "'시범 프로그램'은 'pilot program'"
+    },
+    {
+      "type": "translation",
+      "korean": "저는 일주일에 최소 세 번은 운동을 하는 것을 원칙으로 합니다.",
+      "answer": "I make it a point to exercise at least three times a week.",
+      "acceptable_keywords": [
+        "make",
+        "point",
+        "exercise",
+        "least",
+        "three",
+        "times",
+        "week"
+      ],
+      "hint": "'~을 원칙으로 하다'는 'make it a point to'"
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Many companies are implementing _____ working arrangements to improve work-life balance.",
+      "answer": "flexible",
+      "options": [
+        "flexible",
+        "strict",
+        "traditional",
+        "limited"
+      ],
+      "korean": "많은 회사들이 워라밸 향상을 위해 유연한 근무 제도를 도입하고 있다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The government plans to _____ the program based on initial results.",
+      "answer": "expand",
+      "options": [
+        "expand",
+        "cancel",
+        "reduce",
+        "ignore"
+      ],
+      "korean": "정부는 초기 결과를 바탕으로 프로그램을 확대할 계획이다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Traditional work culture is _____ ingrained in many Korean companies.",
+      "answer": "deeply",
+      "options": [
+        "deeply",
+        "slightly",
+        "rarely",
+        "never"
+      ],
+      "korean": "전통적인 직장 문화는 많은 한국 기업에 깊이 뿌리박혀 있다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66521&part_seq=26619",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66544&part_seq=26620"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-05-02.mp3",
+    "귀트영": "audio/귀트영_2026-05-02.mp3"
+  }
+}
