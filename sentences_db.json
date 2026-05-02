@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-02",
-  "total_sentences": 60,
+  "last_updated": "2026-05-03",
+  "total_sentences": 63,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -481,6 +481,30 @@
       "korean": "이번 주말에 그 새로운 식당에 가볼 계획입니다.",
       "category": "daily",
       "grammar_point": "'be planning to + 동사원형'으로 미래 계획 표현"
+    },
+    {
+      "id": "2026-05-03_sent_01",
+      "date_added": "2026-05-03",
+      "english": "I'll need to review the proposal thoroughly before the board meeting next week.",
+      "korean": "다음 주 이사회 회의 전에 제안서를 철저히 검토해야 합니다.",
+      "category": "business",
+      "grammar_point": "미래 시제와 before절을 사용한 시간 표현"
+    },
+    {
+      "id": "2026-05-03_sent_02",
+      "date_added": "2026-05-03",
+      "english": "Could you please prioritize the urgent tasks and delegate the rest to your team?",
+      "korean": "급한 업무들을 우선순위를 정해서 처리하시고, 나머지는 팀에 위임해 주시겠어요?",
+      "category": "business",
+      "grammar_point": "Could you please를 사용한 정중한 요청문"
+    },
+    {
+      "id": "2026-05-03_sent_03",
+      "date_added": "2026-05-03",
+      "english": "I'm planning to take a short vacation to recharge my batteries after this busy quarter.",
+      "korean": "이번 바쁜 분기가 끝나면 에너지를 재충전하기 위해 짧은 휴가를 갈 계획입니다.",
+      "category": "daily",
+      "grammar_point": "to부정사를 사용한 목적 표현과 관용구 활용"
     }
   ]
 }

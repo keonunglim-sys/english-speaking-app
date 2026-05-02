@@ -1,0 +1,167 @@
+{
+  "date": "2026-05-03",
+  "day_of_week": "일요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Effective Email Communication in the Workplace",
+    "text": "In today's digital workplace, email remains one of the most important communication tools. Writing effective emails can significantly impact your professional relationships and career advancement. First, always use a clear and specific subject line that summarizes the main purpose of your email. This helps recipients prioritize and organize their inbox efficiently. Second, keep your messages concise and well-structured. Start with a brief greeting, state your purpose clearly in the opening paragraph, and organize supporting details in bullet points when necessary. Third, maintain a professional tone throughout your message, even when discussing casual topics with colleagues. Avoid using excessive exclamation marks or informal abbreviations. Finally, always proofread your emails before sending them. Check for spelling errors, grammatical mistakes, and ensure that all necessary attachments are included. Remember, your email communication reflects your professionalism and attention to detail. By following these guidelines, you can build stronger workplace relationships and enhance your reputation as a reliable team member.",
+    "korean_summary": "직장에서 효과적인 이메일 커뮤니케이션은 전문적인 관계와 경력 발전에 중요한 영향을 미칩니다. 명확한 제목 작성, 간결하고 구조화된 내용, 전문적인 톤 유지, 그리고 발송 전 교정 등이 핵심 요소입니다. 이러한 가이드라인을 따르면 더 강한 직장 내 관계를 구축하고 신뢰받는 팀원으로서의 평판을 높일 수 있습니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea Leads Global Semiconductor Innovation",
+    "text": "South Korea continues to strengthen its position as a global leader in semiconductor technology, with major companies investing heavily in next-generation chip development. Samsung Electronics and SK Hynix have announced plans to invest over $50 billion in advanced manufacturing facilities over the next five years. This investment focuses on developing cutting-edge memory chips and processors essential for artificial intelligence applications. The Korean government has also launched the K-Semiconductor Belt project, creating a massive industrial cluster spanning from Seoul to Busan. This initiative aims to attract international talent and foster collaboration between domestic companies and global tech giants. Industry experts predict that Korea's semiconductor exports will reach record highs by 2025, driven by increasing demand for AI chips and 5G technology. The country's success in this sector not only boosts its economy but also enhances its strategic importance in the global technology supply chain.",
+    "korean_summary": "한국이 반도체 기술 분야에서 글로벌 리더로서의 입지를 계속 강화하고 있습니다. 삼성전자와 SK하이닉스가 향후 5년간 500억 달러 이상을 첨단 제조 시설에 투자할 계획이며, 정부의 K-반도체 벨트 프로젝트도 진행 중입니다. 전문가들은 AI 칩과 5G 기술에 대한 수요 증가로 2025년까지 반도체 수출이 사상 최고치를 기록할 것으로 예측하고 있습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "significantly impact",
+      "korean": "상당한 영향을 미치다",
+      "example": "Poor communication can significantly impact team productivity.",
+      "source": "입트영"
+    },
+    {
+      "english": "maintain a professional tone",
+      "korean": "전문적인 톤을 유지하다",
+      "example": "It's important to maintain a professional tone in all business correspondence.",
+      "source": "입트영"
+    },
+    {
+      "english": "attention to detail",
+      "korean": "세심한 주의, 꼼꼼함",
+      "example": "This project requires strong attention to detail and accuracy.",
+      "source": "입트영"
+    },
+    {
+      "english": "enhance your reputation",
+      "korean": "평판을 높이다",
+      "example": "Consistent quality work will enhance your reputation in the company.",
+      "source": "입트영"
+    },
+    {
+      "english": "strengthen its position",
+      "korean": "입지를 강화하다",
+      "example": "The company is working to strengthen its position in the Asian market.",
+      "source": "귀트영"
+    },
+    {
+      "english": "cutting-edge technology",
+      "korean": "최첨단 기술",
+      "example": "Our research team is developing cutting-edge technology for renewable energy.",
+      "source": "귀트영"
+    },
+    {
+      "english": "foster collaboration",
+      "korean": "협력을 촉진하다",
+      "example": "The new policy aims to foster collaboration between different departments.",
+      "source": "귀트영"
+    },
+    {
+      "english": "strategic importance",
+      "korean": "전략적 중요성",
+      "example": "The acquisition has great strategic importance for our global expansion.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I'll need to review the proposal thoroughly before the board meeting next week.",
+      "korean": "다음 주 이사회 회의 전에 제안서를 철저히 검토해야 합니다.",
+      "category": "business",
+      "grammar_point": "미래 시제와 before절을 사용한 시간 표현"
+    },
+    {
+      "english": "Could you please prioritize the urgent tasks and delegate the rest to your team?",
+      "korean": "급한 업무들을 우선순위를 정해서 처리하시고, 나머지는 팀에 위임해 주시겠어요?",
+      "category": "business",
+      "grammar_point": "Could you please를 사용한 정중한 요청문"
+    },
+    {
+      "english": "I'm planning to take a short vacation to recharge my batteries after this busy quarter.",
+      "korean": "이번 바쁜 분기가 끝나면 에너지를 재충전하기 위해 짧은 휴가를 갈 계획입니다.",
+      "category": "daily",
+      "grammar_point": "to부정사를 사용한 목적 표현과 관용구 활용"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "이메일을 보내기 전에 항상 맞춤법 오류를 확인하세요.",
+      "answer": "Always check for spelling errors before sending emails.",
+      "acceptable_keywords": [
+        "check",
+        "spelling",
+        "errors",
+        "before",
+        "sending"
+      ],
+      "hint": "'~을 확인하다'와 '보내기 전에' 표현을 사용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "우리 회사는 다음 5년간 첨단 기술에 대규모 투자할 예정입니다.",
+      "answer": "Our company plans to invest heavily in advanced technology over the next five years.",
+      "acceptable_keywords": [
+        "company",
+        "invest",
+        "heavily",
+        "advanced",
+        "technology"
+      ],
+      "hint": "'대규모로 투자하다'는 'invest heavily'로 표현합니다."
+    },
+    {
+      "type": "translation",
+      "korean": "전문가들은 인공지능에 대한 수요가 계속 증가할 것으로 예측합니다.",
+      "answer": "Experts predict that demand for artificial intelligence will continue to increase.",
+      "acceptable_keywords": [
+        "experts",
+        "predict",
+        "demand",
+        "artificial intelligence",
+        "increase"
+      ],
+      "hint": "'예측하다'와 that절을 사용한 문장 구조에 주의하세요."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "This investment will ___ our company's position in the global market.",
+      "answer": "strengthen",
+      "options": [
+        "weaken",
+        "strengthen",
+        "maintain",
+        "ignore"
+      ],
+      "korean": "이 투자는 글로벌 시장에서 우리 회사의 입지를 강화할 것입니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Please keep your presentation ___ and focus on the key points.",
+      "answer": "concise",
+      "options": [
+        "lengthy",
+        "concise",
+        "complex",
+        "detailed"
+      ],
+      "korean": "발표를 간결하게 하시고 핵심 포인트에 집중해 주세요."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The new policy aims to ___ collaboration between different teams.",
+      "answer": "foster",
+      "options": [
+        "prevent",
+        "foster",
+        "limit",
+        "avoid"
+      ],
+      "korean": "새로운 정책은 서로 다른 팀들 간의 협력을 촉진하는 것을 목표로 합니다."
+    }
+  ],
+  "audio": {
+    "입트영": "",
+    "귀트영": ""
+  },
+  "audio_local": {}
+}
