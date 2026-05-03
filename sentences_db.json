@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-03",
-  "total_sentences": 63,
+  "last_updated": "2026-05-04",
+  "total_sentences": 66,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -505,6 +505,30 @@
       "korean": "이번 바쁜 분기가 끝나면 에너지를 재충전하기 위해 짧은 휴가를 갈 계획입니다.",
       "category": "daily",
       "grammar_point": "to부정사를 사용한 목적 표현과 관용구 활용"
+    },
+    {
+      "id": "2026-05-04_sent_01",
+      "date_added": "2026-05-04",
+      "english": "We need to discuss the project timeline during tomorrow's meeting to ensure we're all on the same page.",
+      "korean": "내일 회의에서 프로젝트 일정을 논의해서 모두가 같은 생각을 갖도록 해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형 (필요성 표현), ensure + that절 (확실히 하다)"
+    },
+    {
+      "id": "2026-05-04_sent_02",
+      "date_added": "2026-05-04",
+      "english": "Could you please send me the updated version of the presentation by the end of today?",
+      "korean": "오늘 끝까지 프레젠테이션의 업데이트된 버전을 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "Could you please + 동사원형 (정중한 요청), by the end of (시간 전치사)"
+    },
+    {
+      "id": "2026-05-04_sent_03",
+      "date_added": "2026-05-04",
+      "english": "I'm planning to try that new restaurant this weekend if the weather is nice.",
+      "korean": "날씨가 좋으면 이번 주말에 그 새로운 식당을 가볼 계획입니다.",
+      "category": "daily",
+      "grammar_point": "be planning to + 동사원형 (계획 표현), if절 (조건문)"
     }
   ]
 }

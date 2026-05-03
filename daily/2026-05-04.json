@@ -1,0 +1,171 @@
+{
+  "date": "2026-05-04",
+  "day_of_week": "월요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Managing Work-Life Balance in Korean Corporate Culture",
+    "text": "Work-life balance has become a hot topic in Korean society, especially among office workers who often face long hours and high expectations. Many companies are now implementing flexible working arrangements, such as remote work options and flexible schedules, to help employees maintain a healthier balance. However, the traditional corporate culture still poses challenges. Many workers feel pressured to stay late at the office, even when their tasks are completed, due to the unspoken rule of showing dedication through physical presence. The key to achieving better work-life balance lies in setting clear boundaries and communicating effectively with supervisors about workload and priorities. Companies that successfully embrace this change often see improved employee satisfaction and productivity. It's encouraging to see more Korean businesses recognizing that a well-rested, happy workforce is ultimately more beneficial for everyone involved. The shift toward valuing personal time alongside professional responsibilities represents a positive evolution in Korean workplace culture.",
+    "korean_summary": "한국 직장 문화에서 워라밸이 중요한 화두가 되고 있으며, 많은 회사들이 유연근무제를 도입하고 있습니다. 하지만 여전히 전통적인 기업 문화로 인한 어려움이 존재하고, 명확한 경계 설정과 효과적인 소통이 해결책이 될 수 있습니다. 개인 시간을 중시하는 방향으로의 변화는 한국 직장 문화의 긍정적인 발전을 나타냅니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea's Digital Healthcare Revolution Gains Momentum",
+    "text": "South Korea is accelerating its digital transformation in healthcare, with telemedicine services experiencing unprecedented growth since the pandemic. The government announced new regulations that will permanently allow remote consultations for certain medical conditions, marking a significant shift from previous restrictions. Major hospitals are investing heavily in AI-powered diagnostic tools and digital health platforms to improve patient care efficiency. The integration of 5G technology is enabling real-time remote surgeries and high-definition medical consultations across the country. However, concerns remain about data privacy and the digital divide affecting elderly patients who may struggle with new technologies. Healthcare professionals are receiving additional training to adapt to these digital tools while maintaining the quality of patient care. Industry experts predict that South Korea's digital healthcare market will reach $8 billion by 2025, positioning the country as a leader in medical technology innovation in Asia.",
+    "korean_summary": "한국의 디지털 헬스케어가 급속히 발전하고 있으며, 정부는 특정 질환에 대한 원격진료를 영구 허용하는 새로운 규정을 발표했습니다. 5G 기술 통합으로 실시간 원격수술이 가능해졌지만, 데이터 프라이버시와 고령층의 디지털 격차에 대한 우려도 존재합니다."
+  },
+  "key_expressions": [
+    {
+      "english": "set clear boundaries",
+      "korean": "명확한 경계를 설정하다",
+      "example": "It's important to set clear boundaries between work and personal time.",
+      "source": "입트영"
+    },
+    {
+      "english": "unspoken rule",
+      "korean": "암묵적인 규칙, 불문율",
+      "example": "There's an unspoken rule in our office about not leaving before the manager.",
+      "source": "입트영"
+    },
+    {
+      "english": "flexible working arrangements",
+      "korean": "유연근무제",
+      "example": "The company introduced flexible working arrangements to improve employee satisfaction.",
+      "source": "입트영"
+    },
+    {
+      "english": "show dedication through physical presence",
+      "korean": "물리적 존재로 헌신을 보여주다",
+      "example": "Many employees feel they need to show dedication through physical presence at the office.",
+      "source": "입트영"
+    },
+    {
+      "english": "gain momentum",
+      "korean": "탄력을 받다, 가속화되다",
+      "example": "The digital transformation initiative is gaining momentum across all departments.",
+      "source": "귀트영"
+    },
+    {
+      "english": "unprecedented growth",
+      "korean": "전례 없는 성장",
+      "example": "The e-commerce sector experienced unprecedented growth during the pandemic.",
+      "source": "귀트영"
+    },
+    {
+      "english": "mark a significant shift",
+      "korean": "중요한 변화를 나타내다",
+      "example": "The new policy marks a significant shift in the government's approach to remote work.",
+      "source": "귀트영"
+    },
+    {
+      "english": "digital divide",
+      "korean": "디지털 격차",
+      "example": "The digital divide is becoming more apparent as society becomes increasingly digitized.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "We need to discuss the project timeline during tomorrow's meeting to ensure we're all on the same page.",
+      "korean": "내일 회의에서 프로젝트 일정을 논의해서 모두가 같은 생각을 갖도록 해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형 (필요성 표현), ensure + that절 (확실히 하다)"
+    },
+    {
+      "english": "Could you please send me the updated version of the presentation by the end of today?",
+      "korean": "오늘 끝까지 프레젠테이션의 업데이트된 버전을 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "Could you please + 동사원형 (정중한 요청), by the end of (시간 전치사)"
+    },
+    {
+      "english": "I'm planning to try that new restaurant this weekend if the weather is nice.",
+      "korean": "날씨가 좋으면 이번 주말에 그 새로운 식당을 가볼 계획입니다.",
+      "category": "daily",
+      "grammar_point": "be planning to + 동사원형 (계획 표현), if절 (조건문)"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "회사에서 유연근무제를 도입해서 직원 만족도가 향상되었습니다.",
+      "answer": "The company introduced flexible working arrangements, which improved employee satisfaction.",
+      "acceptable_keywords": [
+        "flexible",
+        "working",
+        "arrangements",
+        "improved",
+        "satisfaction"
+      ],
+      "hint": "'유연근무제'와 '만족도'의 영어 표현을 생각해보세요."
+    },
+    {
+      "type": "translation",
+      "korean": "디지털 헬스케어 시장이 전례 없는 성장을 경험하고 있습니다.",
+      "answer": "The digital healthcare market is experiencing unprecedented growth.",
+      "acceptable_keywords": [
+        "digital",
+        "healthcare",
+        "experiencing",
+        "unprecedented",
+        "growth"
+      ],
+      "hint": "'전례 없는'의 영어 표현을 기억하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "업무와 개인 시간 사이에 명확한 경계를 설정하는 것이 중요합니다.",
+      "answer": "It's important to set clear boundaries between work and personal time.",
+      "acceptable_keywords": [
+        "important",
+        "set",
+        "clear",
+        "boundaries",
+        "work",
+        "personal"
+      ],
+      "hint": "'경계를 설정하다'의 영어 표현을 사용하세요."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The new policy _____ a significant shift in the company's approach to remote work.",
+      "answer": "marks",
+      "options": [
+        "marks",
+        "makes",
+        "shows",
+        "creates"
+      ],
+      "korean": "새로운 정책은 회사의 원격근무 접근법에 중요한 변화를 나타냅니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Many employees feel pressured to stay late due to the _____ rule of showing dedication.",
+      "answer": "unspoken",
+      "options": [
+        "unspoken",
+        "unofficial",
+        "hidden",
+        "secret"
+      ],
+      "korean": "많은 직원들이 헌신을 보여야 한다는 암묵적인 규칙 때문에 늦게까지 있어야 한다는 압박감을 느낍니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The _____ divide is affecting elderly patients who struggle with new technologies.",
+      "answer": "digital",
+      "options": [
+        "digital",
+        "technology",
+        "generation",
+        "knowledge"
+      ],
+      "korean": "디지털 격차가 새로운 기술에 어려움을 겪는 고령 환자들에게 영향을 미치고 있습니다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66522&part_seq=26619",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66545&part_seq=26620"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-05-04.mp3",
+    "귀트영": "audio/귀트영_2026-05-04.mp3"
+  }
+}
