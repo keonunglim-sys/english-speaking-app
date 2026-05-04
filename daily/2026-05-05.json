@@ -1,0 +1,164 @@
+{
+  "date": "2026-05-05",
+  "day_of_week": "화요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Building Resilience in the Workplace",
+    "text": "Workplace resilience has become one of the most important skills for modern professionals. In today's fast-paced business environment, we constantly face challenges such as tight deadlines, changing priorities, and unexpected setbacks. The ability to bounce back from difficulties and adapt to new situations can make the difference between success and failure. I've learned that building resilience is not about avoiding stress, but rather developing healthy coping mechanisms. When I face a challenging project, I try to break it down into smaller, manageable tasks. This approach helps me maintain perspective and avoid feeling overwhelmed. Additionally, I make sure to maintain work-life balance by setting clear boundaries and taking regular breaks. Building strong relationships with colleagues also plays a crucial role in developing resilience. Having a supportive network at work makes it easier to navigate through tough times and celebrate achievements together.",
+    "korean_summary": "현대 직장인에게 회복탄력성은 매우 중요한 능력이 되었습니다. 빠르게 변화하는 업무 환경에서 마감일, 우선순위 변경, 예상치 못한 문제들에 직면하게 됩니다. 어려운 프로젝트를 작은 단위로 나누고, 일과 삶의 균형을 유지하며, 동료들과 좋은 관계를 구축하는 것이 회복탄력성을 기르는 핵심입니다."
+  },
+  "gwitunyeong": {
+    "title": "AI Integration in Corporate Training Programs",
+    "text": "Companies worldwide are increasingly incorporating artificial intelligence into their employee training programs. According to recent industry reports, over 60% of Fortune 500 companies have adopted AI-powered learning platforms in 2024. These systems can personalize training content based on individual learning styles and progress rates. The technology analyzes employee performance data to identify knowledge gaps and recommend specific courses or modules. Major corporations like Google and Microsoft have reported significant improvements in training efficiency, with completion rates increasing by up to 40%. However, experts warn that human interaction remains crucial for developing soft skills and creative thinking. The hybrid approach, combining AI-driven content delivery with human mentorship, appears to be the most effective strategy for comprehensive employee development.",
+    "korean_summary": "전 세계 기업들이 직원 교육 프로그램에 인공지능을 적극 도입하고 있습니다. 2024년 포춘 500대 기업의 60% 이상이 AI 기반 학습 플랫폼을 채택했으며, 교육 효율성이 크게 향상되었다고 보고되고 있습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "bounce back from difficulties",
+      "korean": "어려움에서 회복하다, 극복하다",
+      "example": "Our team managed to bounce back from the failed product launch.",
+      "source": "입트영"
+    },
+    {
+      "english": "break it down into manageable tasks",
+      "korean": "관리 가능한 업무로 나누다",
+      "example": "Let's break this project down into manageable tasks for each team member.",
+      "source": "입트영"
+    },
+    {
+      "english": "maintain perspective",
+      "korean": "관점을 유지하다, 균형감을 잃지 않다",
+      "example": "It's important to maintain perspective during stressful periods at work.",
+      "source": "입트영"
+    },
+    {
+      "english": "navigate through tough times",
+      "korean": "어려운 시기를 헤쳐나가다",
+      "example": "Strong leadership helps organizations navigate through tough times.",
+      "source": "입트영"
+    },
+    {
+      "english": "incorporate into",
+      "korean": "~에 통합하다, 도입하다",
+      "example": "We need to incorporate these new technologies into our workflow.",
+      "source": "귀트영"
+    },
+    {
+      "english": "identify knowledge gaps",
+      "korean": "지식 격차를 파악하다",
+      "example": "The assessment will help identify knowledge gaps in our training program.",
+      "source": "귀트영"
+    },
+    {
+      "english": "completion rates",
+      "korean": "완료율, 이수율",
+      "example": "Online courses typically have lower completion rates than in-person training.",
+      "source": "귀트영"
+    },
+    {
+      "english": "hybrid approach",
+      "korean": "혼합 방식, 하이브리드 접근법",
+      "example": "Our company adopted a hybrid approach to remote and office work.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "Could you please break down the quarterly targets by department?",
+      "korean": "부서별로 분기 목표를 나누어서 알려주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "Could you please + 동사원형 구조로 정중한 요청 표현"
+    },
+    {
+      "english": "We need to incorporate customer feedback into our product development process.",
+      "korean": "우리는 고객 피드백을 제품 개발 과정에 반영해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형으로 필요성 표현"
+    },
+    {
+      "english": "I'm trying to maintain a better work-life balance these days.",
+      "korean": "요즘 일과 삶의 균형을 더 잘 유지하려고 노력하고 있어요.",
+      "category": "daily",
+      "grammar_point": "I'm trying to + 동사원형으로 현재 진행 중인 노력 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "우리팀은 어려운 상황에서 빠르게 회복했습니다.",
+      "answer": "Our team bounced back quickly from the difficult situation.",
+      "acceptable_keywords": [
+        "bounced back",
+        "quickly",
+        "difficult situation"
+      ],
+      "hint": "'회복하다'는 'bounce back'을 사용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "이 프로젝트를 관리 가능한 작업들로 나누어야 합니다.",
+      "answer": "We need to break this project down into manageable tasks.",
+      "acceptable_keywords": [
+        "break down",
+        "manageable tasks",
+        "project"
+      ],
+      "hint": "'나누다'는 'break down'을 사용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "회사들이 AI 기술을 교육 프로그램에 도입하고 있습니다.",
+      "answer": "Companies are incorporating AI technology into their training programs.",
+      "acceptable_keywords": [
+        "incorporating",
+        "AI technology",
+        "training programs"
+      ],
+      "hint": "'도입하다'는 'incorporate into'를 사용하세요."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The ability to ___ from setbacks is crucial for career success.",
+      "answer": "bounce back",
+      "options": [
+        "bounce back",
+        "break down",
+        "give up",
+        "slow down"
+      ],
+      "korean": "좌절에서 회복하는 능력은 경력 성공에 중요합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "We need to ___ knowledge gaps in our team's skills.",
+      "answer": "identify",
+      "options": [
+        "identify",
+        "ignore",
+        "create",
+        "expand"
+      ],
+      "korean": "우리팀 기술의 지식 격차를 파악해야 합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The ___ approach combines online and offline learning methods.",
+      "answer": "hybrid",
+      "options": [
+        "hybrid",
+        "traditional",
+        "digital",
+        "simple"
+      ],
+      "korean": "하이브리드 방식은 온라인과 오프라인 학습 방법을 결합합니다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66523&part_seq=26619",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66546&part_seq=26620"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-05-05.mp3",
+    "귀트영": "audio/귀트영_2026-05-05.mp3"
+  }
+}
