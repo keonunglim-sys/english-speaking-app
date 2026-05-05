@@ -1,0 +1,166 @@
+{
+  "date": "2026-05-06",
+  "day_of_week": "수요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Working from Home vs. Office Work",
+    "text": "The debate between working from home and working in the office continues to evolve in today's workplace. Having experienced both arrangements extensively, I've noticed distinct advantages to each approach. Working from home offers incredible flexibility and eliminates the daily commute, which saves both time and money. I can focus deeply on tasks without office distractions and maintain a better work-life balance. However, office work provides invaluable face-to-face interactions with colleagues that foster creativity and team spirit. Spontaneous discussions often lead to breakthrough ideas that rarely happen during scheduled video calls. The office environment also helps maintain clear boundaries between work and personal life. Additionally, being physically present makes it easier to read non-verbal cues during meetings and build stronger professional relationships. While remote work has proven its effectiveness, I believe a hybrid approach combining both arrangements offers the best of both worlds, allowing employees to choose the most suitable environment for different types of work.",
+    "korean_summary": "재택근무와 사무실 근무 각각의 장단점을 비교한 에세이입니다. 재택근무는 유연성과 집중력 향상을 제공하지만, 사무실 근무는 동료와의 직접적인 소통과 창의적 아이디어 교환에 유리합니다. 결론적으로 두 방식을 결합한 하이브리드 접근법이 최선이라고 제시합니다."
+  },
+  "gwitunyeong": {
+    "title": "AI Chatbots Transform Customer Service Industry",
+    "text": "Artificial intelligence chatbots are revolutionizing customer service across various industries, with companies reporting significant improvements in efficiency and customer satisfaction. Recent studies show that AI-powered customer support can resolve up to 80% of routine inquiries without human intervention, reducing response times from hours to seconds. Major retailers and financial institutions have already implemented sophisticated chatbot systems that can handle multiple languages and complex queries. These AI assistants operate 24/7, providing instant support to customers regardless of time zones or business hours. However, experts emphasize that human agents remain essential for handling sensitive issues and building emotional connections with customers. The technology continues to advance rapidly, with newer models demonstrating enhanced natural language processing capabilities and better understanding of context and nuance in customer communications.",
+    "korean_summary": "AI 챗봇이 고객 서비스 업계를 혁신하고 있으며, 일반적인 문의의 80%까지 인간 개입 없이 해결할 수 있다고 합니다. 24시간 즉시 지원이 가능하지만, 민감한 문제 처리에는 여전히 인간 상담원이 필수적입니다."
+  },
+  "key_expressions": [
+    {
+      "english": "work-life balance",
+      "korean": "일과 삶의 균형",
+      "example": "Maintaining a healthy work-life balance is crucial for long-term career success.",
+      "source": "입트영"
+    },
+    {
+      "english": "face-to-face interactions",
+      "korean": "대면 상호작용",
+      "example": "Face-to-face interactions are irreplaceable for building trust with clients.",
+      "source": "입트영"
+    },
+    {
+      "english": "breakthrough ideas",
+      "korean": "혁신적인 아이디어",
+      "example": "Our team generated breakthrough ideas during the brainstorming session.",
+      "source": "입트영"
+    },
+    {
+      "english": "hybrid approach",
+      "korean": "하이브리드 접근법",
+      "example": "The company adopted a hybrid approach to employee training programs.",
+      "source": "입트영"
+    },
+    {
+      "english": "without human intervention",
+      "korean": "인간 개입 없이",
+      "example": "The automated system can process orders without human intervention.",
+      "source": "귀트영"
+    },
+    {
+      "english": "regardless of time zones",
+      "korean": "시간대에 관계없이",
+      "example": "Our global support team works regardless of time zones.",
+      "source": "귀트영"
+    },
+    {
+      "english": "natural language processing",
+      "korean": "자연어 처리",
+      "example": "Advanced natural language processing helps AI understand human speech better.",
+      "source": "귀트영"
+    },
+    {
+      "english": "enhanced capabilities",
+      "korean": "향상된 기능",
+      "example": "The new software version includes enhanced capabilities for data analysis.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I'll need to schedule a follow-up meeting to discuss the project details further.",
+      "korean": "프로젝트 세부사항을 더 논의하기 위해 후속 회의를 예정해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형으로 필요성 표현"
+    },
+    {
+      "english": "Could you please send me the quarterly report by the end of this week?",
+      "korean": "이번 주말까지 분기별 보고서를 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "Could you please로 정중한 요청 표현"
+    },
+    {
+      "english": "I'm planning to grab some coffee before the morning rush hour starts.",
+      "korean": "출근 러시아워가 시작되기 전에 커피를 사러 갈 계획입니다.",
+      "category": "daily",
+      "grammar_point": "be planning to로 계획 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "재택근무는 통근 시간을 절약해 줍니다.",
+      "answer": "Working from home saves commute time.",
+      "acceptable_keywords": [
+        "working from home",
+        "saves",
+        "commute",
+        "time"
+      ],
+      "hint": "'재택근무'와 '통근 시간을 절약하다' 표현을 사용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "AI 챗봇은 24시간 고객 지원을 제공할 수 있습니다.",
+      "answer": "AI chatbots can provide 24/7 customer support.",
+      "acceptable_keywords": [
+        "AI chatbots",
+        "provide",
+        "24/7",
+        "customer support"
+      ],
+      "hint": "'24시간'은 영어로 '24/7'로 표현합니다."
+    },
+    {
+      "type": "translation",
+      "korean": "하이브리드 근무 방식이 점점 인기를 얻고 있습니다.",
+      "answer": "Hybrid work arrangements are becoming increasingly popular.",
+      "acceptable_keywords": [
+        "hybrid",
+        "work",
+        "becoming",
+        "popular"
+      ],
+      "hint": "'점점 더'는 'increasingly'로 표현할 수 있습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The company implemented a new policy to improve work-life ___.",
+      "answer": "balance",
+      "options": [
+        "balance",
+        "schedule",
+        "environment",
+        "system"
+      ],
+      "korean": "회사는 일과 삶의 균형을 개선하기 위해 새로운 정책을 시행했습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "AI technology can process customer inquiries without human ___.",
+      "answer": "intervention",
+      "options": [
+        "intervention",
+        "permission",
+        "assistance",
+        "supervision"
+      ],
+      "korean": "AI 기술은 인간의 개입 없이 고객 문의를 처리할 수 있습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Face-to-face meetings often lead to ___ ideas and solutions.",
+      "answer": "breakthrough",
+      "options": [
+        "breakthrough",
+        "ordinary",
+        "simple",
+        "basic"
+      ],
+      "korean": "대면 회의는 종종 획기적인 아이디어와 해결책으로 이어집니다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66524&part_seq=26619",
+    "귀트영": ""
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-05-06.mp3"
+  }
+}

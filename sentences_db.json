@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-05",
-  "total_sentences": 69,
+  "last_updated": "2026-05-06",
+  "total_sentences": 72,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -553,6 +553,30 @@
       "korean": "요즘 일과 삶의 균형을 더 잘 유지하려고 노력하고 있어요.",
       "category": "daily",
       "grammar_point": "I'm trying to + 동사원형으로 현재 진행 중인 노력 표현"
+    },
+    {
+      "id": "2026-05-06_sent_01",
+      "date_added": "2026-05-06",
+      "english": "I'll need to schedule a follow-up meeting to discuss the project details further.",
+      "korean": "프로젝트 세부사항을 더 논의하기 위해 후속 회의를 예정해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형으로 필요성 표현"
+    },
+    {
+      "id": "2026-05-06_sent_02",
+      "date_added": "2026-05-06",
+      "english": "Could you please send me the quarterly report by the end of this week?",
+      "korean": "이번 주말까지 분기별 보고서를 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "Could you please로 정중한 요청 표현"
+    },
+    {
+      "id": "2026-05-06_sent_03",
+      "date_added": "2026-05-06",
+      "english": "I'm planning to grab some coffee before the morning rush hour starts.",
+      "korean": "출근 러시아워가 시작되기 전에 커피를 사러 갈 계획입니다.",
+      "category": "daily",
+      "grammar_point": "be planning to로 계획 표현"
     }
   ]
 }
