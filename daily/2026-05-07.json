@@ -1,0 +1,163 @@
+{
+  "date": "2026-05-07",
+  "day_of_week": "목요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Working from Home Challenges",
+    "text": "Working from home has become the new normal for many professionals since the pandemic. While it offers flexibility and eliminates commuting time, it also presents unique challenges that we need to address. One of the biggest issues is maintaining work-life balance. When your office is just a few steps away from your bedroom, it's tempting to work longer hours or check emails late at night. Setting clear boundaries is crucial for mental health. Another challenge is staying motivated without direct supervision. Some people thrive in this environment, while others struggle with distractions at home. Creating a dedicated workspace and establishing a routine can help maintain productivity. Communication with colleagues also requires more effort. We miss out on casual conversations and spontaneous brainstorming sessions that happen naturally in an office setting. Despite these challenges, remote work has taught us to be more self-disciplined and adaptable. The key is finding what works best for each individual and continuously adjusting our approach.",
+    "korean_summary": "재택근무는 팬데믹 이후 새로운 표준이 되었지만 여러 도전과제를 안고 있습니다. 업무와 생활의 균형 유지, 자기 동기부여, 동료들과의 원활한 소통 등이 주요 과제입니다. 전용 작업공간 마련과 루틴 설정을 통해 생산성을 유지하고, 개인에게 맞는 방식을 찾아 지속적으로 조정하는 것이 중요합니다."
+  },
+  "gwitunyeong": {
+    "title": "Global Coffee Prices Surge Due to Climate Change",
+    "text": "Coffee prices worldwide have reached a five-year high as climate change continues to impact major coffee-producing regions. Brazil, the world's largest coffee producer, has experienced severe droughts and unexpected frosts that damaged crops significantly. Vietnam, the second-largest producer, has also faced unusual weather patterns affecting harvest yields. The price surge is expected to hit consumers directly, with major coffee chains and retailers preparing to increase prices in the coming months. Industry experts warn that climate change poses a long-term threat to coffee production, as rising temperatures and unpredictable weather patterns make traditional growing regions less suitable for coffee cultivation. Some farmers are already relocating to higher altitudes or switching to more resilient crop varieties. The coffee industry is investing heavily in sustainable farming practices and research into climate-resistant coffee plants to secure future production.",
+    "korean_summary": "기후변화로 인해 전 세계 커피 가격이 5년 만에 최고치를 기록했습니다. 브라질과 베트남 등 주요 커피 생산국들이 가뭄과 이상기후로 피해를 입었으며, 이는 소비자 가격 상승으로 이어질 전망입니다. 업계는 지속가능한 농업과 기후 저항성 품종 개발에 투자하고 있습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "maintain work-life balance",
+      "korean": "업무와 생활의 균형을 유지하다",
+      "example": "It's important to maintain work-life balance when working from home.",
+      "source": "입트영"
+    },
+    {
+      "english": "set clear boundaries",
+      "korean": "명확한 경계를 설정하다",
+      "example": "We need to set clear boundaries between work hours and personal time.",
+      "source": "입트영"
+    },
+    {
+      "english": "thrive in this environment",
+      "korean": "이런 환경에서 번영하다/잘하다",
+      "example": "Some employees thrive in this environment while others need more structure.",
+      "source": "입트영"
+    },
+    {
+      "english": "continuously adjusting our approach",
+      "korean": "지속적으로 우리의 접근방식을 조정하다",
+      "example": "Success requires continuously adjusting our approach to meet changing demands.",
+      "source": "입트영"
+    },
+    {
+      "english": "reach a five-year high",
+      "korean": "5년 만의 최고치를 기록하다",
+      "example": "Oil prices reached a five-year high due to supply chain disruptions.",
+      "source": "귀트영"
+    },
+    {
+      "english": "pose a long-term threat",
+      "korean": "장기적인 위협을 가하다",
+      "example": "Rising sea levels pose a long-term threat to coastal cities.",
+      "source": "귀트영"
+    },
+    {
+      "english": "unpredictable weather patterns",
+      "korean": "예측 불가능한 날씨 패턴",
+      "example": "Unpredictable weather patterns are affecting agricultural productivity worldwide.",
+      "source": "귀트영"
+    },
+    {
+      "english": "invest heavily in",
+      "korean": "~에 대대적으로 투자하다",
+      "example": "Tech companies are investing heavily in artificial intelligence research.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I need to wrap up this project by the end of the week.",
+      "korean": "이번 주말까지 이 프로젝트를 마무리해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형: 필요성을 나타내는 표현"
+    },
+    {
+      "english": "Could you please send me the updated budget report?",
+      "korean": "업데이트된 예산 보고서를 보내주시겠어요?",
+      "category": "business",
+      "grammar_point": "Could you please + 동사원형: 정중한 부탁 표현"
+    },
+    {
+      "english": "I'm planning to catch up with my friends over the weekend.",
+      "korean": "주말에 친구들과 만나서 근황을 나눌 계획입니다.",
+      "category": "daily",
+      "grammar_point": "be planning to + 동사원형: 계획을 나타내는 현재진행형"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "재택근무를 하면서 업무와 생활의 균형을 유지하는 것이 어렵습니다.",
+      "answer": "It's difficult to maintain work-life balance while working from home.",
+      "acceptable_keywords": [
+        "difficult",
+        "maintain",
+        "work-life balance",
+        "working from home"
+      ],
+      "hint": "'균형을 유지하다'는 'maintain work-life balance'로 표현합니다."
+    },
+    {
+      "type": "translation",
+      "korean": "기후변화로 인해 커피 가격이 급등하고 있습니다.",
+      "answer": "Coffee prices are surging due to climate change.",
+      "acceptable_keywords": [
+        "coffee prices",
+        "surging",
+        "due to",
+        "climate change"
+      ],
+      "hint": "'급등하다'는 'surge' 동사를 사용합니다."
+    },
+    {
+      "type": "translation",
+      "korean": "우리 회사는 지속가능한 기술에 대대적으로 투자하고 있습니다.",
+      "answer": "Our company is investing heavily in sustainable technology.",
+      "acceptable_keywords": [
+        "company",
+        "investing heavily",
+        "sustainable technology"
+      ],
+      "hint": "'대대적으로 투자하다'는 'invest heavily in'으로 표현합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "We need to set clear ___ between work and personal life.",
+      "answer": "boundaries",
+      "options": [
+        "boundaries",
+        "limits",
+        "rules",
+        "schedules"
+      ],
+      "korean": "업무와 개인 생활 사이에 명확한 경계를 설정해야 합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The drought has ___ damaged the coffee crops this year.",
+      "answer": "significantly",
+      "options": [
+        "significantly",
+        "slightly",
+        "rarely",
+        "occasionally"
+      ],
+      "korean": "가뭄이 올해 커피 작물에 심각한 피해를 입혔습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Some employees ___ in remote work environments.",
+      "answer": "thrive",
+      "options": [
+        "thrive",
+        "survive",
+        "arrive",
+        "derive"
+      ],
+      "korean": "일부 직원들은 원격근무 환경에서 잘 적응합니다."
+    }
+  ],
+  "audio": {
+    "입트영": "",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66548&part_seq=26620"
+  },
+  "audio_local": {}
+}

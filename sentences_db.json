@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-06",
-  "total_sentences": 72,
+  "last_updated": "2026-05-07",
+  "total_sentences": 75,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -577,6 +577,30 @@
       "korean": "출근 러시아워가 시작되기 전에 커피를 사러 갈 계획입니다.",
       "category": "daily",
       "grammar_point": "be planning to로 계획 표현"
+    },
+    {
+      "id": "2026-05-07_sent_01",
+      "date_added": "2026-05-07",
+      "english": "I need to wrap up this project by the end of the week.",
+      "korean": "이번 주말까지 이 프로젝트를 마무리해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형: 필요성을 나타내는 표현"
+    },
+    {
+      "id": "2026-05-07_sent_02",
+      "date_added": "2026-05-07",
+      "english": "Could you please send me the updated budget report?",
+      "korean": "업데이트된 예산 보고서를 보내주시겠어요?",
+      "category": "business",
+      "grammar_point": "Could you please + 동사원형: 정중한 부탁 표현"
+    },
+    {
+      "id": "2026-05-07_sent_03",
+      "date_added": "2026-05-07",
+      "english": "I'm planning to catch up with my friends over the weekend.",
+      "korean": "주말에 친구들과 만나서 근황을 나눌 계획입니다.",
+      "category": "daily",
+      "grammar_point": "be planning to + 동사원형: 계획을 나타내는 현재진행형"
     }
   ]
 }
