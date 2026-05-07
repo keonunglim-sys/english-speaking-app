@@ -1,0 +1,167 @@
+{
+  "date": "2026-05-08",
+  "day_of_week": "금요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Working from Home: Finding the Right Balance",
+    "text": "Working from home has become the new normal for many Korean office workers since the pandemic. While it offers flexibility and eliminates commuting time, it also presents unique challenges. One of the biggest struggles is maintaining a healthy work-life balance when your bedroom is just steps away from your home office. I've learned that setting clear boundaries is crucial. I designate specific hours for work and stick to them religiously. Creating a dedicated workspace, even if it's just a corner of my living room, helps me get into the right mindset. Another challenge is staying connected with colleagues. Without casual coffee breaks or lunch conversations, it's easy to feel isolated. I make an effort to schedule regular video calls and participate actively in virtual meetings. The key is being intentional about communication. Despite the challenges, working from home has taught me valuable lessons about self-discipline and time management. It's all about finding what works best for you and adapting accordingly.",
+    "korean_summary": "재택근무는 팬데미ック 이후 많은 한국 직장인들의 새로운 일상이 되었습니다. 유연성과 통근 시간 절약이라는 장점이 있지만 일과 삶의 균형 유지, 동료들과의 소통 등의 어려움도 있습니다. 명확한 경계 설정과 의도적인 커뮤니케이션이 성공적인 재택근무의 핵심입니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea Leads Global Digital Innovation Rankings",
+    "text": "South Korea has topped the latest Global Digital Innovation Index, surpassing traditional technology leaders like the United States and Germany. The ranking, released by the International Technology Research Institute, evaluates countries based on digital infrastructure, innovation capacity, and technology adoption rates. Korea's success stems from its world-class 5G network coverage, which reaches over 95% of the population, and significant government investment in artificial intelligence and blockchain technologies. The country's rapid digitalization of public services during the COVID-19 pandemic also contributed to its high ranking. Korean companies like Samsung and LG continue to drive innovation in semiconductors and consumer electronics, while the gaming and entertainment industries, including K-pop and webtoons, showcase the nation's creative digital content capabilities. Industry experts predict that Korea's leadership in digital innovation will strengthen its position as a global technology hub and attract more international investment in the coming years.",
+    "korean_summary": "한국이 최신 글로벌 디지털 혁신 지수에서 1위를 차지했습니다. 95% 이상의 5G 네트워크 커버리지, AI와 블록체인 기술에 대한 정부 투자, 팬데미믹 기간 중 공공서비스의 급속한 디지털화가 높은 순위의 주요 요인으로 분석됩니다."
+  },
+  "key_expressions": [
+    {
+      "english": "get into the right mindset",
+      "korean": "올바른 마음가짐을 갖다",
+      "example": "I need to get into the right mindset before starting this important presentation.",
+      "source": "입트영"
+    },
+    {
+      "english": "stick to them religiously",
+      "korean": "철저히 지키다",
+      "example": "She sticks to her exercise routine religiously, even on weekends.",
+      "source": "입트영"
+    },
+    {
+      "english": "make an effort to",
+      "korean": "~하려고 노력하다",
+      "example": "We should make an effort to include everyone in the decision-making process.",
+      "source": "입트영"
+    },
+    {
+      "english": "adapt accordingly",
+      "korean": "그에 맞게 적응하다",
+      "example": "Market conditions are changing, so we need to adapt accordingly.",
+      "source": "입트영"
+    },
+    {
+      "english": "surpass traditional leaders",
+      "korean": "기존 선두주자들을 앞지르다",
+      "example": "The startup managed to surpass traditional leaders in the fintech industry.",
+      "source": "귀트영"
+    },
+    {
+      "english": "stem from",
+      "korean": "~에서 비롯되다",
+      "example": "The company's success stems from its innovative approach to customer service.",
+      "source": "귀트영"
+    },
+    {
+      "english": "contribute to",
+      "korean": "~에 기여하다",
+      "example": "Remote work policies contribute to better employee satisfaction.",
+      "source": "귀트영"
+    },
+    {
+      "english": "strengthen its position as",
+      "korean": "~로서의 위치를 강화하다",
+      "example": "This partnership will strengthen our position as a market leader.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "We need to streamline our workflow to meet the quarterly targets.",
+      "korean": "분기별 목표를 달성하기 위해 업무 흐름을 간소화해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형 구문을 사용한 필요성 표현"
+    },
+    {
+      "english": "Could you walk me through the budget proposal one more time?",
+      "korean": "예산 제안서를 한 번 더 자세히 설명해 주시겠어요?",
+      "category": "business",
+      "grammar_point": "Could you + 동사원형으로 정중한 요청 표현"
+    },
+    {
+      "english": "I'm planning to catch up on some reading this weekend.",
+      "korean": "이번 주말에 밀린 독서를 할 계획입니다.",
+      "category": "daily",
+      "grammar_point": "be planning to + 동사원형으로 미래 계획 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "명확한 경계를 설정하는 것이 중요합니다.",
+      "answer": "Setting clear boundaries is important.",
+      "acceptable_keywords": [
+        "setting",
+        "clear",
+        "boundaries",
+        "important"
+      ],
+      "hint": "'경계'는 boundaries, '설정하다'는 setting을 사용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "한국은 디지털 혁신 분야에서 선두주자가 되었습니다.",
+      "answer": "Korea has become a leader in digital innovation.",
+      "acceptable_keywords": [
+        "Korea",
+        "leader",
+        "digital",
+        "innovation"
+      ],
+      "hint": "'선두주자'는 leader, '분야'는 in으로 표현하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "우리는 변화하는 상황에 맞게 적응해야 합니다.",
+      "answer": "We need to adapt to the changing situation accordingly.",
+      "acceptable_keywords": [
+        "adapt",
+        "changing",
+        "situation",
+        "accordingly"
+      ],
+      "hint": "'적응하다'는 adapt, '맞게'는 accordingly를 사용하세요."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The company's success _____ from its innovative approach to customer service.",
+      "answer": "stems",
+      "options": [
+        "stems",
+        "comes",
+        "starts",
+        "begins"
+      ],
+      "korean": "회사의 성공은 고객 서비스에 대한 혁신적 접근법에서 비롯됩니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "I make an _____ to schedule regular video calls with my team.",
+      "answer": "effort",
+      "options": [
+        "effort",
+        "attempt",
+        "try",
+        "work"
+      ],
+      "korean": "나는 팀과 정기적인 화상통화를 하려고 노력합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "We should _____ to our exercise routine religiously.",
+      "answer": "stick",
+      "options": [
+        "stick",
+        "follow",
+        "keep",
+        "maintain"
+      ],
+      "korean": "우리는 운동 루틴을 철저히 지켜야 합니다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66526&part_seq=26619",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66549&part_seq=26620"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-05-08.mp3",
+    "귀트영": "audio/귀트영_2026-05-08.mp3"
+  }
+}
