@@ -1,0 +1,169 @@
+{
+  "date": "2026-05-09",
+  "day_of_week": "토요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Working from Home vs. Office Work",
+    "text": "The debate between working from home and office work has become more relevant than ever. Both options have their distinct advantages and challenges. Working from home offers flexibility and eliminates commuting time, allowing employees to better balance work and personal life. I can wake up later, avoid traffic, and work in comfortable clothes. However, it can be lonely and distracting at times. The lack of face-to-face interaction with colleagues sometimes makes collaboration difficult. On the other hand, office work provides a structured environment and better team communication. There's something energizing about being around coworkers and having spontaneous discussions. The office atmosphere helps me stay focused and motivated. Yet, the daily commute can be exhausting, and office politics can be stressful. In my opinion, a hybrid model works best - combining the flexibility of remote work with the collaborative benefits of office presence. This approach allows us to enjoy the best of both worlds while maintaining productivity and work-life balance.",
+    "korean_summary": "재택근무와 사무실 근무 각각의 장단점을 비교한 에세이입니다. 재택근무는 유연성과 통근 시간 절약의 장점이 있지만 고립감과 집중력 저하의 단점이 있고, 사무실 근무는 구조화된 환경과 팀워크의 장점이 있지만 통근 스트레스와 사내 정치의 단점이 있다고 설명합니다. 결론적으로 하이브리드 모델이 가장 효과적이라고 제안합니다."
+  },
+  "gwitunyeong": {
+    "title": "AI Chatbots Transform Customer Service Industry",
+    "text": "Artificial intelligence chatbots are revolutionizing the customer service industry worldwide. Major companies are increasingly adopting AI-powered customer support systems to handle routine inquiries 24/7. These chatbots can process multiple customer requests simultaneously, significantly reducing wait times and operational costs. Recent studies show that AI chatbots can resolve up to 80% of basic customer questions without human intervention. Industries such as banking, e-commerce, and telecommunications are leading this transformation. However, the technology still faces challenges with complex problems requiring human empathy and critical thinking. Many customers prefer speaking to human agents for sensitive issues. Companies are now implementing hybrid models where chatbots handle initial inquiries and transfer complex cases to human representatives. This approach maximizes efficiency while maintaining customer satisfaction. As AI technology continues to advance, the integration of chatbots in customer service is expected to become even more sophisticated and widespread.",
+    "korean_summary": "AI 챗봇이 전 세계 고객서비스 산업을 혁신하고 있다는 내용입니다. 많은 기업들이 24시간 고객 지원을 위해 AI 챗봇을 도입하고 있으며, 기본적인 문의의 80%까지 처리할 수 있지만 복잡한 문제에는 여전히 인간의 개입이 필요하다고 설명합니다."
+  },
+  "key_expressions": [
+    {
+      "english": "eliminate commuting time",
+      "korean": "통근 시간을 없애다",
+      "example": "Working from home eliminates commuting time and reduces stress.",
+      "source": "입트영"
+    },
+    {
+      "english": "face-to-face interaction",
+      "korean": "대면 상호작용",
+      "example": "Face-to-face interaction with clients is crucial for building trust.",
+      "source": "입트영"
+    },
+    {
+      "english": "hybrid model",
+      "korean": "혼합 모델",
+      "example": "Our company adopted a hybrid model for flexible working arrangements.",
+      "source": "입트영"
+    },
+    {
+      "english": "work-life balance",
+      "korean": "일과 삶의 균형",
+      "example": "Achieving work-life balance is essential for employee wellbeing.",
+      "source": "입트영"
+    },
+    {
+      "english": "process multiple requests simultaneously",
+      "korean": "여러 요청을 동시에 처리하다",
+      "example": "AI systems can process multiple requests simultaneously without delays.",
+      "source": "귀트영"
+    },
+    {
+      "english": "without human intervention",
+      "korean": "인간의 개입 없이",
+      "example": "The automated system works without human intervention during night hours.",
+      "source": "귀트영"
+    },
+    {
+      "english": "lead this transformation",
+      "korean": "이 변화를 주도하다",
+      "example": "Tech companies are leading this transformation in digital payments.",
+      "source": "귀트영"
+    },
+    {
+      "english": "maximize efficiency",
+      "korean": "효율성을 극대화하다",
+      "example": "Companies use data analytics to maximize efficiency in their operations.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "We need to schedule a team meeting to discuss the quarterly performance review.",
+      "korean": "분기별 성과 검토를 논의하기 위해 팀 미팅 일정을 잡아야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형 (필요성 표현)"
+    },
+    {
+      "english": "Could you please send me the updated project timeline by the end of today?",
+      "korean": "오늘 끝까지 업데이트된 프로젝트 일정표를 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "Could you please + 동사원형 (정중한 요청)"
+    },
+    {
+      "english": "I'm planning to try that new restaurant downtown this weekend.",
+      "korean": "이번 주말에 시내에 있는 그 새로운 식당을 가볼 계획이에요.",
+      "category": "daily",
+      "grammar_point": "현재진행형을 이용한 미래 계획 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "재택근무는 통근 시간을 절약하고 업무와 개인 생활의 균형을 더 잘 맞출 수 있게 해줍니다.",
+      "answer": "Working from home saves commuting time and allows for better work-life balance.",
+      "acceptable_keywords": [
+        "working from home",
+        "saves",
+        "commuting time",
+        "work-life balance"
+      ],
+      "hint": "'재택근무'와 '일과 삶의 균형' 표현에 주목하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "AI 챗봇은 기본적인 고객 문의의 80%를 인간의 개입 없이 처리할 수 있습니다.",
+      "answer": "AI chatbots can handle 80% of basic customer inquiries without human intervention.",
+      "acceptable_keywords": [
+        "AI chatbots",
+        "handle",
+        "80%",
+        "basic customer inquiries",
+        "without human intervention"
+      ],
+      "hint": "'인간의 개입 없이'는 'without human intervention'으로 표현하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "우리는 효율성을 극대화하면서 고객 만족도를 유지하는 하이브리드 모델을 구현하고 있습니다.",
+      "answer": "We are implementing a hybrid model that maximizes efficiency while maintaining customer satisfaction.",
+      "acceptable_keywords": [
+        "implementing",
+        "hybrid model",
+        "maximizes efficiency",
+        "maintaining",
+        "customer satisfaction"
+      ],
+      "hint": "'구현하다'는 'implement', '극대화하다'는 'maximize'를 사용하세요."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The company adopted a _____ model to combine remote work with office presence.",
+      "answer": "hybrid",
+      "options": [
+        "hybrid",
+        "traditional",
+        "remote",
+        "flexible"
+      ],
+      "korean": "회사는 재택근무와 사무실 출근을 결합하기 위해 혼합 모델을 채택했다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "AI chatbots can _____ multiple customer requests at the same time.",
+      "answer": "process",
+      "options": [
+        "process",
+        "prevent",
+        "protect",
+        "promote"
+      ],
+      "korean": "AI 챗봇은 여러 고객 요청을 동시에 처리할 수 있다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Face-to-face _____ with colleagues helps improve team collaboration.",
+      "answer": "interaction",
+      "options": [
+        "interaction",
+        "interview",
+        "introduction",
+        "instruction"
+      ],
+      "korean": "동료들과의 대면 상호작용은 팀 협업을 향상시키는 데 도움이 된다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66527&part_seq=26619",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66550&part_seq=26620"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-05-09.mp3",
+    "귀트영": "audio/귀트영_2026-05-09.mp3"
+  }
+}

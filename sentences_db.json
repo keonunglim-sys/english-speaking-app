@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-08",
-  "total_sentences": 78,
+  "last_updated": "2026-05-09",
+  "total_sentences": 81,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -625,6 +625,30 @@
       "korean": "이번 주말에 밀린 독서를 할 계획입니다.",
       "category": "daily",
       "grammar_point": "be planning to + 동사원형으로 미래 계획 표현"
+    },
+    {
+      "id": "2026-05-09_sent_01",
+      "date_added": "2026-05-09",
+      "english": "We need to schedule a team meeting to discuss the quarterly performance review.",
+      "korean": "분기별 성과 검토를 논의하기 위해 팀 미팅 일정을 잡아야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형 (필요성 표현)"
+    },
+    {
+      "id": "2026-05-09_sent_02",
+      "date_added": "2026-05-09",
+      "english": "Could you please send me the updated project timeline by the end of today?",
+      "korean": "오늘 끝까지 업데이트된 프로젝트 일정표를 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "Could you please + 동사원형 (정중한 요청)"
+    },
+    {
+      "id": "2026-05-09_sent_03",
+      "date_added": "2026-05-09",
+      "english": "I'm planning to try that new restaurant downtown this weekend.",
+      "korean": "이번 주말에 시내에 있는 그 새로운 식당을 가볼 계획이에요.",
+      "category": "daily",
+      "grammar_point": "현재진행형을 이용한 미래 계획 표현"
     }
   ]
 }
