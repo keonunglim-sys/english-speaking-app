@@ -1,0 +1,174 @@
+{
+  "date": "2026-05-10",
+  "day_of_week": "일요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "The Art of Building Workplace Relationships",
+    "text": "Building meaningful relationships with colleagues is one of the most crucial skills for career success in Korea. Unlike Western workplaces where interactions can be more transactional, Korean office culture emphasizes personal connections and mutual respect. I've learned that small gestures make a huge difference. Bringing coffee for a stressed teammate, remembering a colleague's important presentation, or simply asking about their weekend can strengthen professional bonds. During team dinners, which are integral to Korean business culture, I make an effort to engage with people from different departments. These informal settings often lead to valuable collaborations and friendships. However, it's important to strike the right balance between being friendly and maintaining professional boundaries. I've found that showing genuine interest in others' work and offering help when needed creates a positive ripple effect throughout the organization. Strong workplace relationships not only make the job more enjoyable but also open doors to new opportunities and career advancement.",
+    "korean_summary": "직장에서 동료들과 의미 있는 관계를 구축하는 것은 한국에서 성공적인 커리어를 위해 매우 중요한 스킬입니다. 작은 배려와 관심이 큰 차이를 만들며, 회식과 같은 비공식적인 자리에서의 소통이 협업과 우정으로 이어집니다. 친근함과 전문성 사이의 적절한 균형을 유지하면서 진정한 관심을 보이는 것이 조직 전체에 긍정적인 영향을 미칩니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea's Four-Day Work Week Trial Shows Promising Results",
+    "text": "Several major South Korean companies have concluded their six-month trial of a four-day work week, reporting significant improvements in employee satisfaction and productivity. The pilot program, which involved over 3,000 workers across various industries, showed a 15% increase in overall productivity and a 40% reduction in employee turnover rates. Companies participating in the trial include tech giants, financial institutions, and manufacturing firms. Workers reported better work-life balance, reduced stress levels, and improved mental health. However, some challenges emerged, particularly in client-facing roles where maintaining service quality proved difficult with reduced working hours. The government is now considering nationwide implementation, following similar successful programs in Belgium and Iceland. Labor unions have expressed strong support for the initiative, while some business groups remain cautious about potential impacts on competitiveness. The results will likely influence South Korea's broader approach to workplace reform and employee welfare policies.",
+    "korean_summary": "한국의 여러 대기업들이 6개월간 주 4일 근무제 시범 운영을 마치고 직원 만족도와 생산성 향상이라는 긍정적 결과를 보고했습니다. 생산성 15% 증가와 이직률 40% 감소 등의 성과가 나타났으며, 정부는 전국적 도입을 검토하고 있습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "strike the right balance",
+      "korean": "적절한 균형을 맞추다",
+      "example": "It's important to strike the right balance between work and personal life.",
+      "source": "입트영"
+    },
+    {
+      "english": "make an effort to",
+      "korean": "~하려고 노력하다",
+      "example": "I make an effort to network with people from different departments.",
+      "source": "입트영"
+    },
+    {
+      "english": "open doors to",
+      "korean": "~의 기회를 열어주다",
+      "example": "Good communication skills can open doors to new career opportunities.",
+      "source": "입트영"
+    },
+    {
+      "english": "ripple effect",
+      "korean": "파급 효과",
+      "example": "His positive attitude created a ripple effect throughout the team.",
+      "source": "입트영"
+    },
+    {
+      "english": "report significant improvements",
+      "korean": "상당한 개선을 보고하다",
+      "example": "The company reported significant improvements in customer satisfaction.",
+      "source": "귀트영"
+    },
+    {
+      "english": "express strong support",
+      "korean": "강력한 지지를 표명하다",
+      "example": "Environmental groups expressed strong support for the new policy.",
+      "source": "귀트영"
+    },
+    {
+      "english": "remain cautious about",
+      "korean": "~에 대해 신중한 입장을 유지하다",
+      "example": "Investors remain cautious about the economic outlook.",
+      "source": "귀트영"
+    },
+    {
+      "english": "broader approach to",
+      "korean": "~에 대한 보다 폭넓은 접근법",
+      "example": "The government is taking a broader approach to healthcare reform.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I'd like to schedule a follow-up meeting to discuss the project timeline in more detail.",
+      "korean": "프로젝트 일정을 더 자세히 논의하기 위해 후속 미팅을 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to + 동사원형'으로 정중한 요청 표현"
+    },
+    {
+      "english": "Could you please keep me in the loop regarding any updates on this matter?",
+      "korean": "이 건에 관한 업데이트가 있으면 계속 알려주시겠어요?",
+      "category": "business",
+      "grammar_point": "'keep someone in the loop'는 정보를 지속적으로 공유한다는 의미"
+    },
+    {
+      "english": "I'm thinking of taking up a new hobby to help me unwind after work.",
+      "korean": "퇴근 후 긴장을 풀기 위해 새로운 취미를 시작할 생각이에요.",
+      "category": "daily",
+      "grammar_point": "'think of + -ing'는 막연한 계획이나 생각을 나타냄"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "동료들과 좋은 관계를 구축하는 것은 경력 성공에 매우 중요합니다.",
+      "answer": "Building good relationships with colleagues is crucial for career success.",
+      "acceptable_keywords": [
+        "building",
+        "relationships",
+        "colleagues",
+        "crucial",
+        "career",
+        "success"
+      ],
+      "hint": "'구축하다'는 'building', '중요한'은 'crucial' 사용"
+    },
+    {
+      "type": "translation",
+      "korean": "회사는 직원 만족도에서 상당한 개선을 보고했습니다.",
+      "answer": "The company reported significant improvements in employee satisfaction.",
+      "acceptable_keywords": [
+        "company",
+        "reported",
+        "significant",
+        "improvements",
+        "employee",
+        "satisfaction"
+      ],
+      "hint": "'상당한 개선'은 'significant improvements' 표현"
+    },
+    {
+      "type": "translation",
+      "korean": "일과 개인 생활 사이의 적절한 균형을 맞추는 것이 중요합니다.",
+      "answer": "It's important to strike the right balance between work and personal life.",
+      "acceptable_keywords": [
+        "important",
+        "strike",
+        "right",
+        "balance",
+        "work",
+        "personal",
+        "life"
+      ],
+      "hint": "'균형을 맞추다'는 'strike the balance' 사용"
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Strong workplace relationships can ___ doors to new opportunities.",
+      "answer": "open",
+      "options": [
+        "open",
+        "close",
+        "break",
+        "build"
+      ],
+      "korean": "강한 직장 내 관계는 새로운 기회의 문을 열어줄 수 있다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The pilot program showed a ___ effect throughout the organization.",
+      "answer": "ripple",
+      "options": [
+        "ripple",
+        "negative",
+        "simple",
+        "direct"
+      ],
+      "korean": "시범 프로그램은 조직 전체에 파급 효과를 보여주었다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Business groups ___ cautious about the new policy implementation.",
+      "answer": "remain",
+      "options": [
+        "remain",
+        "become",
+        "feel",
+        "seem"
+      ],
+      "korean": "기업 그룹들은 새로운 정책 시행에 대해 신중한 입장을 유지하고 있다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66528&part_seq=26619",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66550&part_seq=26620"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-05-10.mp3",
+    "귀트영": "audio/귀트영_2026-05-10.mp3"
+  }
+}
