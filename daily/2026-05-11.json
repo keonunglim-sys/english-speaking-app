@@ -1,0 +1,169 @@
+{
+  "date": "2026-05-11",
+  "day_of_week": "월요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Working from Home: Finding the Right Balance",
+    "text": "Working from home has become a permanent fixture in many Korean companies since the pandemic. While it offers flexibility and eliminates commuting time, it also presents unique challenges. One of the biggest hurdles is maintaining work-life boundaries when your bedroom is just steps away from your home office. I've learned to create a dedicated workspace and stick to regular hours, even when no one is watching. The key is treating remote work with the same professionalism as office work. Another challenge is staying connected with colleagues. Video calls help, but they can't fully replace casual conversations by the coffee machine. I make an effort to reach out to teammates regularly, not just for work matters but for personal check-ins too. Despite the challenges, I appreciate the flexibility to manage my schedule and the money saved on commuting and office lunches. The future of work is likely hybrid, combining the best of both worlds.",
+    "korean_summary": "재택근무는 팬데믹 이후 많은 한국 기업에서 일반화되었습니다. 유연성과 통근시간 절약의 장점이 있지만, 업무와 생활의 경계 설정과 동료들과의 소통에 어려움이 있습니다. 전문적인 태도 유지와 적극적인 소통 노력이 중요하며, 미래에는 하이브리드 근무 방식이 주류가 될 것으로 보입니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea Leads Global Semiconductor Innovation",
+    "text": "South Korea continues to dominate the global semiconductor market with significant investments in next-generation chip technology. Samsung and SK Hynix announced record-breaking research and development budgets for 2024, focusing on advanced memory chips and AI processors. The Korean government has pledged additional support through the K-Semiconductor Belt project, aimed at creating a comprehensive chip manufacturing ecosystem. Industry experts predict that Korea's market share in memory semiconductors will exceed 65% by 2025. However, competition from Chinese manufacturers and potential trade restrictions remain key challenges. The success of Korean chip makers has attracted international partnerships, with several American and European tech giants establishing research centers in Seoul and Pangyo. This technological leadership positions South Korea as a critical player in the global digital transformation, from smartphones to autonomous vehicles and data centers.",
+    "korean_summary": "한국이 차세대 칩 기술에 대한 대규모 투자로 글로벌 반도체 시장을 계속 주도하고 있습니다. 정부의 K-반도체 벨트 프로젝트와 해외 기업들의 한국 진출로 기술 리더십을 강화하고 있으나, 중국의 경쟁과 무역 제재가 주요 과제로 남아있습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "maintain work-life boundaries",
+      "korean": "업무와 생활의 경계를 유지하다",
+      "example": "It's important to maintain work-life boundaries when working remotely.",
+      "source": "입트영"
+    },
+    {
+      "english": "reach out to teammates",
+      "korean": "동료들에게 연락하다/소통하다",
+      "example": "I try to reach out to teammates regularly for both work and personal matters.",
+      "source": "입트영"
+    },
+    {
+      "english": "combining the best of both worlds",
+      "korean": "양쪽의 장점을 결합하는",
+      "example": "The hybrid work model offers the best of both worlds - flexibility and collaboration.",
+      "source": "입트영"
+    },
+    {
+      "english": "treat with the same professionalism",
+      "korean": "동일한 전문성으로 대하다",
+      "example": "You should treat remote meetings with the same professionalism as in-person ones.",
+      "source": "입트영"
+    },
+    {
+      "english": "dominate the global market",
+      "korean": "글로벌 시장을 장악하다/주도하다",
+      "example": "Korean tech companies continue to dominate the global smartphone market.",
+      "source": "귀트영"
+    },
+    {
+      "english": "record-breaking investment",
+      "korean": "기록적인 투자",
+      "example": "The company announced a record-breaking investment in renewable energy.",
+      "source": "귀트영"
+    },
+    {
+      "english": "comprehensive ecosystem",
+      "korean": "포괄적인 생태계",
+      "example": "The government aims to create a comprehensive startup ecosystem.",
+      "source": "귀트영"
+    },
+    {
+      "english": "critical player in",
+      "korean": "~의 핵심적인/중요한 주체",
+      "example": "Korea has become a critical player in the global entertainment industry.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I need to schedule a follow-up meeting to discuss the project timeline.",
+      "korean": "프로젝트 일정을 논의하기 위해 후속 회의를 잡아야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형: 필요성을 나타내는 표현"
+    },
+    {
+      "english": "Could you please send me the updated proposal by end of day?",
+      "korean": "오늘 하루가 끝나기 전까지 업데이트된 제안서를 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "Could you please: 정중한 요청 표현"
+    },
+    {
+      "english": "I'm planning to grab some coffee before the movie starts.",
+      "korean": "영화가 시작하기 전에 커피를 사 마실 계획이에요.",
+      "category": "daily",
+      "grammar_point": "be planning to: 계획을 표현하는 현재진행형"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "재택근무를 할 때 업무와 개인 생활의 균형을 유지하는 것이 중요해요.",
+      "answer": "It's important to maintain a balance between work and personal life when working from home.",
+      "acceptable_keywords": [
+        "balance",
+        "work",
+        "personal life",
+        "working from home",
+        "maintain"
+      ],
+      "hint": "'균형'은 'balance', '유지하다'는 'maintain'으로 표현하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "우리 회사는 내년에 기록적인 연구개발 투자를 계획하고 있습니다.",
+      "answer": "Our company is planning a record-breaking research and development investment next year.",
+      "acceptable_keywords": [
+        "record-breaking",
+        "research and development",
+        "investment",
+        "planning"
+      ],
+      "hint": "'기록적인'은 'record-breaking'으로 표현합니다."
+    },
+    {
+      "type": "translation",
+      "korean": "동료들과 정기적으로 소통하는 것이 원격 근무의 핵심입니다.",
+      "answer": "Regular communication with colleagues is key to successful remote work.",
+      "acceptable_keywords": [
+        "regular",
+        "communication",
+        "colleagues",
+        "key",
+        "remote work"
+      ],
+      "hint": "'정기적으로'는 'regular', '핵심'은 'key'로 표현하세요."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The hybrid work model offers the ___ of both worlds.",
+      "answer": "best",
+      "options": [
+        "best",
+        "good",
+        "better",
+        "great"
+      ],
+      "korean": "하이브리드 업무 모델은 양쪽 세계의 장점을 제공합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Korea continues to ___ the global semiconductor market.",
+      "answer": "dominate",
+      "options": [
+        "dominate",
+        "control",
+        "manage",
+        "operate"
+      ],
+      "korean": "한국은 계속해서 글로벌 반도체 시장을 주도하고 있습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "I need to ___ out to my teammates more often.",
+      "answer": "reach",
+      "options": [
+        "reach",
+        "call",
+        "talk",
+        "speak"
+      ],
+      "korean": "나는 동료들에게 더 자주 연락해야 합니다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66527&part_seq=26619",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66551&part_seq=26620"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-05-11.mp3",
+    "귀트영": "audio/귀트영_2026-05-11.mp3"
+  }
+}
