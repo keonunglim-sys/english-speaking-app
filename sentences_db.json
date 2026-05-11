@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-11",
-  "total_sentences": 87,
+  "last_updated": "2026-05-12",
+  "total_sentences": 90,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -697,6 +697,30 @@
       "korean": "영화가 시작하기 전에 커피를 사 마실 계획이에요.",
       "category": "daily",
       "grammar_point": "be planning to: 계획을 표현하는 현재진행형"
+    },
+    {
+      "id": "2026-05-12_sent_01",
+      "date_added": "2026-05-12",
+      "english": "I'd like to schedule a follow-up meeting to discuss the proposal in more detail.",
+      "korean": "제안서를 더 자세히 논의하기 위해 후속 회의를 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to + 동사원형'을 사용한 정중한 요청 표현"
+    },
+    {
+      "id": "2026-05-12_sent_02",
+      "date_added": "2026-05-12",
+      "english": "Could you please send me the updated financial report by end of day?",
+      "korean": "업데이트된 재무 보고서를 오늘 끝나기 전에 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "'Could you please + 동사원형'을 사용한 공손한 부탁"
+    },
+    {
+      "id": "2026-05-12_sent_03",
+      "date_added": "2026-05-12",
+      "english": "I'm thinking of trying that new Korean BBQ place everyone's been talking about.",
+      "korean": "모든 사람들이 얘기하고 있는 그 새로운 한국 바베큐 집을 가볼까 생각 중이에요.",
+      "category": "daily",
+      "grammar_point": "'I'm thinking of + -ing'를 사용한 계획이나 의도 표현"
     }
   ]
 }

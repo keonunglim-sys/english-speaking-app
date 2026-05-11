@@ -1,0 +1,174 @@
+{
+  "date": "2026-05-12",
+  "day_of_week": "화요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Building Professional Networks in Korea",
+    "text": "Networking has become increasingly important in Korea's competitive business environment. Unlike Western countries where networking often happens in casual settings, Korean professional networking tends to be more formal and relationship-focused. Building meaningful connections requires patience and genuine interest in others. I've learned that attending industry seminars and joining professional associations are excellent starting points. However, the real magic happens during after-work gatherings, known as 'hoesik.' These informal meetings over dinner and drinks allow colleagues to build deeper relationships beyond work responsibilities. Social media platforms like LinkedIn are gaining popularity, but face-to-face interactions remain crucial. The key is to approach networking with a giving mindset rather than just taking. When you help others first, they naturally want to reciprocate. Remember, in Korean business culture, trust and personal relationships often matter more than just professional credentials. Consistent follow-up and maintaining regular contact are essential for nurturing these valuable connections over time.",
+    "korean_summary": "한국의 경쟁적인 비즈니스 환경에서 네트워킹의 중요성과 특징에 대해 다룹니다. 서구와 달리 한국의 네트워킹은 더 공식적이고 관계 중심적이며, 회식과 같은 비공식적 모임이 중요한 역할을 합니다. 주는 마음가짐과 지속적인 관계 유지가 성공적인 네트워킹의 핵심이라고 설명합니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea Leads Global Digital Innovation",
+    "text": "South Korea continues to set the pace in global digital transformation, with the government announcing ambitious plans to expand 6G network infrastructure by 2028. The country already boasts the world's most extensive 5G coverage, with over 90% of the population having access to high-speed connectivity. This technological advancement has accelerated the growth of the digital economy, particularly in e-commerce, fintech, and entertainment sectors. Korean tech giants like Samsung and LG are investing heavily in artificial intelligence and smart city solutions. The K-pop and K-drama boom has also been significantly boosted by digital platforms, contributing billions to the economy. However, experts warn about the digital divide affecting older populations and rural areas. The government has allocated substantial funding to bridge this gap through digital literacy programs and infrastructure development. Industry analysts predict that Korea's digital innovation will serve as a model for other developing nations seeking rapid technological advancement.",
+    "korean_summary": "한국이 2028년까지 6G 네트워크 인프라 확장을 통해 글로벌 디지털 혁신을 선도하고 있다고 보도합니다. 5G 보급률이 90%를 넘어서며 디지털 경제 성장을 가속화하고 있으나, 디지털 격차 해소가 과제로 남아있습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "build meaningful connections",
+      "korean": "의미 있는 인맥을 쌓다",
+      "example": "The conference helped me build meaningful connections with industry leaders.",
+      "source": "입트영"
+    },
+    {
+      "english": "approach with a giving mindset",
+      "korean": "베푸는 마음가짐으로 접근하다",
+      "example": "If you approach networking with a giving mindset, people will want to help you too.",
+      "source": "입트영"
+    },
+    {
+      "english": "nurture valuable connections",
+      "korean": "소중한 인맥을 키우다/관리하다",
+      "example": "Regular follow-up calls help nurture valuable connections over time.",
+      "source": "입트영"
+    },
+    {
+      "english": "beyond work responsibilities",
+      "korean": "업무 책임 범위를 넘어서",
+      "example": "Building relationships beyond work responsibilities creates stronger team bonds.",
+      "source": "입트영"
+    },
+    {
+      "english": "set the pace in",
+      "korean": "~에서 선두를 달리다, 속도를 주도하다",
+      "example": "Our company sets the pace in sustainable business practices.",
+      "source": "귀트영"
+    },
+    {
+      "english": "boast the world's most extensive",
+      "korean": "세계에서 가장 광범위한 ~를 자랑하다",
+      "example": "The city boasts the world's most extensive subway network.",
+      "source": "귀트영"
+    },
+    {
+      "english": "allocate substantial funding",
+      "korean": "상당한 자금을 배정하다",
+      "example": "The government will allocate substantial funding to renewable energy projects.",
+      "source": "귀트영"
+    },
+    {
+      "english": "bridge the gap",
+      "korean": "격차를 해소하다, 간극을 메우다",
+      "example": "New training programs aim to bridge the gap between theory and practice.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I'd like to schedule a follow-up meeting to discuss the proposal in more detail.",
+      "korean": "제안서를 더 자세히 논의하기 위해 후속 회의를 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to + 동사원형'을 사용한 정중한 요청 표현"
+    },
+    {
+      "english": "Could you please send me the updated financial report by end of day?",
+      "korean": "업데이트된 재무 보고서를 오늘 끝나기 전에 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "'Could you please + 동사원형'을 사용한 공손한 부탁"
+    },
+    {
+      "english": "I'm thinking of trying that new Korean BBQ place everyone's been talking about.",
+      "korean": "모든 사람들이 얘기하고 있는 그 새로운 한국 바베큐 집을 가볼까 생각 중이에요.",
+      "category": "daily",
+      "grammar_point": "'I'm thinking of + -ing'를 사용한 계획이나 의도 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "성공적인 네트워킹을 위해서는 인내심과 다른 사람에 대한 진정한 관심이 필요합니다.",
+      "answer": "Successful networking requires patience and genuine interest in others.",
+      "acceptable_keywords": [
+        "networking",
+        "requires",
+        "patience",
+        "genuine",
+        "interest"
+      ],
+      "hint": "'성공적인'은 successful, '필요하다'는 require 동사를 사용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "한국은 이미 90% 이상의 인구가 고속 연결망에 접근할 수 있는 세계 최고의 5G 보급률을 자랑합니다.",
+      "answer": "Korea already boasts the world's highest 5G coverage with over 90% of the population having access to high-speed connectivity.",
+      "acceptable_keywords": [
+        "Korea",
+        "boasts",
+        "5G",
+        "coverage",
+        "population",
+        "access",
+        "connectivity"
+      ],
+      "hint": "'자랑하다'는 boast, '보급률'은 coverage로 표현하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "정부는 디지털 격차를 해소하기 위해 상당한 자금을 배정했습니다.",
+      "answer": "The government has allocated substantial funding to bridge the digital divide.",
+      "acceptable_keywords": [
+        "government",
+        "allocated",
+        "substantial",
+        "funding",
+        "bridge",
+        "digital",
+        "divide"
+      ],
+      "hint": "'배정하다'는 allocate, '격차를 해소하다'는 bridge the gap 표현을 사용하세요."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Building ___ connections requires patience and genuine interest in others.",
+      "answer": "meaningful",
+      "options": [
+        "meaningful",
+        "successful",
+        "professional",
+        "valuable"
+      ],
+      "korean": "의미 있는 인맥을 쌓는 것은 인내심과 타인에 대한 진정한 관심이 필요합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Korea continues to ___ the pace in global digital transformation.",
+      "answer": "set",
+      "options": [
+        "set",
+        "make",
+        "take",
+        "keep"
+      ],
+      "korean": "한국은 계속해서 글로벌 디지털 변환에서 선두를 달리고 있습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The government has ___ substantial funding to bridge the digital gap.",
+      "answer": "allocated",
+      "options": [
+        "allocated",
+        "distributed",
+        "provided",
+        "assigned"
+      ],
+      "korean": "정부는 디지털 격차를 해소하기 위해 상당한 자금을 배정했습니다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66528&part_seq=26619",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66552&part_seq=26620"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-05-12.mp3",
+    "귀트영": "audio/귀트영_2026-05-12.mp3"
+  }
+}
