@@ -1,0 +1,167 @@
+{
+  "date": "2026-05-13",
+  "day_of_week": "수요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Finding Work-Life Balance in Korean Corporate Culture",
+    "text": "Achieving work-life balance has become increasingly important for Korean office workers. In the past, staying late at the office was considered a sign of dedication and loyalty. However, younger generations are challenging this mindset and prioritizing personal time over excessive overtime. Many companies are now implementing flexible working hours and remote work policies to attract and retain talented employees. The concept of 'work-life integration' is gaining popularity, where people blend work and personal activities throughout the day rather than strictly separating them. Some employees use lunch breaks for personal errands or gym sessions, while others prefer to finish work early and spend quality time with family. Technology has made this flexibility possible, allowing us to stay connected while maintaining boundaries. The key is finding what works best for each individual situation. Companies that embrace this cultural shift are seeing improved employee satisfaction and productivity. While the traditional Korean work culture emphasized group harmony and long hours, the modern approach focuses on efficiency and results. This transformation requires both employers and employees to adapt their expectations and communication styles.",
+    "korean_summary": "한국 직장인들에게 일과 삶의 균형이 점점 중요해지고 있습니다. 과거의 장시간 근무 문화에서 벗어나 젊은 세대들은 개인 시간을 우선시하고 있으며, 많은 기업들이 유연근무제와 재택근무를 도입하고 있습니다. 일과 삶을 엄격히 분리하기보다는 통합하는 개념이 인기를 얻고 있으며, 이러한 변화를 수용하는 기업들이 더 나은 성과를 보이고 있습니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea's Population Decline Accelerates in 2024",
+    "text": "South Korea recorded its lowest birth rate in history during the first half of 2024, with only 0.72 children per woman, according to Statistics Korea. The country's population declined by 34,000 people compared to the same period last year, marking the fifth consecutive year of population decrease. Economic pressures, high housing costs, and changing social attitudes toward marriage and childbearing are cited as primary factors. The government has allocated over 280 trillion won since 2006 to address the demographic crisis, but results remain limited. Local municipalities are offering cash incentives, free childcare services, and housing support to encourage families to have more children. Experts warn that without significant policy changes, South Korea could face severe labor shortages and increased welfare burdens within the next two decades. The aging population combined with fewer births creates a challenging scenario for economic growth and social sustainability.",
+    "korean_summary": "한국의 출산율이 2024년 상반기 0.72명으로 역대 최저치를 기록했으며, 인구는 5년 연속 감소하고 있습니다. 정부는 2006년부터 280조원 이상을 투입했지만 효과는 제한적이며, 전문가들은 향후 20년 내 심각한 노동력 부족과 복지 부담 증가를 경고하고 있습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "work-life balance",
+      "korean": "일과 삶의 균형",
+      "example": "Many employees are seeking better work-life balance in their careers.",
+      "source": "입트영"
+    },
+    {
+      "english": "flexible working hours",
+      "korean": "유연근무제",
+      "example": "Our company introduced flexible working hours to improve employee satisfaction.",
+      "source": "입트영"
+    },
+    {
+      "english": "prioritize personal time",
+      "korean": "개인 시간을 우선시하다",
+      "example": "Younger workers tend to prioritize personal time over overtime pay.",
+      "source": "입트영"
+    },
+    {
+      "english": "attract and retain employees",
+      "korean": "직원을 유치하고 유지하다",
+      "example": "Good benefits help companies attract and retain talented employees.",
+      "source": "입트영"
+    },
+    {
+      "english": "birth rate",
+      "korean": "출산율",
+      "example": "Korea's birth rate has been declining for several years.",
+      "source": "귀트영"
+    },
+    {
+      "english": "demographic crisis",
+      "korean": "인구 위기",
+      "example": "The government is struggling to address the demographic crisis.",
+      "source": "귀트영"
+    },
+    {
+      "english": "cash incentives",
+      "korean": "현금 인센티브",
+      "example": "Local governments offer cash incentives to encourage childbirth.",
+      "source": "귀트영"
+    },
+    {
+      "english": "labor shortages",
+      "korean": "노동력 부족",
+      "example": "The aging population will lead to severe labor shortages.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I need to finish this report by the end of the week, but I also want to maintain a healthy work-life balance.",
+      "korean": "이번 주말까지 이 보고서를 완성해야 하지만, 일과 삶의 균형도 유지하고 싶습니다.",
+      "category": "business",
+      "grammar_point": "대조를 나타내는 'but' 사용과 'need to + 동사원형' 구조"
+    },
+    {
+      "english": "Our company is implementing flexible working hours to improve employee productivity and satisfaction.",
+      "korean": "우리 회사는 직원의 생산성과 만족도를 높이기 위해 유연근무제를 도입하고 있습니다.",
+      "category": "business",
+      "grammar_point": "현재진행형(is implementing)과 목적을 나타내는 'to + 동사원형'"
+    },
+    {
+      "english": "I usually spend my lunch break going for a walk or catching up with friends.",
+      "korean": "나는 보통 점심시간에 산책을 하거나 친구들과 시간을 보냅니다.",
+      "category": "daily",
+      "grammar_point": "'spend time + -ing' 구조와 동명사의 병렬구조"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "우리 회사는 직원들의 일과 삶의 균형을 위해 유연근무제를 도입했습니다.",
+      "answer": "Our company introduced flexible working hours for employees' work-life balance.",
+      "acceptable_keywords": [
+        "company",
+        "flexible working hours",
+        "work-life balance",
+        "employees"
+      ],
+      "hint": "'도입하다'는 'introduce'를 과거형으로 사용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "젊은 세대들은 야근보다 개인 시간을 우선시하는 경향이 있습니다.",
+      "answer": "Younger generations tend to prioritize personal time over overtime.",
+      "acceptable_keywords": [
+        "younger generations",
+        "prioritize",
+        "personal time",
+        "overtime"
+      ],
+      "hint": "'~하는 경향이 있다'는 'tend to'로 표현하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "한국의 출산율이 역대 최저치를 기록했습니다.",
+      "answer": "Korea's birth rate recorded the lowest level in history.",
+      "acceptable_keywords": [
+        "Korea",
+        "birth rate",
+        "lowest",
+        "history"
+      ],
+      "hint": "'역대'는 'in history'로 표현할 수 있습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Many companies are now implementing _______ working hours to attract talented employees.",
+      "answer": "flexible",
+      "options": [
+        "flexible",
+        "strict",
+        "limited",
+        "regular"
+      ],
+      "korean": "많은 회사들이 재능 있는 직원들을 유치하기 위해 유연근무제를 도입하고 있습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The government has allocated funds to address the _______ crisis.",
+      "answer": "demographic",
+      "options": [
+        "demographic",
+        "economic",
+        "environmental",
+        "political"
+      ],
+      "korean": "정부는 인구 위기를 해결하기 위해 예산을 배정했습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Experts warn about severe labor _______ in the future.",
+      "answer": "shortages",
+      "options": [
+        "shortages",
+        "increases",
+        "improvements",
+        "developments"
+      ],
+      "korean": "전문가들은 미래의 심각한 노동력 부족에 대해 경고하고 있습니다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66529&part_seq=26619",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66553&part_seq=26620"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-05-13.mp3",
+    "귀트영": "audio/귀트영_2026-05-13.mp3"
+  }
+}

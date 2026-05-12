@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-12",
-  "total_sentences": 90,
+  "last_updated": "2026-05-13",
+  "total_sentences": 93,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -721,6 +721,30 @@
       "korean": "모든 사람들이 얘기하고 있는 그 새로운 한국 바베큐 집을 가볼까 생각 중이에요.",
       "category": "daily",
       "grammar_point": "'I'm thinking of + -ing'를 사용한 계획이나 의도 표현"
+    },
+    {
+      "id": "2026-05-13_sent_01",
+      "date_added": "2026-05-13",
+      "english": "I need to finish this report by the end of the week, but I also want to maintain a healthy work-life balance.",
+      "korean": "이번 주말까지 이 보고서를 완성해야 하지만, 일과 삶의 균형도 유지하고 싶습니다.",
+      "category": "business",
+      "grammar_point": "대조를 나타내는 'but' 사용과 'need to + 동사원형' 구조"
+    },
+    {
+      "id": "2026-05-13_sent_02",
+      "date_added": "2026-05-13",
+      "english": "Our company is implementing flexible working hours to improve employee productivity and satisfaction.",
+      "korean": "우리 회사는 직원의 생산성과 만족도를 높이기 위해 유연근무제를 도입하고 있습니다.",
+      "category": "business",
+      "grammar_point": "현재진행형(is implementing)과 목적을 나타내는 'to + 동사원형'"
+    },
+    {
+      "id": "2026-05-13_sent_03",
+      "date_added": "2026-05-13",
+      "english": "I usually spend my lunch break going for a walk or catching up with friends.",
+      "korean": "나는 보통 점심시간에 산책을 하거나 친구들과 시간을 보냅니다.",
+      "category": "daily",
+      "grammar_point": "'spend time + -ing' 구조와 동명사의 병렬구조"
     }
   ]
 }
