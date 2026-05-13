@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-13",
-  "total_sentences": 93,
+  "last_updated": "2026-05-14",
+  "total_sentences": 96,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -745,6 +745,30 @@
       "korean": "나는 보통 점심시간에 산책을 하거나 친구들과 시간을 보냅니다.",
       "category": "daily",
       "grammar_point": "'spend time + -ing' 구조와 동명사의 병렬구조"
+    },
+    {
+      "id": "2026-05-14_sent_01",
+      "date_added": "2026-05-14",
+      "english": "I need to wrap up this project by the end of the week to meet our deadline.",
+      "korean": "마감일을 맞추기 위해 이번 주 말까지 이 프로젝트를 마무리해야 합니다.",
+      "category": "business",
+      "grammar_point": "'need to + 동사원형'으로 필요나 의무를 표현하는 구조"
+    },
+    {
+      "id": "2026-05-14_sent_02",
+      "date_added": "2026-05-14",
+      "english": "Could you please send me the updated version of the presentation slides?",
+      "korean": "프레젠테이션 슬라이드의 업데이트된 버전을 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "'Could you please + 동사원형'의 정중한 요청 표현"
+    },
+    {
+      "id": "2026-05-14_sent_03",
+      "date_added": "2026-05-14",
+      "english": "I'm thinking of trying that new restaurant downtown this weekend.",
+      "korean": "이번 주말에 시내에 있는 그 새로운 식당에 가볼까 생각 중이에요.",
+      "category": "daily",
+      "grammar_point": "'I'm thinking of + -ing'로 계획이나 고려 중인 일을 표현"
     }
   ]
 }

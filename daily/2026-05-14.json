@@ -1,0 +1,166 @@
+{
+  "date": "2026-05-14",
+  "day_of_week": "목요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Work-Life Balance in Korean Corporate Culture",
+    "text": "Achieving work-life balance has become increasingly important in Korean corporate culture. Many companies are now implementing flexible working hours and encouraging employees to take their vacation days. However, the traditional culture of staying late at the office still persists in some organizations. I used to feel guilty about leaving work on time, thinking my colleagues would judge me as uncommitted. But I realized that maintaining a healthy balance actually makes me more productive and creative. Now I make it a point to disconnect from work emails after 7 PM and spend quality time with my family. I've also started a new hobby – learning photography on weekends. This has helped me recharge and bring fresh perspectives to my work. While it's not always easy to resist the pressure to work overtime, I believe that prioritizing personal well-being ultimately benefits both employees and companies. The key is setting clear boundaries and communicating them respectfully with your team.",
+    "korean_summary": "한국 기업문화에서 일과 삶의 균형이 중요해지고 있습니다. 정시 퇴근에 대한 죄책감을 극복하고 개인적인 시간을 보장하는 것이 실제로는 더 높은 생산성으로 이어진다는 깨달음을 얻었습니다. 명확한 경계선을 설정하고 팀과 소통하는 것이 핵심입니다."
+  },
+  "gwitunyeong": {
+    "title": "Remote Work Trends Continue to Rise Globally",
+    "text": "A recent study shows that remote work arrangements have stabilized at historically high levels, with 35% of workers who can work remotely doing so full-time. The research, conducted across 27 countries, reveals that hybrid work models are becoming the new standard in many industries. Companies report improved employee satisfaction and reduced overhead costs, while workers cite better work-life balance and eliminated commuting time as key benefits. However, challenges remain in maintaining team collaboration and company culture. Some organizations are investing heavily in digital collaboration tools and virtual team-building activities. The study also found that younger employees are more adaptable to remote work, while senior executives still prefer in-person meetings for important decisions. Experts predict that this trend will continue to shape the future of work, with companies needing to adapt their management styles and workplace policies accordingly.",
+    "korean_summary": "최근 연구에 따르면 재택근무가 역사적으로 높은 수준에서 안정화되고 있으며, 하이브리드 근무 모델이 새로운 표준이 되고 있습니다. 기업들은 직원 만족도 향상과 비용 절감 효과를 보고하고 있지만, 팀 협업과 기업 문화 유지에는 여전히 과제가 남아있습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "make it a point to",
+      "korean": "~하는 것을 원칙으로 하다, 반드시 ~하다",
+      "example": "I make it a point to review my notes before every meeting.",
+      "source": "입트영"
+    },
+    {
+      "english": "bring fresh perspectives to",
+      "korean": "~에 새로운 관점을 가져다주다",
+      "example": "The new team member brings fresh perspectives to our marketing strategies.",
+      "source": "입트영"
+    },
+    {
+      "english": "resist the pressure to",
+      "korean": "~하라는 압박을 거부하다, 견디다",
+      "example": "She learned to resist the pressure to check emails during vacation.",
+      "source": "입트영"
+    },
+    {
+      "english": "setting clear boundaries",
+      "korean": "명확한 경계선을 설정하는 것",
+      "example": "Setting clear boundaries between work and personal time is essential.",
+      "source": "입트영"
+    },
+    {
+      "english": "stabilize at high levels",
+      "korean": "높은 수준에서 안정화되다",
+      "example": "Housing prices have stabilized at high levels in major cities.",
+      "source": "귀트영"
+    },
+    {
+      "english": "cite as key benefits",
+      "korean": "주요 이점으로 언급하다",
+      "example": "Employees cite flexible schedules as key benefits of remote work.",
+      "source": "귀트영"
+    },
+    {
+      "english": "invest heavily in",
+      "korean": "~에 대폭 투자하다",
+      "example": "The company is investing heavily in artificial intelligence technology.",
+      "source": "귀트영"
+    },
+    {
+      "english": "adapt management styles",
+      "korean": "관리 방식을 적응시키다",
+      "example": "Leaders need to adapt their management styles for remote teams.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I need to wrap up this project by the end of the week to meet our deadline.",
+      "korean": "마감일을 맞추기 위해 이번 주 말까지 이 프로젝트를 마무리해야 합니다.",
+      "category": "business",
+      "grammar_point": "'need to + 동사원형'으로 필요나 의무를 표현하는 구조"
+    },
+    {
+      "english": "Could you please send me the updated version of the presentation slides?",
+      "korean": "프레젠테이션 슬라이드의 업데이트된 버전을 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "'Could you please + 동사원형'의 정중한 요청 표현"
+    },
+    {
+      "english": "I'm thinking of trying that new restaurant downtown this weekend.",
+      "korean": "이번 주말에 시내에 있는 그 새로운 식당에 가볼까 생각 중이에요.",
+      "category": "daily",
+      "grammar_point": "'I'm thinking of + -ing'로 계획이나 고려 중인 일을 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "일과 삶의 균형을 유지하는 것이 실제로는 더 생산적으로 만들어줍니다.",
+      "answer": "Maintaining work-life balance actually makes me more productive.",
+      "acceptable_keywords": [
+        "maintaining",
+        "work-life balance",
+        "productive",
+        "actually"
+      ],
+      "hint": "'maintaining'과 'work-life balance' 표현을 사용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "회사들은 디지털 협업 도구에 대폭 투자하고 있습니다.",
+      "answer": "Companies are investing heavily in digital collaboration tools.",
+      "acceptable_keywords": [
+        "companies",
+        "investing heavily",
+        "digital collaboration tools"
+      ],
+      "hint": "'invest heavily in' 표현을 활용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "마감일을 맞추기 위해 이 프로젝트를 마무리해야 합니다.",
+      "answer": "I need to wrap up this project to meet the deadline.",
+      "acceptable_keywords": [
+        "need to",
+        "wrap up",
+        "project",
+        "deadline"
+      ],
+      "hint": "'wrap up'은 '마무리하다'의 의미입니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "I make it a _____ to disconnect from work emails after 7 PM.",
+      "answer": "point",
+      "options": [
+        "point",
+        "rule",
+        "habit",
+        "plan"
+      ],
+      "korean": "저녁 7시 이후에는 업무 이메일을 끊는 것을 원칙으로 합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Remote work arrangements have _____ at historically high levels.",
+      "answer": "stabilized",
+      "options": [
+        "stabilized",
+        "increased",
+        "remained",
+        "developed"
+      ],
+      "korean": "재택근무 형태가 역사적으로 높은 수준에서 안정화되었습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Setting clear _____ between work and personal time is essential.",
+      "answer": "boundaries",
+      "options": [
+        "boundaries",
+        "schedules",
+        "differences",
+        "distances"
+      ],
+      "korean": "업무와 개인 시간 사이에 명확한 경계선을 설정하는 것이 필수적입니다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66530&part_seq=26619",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66554&part_seq=26620"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-05-14.mp3",
+    "귀트영": "audio/귀트영_2026-05-14.mp3"
+  }
+}
