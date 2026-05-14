@@ -1,0 +1,164 @@
+{
+  "date": "2026-05-15",
+  "day_of_week": "금요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Working from Home: Finding the Right Balance",
+    "text": "Since the pandemic, working from home has become the new normal for many professionals. At first, I was thrilled about the flexibility it offered. No more commuting, comfortable clothes, and the ability to manage my own schedule seemed like a dream come true. However, as months passed, I realized that remote work comes with its own set of challenges. The biggest issue I face is maintaining a healthy work-life balance. Without clear boundaries between my home and office space, I often find myself checking emails late at night or working through weekends. Creating a dedicated workspace helped, but the real game-changer was establishing strict working hours and sticking to them. I've learned to communicate my availability clearly to colleagues and resist the urge to respond to non-urgent matters after hours. While remote work requires more discipline and intentional boundary-setting, I've found that when done right, it can actually improve both productivity and quality of life. The key is being proactive about creating structure in an unstructured environment.",
+    "korean_summary": "팬데믹 이후 재택근무가 일반화되면서 처음에는 유연성에 만족했지만, 시간이 지나면서 일과 삶의 균형을 유지하는 것이 가장 큰 도전이 되었습니다. 명확한 근무 시간을 설정하고 이를 지키는 것이 핵심이며, 적절한 구조를 만들면 생산성과 삶의 질을 모두 향상시킬 수 있습니다."
+  },
+  "gwitunyeong": {
+    "title": "Global Climate Summit Addresses Urgent Environmental Action",
+    "text": "World leaders gathered in Dubai this week for the annual Global Climate Summit, where discussions centered on accelerating the transition to renewable energy sources. The summit highlighted the urgent need for concrete action as global temperatures continue to rise at an alarming rate. Key proposals include a commitment to triple renewable energy capacity by 2030 and establish a global fund to support developing nations in their green transition. Environmental scientists presented compelling data showing that current emission reduction efforts fall short of the targets needed to limit global warming to 1.5 degrees Celsius. The private sector also played a significant role, with major corporations announcing substantial investments in clean technology and carbon capture initiatives. While previous summits have faced criticism for producing ambitious promises with limited follow-through, this year's gathering emphasized measurable milestones and accountability mechanisms to ensure progress toward climate goals.",
+    "korean_summary": "두바이에서 열린 글로벌 기후 정상회의에서 각국 정상들이 재생에너지로의 전환 가속화에 대해 논의했습니다. 2030년까지 재생에너지 용량을 3배로 늘리고 개발도상국의 친환경 전환을 지원하는 글로벌 기금 조성이 주요 제안으로 제시되었습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "work-life balance",
+      "korean": "일과 삶의 균형",
+      "example": "Maintaining a healthy work-life balance is crucial for long-term career success.",
+      "source": "입트영"
+    },
+    {
+      "english": "game-changer",
+      "korean": "판도를 바꾸는 것, 획기적인 변화",
+      "example": "The new software was a real game-changer for our productivity.",
+      "source": "입트영"
+    },
+    {
+      "english": "stick to something",
+      "korean": "~을 고수하다, 지키다",
+      "example": "I decided to stick to my exercise routine despite my busy schedule.",
+      "source": "입트영"
+    },
+    {
+      "english": "resist the urge",
+      "korean": "충동을 억제하다, 참다",
+      "example": "I had to resist the urge to check social media during work hours.",
+      "source": "입트영"
+    },
+    {
+      "english": "at an alarming rate",
+      "korean": "놀라운 속도로, 경각심을 불러일으킬 정도로",
+      "example": "The number of cyber attacks is increasing at an alarming rate.",
+      "source": "귀트영"
+    },
+    {
+      "english": "fall short of",
+      "korean": "~에 미치지 못하다, 부족하다",
+      "example": "The company's profits fell short of investors' expectations.",
+      "source": "귀트영"
+    },
+    {
+      "english": "follow-through",
+      "korean": "후속 조치, 실행",
+      "example": "The project lacked proper follow-through, leading to its failure.",
+      "source": "귀트영"
+    },
+    {
+      "english": "accountability mechanisms",
+      "korean": "책임 추궁 체계, 견제 장치",
+      "example": "The organization implemented new accountability mechanisms to ensure transparency.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I'll need to circle back with you on that proposal after I review the budget details.",
+      "korean": "예산 세부사항을 검토한 후에 그 제안에 대해 다시 연락드리겠습니다.",
+      "category": "business",
+      "grammar_point": "'circle back'은 '나중에 다시 논의하다'라는 의미의 비즈니스 표현"
+    },
+    {
+      "english": "Could you walk me through the implementation timeline for this project?",
+      "korean": "이 프로젝트의 실행 일정을 차근차근 설명해 주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "'walk someone through'는 '단계별로 설명하다'라는 의미"
+    },
+    {
+      "english": "I'm trying to cut back on coffee, but it's harder than I expected.",
+      "korean": "커피를 줄이려고 하는데 생각보다 어렵네요.",
+      "category": "daily",
+      "grammar_point": "'cut back on'은 '~을 줄이다, 절약하다'라는 의미의 구동사"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "재택근무의 가장 큰 장점은 통근 시간을 절약할 수 있다는 것입니다.",
+      "answer": "The biggest advantage of working from home is that you can save commuting time.",
+      "acceptable_keywords": [
+        "advantage",
+        "working from home",
+        "save",
+        "commuting"
+      ],
+      "hint": "'장점'과 '통근 시간'을 영어로 어떻게 표현할까요?"
+    },
+    {
+      "type": "translation",
+      "korean": "기후 변화에 대한 구체적인 행동이 시급히 필요합니다.",
+      "answer": "Concrete action on climate change is urgently needed.",
+      "acceptable_keywords": [
+        "concrete action",
+        "climate change",
+        "urgently",
+        "needed"
+      ],
+      "hint": "'구체적인'과 '시급히'를 영어로 표현해보세요."
+    },
+    {
+      "type": "translation",
+      "korean": "그 회사의 성과는 투자자들의 기대에 미치지 못했습니다.",
+      "answer": "The company's performance fell short of investors' expectations.",
+      "acceptable_keywords": [
+        "performance",
+        "fell short of",
+        "investors",
+        "expectations"
+      ],
+      "hint": "'미치지 못하다'는 'fall short of'로 표현합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "I need to maintain a healthy _____ between my work and personal life.",
+      "answer": "balance",
+      "options": [
+        "balance",
+        "distance",
+        "connection",
+        "relationship"
+      ],
+      "korean": "일과 개인 생활 사이에 건강한 균형을 유지해야 합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The new policy was a real _____ for our company's efficiency.",
+      "answer": "game-changer",
+      "options": [
+        "game-changer",
+        "time-saver",
+        "money-maker",
+        "life-style"
+      ],
+      "korean": "새로운 정책은 우리 회사 효율성에 있어 정말 획기적인 변화였습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Global temperatures are rising at an _____ rate according to scientists.",
+      "answer": "alarming",
+      "options": [
+        "alarming",
+        "exciting",
+        "interesting",
+        "amazing"
+      ],
+      "korean": "과학자들에 따르면 지구 온도가 경각심을 불러일으킬 정도의 속도로 상승하고 있습니다."
+    }
+  ],
+  "audio": {
+    "입트영": "",
+    "귀트영": ""
+  },
+  "audio_local": {}
+}

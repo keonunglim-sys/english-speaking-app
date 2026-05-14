@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-14",
-  "total_sentences": 96,
+  "last_updated": "2026-05-15",
+  "total_sentences": 99,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -769,6 +769,30 @@
       "korean": "이번 주말에 시내에 있는 그 새로운 식당에 가볼까 생각 중이에요.",
       "category": "daily",
       "grammar_point": "'I'm thinking of + -ing'로 계획이나 고려 중인 일을 표현"
+    },
+    {
+      "id": "2026-05-15_sent_01",
+      "date_added": "2026-05-15",
+      "english": "I'll need to circle back with you on that proposal after I review the budget details.",
+      "korean": "예산 세부사항을 검토한 후에 그 제안에 대해 다시 연락드리겠습니다.",
+      "category": "business",
+      "grammar_point": "'circle back'은 '나중에 다시 논의하다'라는 의미의 비즈니스 표현"
+    },
+    {
+      "id": "2026-05-15_sent_02",
+      "date_added": "2026-05-15",
+      "english": "Could you walk me through the implementation timeline for this project?",
+      "korean": "이 프로젝트의 실행 일정을 차근차근 설명해 주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "'walk someone through'는 '단계별로 설명하다'라는 의미"
+    },
+    {
+      "id": "2026-05-15_sent_03",
+      "date_added": "2026-05-15",
+      "english": "I'm trying to cut back on coffee, but it's harder than I expected.",
+      "korean": "커피를 줄이려고 하는데 생각보다 어렵네요.",
+      "category": "daily",
+      "grammar_point": "'cut back on'은 '~을 줄이다, 절약하다'라는 의미의 구동사"
     }
   ]
 }
