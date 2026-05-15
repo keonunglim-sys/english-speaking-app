@@ -1,0 +1,163 @@
+{
+  "date": "2026-05-16",
+  "day_of_week": "토요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Work-Life Balance in Korean Corporate Culture",
+    "text": "Work-life balance has become a hot topic in Korean corporate culture. Many companies are now implementing flexible working hours and remote work policies to help employees maintain a healthier lifestyle. In the past, staying late at the office was considered a virtue, showing dedication and loyalty to the company. However, the younger generation has different values and priorities. They seek meaningful work that allows them to pursue personal interests and spend quality time with family and friends. Some progressive companies have introduced a four-day work week or unlimited vacation policies. These changes are not just about employee satisfaction; they also boost productivity and creativity. When people are well-rested and motivated, they perform better at work. The pandemic accelerated these changes, proving that many tasks can be done effectively from home. As Korea continues to modernize its workplace culture, finding the right balance between professional success and personal fulfillment remains an ongoing challenge for both employers and employees.",
+    "korean_summary": "한국 기업 문화에서 워라밸이 중요한 화두가 되고 있습니다. 과거에는 야근이 미덕으로 여겨졌지만, 젊은 세대는 개인적 시간을 중시하며 일과 삶의 균형을 추구합니다. 일부 진보적 기업들이 4일 근무제나 무제한 휴가제를 도입하고 있으며, 이는 직원 만족도와 생산성 향상에 모두 도움이 됩니다."
+  },
+  "gwitunyeong": {
+    "title": "Global AI Competition Intensifies",
+    "text": "The global artificial intelligence race is reaching new heights as tech giants and nations compete for dominance in this transformative technology. OpenAI's ChatGPT has sparked a surge of innovation, prompting Google, Microsoft, and other major players to accelerate their AI development programs. Countries like the United States, China, and the European Union are investing billions of dollars in AI research and infrastructure. The competition extends beyond chatbots to include autonomous vehicles, medical diagnostics, and smart manufacturing systems. However, this rapid advancement raises important questions about job displacement, data privacy, and ethical AI use. Governments worldwide are scrambling to establish regulations that encourage innovation while protecting citizens' rights. The outcome of this AI arms race will likely determine economic leadership for decades to come, making it one of the most significant technological competitions in modern history.",
+    "korean_summary": "전 세계 AI 경쟁이 치열해지고 있으며, 주요 기업들과 국가들이 이 혁신적 기술의 주도권을 놓고 경쟁하고 있습니다. 미국, 중국, EU 등이 AI 연구에 수십억 달러를 투자하고 있으며, 이는 향후 수십 년간의 경제적 리더십을 결정할 중요한 경쟁입니다."
+  },
+  "key_expressions": [
+    {
+      "english": "has become a hot topic",
+      "korean": "뜨거운 화두가 되었다",
+      "example": "Remote work has become a hot topic in our company meetings.",
+      "source": "입트영"
+    },
+    {
+      "english": "boost productivity and creativity",
+      "korean": "생산성과 창의성을 향상시키다",
+      "example": "The new office layout is designed to boost productivity and creativity.",
+      "source": "입트영"
+    },
+    {
+      "english": "pursue personal interests",
+      "korean": "개인적 관심사를 추구하다",
+      "example": "I want to pursue personal interests while maintaining my career.",
+      "source": "입트영"
+    },
+    {
+      "english": "ongoing challenge",
+      "korean": "지속적인 과제/도전",
+      "example": "Managing stress is an ongoing challenge for many professionals.",
+      "source": "입트영"
+    },
+    {
+      "english": "reaching new heights",
+      "korean": "새로운 차원에 이르다",
+      "example": "The company's innovation is reaching new heights this quarter.",
+      "source": "귀트영"
+    },
+    {
+      "english": "sparked a surge of innovation",
+      "korean": "혁신의 급증을 촉발했다",
+      "example": "The new technology sparked a surge of innovation in the industry.",
+      "source": "귀트영"
+    },
+    {
+      "english": "scrambling to establish",
+      "korean": "서둘러 구축하다",
+      "example": "Companies are scrambling to establish new safety protocols.",
+      "source": "귀트영"
+    },
+    {
+      "english": "determine economic leadership",
+      "korean": "경제적 주도권을 결정하다",
+      "example": "This technology will determine economic leadership in the next decade.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "We need to implement a more flexible working policy to retain top talent.",
+      "korean": "우수 인재를 유지하기 위해 더 유연한 근무 정책을 시행해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형: 필요성 표현"
+    },
+    {
+      "english": "Our company is investing heavily in AI technology to stay competitive.",
+      "korean": "우리 회사는 경쟁력을 유지하기 위해 AI 기술에 막대한 투자를 하고 있습니다.",
+      "category": "business",
+      "grammar_point": "현재진행형으로 진행 중인 행동 표현"
+    },
+    {
+      "english": "I'm trying to find a better work-life balance this year.",
+      "korean": "올해는 더 나은 워라밸을 찾으려고 노력하고 있어요.",
+      "category": "daily",
+      "grammar_point": "try to + 동사원형: 노력 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "워라밸이 우리 회사에서 뜨거운 화두가 되었습니다.",
+      "answer": "Work-life balance has become a hot topic in our company.",
+      "acceptable_keywords": [
+        "work-life balance",
+        "hot topic",
+        "company"
+      ],
+      "hint": "'뜨거운 화두'는 'hot topic'으로 표현하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "이 새로운 기술은 업계에서 혁신의 급증을 촉발했습니다.",
+      "answer": "This new technology sparked a surge of innovation in the industry.",
+      "acceptable_keywords": [
+        "technology",
+        "sparked",
+        "surge",
+        "innovation"
+      ],
+      "hint": "'촉발했다'는 과거형 'sparked'를 사용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "정부들이 새로운 규제를 서둘러 구축하고 있습니다.",
+      "answer": "Governments are scrambling to establish new regulations.",
+      "acceptable_keywords": [
+        "governments",
+        "scrambling",
+        "establish",
+        "regulations"
+      ],
+      "hint": "'서둘러'는 'scrambling'으로 표현하세요."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Many companies are now implementing ___ working hours to help employees.",
+      "answer": "flexible",
+      "options": [
+        "flexible",
+        "strict",
+        "limited",
+        "traditional"
+      ],
+      "korean": "많은 회사들이 직원들을 돕기 위해 유연한 근무시간을 시행하고 있습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The AI competition is ___ new heights globally.",
+      "answer": "reaching",
+      "options": [
+        "reaching",
+        "falling",
+        "avoiding",
+        "ignoring"
+      ],
+      "korean": "AI 경쟁이 전 세계적으로 새로운 차원에 이르고 있습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "This technology will ___ economic leadership for decades.",
+      "answer": "determine",
+      "options": [
+        "determine",
+        "destroy",
+        "ignore",
+        "prevent"
+      ],
+      "korean": "이 기술은 수십 년간 경제적 주도권을 결정할 것입니다."
+    }
+  ],
+  "audio": {
+    "입트영": "",
+    "귀트영": ""
+  },
+  "audio_local": {}
+}

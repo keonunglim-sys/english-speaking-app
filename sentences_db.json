@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-15",
-  "total_sentences": 99,
+  "last_updated": "2026-05-16",
+  "total_sentences": 102,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -793,6 +793,30 @@
       "korean": "커피를 줄이려고 하는데 생각보다 어렵네요.",
       "category": "daily",
       "grammar_point": "'cut back on'은 '~을 줄이다, 절약하다'라는 의미의 구동사"
+    },
+    {
+      "id": "2026-05-16_sent_01",
+      "date_added": "2026-05-16",
+      "english": "We need to implement a more flexible working policy to retain top talent.",
+      "korean": "우수 인재를 유지하기 위해 더 유연한 근무 정책을 시행해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형: 필요성 표현"
+    },
+    {
+      "id": "2026-05-16_sent_02",
+      "date_added": "2026-05-16",
+      "english": "Our company is investing heavily in AI technology to stay competitive.",
+      "korean": "우리 회사는 경쟁력을 유지하기 위해 AI 기술에 막대한 투자를 하고 있습니다.",
+      "category": "business",
+      "grammar_point": "현재진행형으로 진행 중인 행동 표현"
+    },
+    {
+      "id": "2026-05-16_sent_03",
+      "date_added": "2026-05-16",
+      "english": "I'm trying to find a better work-life balance this year.",
+      "korean": "올해는 더 나은 워라밸을 찾으려고 노력하고 있어요.",
+      "category": "daily",
+      "grammar_point": "try to + 동사원형: 노력 표현"
     }
   ]
 }
