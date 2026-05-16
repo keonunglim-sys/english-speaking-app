@@ -1,0 +1,164 @@
+{
+  "date": "2026-05-17",
+  "day_of_week": "일요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Remote Work Challenges and Solutions",
+    "text": "Remote work has become the new normal for many Korean office workers since the pandemic. While working from home offers flexibility and eliminates commuting time, it also presents unique challenges that we must address. One major issue is maintaining work-life balance when your bedroom becomes your office. It's easy to blur the lines between personal time and work hours. Another challenge is effective communication with colleagues. Without face-to-face interactions, misunderstandings can occur more frequently, and building relationships becomes harder. However, there are practical solutions we can implement. Setting up a dedicated workspace helps create physical boundaries between work and rest. Scheduling regular video calls with team members maintains personal connections. Using collaboration tools like Slack or Teams keeps everyone on the same page. The key is being intentional about creating structure and maintaining human connections, even in a virtual environment. Remote work isn't going anywhere, so learning to thrive in this setup is essential for our career success.",
+    "korean_summary": "재택근무는 유연성을 제공하지만 일과 삶의 균형 유지와 동료들과의 소통에 어려움이 있습니다. 전용 작업공간 설정, 정기적인 화상회의, 협업 도구 활용 등으로 이러한 문제들을 해결할 수 있습니다. 재택근무 환경에서 성공하려면 의도적으로 구조를 만들고 인간적 유대감을 유지하는 것이 중요합니다."
+  },
+  "gwitunyeong": {
+    "title": "AI Chatbots Revolutionize Customer Service Industry",
+    "text": "Major corporations worldwide are increasingly adopting AI-powered chatbots to handle customer inquiries, marking a significant shift in the service industry. Recent studies show that these automated systems can resolve up to 80% of routine customer questions without human intervention. Companies like Samsung and LG have reported substantial cost savings while improving response times from hours to seconds. The technology uses natural language processing to understand customer requests and provide accurate solutions. However, the implementation raises concerns about job displacement in call centers. Industry experts suggest that rather than eliminating jobs entirely, AI will likely reshape roles, with human agents focusing on complex issues requiring empathy and critical thinking. Customers have shown mixed reactions, with younger demographics embracing the efficiency while older users still prefer human interaction. As the technology continues to evolve, finding the right balance between automation and human touch remains crucial for maintaining customer satisfaction.",
+    "korean_summary": "전 세계 주요 기업들이 고객 문의 처리를 위해 AI 챗봇을 도입하고 있으며, 이는 서비스 업계의 중요한 변화를 의미합니다. AI는 일반적인 질문의 80%까지 해결할 수 있어 비용 절감과 응답 시간 단축 효과를 보이고 있습니다. 다만 일자리 대체 우려와 함께 자동화와 인간적 접촉의 균형 찾기가 과제로 남아있습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "blur the lines between",
+      "korean": "~사이의 경계를 흐리게 하다",
+      "example": "Social media blurs the lines between public and private life.",
+      "source": "입트영"
+    },
+    {
+      "english": "keep everyone on the same page",
+      "korean": "모든 사람이 같은 이해를 갖도록 하다",
+      "example": "Regular team meetings help keep everyone on the same page about project goals.",
+      "source": "입트영"
+    },
+    {
+      "english": "isn't going anywhere",
+      "korean": "사라지지 않을 것이다, 계속될 것이다",
+      "example": "Digital transformation isn't going anywhere, so we need to adapt quickly.",
+      "source": "입트영"
+    },
+    {
+      "english": "thrive in this setup",
+      "korean": "이런 환경에서 번영하다/성공하다",
+      "example": "Some employees thrive in this setup while others struggle with isolation.",
+      "source": "입트영"
+    },
+    {
+      "english": "mark a significant shift",
+      "korean": "중요한 변화를 나타내다",
+      "example": "The new policy marks a significant shift in our company's approach to sustainability.",
+      "source": "귀트영"
+    },
+    {
+      "english": "without human intervention",
+      "korean": "인간의 개입 없이",
+      "example": "Modern factories can operate for hours without human intervention.",
+      "source": "귀트영"
+    },
+    {
+      "english": "raise concerns about",
+      "korean": "~에 대한 우려를 제기하다",
+      "example": "The new surveillance system raises concerns about employee privacy.",
+      "source": "귀트영"
+    },
+    {
+      "english": "show mixed reactions",
+      "korean": "엇갈린 반응을 보이다",
+      "example": "Consumers show mixed reactions to the company's new pricing strategy.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I need to schedule a follow-up meeting to discuss the project timeline with stakeholders.",
+      "korean": "이해관계자들과 프로젝트 일정을 논의하기 위한 후속 회의를 잡아야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형 (필요성 표현)"
+    },
+    {
+      "english": "Could you please send me the updated report by the end of business today?",
+      "korean": "오늘 업무 시간이 끝나기 전에 업데이트된 보고서를 보내주시겠어요?",
+      "category": "business",
+      "grammar_point": "Could you please + 동사원형 (정중한 요청)"
+    },
+    {
+      "english": "I'm planning to catch up with some friends over the weekend after a busy week at work.",
+      "korean": "바쁜 한 주를 보낸 후 주말에 친구들과 시간을 보낼 계획입니다.",
+      "category": "daily",
+      "grammar_point": "be planning to + 동사원형 (계획 표현)"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "재택근무가 일과 삶의 균형을 유지하기 어렵게 만든다.",
+      "answer": "Remote work makes it difficult to maintain work-life balance.",
+      "acceptable_keywords": [
+        "remote work",
+        "difficult",
+        "maintain",
+        "work-life balance"
+      ],
+      "hint": "'maintain'와 'work-life balance' 표현을 사용하세요"
+    },
+    {
+      "type": "translation",
+      "korean": "AI 기술이 고객 서비스 업계에 중요한 변화를 가져오고 있다.",
+      "answer": "AI technology is bringing significant changes to the customer service industry.",
+      "acceptable_keywords": [
+        "AI technology",
+        "significant changes",
+        "customer service",
+        "industry"
+      ],
+      "hint": "'bring changes to~' 구조를 사용하세요"
+    },
+    {
+      "type": "translation",
+      "korean": "우리는 정기적인 팀 회의를 통해 모든 팀원이 같은 이해를 갖도록 해야 한다.",
+      "answer": "We need to keep all team members on the same page through regular team meetings.",
+      "acceptable_keywords": [
+        "keep",
+        "team members",
+        "same page",
+        "regular meetings"
+      ],
+      "hint": "'keep everyone on the same page' 표현을 사용하세요"
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The new system can resolve customer inquiries without human ___.",
+      "answer": "intervention",
+      "options": [
+        "intervention",
+        "interaction",
+        "involvement",
+        "interference"
+      ],
+      "korean": "새로운 시스템은 인간의 개입 없이 고객 문의를 해결할 수 있다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "It's important to set up a ___ workspace when working from home.",
+      "answer": "dedicated",
+      "options": [
+        "dedicated",
+        "decorated",
+        "detailed",
+        "delayed"
+      ],
+      "korean": "재택근무할 때는 전용 작업공간을 만드는 것이 중요하다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The implementation of AI chatbots ___ concerns about job displacement.",
+      "answer": "raises",
+      "options": [
+        "raises",
+        "rises",
+        "reaches",
+        "ranges"
+      ],
+      "korean": "AI 챗봇 도입은 일자리 대체에 대한 우려를 제기한다."
+    }
+  ],
+  "audio": {
+    "입트영": "",
+    "귀트영": ""
+  },
+  "audio_local": {}
+}
