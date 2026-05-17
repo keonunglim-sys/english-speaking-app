@@ -1,0 +1,165 @@
+{
+  "date": "2026-05-18",
+  "day_of_week": "월요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Video Conferences and Virtual Meetings",
+    "text": "Video conferences have become an essential part of modern workplace communication. Before the pandemic, most meetings were held in person, but now virtual meetings are the norm. At first, I struggled with the technology and felt awkward talking to a screen. However, I've learned to adapt and even appreciate the benefits. Video calls save commuting time and allow for more flexible scheduling. I can attend meetings from anywhere with a stable internet connection. The key to successful virtual meetings is preparation and engagement. I always test my camera and microphone beforehand, prepare my talking points, and actively participate in discussions. While I miss the personal connection of face-to-face meetings, video conferences have made collaboration more efficient. They've also opened up opportunities to work with colleagues from different locations. Now, hybrid meetings that combine in-person and virtual participants are becoming popular. This blend offers the best of both worlds, allowing maximum flexibility while maintaining human connection.",
+    "korean_summary": "팬데믹 이후 화상회의가 직장의 필수 소통 도구가 되었습니다. 처음에는 기술적 어려움과 어색함이 있었지만, 이제는 시간 절약과 유연한 일정 관리 등의 장점을 인정하게 되었습니다. 성공적인 화상회의를 위해서는 사전 준비와 적극적인 참여가 중요하며, 최근에는 대면과 비대면을 결합한 하이브리드 회의가 인기를 얻고 있습니다."
+  },
+  "gwitunyeong": {
+    "title": "AI Chatbot Adoption Surges in Customer Service",
+    "text": "Companies worldwide are rapidly adopting AI-powered chatbots to enhance their customer service operations. According to recent industry reports, over 67% of businesses now use chatbots to handle initial customer inquiries, representing a 40% increase from last year. These intelligent systems can process multiple conversations simultaneously and provide instant responses 24/7. Major retailers and banks have reported significant improvements in customer satisfaction scores while reducing operational costs by up to 30%. However, the technology still faces challenges when dealing with complex emotional situations that require human empathy. Industry experts predict that by 2025, AI chatbots will handle 85% of routine customer service interactions. Companies are investing heavily in natural language processing to make these interactions more human-like. Despite concerns about job displacement, many businesses are retraining customer service representatives to handle more specialized tasks that require human judgment and creativity.",
+    "korean_summary": "전 세계 기업들이 고객 서비스 향상을 위해 AI 챗봇을 빠르게 도입하고 있으며, 현재 67%의 기업이 초기 고객 문의 처리에 챗봇을 활용하고 있습니다. 2025년까지 AI 챗봇이 일반적인 고객 서비스 업무의 85%를 처리할 것으로 예상되지만, 복잡한 감정적 상황에서는 여전히 인간의 개입이 필요한 상황입니다."
+  },
+  "key_expressions": [
+    {
+      "english": "have become an essential part of",
+      "korean": "~의 필수적인 부분이 되었다",
+      "example": "Social media has become an essential part of marketing strategies.",
+      "source": "입트영"
+    },
+    {
+      "english": "struggle with",
+      "korean": "~로 어려움을 겪다",
+      "example": "Many employees struggle with work-life balance.",
+      "source": "입트영"
+    },
+    {
+      "english": "the best of both worlds",
+      "korean": "두 가지 장점을 모두 얻는 것",
+      "example": "Working from home two days a week gives me the best of both worlds.",
+      "source": "입트영"
+    },
+    {
+      "english": "maximum flexibility",
+      "korean": "최대한의 유연성",
+      "example": "The new policy offers maximum flexibility for remote work arrangements.",
+      "source": "입트영"
+    },
+    {
+      "english": "rapidly adopting",
+      "korean": "빠르게 도입하고 있는",
+      "example": "Schools are rapidly adopting digital learning platforms.",
+      "source": "귀트영"
+    },
+    {
+      "english": "process multiple conversations simultaneously",
+      "korean": "여러 대화를 동시에 처리하다",
+      "example": "AI systems can process multiple conversations simultaneously without errors.",
+      "source": "귀트영"
+    },
+    {
+      "english": "significant improvements",
+      "korean": "상당한 개선",
+      "example": "The company saw significant improvements in productivity after the training program.",
+      "source": "귀트영"
+    },
+    {
+      "english": "job displacement",
+      "korean": "일자리 대체",
+      "example": "Automation may lead to job displacement in certain industries.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "We need to schedule a follow-up meeting to discuss the project timeline.",
+      "korean": "프로젝트 일정을 논의하기 위해 후속 회의를 예약해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형 (필요성 표현)"
+    },
+    {
+      "english": "Could you please send me the quarterly report by the end of this week?",
+      "korean": "이번 주말까지 분기 보고서를 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "Could you please (정중한 요청 표현)"
+    },
+    {
+      "english": "I'm planning to cook something special for dinner tonight.",
+      "korean": "오늘 저녁에 특별한 요리를 만들 계획이에요.",
+      "category": "daily",
+      "grammar_point": "be planning to (계획 표현)"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "화상회의가 현대 직장 소통의 필수 도구가 되었습니다.",
+      "answer": "Video conferences have become an essential tool for modern workplace communication.",
+      "acceptable_keywords": [
+        "video conferences",
+        "essential",
+        "workplace communication"
+      ],
+      "hint": "'필수적인'과 '도구'에 해당하는 영어 표현을 사용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "AI 챗봇은 24시간 즉시 응답을 제공할 수 있습니다.",
+      "answer": "AI chatbots can provide instant responses 24/7.",
+      "acceptable_keywords": [
+        "AI chatbots",
+        "instant responses",
+        "24/7"
+      ],
+      "hint": "'즉시 응답'과 '24시간'을 영어로 표현해보세요."
+    },
+    {
+      "type": "translation",
+      "korean": "기업들은 운영비용을 30%까지 절감했다고 보고했습니다.",
+      "answer": "Companies have reported reducing operational costs by up to 30%.",
+      "acceptable_keywords": [
+        "companies",
+        "reducing",
+        "operational costs",
+        "30%"
+      ],
+      "hint": "'~까지'는 'up to'로 표현합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Video calls save commuting time and allow for more _______ scheduling.",
+      "answer": "flexible",
+      "options": [
+        "flexible",
+        "difficult",
+        "expensive",
+        "complicated"
+      ],
+      "korean": "화상통화는 통근 시간을 절약하고 더 유연한 일정 관리를 가능하게 합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Companies are investing heavily in natural language _______ to make interactions more human-like.",
+      "answer": "processing",
+      "options": [
+        "processing",
+        "speaking",
+        "writing",
+        "listening"
+      ],
+      "korean": "기업들은 상호작용을 더 인간적으로 만들기 위해 자연어 처리에 많은 투자를 하고 있습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The technology still faces challenges when dealing with complex _______ situations.",
+      "answer": "emotional",
+      "options": [
+        "emotional",
+        "technical",
+        "financial",
+        "physical"
+      ],
+      "korean": "이 기술은 복잡한 감정적 상황을 다룰 때 여전히 어려움에 직면합니다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66532&part_seq=26619",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66557&part_seq=26620"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-05-18.mp3",
+    "귀트영": "audio/귀트영_2026-05-18.mp3"
+  }
+}
