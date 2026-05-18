@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-18",
-  "total_sentences": 108,
+  "last_updated": "2026-05-19",
+  "total_sentences": 111,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -865,6 +865,30 @@
       "korean": "오늘 저녁에 특별한 요리를 만들 계획이에요.",
       "category": "daily",
       "grammar_point": "be planning to (계획 표현)"
+    },
+    {
+      "id": "2026-05-19_sent_01",
+      "date_added": "2026-05-19",
+      "english": "I'd like to schedule a follow-up meeting to discuss the project details.",
+      "korean": "프로젝트 세부사항을 논의하기 위한 후속 미팅을 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "would like to + 동사원형 (정중한 의사 표현)"
+    },
+    {
+      "id": "2026-05-19_sent_02",
+      "date_added": "2026-05-19",
+      "english": "Our team needs to prioritize work-life balance to improve productivity.",
+      "korean": "우리 팀은 생산성 향상을 위해 워라밸을 우선시해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형 (필요성 표현)"
+    },
+    {
+      "id": "2026-05-19_sent_03",
+      "date_added": "2026-05-19",
+      "english": "I'm thinking of joining a virtual networking event this weekend.",
+      "korean": "이번 주말에 가상 네트워킹 행사에 참가할 생각입니다.",
+      "category": "daily",
+      "grammar_point": "be thinking of + -ing (계획이나 고려 중인 일 표현)"
     }
   ]
 }

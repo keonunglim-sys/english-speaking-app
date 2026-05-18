@@ -1,0 +1,168 @@
+{
+  "date": "2026-05-19",
+  "day_of_week": "화요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Networking in the Digital Age",
+    "text": "Building professional relationships has dramatically changed in recent years. While traditional face-to-face networking events used to be the norm, we now have countless digital platforms to connect with colleagues and industry professionals. LinkedIn has become an essential tool for maintaining professional contacts, while video conferencing platforms like Zoom have made virtual networking events commonplace. However, I've learned that successful networking isn't just about collecting business cards or adding connections online. It's about building genuine relationships and providing value to others. During the pandemic, I started participating in online industry webinars and virtual coffee chats. These experiences taught me that authentic networking requires consistent follow-up and meaningful conversations. Whether it's sharing relevant articles, making introductions, or offering assistance with projects, the key is to give before you receive. Digital networking may lack the personal touch of in-person meetings, but it has made professional connections more accessible and diverse than ever before.",
+    "korean_summary": "디지털 시대의 네트워킹은 전통적인 대면 방식에서 온라인 플랫폼 중심으로 변화했습니다. LinkedIn과 Zoom 같은 도구들이 필수가 되었으며, 성공적인 네트워킹의 핵심은 단순한 연결보다는 진정한 관계 구축과 상호 가치 제공에 있습니다. 디지털 네트워킹은 개인적 터치는 부족하지만 더 접근 가능하고 다양한 전문적 연결을 가능하게 합니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea's Four-Day Work Week Trial Shows Promising Results",
+    "text": "A recent pilot program testing a four-day work week in South Korea has yielded encouraging outcomes, according to government officials. The trial, conducted across 100 companies over six months, showed a 15% increase in employee productivity and a significant improvement in work-life balance satisfaction. Participating companies reported reduced employee turnover rates and lower healthcare costs related to workplace stress. The program allowed workers to maintain full salaries while working only four days per week, with most companies choosing to implement either Monday or Friday off. Industry experts believe this model could help address South Korea's chronic overwork culture, which has long been criticized for its impact on mental health and birth rates. The government is now considering expanding the program to more companies in 2024, potentially making South Korea one of the first Asian countries to widely adopt flexible working arrangements.",
+    "korean_summary": "한국의 주 4일 근무제 시범 운영이 긍정적인 결과를 보여주고 있습니다. 100개 기업을 대상으로 6개월간 실시된 이번 시범사업에서 생산성 15% 증가와 워라밸 만족도 개선이 나타났습니다. 정부는 2024년 확대 시행을 검토하고 있어 한국이 아시아 최초로 유연근무제를 널리 도입하는 국가가 될 가능성이 있습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "has dramatically changed",
+      "korean": "극적으로 변화했다",
+      "example": "The way we shop has dramatically changed since the rise of e-commerce.",
+      "source": "입트영"
+    },
+    {
+      "english": "provide value to others",
+      "korean": "다른 사람들에게 가치를 제공하다",
+      "example": "Good leaders always look for ways to provide value to their team members.",
+      "source": "입트영"
+    },
+    {
+      "english": "give before you receive",
+      "korean": "받기 전에 먼저 주다",
+      "example": "In business relationships, it's important to give before you receive.",
+      "source": "입트영"
+    },
+    {
+      "english": "more accessible and diverse",
+      "korean": "더 접근 가능하고 다양한",
+      "example": "Online education has made learning more accessible and diverse for students worldwide.",
+      "source": "입트영"
+    },
+    {
+      "english": "yielded encouraging outcomes",
+      "korean": "고무적인 결과를 낳다",
+      "example": "The new marketing strategy has yielded encouraging outcomes for our sales team.",
+      "source": "귀트영"
+    },
+    {
+      "english": "work-life balance satisfaction",
+      "korean": "워라밸 만족도",
+      "example": "Companies that prioritize work-life balance satisfaction tend to retain employees longer.",
+      "source": "귀트영"
+    },
+    {
+      "english": "chronic overwork culture",
+      "korean": "만성적인 과로 문화",
+      "example": "Many Asian countries are trying to address their chronic overwork culture.",
+      "source": "귀트영"
+    },
+    {
+      "english": "widely adopt flexible working arrangements",
+      "korean": "유연근무제를 널리 도입하다",
+      "example": "Tech companies are the first to widely adopt flexible working arrangements.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I'd like to schedule a follow-up meeting to discuss the project details.",
+      "korean": "프로젝트 세부사항을 논의하기 위한 후속 미팅을 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "would like to + 동사원형 (정중한 의사 표현)"
+    },
+    {
+      "english": "Our team needs to prioritize work-life balance to improve productivity.",
+      "korean": "우리 팀은 생산성 향상을 위해 워라밸을 우선시해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형 (필요성 표현)"
+    },
+    {
+      "english": "I'm thinking of joining a virtual networking event this weekend.",
+      "korean": "이번 주말에 가상 네트워킹 행사에 참가할 생각입니다.",
+      "category": "daily",
+      "grammar_point": "be thinking of + -ing (계획이나 고려 중인 일 표현)"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "성공적인 네트워킹의 핵심은 진정한 관계를 구축하는 것입니다.",
+      "answer": "The key to successful networking is building genuine relationships.",
+      "acceptable_keywords": [
+        "key",
+        "successful",
+        "networking",
+        "building",
+        "genuine",
+        "relationships"
+      ],
+      "hint": "'핵심'은 'key', '진정한'은 'genuine'으로 표현하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "이 시범 프로그램은 고무적인 결과를 보여주었습니다.",
+      "answer": "This pilot program showed encouraging results.",
+      "acceptable_keywords": [
+        "pilot",
+        "program",
+        "showed",
+        "encouraging",
+        "results"
+      ],
+      "hint": "'시범 프로그램'은 'pilot program', '고무적인'은 'encouraging'입니다."
+    },
+    {
+      "type": "translation",
+      "korean": "우리는 만성적인 과로 문화를 해결해야 합니다.",
+      "answer": "We need to address the chronic overwork culture.",
+      "acceptable_keywords": [
+        "need",
+        "address",
+        "chronic",
+        "overwork",
+        "culture"
+      ],
+      "hint": "'해결하다'는 'address', '만성적인'은 'chronic'입니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Digital networking has made professional connections more ___ and diverse.",
+      "answer": "accessible",
+      "options": [
+        "accessible",
+        "difficult",
+        "expensive",
+        "traditional"
+      ],
+      "korean": "디지털 네트워킹은 전문적 연결을 더 접근 가능하고 다양하게 만들었다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The company reported reduced employee ___ rates after implementing flexible work arrangements.",
+      "answer": "turnover",
+      "options": [
+        "turnover",
+        "salary",
+        "training",
+        "meeting"
+      ],
+      "korean": "회사는 유연근무제 도입 후 직원 이직률이 감소했다고 보고했다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "It's important to ___ before you receive in professional relationships.",
+      "answer": "give",
+      "options": [
+        "give",
+        "take",
+        "ask",
+        "demand"
+      ],
+      "korean": "전문적 관계에서는 받기 전에 먼저 주는 것이 중요하다."
+    }
+  ],
+  "audio": {
+    "입트영": "",
+    "귀트영": ""
+  },
+  "audio_local": {}
+}
