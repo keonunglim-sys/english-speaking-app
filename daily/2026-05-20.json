@@ -1,0 +1,167 @@
+{
+  "date": "2026-05-20",
+  "day_of_week": "수요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Remote Work Balance",
+    "text": "The shift to remote work has fundamentally changed how we approach our professional lives. While working from home offers incredible flexibility, it also presents unique challenges that many of us are still learning to navigate. The biggest hurdle I've encountered is maintaining a clear boundary between work and personal time. When your office is just a few steps away from your bedroom, it becomes tempting to check emails late at night or start working earlier than usual. I've learned that creating a dedicated workspace and sticking to a consistent schedule is crucial for productivity. Setting up morning routines that mirror a traditional commute helps mentally prepare for the workday. Additionally, I've found that over-communication with colleagues becomes essential when you can't simply walk over to their desk. Video calls have replaced casual hallway conversations, requiring more intentional relationship building. Despite these challenges, remote work has allowed me to achieve better work-life integration, spend more time with family, and reduce commuting stress significantly.",
+    "korean_summary": "재택근무는 우리의 직업적 삶을 근본적으로 변화시켰습니다. 유연성을 제공하지만 일과 개인 시간의 경계 설정이 가장 큰 어려움입니다. 전용 작업공간 마련과 일정한 스케줄 유지가 중요하며, 동료들과의 적극적인 소통이 필수적입니다. 그럼에도 불구하고 더 나은 일-생활 균형을 달성할 수 있게 되었습니다."
+  },
+  "gwitunyeong": {
+    "title": "Global Climate Summit Reaches Historic Agreement",
+    "text": "World leaders concluded a landmark climate summit yesterday with an unprecedented agreement to accelerate the transition to renewable energy. The three-day conference, attended by representatives from 195 countries, resulted in commitments to triple global renewable energy capacity by 2030. The agreement includes specific targets for reducing carbon emissions and establishes a new international fund worth $100 billion to support developing nations in their green energy transitions. Environmental scientists have praised the accord as the most ambitious climate action plan to date. However, critics argue that the timeline may still be insufficient to prevent catastrophic global warming. The summit also addressed the growing concern over plastic pollution in oceans, with countries pledging to reduce single-use plastics by 50% within the next decade. Implementation of these measures will require significant technological innovation and international cooperation.",
+    "korean_summary": "세계 지도자들이 재생에너지 전환을 가속화하는 역사적인 기후 협정을 체결했습니다. 2030년까지 전 세계 재생에너지 용량을 3배로 늘리고 개발도상국 지원을 위한 1000억 달러 기금을 조성하기로 했습니다. 해양 플라스틱 오염 문제도 다뤄져 일회용 플라스틱을 50% 줄이기로 약속했습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "maintain a clear boundary",
+      "korean": "명확한 경계를 유지하다",
+      "example": "It's important to maintain a clear boundary between your professional and personal relationships.",
+      "source": "입트영"
+    },
+    {
+      "english": "work-life integration",
+      "korean": "일과 삶의 통합",
+      "example": "Modern professionals are seeking better work-life integration rather than strict separation.",
+      "source": "입트영"
+    },
+    {
+      "english": "over-communication",
+      "korean": "과도한 소통, 적극적 소통",
+      "example": "In remote teams, over-communication is better than under-communication.",
+      "source": "입트영"
+    },
+    {
+      "english": "intentional relationship building",
+      "korean": "의도적인 관계 구축",
+      "example": "Virtual teams require more intentional relationship building to maintain team cohesion.",
+      "source": "입트영"
+    },
+    {
+      "english": "unprecedented agreement",
+      "korean": "전례 없는 합의",
+      "example": "The two companies reached an unprecedented agreement on technology sharing.",
+      "source": "귀트영"
+    },
+    {
+      "english": "accelerate the transition",
+      "korean": "전환을 가속화하다",
+      "example": "The government plans to accelerate the transition to digital healthcare systems.",
+      "source": "귀트영"
+    },
+    {
+      "english": "catastrophic global warming",
+      "korean": "파국적인 지구온난화",
+      "example": "Scientists warn that immediate action is needed to prevent catastrophic global warming.",
+      "source": "귀트영"
+    },
+    {
+      "english": "international cooperation",
+      "korean": "국제적 협력",
+      "example": "Fighting climate change requires unprecedented international cooperation.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I need to schedule a follow-up meeting to discuss the project timeline with stakeholders.",
+      "korean": "이해관계자들과 프로젝트 일정을 논의하기 위한 후속 회의를 예약해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형 (필요성 표현)"
+    },
+    {
+      "english": "Could you please provide an update on the quarterly sales figures by end of day?",
+      "korean": "오늘 끝까지 분기별 매출 수치에 대한 업데이트를 제공해 주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "Could you please + 동사원형 (정중한 요청)"
+    },
+    {
+      "english": "I'm planning to catch up with some old friends over the weekend.",
+      "korean": "주말에 오랜 친구들과 안부를 나눌 계획입니다.",
+      "category": "daily",
+      "grammar_point": "be planning to + 동사원형 (계획 표현)"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "재택근무의 가장 큰 어려움은 일과 개인 시간의 경계를 유지하는 것입니다.",
+      "answer": "The biggest challenge of remote work is maintaining the boundary between work and personal time.",
+      "acceptable_keywords": [
+        "challenge",
+        "remote work",
+        "maintaining",
+        "boundary",
+        "personal time"
+      ],
+      "hint": "'가장 큰 어려움'과 '경계를 유지하다' 표현을 사용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "세계 지도자들이 재생에너지 전환을 가속화하는 협정을 체결했습니다.",
+      "answer": "World leaders reached an agreement to accelerate the transition to renewable energy.",
+      "acceptable_keywords": [
+        "world leaders",
+        "agreement",
+        "accelerate",
+        "transition",
+        "renewable energy"
+      ],
+      "hint": "'가속화하다'와 '전환' 단어에 주목하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "동료들과의 적극적인 소통이 원격 팀워크에서 필수적입니다.",
+      "answer": "Active communication with colleagues is essential for remote teamwork.",
+      "acceptable_keywords": [
+        "active communication",
+        "colleagues",
+        "essential",
+        "remote",
+        "teamwork"
+      ],
+      "hint": "'적극적인'과 '필수적인' 표현을 활용하세요."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "It's important to maintain a clear ___ between work and personal life.",
+      "answer": "boundary",
+      "options": [
+        "boundary",
+        "distance",
+        "schedule",
+        "relationship"
+      ],
+      "korean": "일과 개인 생활 사이의 명확한 ___을 유지하는 것이 중요합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The climate summit resulted in ___ commitments to reduce carbon emissions.",
+      "answer": "unprecedented",
+      "options": [
+        "unprecedented",
+        "traditional",
+        "minimal",
+        "temporary"
+      ],
+      "korean": "기후 정상회담은 탄소 배출을 줄이는 ___한 약속들로 이어졌습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Remote teams require more ___ relationship building to maintain team cohesion.",
+      "answer": "intentional",
+      "options": [
+        "intentional",
+        "casual",
+        "automatic",
+        "simple"
+      ],
+      "korean": "원격 팀은 팀 결속력을 유지하기 위해 더욱 ___한 관계 구축이 필요합니다."
+    }
+  ],
+  "audio": {
+    "입트영": "",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66559&part_seq=26620"
+  },
+  "audio_local": {}
+}
