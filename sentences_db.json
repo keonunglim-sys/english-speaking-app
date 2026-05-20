@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-20",
-  "total_sentences": 114,
+  "last_updated": "2026-05-21",
+  "total_sentences": 117,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -913,6 +913,30 @@
       "korean": "주말에 오랜 친구들과 안부를 나눌 계획입니다.",
       "category": "daily",
       "grammar_point": "be planning to + 동사원형 (계획 표현)"
+    },
+    {
+      "id": "2026-05-21_sent_01",
+      "date_added": "2026-05-21",
+      "english": "We need to implement a digital detox policy to boost our team's productivity.",
+      "korean": "우리 팀의 생산성을 높이기 위해 디지털 디톡스 정책을 도입해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형: 필요성 표현"
+    },
+    {
+      "id": "2026-05-21_sent_02",
+      "date_added": "2026-05-21",
+      "english": "Our company is investing heavily in AI technology to maintain its competitive edge.",
+      "korean": "우리 회사는 경쟁 우위를 유지하기 위해 AI 기술에 대규모 투자를 하고 있습니다.",
+      "category": "business",
+      "grammar_point": "현재진행형으로 진행 중인 상황 표현"
+    },
+    {
+      "id": "2026-05-21_sent_03",
+      "date_added": "2026-05-21",
+      "english": "I'm trying to achieve better work-life balance by setting boundaries with my devices.",
+      "korean": "디지털 기기와 경계를 설정해서 더 나은 일과 삶의 균형을 이루려고 노력하고 있어요.",
+      "category": "daily",
+      "grammar_point": "try to + 동사원형: 노력/시도 표현"
     }
   ]
 }

@@ -1,0 +1,164 @@
+{
+  "date": "2026-05-21",
+  "day_of_week": "목요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "The Rise of Digital Detox in the Workplace",
+    "text": "In today's hyper-connected world, many Korean office workers find themselves constantly glued to their devices. From checking emails during lunch breaks to scrolling through social media between meetings, digital distractions have become a major productivity killer. As a result, more companies are implementing digital detox policies to help employees regain focus. Some organizations designate phone-free zones in meeting rooms, while others encourage 'offline hours' where non-urgent digital communications are discouraged. Employees who have participated in digital detox programs report feeling less stressed and more creative. They also mention improved face-to-face communication with colleagues. However, implementing these policies isn't always smooth sailing. Some workers initially resist the changes, fearing they might miss important updates. The key to success lies in gradual implementation and clear communication about the benefits. Companies that have successfully adopted digital detox practices often see increased employee satisfaction and better work-life balance. It's becoming clear that sometimes, less digital connection means more human connection.",
+    "korean_summary": "현대 직장인들이 디지털 기기에 과도하게 의존하면서 생산성이 떨어지는 문제가 발생하고 있습니다. 많은 회사들이 직원들의 집중력 향상을 위해 디지털 디톡스 정책을 도입하고 있으며, 이를 통해 스트레스 감소와 업무 만족도 향상을 경험하고 있습니다. 점진적인 도입과 명확한 소통이 성공의 핵심입니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea Leads Global Semiconductor Innovation",
+    "text": "South Korea continues to solidify its position as a global leader in semiconductor technology, with major breakthroughs announced this week. Samsung Electronics and SK Hynix have jointly invested over $50 billion in next-generation chip manufacturing facilities, focusing on artificial intelligence and quantum computing applications. The new facilities, expected to be operational by 2026, will create approximately 40,000 high-tech jobs across the country. Industry experts predict this investment will help South Korea maintain its competitive edge against rising competition from China and the United States. The Korean government has also announced additional tax incentives for semiconductor research and development, as part of its broader strategy to become a global tech hub. These developments come as global demand for advanced semiconductors continues to surge, driven by the rapid adoption of AI technologies and electric vehicles. Market analysts expect the Korean semiconductor industry to grow by 15% annually over the next five years.",
+    "korean_summary": "한국이 반도체 기술 분야에서 글로벌 리더십을 강화하고 있으며, 삼성전자와 SK하이닉스가 차세대 칩 제조 시설에 500억 달러 이상을 투자한다고 발표했습니다. 이 투자로 약 4만개의 일자리가 창출될 예정이며, 한국 반도체 산업이 향후 5년간 연 15% 성장할 것으로 전망됩니다."
+  },
+  "key_expressions": [
+    {
+      "english": "glued to their devices",
+      "korean": "기기에 매달려 있는",
+      "example": "Many people are constantly glued to their smartphones these days.",
+      "source": "입트영"
+    },
+    {
+      "english": "smooth sailing",
+      "korean": "순조로운, 문제없이 진행되는",
+      "example": "The project wasn't smooth sailing from the beginning, but we managed to complete it on time.",
+      "source": "입트영"
+    },
+    {
+      "english": "work-life balance",
+      "korean": "일과 삶의 균형",
+      "example": "Our company is committed to helping employees maintain a healthy work-life balance.",
+      "source": "입트영"
+    },
+    {
+      "english": "productivity killer",
+      "korean": "생산성을 떨어뜨리는 것",
+      "example": "Constant notifications can be a real productivity killer in the office.",
+      "source": "입트영"
+    },
+    {
+      "english": "solidify its position",
+      "korean": "입지를 굳히다, 지위를 확고히 하다",
+      "example": "The company aims to solidify its position in the Asian market.",
+      "source": "귀트영"
+    },
+    {
+      "english": "competitive edge",
+      "korean": "경쟁 우위",
+      "example": "Innovation is crucial for maintaining our competitive edge in the market.",
+      "source": "귀트영"
+    },
+    {
+      "english": "tax incentives",
+      "korean": "세제 혜택",
+      "example": "The government offers tax incentives to encourage green energy investments.",
+      "source": "귀트영"
+    },
+    {
+      "english": "surge in demand",
+      "korean": "수요 급증",
+      "example": "There has been a surge in demand for electric vehicles this year.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "We need to implement a digital detox policy to boost our team's productivity.",
+      "korean": "우리 팀의 생산성을 높이기 위해 디지털 디톡스 정책을 도입해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형: 필요성 표현"
+    },
+    {
+      "english": "Our company is investing heavily in AI technology to maintain its competitive edge.",
+      "korean": "우리 회사는 경쟁 우위를 유지하기 위해 AI 기술에 대규모 투자를 하고 있습니다.",
+      "category": "business",
+      "grammar_point": "현재진행형으로 진행 중인 상황 표현"
+    },
+    {
+      "english": "I'm trying to achieve better work-life balance by setting boundaries with my devices.",
+      "korean": "디지털 기기와 경계를 설정해서 더 나은 일과 삶의 균형을 이루려고 노력하고 있어요.",
+      "category": "daily",
+      "grammar_point": "try to + 동사원형: 노력/시도 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "그 프로젝트는 처음부터 순조롭게 진행되지 않았다.",
+      "answer": "The project wasn't smooth sailing from the beginning.",
+      "acceptable_keywords": [
+        "smooth sailing",
+        "beginning",
+        "wasn't"
+      ],
+      "hint": "'순조로운'을 항해 관련 표현으로"
+    },
+    {
+      "type": "translation",
+      "korean": "우리는 시장에서 경쟁 우위를 유지해야 한다.",
+      "answer": "We need to maintain our competitive edge in the market.",
+      "acceptable_keywords": [
+        "competitive edge",
+        "maintain",
+        "market"
+      ],
+      "hint": "'경쟁 우위'는 'edge'를 사용"
+    },
+    {
+      "type": "translation",
+      "korean": "정부는 연구개발을 위한 세제 혜택을 발표했다.",
+      "answer": "The government announced tax incentives for research and development.",
+      "acceptable_keywords": [
+        "tax incentives",
+        "announced",
+        "research"
+      ],
+      "hint": "'세제 혜택'은 복수형으로"
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Many workers are constantly ___ to their smartphones during work hours.",
+      "answer": "glued",
+      "options": [
+        "glued",
+        "attached",
+        "connected",
+        "linked"
+      ],
+      "korean": "많은 직장인들이 근무 시간 중에 계속 스마트폰에 매달려 있다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The company wants to ___ its position as market leader.",
+      "answer": "solidify",
+      "options": [
+        "solidify",
+        "strengthen",
+        "improve",
+        "develop"
+      ],
+      "korean": "그 회사는 시장 리더로서의 지위를 확고히 하고 싶어한다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "There has been a ___ in demand for electric vehicles this year.",
+      "answer": "surge",
+      "options": [
+        "surge",
+        "rise",
+        "growth",
+        "increase"
+      ],
+      "korean": "올해 전기차에 대한 수요가 급증했다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66535&part_seq=26619",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66560&part_seq=26620"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-05-21.mp3",
+    "귀트영": "audio/귀트영_2026-05-21.mp3"
+  }
+}
