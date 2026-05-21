@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-21",
-  "total_sentences": 117,
+  "last_updated": "2026-05-22",
+  "total_sentences": 120,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -937,6 +937,30 @@
       "korean": "디지털 기기와 경계를 설정해서 더 나은 일과 삶의 균형을 이루려고 노력하고 있어요.",
       "category": "daily",
       "grammar_point": "try to + 동사원형: 노력/시도 표현"
+    },
+    {
+      "id": "2026-05-22_sent_01",
+      "date_added": "2026-05-22",
+      "english": "We need to establish clear communication channels to ensure project success.",
+      "korean": "프로젝트 성공을 위해 명확한 소통 채널을 구축해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형 (필요성 표현)"
+    },
+    {
+      "id": "2026-05-22_sent_02",
+      "date_added": "2026-05-22",
+      "english": "The company is investing heavily in digital transformation initiatives.",
+      "korean": "회사는 디지털 전환 계획에 대대적으로 투자하고 있습니다.",
+      "category": "business",
+      "grammar_point": "현재진행형 (be + -ing)"
+    },
+    {
+      "id": "2026-05-22_sent_03",
+      "date_added": "2026-05-22",
+      "english": "I'm trying to maintain a better work-life balance these days.",
+      "korean": "요즘 더 나은 일과 삶의 균형을 유지하려고 노력하고 있어요.",
+      "category": "daily",
+      "grammar_point": "try to + 동사원형 (노력하다)"
     }
   ]
 }

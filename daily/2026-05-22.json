@@ -1,0 +1,166 @@
+{
+  "date": "2026-05-22",
+  "day_of_week": "금요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Remote Work Culture in Korean Companies",
+    "text": "The pandemic has dramatically transformed how Korean companies approach remote work. Before 2020, most Korean businesses were deeply rooted in traditional office culture, where physical presence was often valued over actual productivity. However, the forced shift to remote work has opened many employers' eyes to new possibilities. Many companies have discovered that employees can be just as productive, if not more so, when working from home. The key lies in establishing clear communication channels and setting measurable goals rather than monitoring hours spent at a desk. Some organizations have adopted hybrid models, allowing employees to work from home two or three days a week. This flexibility has led to improved work-life balance and reduced commuting stress. However, challenges remain, particularly in maintaining team cohesion and company culture. Korean businesses are now investing heavily in digital collaboration tools and rethinking their management approaches. The companies that successfully adapt to this new reality will likely have a competitive advantage in attracting top talent who prioritize flexibility and autonomy in their work arrangements.",
+    "korean_summary": "코로나19로 인해 한국 기업들의 재택근무 문화가 크게 변화했습니다. 많은 회사들이 직원들이 집에서도 충분히 생산적으로 일할 수 있다는 것을 깨달았고, 하이브리드 근무 모델을 도입하고 있습니다. 이러한 유연성은 일과 삶의 균형을 개선했지만, 팀 결속력 유지와 기업 문화 관리에는 여전히 도전 과제가 남아있습니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea Leads Global Semiconductor Innovation",
+    "text": "South Korea has strengthened its position as a global semiconductor powerhouse, with major companies announcing significant investments in next-generation chip technology. Samsung and SK Hynix are leading the charge in developing advanced memory chips and artificial intelligence processors. The government has pledged over $450 billion in support for the semiconductor industry over the next decade, recognizing its strategic importance for national competitiveness. This massive investment aims to secure South Korea's dominance in memory chips while expanding into system semiconductors and foundry services. The initiative includes plans to build the world's largest semiconductor manufacturing cluster in Gyeonggi Province. Industry experts predict this will create hundreds of thousands of jobs and attract global tech giants to establish research and development centers in Korea. The move comes as countries worldwide are racing to reduce their dependence on foreign chip supplies following recent global shortages that disrupted various industries from automotive to consumer electronics.",
+    "korean_summary": "한국이 반도체 분야에서 글로벌 리더십을 강화하고 있으며, 정부는 향후 10년간 450조원을 투자할 계획을 발표했습니다. 경기도에 세계 최대 규모의 반도체 클러스터를 구축하여 수십만 개의 일자리 창출과 글로벌 기업 유치를 목표로 하고 있습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "open someone's eyes to",
+      "korean": "~에 대해 깨닫게 하다, 눈을 뜨게 하다",
+      "example": "The training program opened my eyes to new marketing strategies.",
+      "source": "입트영"
+    },
+    {
+      "english": "work-life balance",
+      "korean": "일과 삶의 균형",
+      "example": "Our company policy focuses on improving employees' work-life balance.",
+      "source": "입트영"
+    },
+    {
+      "english": "have a competitive advantage",
+      "korean": "경쟁 우위를 갖다",
+      "example": "Companies with strong digital presence have a competitive advantage in today's market.",
+      "source": "입트영"
+    },
+    {
+      "english": "rethink their approach",
+      "korean": "접근 방식을 재고하다",
+      "example": "We need to rethink our approach to customer service in the digital age.",
+      "source": "입트영"
+    },
+    {
+      "english": "strengthen one's position",
+      "korean": "입지를 강화하다",
+      "example": "The merger will help us strengthen our position in the Asian market.",
+      "source": "귀트영"
+    },
+    {
+      "english": "lead the charge",
+      "korean": "선두에서 이끌다, 앞장서다",
+      "example": "Tech companies are leading the charge in developing sustainable solutions.",
+      "source": "귀트영"
+    },
+    {
+      "english": "strategic importance",
+      "korean": "전략적 중요성",
+      "example": "The CEO emphasized the strategic importance of expanding into emerging markets.",
+      "source": "귀트영"
+    },
+    {
+      "english": "race to reduce dependence",
+      "korean": "의존도를 줄이기 위해 경쟁하다",
+      "example": "Countries are racing to reduce dependence on fossil fuels.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "We need to establish clear communication channels to ensure project success.",
+      "korean": "프로젝트 성공을 위해 명확한 소통 채널을 구축해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형 (필요성 표현)"
+    },
+    {
+      "english": "The company is investing heavily in digital transformation initiatives.",
+      "korean": "회사는 디지털 전환 계획에 대대적으로 투자하고 있습니다.",
+      "category": "business",
+      "grammar_point": "현재진행형 (be + -ing)"
+    },
+    {
+      "english": "I'm trying to maintain a better work-life balance these days.",
+      "korean": "요즘 더 나은 일과 삶의 균형을 유지하려고 노력하고 있어요.",
+      "category": "daily",
+      "grammar_point": "try to + 동사원형 (노력하다)"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "이 새로운 정책은 직원들의 생산성을 높이는 데 도움이 될 것입니다.",
+      "answer": "This new policy will help increase employees' productivity.",
+      "acceptable_keywords": [
+        "policy",
+        "help",
+        "increase",
+        "productivity",
+        "employees"
+      ],
+      "hint": "'help + 동사원형' 구조를 사용하세요"
+    },
+    {
+      "type": "translation",
+      "korean": "우리는 고객 서비스에 대한 접근 방식을 재고해야 합니다.",
+      "answer": "We need to rethink our approach to customer service.",
+      "acceptable_keywords": [
+        "need",
+        "rethink",
+        "approach",
+        "customer",
+        "service"
+      ],
+      "hint": "'rethink one's approach to' 표현을 활용하세요"
+    },
+    {
+      "type": "translation",
+      "korean": "이번 투자는 우리의 시장 지위를 강화할 것입니다.",
+      "answer": "This investment will strengthen our market position.",
+      "acceptable_keywords": [
+        "investment",
+        "strengthen",
+        "market",
+        "position"
+      ],
+      "hint": "'strengthen one's position' 표현을 사용하세요"
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The company has a competitive ___ in the technology sector.",
+      "answer": "advantage",
+      "options": [
+        "advantage",
+        "benefit",
+        "profit",
+        "success"
+      ],
+      "korean": "그 회사는 기술 분야에서 경쟁 우위를 가지고 있다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Samsung is ___ the charge in developing AI processors.",
+      "answer": "leading",
+      "options": [
+        "leading",
+        "taking",
+        "making",
+        "getting"
+      ],
+      "korean": "삼성은 AI 프로세서 개발을 선도하고 있다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The pandemic opened many employers' ___ to remote work possibilities.",
+      "answer": "eyes",
+      "options": [
+        "eyes",
+        "minds",
+        "doors",
+        "ways"
+      ],
+      "korean": "팬데믹으로 많은 고용주들이 재택근무 가능성을 깨닫게 되었다."
+    }
+  ],
+  "audio": {
+    "입트영": "",
+    "귀트영": ""
+  },
+  "audio_local": {}
+}
