@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-22",
-  "total_sentences": 120,
+  "last_updated": "2026-05-23",
+  "total_sentences": 123,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -961,6 +961,30 @@
       "korean": "요즘 더 나은 일과 삶의 균형을 유지하려고 노력하고 있어요.",
       "category": "daily",
       "grammar_point": "try to + 동사원형 (노력하다)"
+    },
+    {
+      "id": "2026-05-23_sent_01",
+      "date_added": "2026-05-23",
+      "english": "Could we wrap up this meeting by 3 PM since I have another commitment?",
+      "korean": "다른 약속이 있어서 3시까지 회의를 마무리할 수 있을까요?",
+      "category": "business",
+      "grammar_point": "Could we + 동사원형: 정중한 제안이나 요청을 표현"
+    },
+    {
+      "id": "2026-05-23_sent_02",
+      "date_added": "2026-05-23",
+      "english": "I'm afraid this meeting is running over time, so let's schedule a follow-up.",
+      "korean": "이 회의가 시간을 초과하고 있어서 후속 미팅을 잡는 게 좋겠습니다.",
+      "category": "business",
+      "grammar_point": "I'm afraid + 문장: 부정적인 소식을 완곡하게 전달"
+    },
+    {
+      "id": "2026-05-23_sent_03",
+      "date_added": "2026-05-23",
+      "english": "I'm trying to maintain a better work-life balance these days.",
+      "korean": "요즘 일과 삶의 균형을 더 잘 맞추려고 노력하고 있어요.",
+      "category": "daily",
+      "grammar_point": "I'm trying to + 동사원형: 현재 노력하고 있는 일을 표현"
     }
   ]
 }

@@ -1,0 +1,163 @@
+{
+  "date": "2026-05-23",
+  "day_of_week": "토요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Meeting Overload in Korean Companies",
+    "text": "Korean office workers often complain about having too many meetings in a single day. It's not uncommon to attend back-to-back meetings from morning until late afternoon, leaving little time for actual work. Many of these meetings could be resolved through a simple email or quick chat, but the corporate culture seems to favor formal gatherings. The problem becomes worse when meetings run over their scheduled time, causing a domino effect on the rest of the day. Some progressive companies are now implementing 'meeting-free zones' during certain hours or limiting meeting duration to 30 minutes maximum. Others encourage employees to decline unnecessary meetings without feeling guilty. The key is finding the right balance between collaboration and productivity. After all, the goal should be getting work done efficiently, not sitting in conference rooms all day discussing what could have been decided in five minutes.",
+    "korean_summary": "한국 직장인들이 하루에 너무 많은 회의로 인해 실제 업무 시간이 부족한 문제를 다룹니다. 일부 진보적인 회사들이 회의 없는 시간대를 도입하거나 회의 시간을 제한하는 등의 해결책을 시도하고 있습니다. 협업과 생산성 사이의 균형을 찾는 것이 중요하다고 강조합니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea's Four-Day Work Week Trial",
+    "text": "The South Korean government announced a pilot program to test a four-day work week in select public institutions starting this year. The initiative aims to improve work-life balance and boost productivity among employees who have traditionally worked long hours. Under the new system, employees will work four days a week while maintaining the same salary. Early studies from other countries suggest that shorter work weeks can lead to higher efficiency and reduced burnout. However, critics worry about potential impacts on public services and question whether the Korean business culture is ready for such a significant change. The program will be closely monitored for six months, with results determining whether it will be expanded to more government offices and potentially influence private sector policies.",
+    "korean_summary": "한국 정부가 선별된 공공기관에서 주 4일 근무제 시범 운영을 시작한다고 발표했습니다. 이 제도는 업무와 삶의 균형을 개선하고 생산성을 높이는 것을 목표로 하며, 6개월간 모니터링될 예정입니다."
+  },
+  "key_expressions": [
+    {
+      "english": "back-to-back meetings",
+      "korean": "연달아 이어지는 회의",
+      "example": "I have back-to-back meetings from 9 AM to 4 PM today.",
+      "source": "입트영"
+    },
+    {
+      "english": "run over the scheduled time",
+      "korean": "예정된 시간을 초과하다",
+      "example": "The morning meeting ran over the scheduled time by 30 minutes.",
+      "source": "입트영"
+    },
+    {
+      "english": "domino effect",
+      "korean": "도미노 효과",
+      "example": "The delayed flight had a domino effect on all our travel plans.",
+      "source": "입트영"
+    },
+    {
+      "english": "meeting-free zones",
+      "korean": "회의 금지 시간대",
+      "example": "Our company designated Friday afternoons as meeting-free zones.",
+      "source": "입트영"
+    },
+    {
+      "english": "pilot program",
+      "korean": "시범 프로그램",
+      "example": "The company launched a pilot program to test remote working policies.",
+      "source": "귀트영"
+    },
+    {
+      "english": "work-life balance",
+      "korean": "일과 삶의 균형",
+      "example": "Many young employees prioritize work-life balance over high salaries.",
+      "source": "귀트영"
+    },
+    {
+      "english": "reduced burnout",
+      "korean": "번아웃 감소",
+      "example": "Flexible schedules can lead to reduced burnout among staff members.",
+      "source": "귀트영"
+    },
+    {
+      "english": "closely monitored",
+      "korean": "면밀히 모니터링되다",
+      "example": "The new policy will be closely monitored for its effectiveness.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "Could we wrap up this meeting by 3 PM since I have another commitment?",
+      "korean": "다른 약속이 있어서 3시까지 회의를 마무리할 수 있을까요?",
+      "category": "business",
+      "grammar_point": "Could we + 동사원형: 정중한 제안이나 요청을 표현"
+    },
+    {
+      "english": "I'm afraid this meeting is running over time, so let's schedule a follow-up.",
+      "korean": "이 회의가 시간을 초과하고 있어서 후속 미팅을 잡는 게 좋겠습니다.",
+      "category": "business",
+      "grammar_point": "I'm afraid + 문장: 부정적인 소식을 완곡하게 전달"
+    },
+    {
+      "english": "I'm trying to maintain a better work-life balance these days.",
+      "korean": "요즘 일과 삶의 균형을 더 잘 맞추려고 노력하고 있어요.",
+      "category": "daily",
+      "grammar_point": "I'm trying to + 동사원형: 현재 노력하고 있는 일을 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "회의가 예정된 시간을 30분 초과했습니다.",
+      "answer": "The meeting ran over the scheduled time by 30 minutes.",
+      "acceptable_keywords": [
+        "meeting",
+        "ran over",
+        "scheduled time",
+        "30 minutes"
+      ],
+      "hint": "'run over'는 시간을 초과한다는 뜻입니다."
+    },
+    {
+      "type": "translation",
+      "korean": "우리 회사는 금요일 오후를 회의 금지 시간대로 지정했습니다.",
+      "answer": "Our company designated Friday afternoons as meeting-free zones.",
+      "acceptable_keywords": [
+        "company",
+        "designated",
+        "Friday afternoons",
+        "meeting-free zones"
+      ],
+      "hint": "'designate A as B'는 'A를 B로 지정하다'라는 뜻입니다."
+    },
+    {
+      "type": "translation",
+      "korean": "이 시범 프로그램은 6개월간 면밀히 모니터링될 예정입니다.",
+      "answer": "This pilot program will be closely monitored for six months.",
+      "acceptable_keywords": [
+        "pilot program",
+        "closely monitored",
+        "six months"
+      ],
+      "hint": "'be closely monitored'는 수동형 표현입니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Many employees struggle to maintain a good _____ between work and personal life.",
+      "answer": "balance",
+      "options": [
+        "balance",
+        "relationship",
+        "connection",
+        "difference"
+      ],
+      "korean": "많은 직원들이 업무와 개인 생활 사이의 좋은 균형을 유지하는 데 어려움을 겪습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The delayed presentation had a _____ effect on all the afternoon meetings.",
+      "answer": "domino",
+      "options": [
+        "domino",
+        "negative",
+        "positive",
+        "chain"
+      ],
+      "korean": "지연된 발표가 모든 오후 회의에 도미노 효과를 가져왔습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "We have _____ meetings scheduled from 9 AM to noon without any breaks.",
+      "answer": "back-to-back",
+      "options": [
+        "back-to-back",
+        "side-to-side",
+        "end-to-end",
+        "face-to-face"
+      ],
+      "korean": "오전 9시부터 정오까지 쉬는 시간 없이 연달아 회의가 예정되어 있습니다."
+    }
+  ],
+  "audio": {
+    "입트영": "",
+    "귀트영": ""
+  },
+  "audio_local": {}
+}
