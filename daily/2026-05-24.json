@@ -1,0 +1,170 @@
+{
+  "date": "2026-05-24",
+  "day_of_week": "일요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Work-Life Balance in Korean Corporate Culture",
+    "text": "Achieving work-life balance has become increasingly important in Korean corporate culture. Many companies are implementing flexible working arrangements to help employees manage their personal and professional lives more effectively. Remote work options, which were accelerated by the pandemic, have now become a permanent fixture in many organizations. Employees can now work from home several days a week, reducing commute time and allowing for better family time. Additionally, companies are encouraging employees to use their vacation days and avoid excessive overtime. The traditional culture of staying late at the office is gradually changing as younger generations prioritize mental health and personal relationships. Some progressive companies have introduced 'no meeting Fridays' and mandatory break times. These changes reflect a broader shift in Korean society toward valuing personal well-being alongside professional success. While challenges remain, particularly in traditional industries, the trend toward better work-life integration continues to grow stronger each year.",
+    "korean_summary": "한국 기업 문화에서 일과 삶의 균형이 점점 중요해지고 있습니다. 많은 회사들이 재택근무, 휴가 사용 장려, 야근 문화 개선 등을 통해 직원들의 워라밸을 지원하고 있습니다. 젊은 세대를 중심으로 개인의 웰빙과 정신 건강을 중시하는 문화로 변화하고 있으며, 이러한 추세는 계속해서 강화될 것으로 보입니다."
+  },
+  "gwitunyeong": {
+    "title": "Global Rise in Remote Work Technology Investment",
+    "text": "Companies worldwide are significantly increasing their investment in remote work technologies as hybrid work models become the new standard. According to recent industry reports, spending on collaboration software, cloud computing, and cybersecurity solutions has surged by over 40% compared to pre-pandemic levels. Major tech companies are developing advanced virtual reality meeting platforms to create more immersive remote collaboration experiences. Microsoft Teams and Zoom continue to expand their features, integrating AI-powered tools for better productivity. However, cybersecurity remains a top concern as companies struggle to protect sensitive data across distributed workforces. IT departments are implementing zero-trust security frameworks and providing comprehensive training to employees. The shift has also created new job opportunities in remote work consulting and digital workplace design, reflecting the permanent nature of this transformation in the global economy.",
+    "korean_summary": "전 세계 기업들이 하이브리드 근무 모델이 새로운 표준이 되면서 원격 근무 기술에 대한 투자를 크게 늘리고 있습니다. 협업 소프트웨어, 클라우드 컴퓨팅, 사이버 보안 솔루션에 대한 지출이 팬데믹 이전보다 40% 이상 급증했으며, 이러한 변화는 글로벌 경제의 영구적인 변화를 반영하고 있습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "implement flexible working arrangements",
+      "korean": "유연한 근무 제도를 도입하다",
+      "example": "Our company decided to implement flexible working arrangements to improve employee satisfaction.",
+      "source": "입트영"
+    },
+    {
+      "english": "a permanent fixture",
+      "korean": "영구적인 요소, 고정적인 부분",
+      "example": "Remote work has become a permanent fixture in our organization's culture.",
+      "source": "입트영"
+    },
+    {
+      "english": "prioritize mental health",
+      "korean": "정신 건강을 우선시하다",
+      "example": "More employees are choosing to prioritize mental health over career advancement.",
+      "source": "입트영"
+    },
+    {
+      "english": "work-life integration",
+      "korean": "일과 삶의 통합",
+      "example": "The company promotes work-life integration rather than strict separation.",
+      "source": "입트영"
+    },
+    {
+      "english": "surge by over 40%",
+      "korean": "40% 이상 급증하다",
+      "example": "Online sales surged by over 40% during the holiday season.",
+      "source": "귀트영"
+    },
+    {
+      "english": "immersive collaboration experiences",
+      "korean": "몰입감 있는 협업 경험",
+      "example": "VR technology provides immersive collaboration experiences for remote teams.",
+      "source": "귀트영"
+    },
+    {
+      "english": "distributed workforce",
+      "korean": "분산된 인력, 원격 근무 인력",
+      "example": "Managing a distributed workforce requires new leadership skills.",
+      "source": "귀트영"
+    },
+    {
+      "english": "zero-trust security framework",
+      "korean": "제로 트러스트 보안 프레임워크",
+      "example": "The company adopted a zero-trust security framework to protect against cyber threats.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "We need to schedule a follow-up meeting to discuss the project timeline.",
+      "korean": "프로젝트 일정을 논의하기 위해 후속 회의를 예약해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형 (필요성을 나타내는 표현)"
+    },
+    {
+      "english": "Could you please send me the updated quarterly report by Friday?",
+      "korean": "금요일까지 업데이트된 분기 보고서를 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "Could you please + 동사원형 (정중한 요청 표현)"
+    },
+    {
+      "english": "I'm planning to take a short vacation next month to recharge myself.",
+      "korean": "다음 달에 재충전을 위해 짧은 휴가를 갈 계획입니다.",
+      "category": "daily",
+      "grammar_point": "be planning to + 동사원형 (계획을 나타내는 현재진행형)"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "우리 회사는 직원들의 워라밸을 위해 유연한 근무제를 도입했습니다.",
+      "answer": "Our company implemented flexible working arrangements for employees' work-life balance.",
+      "acceptable_keywords": [
+        "implemented",
+        "flexible",
+        "working",
+        "arrangements",
+        "work-life",
+        "balance"
+      ],
+      "hint": "'도입하다'는 'implement', '유연한 근무제'는 'flexible working arrangements'"
+    },
+    {
+      "type": "translation",
+      "korean": "원격 근무 기술에 대한 투자가 40% 이상 급증했습니다.",
+      "answer": "Investment in remote work technology has surged by over 40%.",
+      "acceptable_keywords": [
+        "investment",
+        "remote",
+        "work",
+        "technology",
+        "surged",
+        "40%"
+      ],
+      "hint": "'급증하다'는 'surge', '~에 대한 투자'는 'investment in'"
+    },
+    {
+      "type": "translation",
+      "korean": "젊은 세대들은 정신 건강을 더 우선시하는 경향이 있습니다.",
+      "answer": "Younger generations tend to prioritize mental health more.",
+      "acceptable_keywords": [
+        "younger",
+        "generations",
+        "tend",
+        "prioritize",
+        "mental",
+        "health"
+      ],
+      "hint": "'우선시하다'는 'prioritize', '~하는 경향이 있다'는 'tend to'"
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Remote work has become a _____ fixture in many organizations.",
+      "answer": "permanent",
+      "options": [
+        "temporary",
+        "permanent",
+        "flexible",
+        "optional"
+      ],
+      "korean": "원격 근무는 많은 조직에서 영구적인 요소가 되었습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Companies are implementing _____ security frameworks to protect data.",
+      "answer": "zero-trust",
+      "options": [
+        "high-level",
+        "zero-trust",
+        "multi-layer",
+        "advanced"
+      ],
+      "korean": "회사들은 데이터를 보호하기 위해 제로 트러스트 보안 프레임워크를 구현하고 있습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The pandemic has _____ the adoption of flexible work policies.",
+      "answer": "accelerated",
+      "options": [
+        "delayed",
+        "prevented",
+        "accelerated",
+        "complicated"
+      ],
+      "korean": "팬데믹은 유연한 근무 정책의 도입을 가속화했습니다."
+    }
+  ],
+  "audio": {
+    "입트영": "",
+    "귀트영": ""
+  },
+  "audio_local": {}
+}

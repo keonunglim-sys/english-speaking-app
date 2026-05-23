@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-23",
-  "total_sentences": 123,
+  "last_updated": "2026-05-24",
+  "total_sentences": 126,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -985,6 +985,30 @@
       "korean": "요즘 일과 삶의 균형을 더 잘 맞추려고 노력하고 있어요.",
       "category": "daily",
       "grammar_point": "I'm trying to + 동사원형: 현재 노력하고 있는 일을 표현"
+    },
+    {
+      "id": "2026-05-24_sent_01",
+      "date_added": "2026-05-24",
+      "english": "We need to schedule a follow-up meeting to discuss the project timeline.",
+      "korean": "프로젝트 일정을 논의하기 위해 후속 회의를 예약해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형 (필요성을 나타내는 표현)"
+    },
+    {
+      "id": "2026-05-24_sent_02",
+      "date_added": "2026-05-24",
+      "english": "Could you please send me the updated quarterly report by Friday?",
+      "korean": "금요일까지 업데이트된 분기 보고서를 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "Could you please + 동사원형 (정중한 요청 표현)"
+    },
+    {
+      "id": "2026-05-24_sent_03",
+      "date_added": "2026-05-24",
+      "english": "I'm planning to take a short vacation next month to recharge myself.",
+      "korean": "다음 달에 재충전을 위해 짧은 휴가를 갈 계획입니다.",
+      "category": "daily",
+      "grammar_point": "be planning to + 동사원형 (계획을 나타내는 현재진행형)"
     }
   ]
 }
