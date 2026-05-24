@@ -1,0 +1,172 @@
+{
+  "date": "2026-05-25",
+  "day_of_week": "월요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Remote Work Culture in Korea",
+    "text": "The COVID-19 pandemic has dramatically changed the work culture in Korea. Many companies that were traditionally office-based have now adopted hybrid or fully remote work models. Initially, Korean businesses were hesitant to embrace remote work due to the emphasis on face-to-face communication and team bonding. However, the pandemic forced a rapid digital transformation. Companies invested heavily in collaboration tools and video conferencing platforms. Employees had to adapt to new ways of working, managing their time effectively at home while maintaining productivity. The results have been surprisingly positive. Many workers report better work-life balance and reduced commuting stress. Companies have also discovered cost savings on office space and utilities. However, challenges remain, particularly around maintaining company culture and training new employees remotely. As we move forward, the future of work in Korea will likely be a blend of traditional office culture and modern remote work flexibility, creating a more diverse and adaptable workplace environment.",
+    "korean_summary": "코로나19 팬데믹으로 한국의 근무 문화가 극적으로 변화했습니다. 처음에는 대면 소통을 중시하는 문화로 인해 원격근무 도입에 주저했지만, 디지털 전환을 통해 긍정적인 결과를 얻었습니다. 직원들은 더 나은 워라밸을 경험했고 기업들은 비용 절감 효과를 봤지만, 기업 문화 유지와 신입사원 교육에는 여전히 과제가 남아있습니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea's AI Chip Investment Surge",
+    "text": "South Korea announced a massive $19 billion investment plan to boost its artificial intelligence chip industry over the next five years. The government aims to compete with global leaders like NVIDIA and strengthen the country's position in the AI semiconductor market. The investment will focus on developing advanced AI processors, establishing research facilities, and training skilled engineers. Samsung and SK Hynix, the country's major chip manufacturers, are expected to play crucial roles in this initiative. The plan includes building a specialized AI chip cluster in the greater Seoul area, which will house both manufacturing facilities and research centers. Industry experts believe this investment could help Korea reduce its dependence on foreign AI chips and create new job opportunities in the tech sector. The initiative comes as global demand for AI chips continues to surge, driven by the rapid adoption of artificial intelligence technologies across various industries worldwide.",
+    "korean_summary": "한국 정부가 향후 5년간 190억 달러 규모의 AI 반도체 투자 계획을 발표했습니다. 이 투자는 글로벌 AI 칩 시장에서 경쟁력을 강화하고 대외 의존도를 줄이는 것을 목표로 합니다."
+  },
+  "key_expressions": [
+    {
+      "english": "embrace new work models",
+      "korean": "새로운 근무 방식을 수용하다",
+      "example": "Our company decided to embrace new work models to attract top talent.",
+      "source": "입트영"
+    },
+    {
+      "english": "rapid digital transformation",
+      "korean": "급속한 디지털 전환",
+      "example": "The pandemic accelerated rapid digital transformation across all industries.",
+      "source": "입트영"
+    },
+    {
+      "english": "work-life balance",
+      "korean": "일과 삶의 균형",
+      "example": "Remote work has significantly improved my work-life balance.",
+      "source": "입트영"
+    },
+    {
+      "english": "cost savings",
+      "korean": "비용 절감",
+      "example": "The company achieved substantial cost savings by reducing office space.",
+      "source": "입트영"
+    },
+    {
+      "english": "massive investment plan",
+      "korean": "대규모 투자 계획",
+      "example": "The government unveiled a massive investment plan for renewable energy.",
+      "source": "귀트영"
+    },
+    {
+      "english": "strengthen the position",
+      "korean": "입지를 강화하다",
+      "example": "This merger will strengthen our position in the global market.",
+      "source": "귀트영"
+    },
+    {
+      "english": "play crucial roles",
+      "korean": "중요한 역할을 하다",
+      "example": "Local universities will play crucial roles in training AI engineers.",
+      "source": "귀트영"
+    },
+    {
+      "english": "surge in demand",
+      "korean": "수요 급증",
+      "example": "There has been a surge in demand for electric vehicles this year.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "We need to schedule a follow-up meeting to discuss the project timeline.",
+      "korean": "프로젝트 일정을 논의하기 위해 후속 회의를 예약해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형 (필요성 표현)"
+    },
+    {
+      "english": "Could you please send me the quarterly report by the end of this week?",
+      "korean": "이번 주말까지 분기 보고서를 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "Could you please + 동사원형 (정중한 요청)"
+    },
+    {
+      "english": "I'm planning to take a short vacation next month to recharge myself.",
+      "korean": "다음 달에 재충전을 위해 짧은 휴가를 계획하고 있습니다.",
+      "category": "daily",
+      "grammar_point": "be planning to + 동사원형 (미래 계획 표현)"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "우리 회사는 새로운 근무 방식을 도입하기로 결정했습니다.",
+      "answer": "Our company decided to adopt new work models.",
+      "acceptable_keywords": [
+        "company",
+        "decided",
+        "adopt",
+        "new",
+        "work",
+        "models"
+      ],
+      "hint": "'도입하다'는 'adopt' 또는 'introduce'로 표현할 수 있습니다."
+    },
+    {
+      "type": "translation",
+      "korean": "정부는 AI 반도체 산업에 대규모 투자를 발표했습니다.",
+      "answer": "The government announced a massive investment in the AI chip industry.",
+      "acceptable_keywords": [
+        "government",
+        "announced",
+        "massive",
+        "investment",
+        "AI",
+        "chip",
+        "industry"
+      ],
+      "hint": "'발표하다'는 'announce', '대규모'는 'massive'로 표현합니다."
+    },
+    {
+      "type": "translation",
+      "korean": "원격근무는 직원들의 워라밸을 크게 개선했습니다.",
+      "answer": "Remote work has significantly improved employees' work-life balance.",
+      "acceptable_keywords": [
+        "remote",
+        "work",
+        "significantly",
+        "improved",
+        "employees",
+        "work-life",
+        "balance"
+      ],
+      "hint": "'크게'는 'significantly', '워라밸'은 'work-life balance'입니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The pandemic forced companies to undergo rapid _____ transformation.",
+      "answer": "digital",
+      "options": [
+        "digital",
+        "physical",
+        "cultural",
+        "economic"
+      ],
+      "korean": "팬데믹으로 인해 기업들은 급속한 디지털 전환을 겪어야 했습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Industry experts believe this investment will _____ Korea's position in the global market.",
+      "answer": "strengthen",
+      "options": [
+        "strengthen",
+        "weaken",
+        "maintain",
+        "destroy"
+      ],
+      "korean": "업계 전문가들은 이 투자가 글로벌 시장에서 한국의 입지를 강화할 것이라고 믿고 있습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "There has been a _____ in demand for AI chips worldwide.",
+      "answer": "surge",
+      "options": [
+        "surge",
+        "decline",
+        "stability",
+        "pause"
+      ],
+      "korean": "전 세계적으로 AI 칩에 대한 수요가 급증했습니다."
+    }
+  ],
+  "audio": {
+    "입트영": "",
+    "귀트영": ""
+  },
+  "audio_local": {}
+}
