@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-25",
-  "total_sentences": 129,
+  "last_updated": "2026-05-26",
+  "total_sentences": 132,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -1033,6 +1033,30 @@
       "korean": "다음 달에 재충전을 위해 짧은 휴가를 계획하고 있습니다.",
       "category": "daily",
       "grammar_point": "be planning to + 동사원형 (미래 계획 표현)"
+    },
+    {
+      "id": "2026-05-26_sent_01",
+      "date_added": "2026-05-26",
+      "english": "I'd like to schedule a follow-up meeting to discuss the project timeline.",
+      "korean": "프로젝트 일정을 논의하기 위한 후속 회의를 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to + 동사원형' - 정중한 의사 표현"
+    },
+    {
+      "id": "2026-05-26_sent_02",
+      "date_added": "2026-05-26",
+      "english": "Could you please send me the updated budget report by Friday?",
+      "korean": "금요일까지 업데이트된 예산 보고서를 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "'Could you please + 동사원형' - 정중한 부탁 표현"
+    },
+    {
+      "id": "2026-05-26_sent_03",
+      "date_added": "2026-05-26",
+      "english": "I'm planning to try a new restaurant this weekend with my family.",
+      "korean": "이번 주말에 가족과 함께 새로운 식당을 가보려고 합니다.",
+      "category": "daily",
+      "grammar_point": "'be planning to + 동사원형' - 계획 표현"
     }
   ]
 }

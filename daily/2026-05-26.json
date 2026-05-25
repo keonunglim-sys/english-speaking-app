@@ -1,0 +1,164 @@
+{
+  "date": "2026-05-26",
+  "day_of_week": "화요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Finding Work-Life Balance in Korea",
+    "text": "Achieving work-life balance has become increasingly important for Korean professionals. Many of us struggle with long working hours and high expectations from our companies. However, I've learned that setting clear boundaries is essential for both productivity and personal well-being. For instance, I make it a point to leave the office by 7 PM unless there's an urgent deadline. I also avoid checking work emails after 9 PM on weekdays. On weekends, I dedicate time to hobbies like hiking and reading, which help me recharge for the upcoming week. Additionally, I've started taking all my vacation days, something I rarely did before. This shift in mindset has not only improved my mental health but also made me more focused and efficient during work hours. While Korean work culture is slowly changing, each individual must take responsibility for creating their own healthy work-life balance.",
+    "korean_summary": "한국 직장인들에게 워라밸이 점점 중요해지고 있습니다. 명확한 경계 설정과 개인 시간 확보를 통해 정신 건강과 업무 효율성을 동시에 향상시킬 수 있습니다. 개인이 스스로 건강한 워라밸을 만들어가는 것이 중요합니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea Leads Global 5G Innovation",
+    "text": "South Korea continues to maintain its position as a global leader in 5G technology adoption and innovation. Recent data shows that the country has achieved over 95% 5G network coverage in urban areas, significantly ahead of most developed nations. Major telecommunications companies like SK Telecom and KT have been investing heavily in advanced 5G infrastructure, including standalone 5G networks that offer enhanced speed and reliability. The government has also announced plans to invest an additional 220 billion won in 6G research and development by 2026. This technological advancement is expected to boost various industries, including autonomous vehicles, smart factories, and virtual reality services. Industry experts predict that Korea's early adoption of 5G will provide a competitive advantage in the global digital economy.",
+    "korean_summary": "한국이 5G 기술 도입과 혁신에서 세계적 선두 자리를 유지하고 있습니다. 도시 지역 95% 이상의 5G 네트워크 커버리지를 달성했으며, 6G 연구개발에도 대규모 투자를 계획하고 있습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "make it a point to",
+      "korean": "~하는 것을 원칙으로 하다",
+      "example": "I make it a point to review my notes before every meeting.",
+      "source": "입트영"
+    },
+    {
+      "english": "take responsibility for",
+      "korean": "~에 대한 책임을 지다",
+      "example": "As a team leader, I take responsibility for our project's success.",
+      "source": "입트영"
+    },
+    {
+      "english": "shift in mindset",
+      "korean": "사고방식의 변화",
+      "example": "The company's shift in mindset toward remote work has improved employee satisfaction.",
+      "source": "입트영"
+    },
+    {
+      "english": "recharge for",
+      "korean": "~을 위해 재충전하다",
+      "example": "I need to recharge for next week's busy schedule.",
+      "source": "입트영"
+    },
+    {
+      "english": "maintain its position",
+      "korean": "지위를 유지하다",
+      "example": "The company works hard to maintain its position as market leader.",
+      "source": "귀트영"
+    },
+    {
+      "english": "significantly ahead of",
+      "korean": "~보다 상당히 앞서",
+      "example": "Our sales figures are significantly ahead of last year's results.",
+      "source": "귀트영"
+    },
+    {
+      "english": "invest heavily in",
+      "korean": "~에 막대한 투자를 하다",
+      "example": "The government plans to invest heavily in renewable energy.",
+      "source": "귀트영"
+    },
+    {
+      "english": "competitive advantage",
+      "korean": "경쟁 우위",
+      "example": "Our innovative approach gives us a competitive advantage in the market.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I'd like to schedule a follow-up meeting to discuss the project timeline.",
+      "korean": "프로젝트 일정을 논의하기 위한 후속 회의를 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to + 동사원형' - 정중한 의사 표현"
+    },
+    {
+      "english": "Could you please send me the updated budget report by Friday?",
+      "korean": "금요일까지 업데이트된 예산 보고서를 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "'Could you please + 동사원형' - 정중한 부탁 표현"
+    },
+    {
+      "english": "I'm planning to try a new restaurant this weekend with my family.",
+      "korean": "이번 주말에 가족과 함께 새로운 식당을 가보려고 합니다.",
+      "category": "daily",
+      "grammar_point": "'be planning to + 동사원형' - 계획 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "저는 매일 오후 7시까지 퇴근하는 것을 원칙으로 합니다.",
+      "answer": "I make it a point to leave work by 7 PM every day.",
+      "acceptable_keywords": [
+        "make it a point",
+        "leave",
+        "7 PM"
+      ],
+      "hint": "'원칙으로 하다'는 'make it a point to'로 표현하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "우리 회사는 시장에서의 경쟁 우위를 유지하고 있습니다.",
+      "answer": "Our company maintains its competitive advantage in the market.",
+      "acceptable_keywords": [
+        "maintains",
+        "competitive advantage",
+        "market"
+      ],
+      "hint": "'경쟁 우위'는 'competitive advantage'입니다."
+    },
+    {
+      "type": "translation",
+      "korean": "정부는 신기술 개발에 막대한 투자를 하고 있습니다.",
+      "answer": "The government is investing heavily in new technology development.",
+      "acceptable_keywords": [
+        "investing heavily",
+        "technology",
+        "development"
+      ],
+      "hint": "'막대한 투자를 하다'는 'invest heavily in'으로 표현하세요."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "I need to ___ for next week's important presentation.",
+      "answer": "recharge",
+      "options": [
+        "recharge",
+        "prepare",
+        "practice",
+        "review"
+      ],
+      "korean": "다음 주 중요한 발표를 위해 재충전이 필요합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The company's ___ in mindset has improved employee satisfaction.",
+      "answer": "shift",
+      "options": [
+        "shift",
+        "change",
+        "move",
+        "turn"
+      ],
+      "korean": "회사의 사고방식 변화가 직원 만족도를 향상시켰습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "As a manager, I ___ responsibility for my team's performance.",
+      "answer": "take",
+      "options": [
+        "take",
+        "have",
+        "get",
+        "hold"
+      ],
+      "korean": "관리자로서 저는 팀 성과에 대한 책임을 집니다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66538&part_seq=26619",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66564&part_seq=26620"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-05-26.mp3",
+    "귀트영": "audio/귀트영_2026-05-26.mp3"
+  }
+}
