@@ -1,0 +1,167 @@
+{
+  "date": "2026-05-27",
+  "day_of_week": "수요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "The Importance of Feedback Culture in the Workplace",
+    "text": "In today's competitive business environment, establishing a strong feedback culture has become essential for organizational success. Many Korean companies are beginning to recognize that regular feedback sessions can dramatically improve employee performance and job satisfaction. Unlike traditional hierarchical structures where communication flows only from top to bottom, modern workplaces encourage two-way feedback between managers and subordinates. This approach helps identify areas for improvement while also acknowledging achievements. However, implementing an effective feedback system requires careful consideration. Feedback should be specific, timely, and constructive rather than vague criticism. For instance, instead of saying 'Your presentation was poor,' a manager might say 'Your presentation would benefit from more visual aids and clearer transitions between topics.' When employees feel comfortable giving upward feedback to their supervisors, it creates an environment of mutual respect and continuous learning. Companies that successfully implement feedback culture often see increased productivity, better teamwork, and higher employee retention rates. The key is making feedback a regular practice rather than limiting it to annual performance reviews.",
+    "korean_summary": "현대 직장에서 피드백 문화의 중요성에 대해 설명합니다. 전통적인 수직적 소통구조와 달리, 양방향 피드백이 직원 성과와 만족도를 향상시킨다고 강조합니다. 효과적인 피드백은 구체적이고 시의적절하며 건설적이어야 하며, 이러한 문화를 성공적으로 구축한 회사들은 생산성 증가와 높은 직원 유지율을 경험한다고 설명합니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea Leads Global Digital Banking Innovation",
+    "text": "South Korea has emerged as a frontrunner in the global digital banking revolution, with its financial technology sector experiencing unprecedented growth. The country's major banks have successfully integrated artificial intelligence and blockchain technology into their services, offering customers seamless mobile banking experiences. Recent data shows that over 85% of South Korean bank transactions are now conducted digitally, significantly higher than the global average of 60%. The government's supportive regulatory framework has enabled fintech startups to thrive alongside traditional banks. Key innovations include real-time international transfers, AI-powered investment advice, and biometric security systems. Industry experts predict that South Korea's digital banking model will influence financial services across Asia. The success has been attributed to the country's advanced telecommunications infrastructure and tech-savvy population. However, cybersecurity concerns remain a challenge as digital transactions continue to grow exponentially.",
+    "korean_summary": "한국이 전 세계 디지털 뱅킹 혁신을 선도하고 있으며, 은행 거래의 85%가 디지털로 이루어지고 있다고 보고됩니다. 정부의 지원적인 규제 프레임워크와 첨단 통신 인프라가 핀테크 발전의 핵심 요인이라고 분석됩니다."
+  },
+  "key_expressions": [
+    {
+      "english": "establish a feedback culture",
+      "korean": "피드백 문화를 구축하다",
+      "example": "Our company is working to establish a feedback culture where everyone feels comfortable sharing their opinions.",
+      "source": "입트영"
+    },
+    {
+      "english": "two-way communication",
+      "korean": "양방향 소통",
+      "example": "Effective leadership requires two-way communication between managers and team members.",
+      "source": "입트영"
+    },
+    {
+      "english": "areas for improvement",
+      "korean": "개선이 필요한 영역",
+      "example": "The performance review helped me identify specific areas for improvement in my work.",
+      "source": "입트영"
+    },
+    {
+      "english": "mutual respect",
+      "korean": "상호 존중",
+      "example": "A healthy workplace is built on mutual respect and open dialogue.",
+      "source": "입트영"
+    },
+    {
+      "english": "emerge as a frontrunner",
+      "korean": "선두주자로 부상하다",
+      "example": "The company has emerged as a frontrunner in sustainable technology development.",
+      "source": "귀트영"
+    },
+    {
+      "english": "unprecedented growth",
+      "korean": "전례 없는 성장",
+      "example": "The e-commerce industry experienced unprecedented growth during the pandemic.",
+      "source": "귀트영"
+    },
+    {
+      "english": "seamless experience",
+      "korean": "매끄러운/원활한 경험",
+      "example": "Our mobile app provides a seamless experience for online shopping.",
+      "source": "귀트영"
+    },
+    {
+      "english": "regulatory framework",
+      "korean": "규제 체계/프레임워크",
+      "example": "The government introduced a new regulatory framework for cryptocurrency trading.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I'd like to schedule a one-on-one meeting to discuss your career development goals.",
+      "korean": "당신의 경력 개발 목표에 대해 논의하기 위해 일대일 미팅을 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to + 동사원형' - 정중한 의향 표현"
+    },
+    {
+      "english": "Could you provide more specific feedback on how I can improve my presentation skills?",
+      "korean": "제가 프레젠테이션 스킬을 어떻게 향상시킬 수 있는지에 대해 더 구체적인 피드백을 주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "'Could you + 동사원형' - 정중한 요청 표현"
+    },
+    {
+      "english": "I've been trying to use mobile banking more often since it's so convenient.",
+      "korean": "모바일 뱅킹이 너무 편리해서 더 자주 사용하려고 노력하고 있어요.",
+      "category": "daily",
+      "grammar_point": "현재완료진행형(have been + -ing) - 과거부터 현재까지 계속되는 행동"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "우리 회사는 직원들 간의 상호 존중을 바탕으로 한 피드백 문화를 구축하려고 합니다.",
+      "answer": "Our company is trying to establish a feedback culture based on mutual respect among employees.",
+      "acceptable_keywords": [
+        "establish",
+        "feedback culture",
+        "mutual respect",
+        "employees"
+      ],
+      "hint": "establish, mutual respect, feedback culture를 사용하세요"
+    },
+    {
+      "type": "translation",
+      "korean": "이 앱은 사용자들에게 매끄러운 모바일 뱅킹 경험을 제공합니다.",
+      "answer": "This app provides users with a seamless mobile banking experience.",
+      "acceptable_keywords": [
+        "seamless",
+        "mobile banking",
+        "experience",
+        "provides"
+      ],
+      "hint": "seamless experience와 provide를 사용하세요"
+    },
+    {
+      "type": "translation",
+      "korean": "정부의 새로운 규제 체계가 핀테크 산업의 전례 없는 성장을 가능하게 했습니다.",
+      "answer": "The government's new regulatory framework has enabled unprecedented growth in the fintech industry.",
+      "acceptable_keywords": [
+        "regulatory framework",
+        "unprecedented growth",
+        "fintech",
+        "enabled"
+      ],
+      "hint": "regulatory framework와 unprecedented growth를 사용하세요"
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The company has _______ as a leader in digital innovation within the industry.",
+      "answer": "emerged",
+      "options": [
+        "emerged",
+        "appeared",
+        "developed",
+        "created"
+      ],
+      "korean": "그 회사는 업계 내에서 디지털 혁신의 리더로 부상했습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "We need to identify specific _______ for improvement in our customer service.",
+      "answer": "areas",
+      "options": [
+        "areas",
+        "places",
+        "parts",
+        "sections"
+      ],
+      "korean": "우리는 고객 서비스에서 개선이 필요한 구체적인 영역을 파악해야 합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Effective teamwork requires _______ communication between all team members.",
+      "answer": "two-way",
+      "options": [
+        "two-way",
+        "direct",
+        "clear",
+        "simple"
+      ],
+      "korean": "효과적인 팀워크는 모든 팀원 간의 양방향 소통을 필요로 합니다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66539&part_seq=26619",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66565&part_seq=26620"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-05-27.mp3",
+    "귀트영": "audio/귀트영_2026-05-27.mp3"
+  }
+}

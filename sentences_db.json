@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-26",
-  "total_sentences": 132,
+  "last_updated": "2026-05-27",
+  "total_sentences": 135,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -1057,6 +1057,30 @@
       "korean": "이번 주말에 가족과 함께 새로운 식당을 가보려고 합니다.",
       "category": "daily",
       "grammar_point": "'be planning to + 동사원형' - 계획 표현"
+    },
+    {
+      "id": "2026-05-27_sent_01",
+      "date_added": "2026-05-27",
+      "english": "I'd like to schedule a one-on-one meeting to discuss your career development goals.",
+      "korean": "당신의 경력 개발 목표에 대해 논의하기 위해 일대일 미팅을 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to + 동사원형' - 정중한 의향 표현"
+    },
+    {
+      "id": "2026-05-27_sent_02",
+      "date_added": "2026-05-27",
+      "english": "Could you provide more specific feedback on how I can improve my presentation skills?",
+      "korean": "제가 프레젠테이션 스킬을 어떻게 향상시킬 수 있는지에 대해 더 구체적인 피드백을 주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "'Could you + 동사원형' - 정중한 요청 표현"
+    },
+    {
+      "id": "2026-05-27_sent_03",
+      "date_added": "2026-05-27",
+      "english": "I've been trying to use mobile banking more often since it's so convenient.",
+      "korean": "모바일 뱅킹이 너무 편리해서 더 자주 사용하려고 노력하고 있어요.",
+      "category": "daily",
+      "grammar_point": "현재완료진행형(have been + -ing) - 과거부터 현재까지 계속되는 행동"
     }
   ]
 }
