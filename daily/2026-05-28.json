@@ -1,0 +1,166 @@
+{
+  "date": "2026-05-28",
+  "day_of_week": "목요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Remote Work Challenges",
+    "text": "Working from home has become the new normal for many of us, but it comes with its own set of challenges. One of the biggest issues I face is maintaining a proper work-life balance. When your bedroom is just a few steps away from your desk, it's tempting to work longer hours or constantly check emails. I've learned that setting clear boundaries is crucial. I designate specific hours for work and stick to them religiously. Another challenge is staying motivated without the energy of colleagues around you. To combat this, I've started scheduling regular video calls with my team members, not just for work but for casual conversations too. Communication has become more important than ever. We need to be extra clear about deadlines, expectations, and progress updates. Despite these challenges, remote work has taught me valuable skills like self-discipline and digital communication. The key is to be intentional about creating structure and maintaining human connections.",
+    "korean_summary": "재택근무는 새로운 표준이 되었지만 여러 어려움이 있습니다. 일과 삶의 균형 유지, 동기부여 유지, 명확한 의사소통이 주요 과제이며, 이를 해결하기 위해서는 명확한 경계 설정과 팀원들과의 정기적인 소통이 중요합니다. 재택근무를 통해 자기관리 능력과 디지털 소통 기술을 배우게 되었습니다."
+  },
+  "gwitunyeong": {
+    "title": "AI Chatbots Transform Customer Service Industry",
+    "text": "Major companies worldwide are increasingly adopting AI-powered chatbots to revolutionize their customer service operations. Recent studies show that these intelligent systems can handle up to 80% of routine customer inquiries without human intervention. Companies like Samsung and LG have reported significant cost savings while improving response times from hours to seconds. The technology uses natural language processing to understand customer questions and provide accurate solutions instantly. However, the shift has raised concerns about job displacement in the service sector. Industry experts suggest that rather than replacing human workers entirely, AI chatbots are reshaping job roles toward more complex problem-solving tasks. Customers have shown mixed reactions, with younger demographics embracing the instant service while older users prefer human interaction. As the technology continues to evolve, businesses are working to find the optimal balance between AI efficiency and human touch.",
+    "korean_summary": "전 세계 주요 기업들이 AI 챗봇을 도입해 고객 서비스를 혁신하고 있습니다. 이 기술은 일상적인 고객 문의의 80%를 처리할 수 있으며 응답 시간을 크게 단축시켰지만, 일자리 대체에 대한 우려도 제기되고 있습니다. 기업들은 AI 효율성과 인간적 터치 사이의 최적 균형점을 찾기 위해 노력하고 있습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "set clear boundaries",
+      "korean": "명확한 경계를 설정하다",
+      "example": "I need to set clear boundaries between my work time and personal time.",
+      "source": "입트영"
+    },
+    {
+      "english": "stick to them religiously",
+      "korean": "철저히 지키다, 종교적으로 준수하다",
+      "example": "Once you make a schedule, you should stick to it religiously.",
+      "source": "입트영"
+    },
+    {
+      "english": "combat this",
+      "korean": "이에 맞서다, 대처하다",
+      "example": "To combat stress, I practice meditation daily.",
+      "source": "입트영"
+    },
+    {
+      "english": "be intentional about",
+      "korean": "의도적으로 ~하다",
+      "example": "We need to be intentional about building team culture.",
+      "source": "입트영"
+    },
+    {
+      "english": "without human intervention",
+      "korean": "사람의 개입 없이",
+      "example": "The system operates without human intervention.",
+      "source": "귀트영"
+    },
+    {
+      "english": "raise concerns about",
+      "korean": "~에 대한 우려를 제기하다",
+      "example": "The new policy has raised concerns about privacy.",
+      "source": "귀트영"
+    },
+    {
+      "english": "job displacement",
+      "korean": "일자리 대체",
+      "example": "Automation may lead to job displacement in manufacturing.",
+      "source": "귀트영"
+    },
+    {
+      "english": "optimal balance",
+      "korean": "최적의 균형",
+      "example": "Finding the optimal balance between quality and cost is crucial.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I'd like to schedule a follow-up meeting to discuss the project details.",
+      "korean": "프로젝트 세부사항을 논의하기 위한 후속 회의를 예약하고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to + verb' 정중한 요청 표현"
+    },
+    {
+      "english": "Could you please send me the updated version by end of day?",
+      "korean": "업데이트된 버전을 오늘 끝나기 전까지 보내주시겠어요?",
+      "category": "business",
+      "grammar_point": "'Could you please + verb' 정중한 부탁 표현"
+    },
+    {
+      "english": "I'm planning to meal prep this weekend to save time during the week.",
+      "korean": "주중에 시간을 절약하기 위해 이번 주말에 식사 준비를 할 계획입니다.",
+      "category": "daily",
+      "grammar_point": "'to + verb (infinitive)' 목적 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "명확한 경계를 설정하는 것이 중요합니다.",
+      "answer": "Setting clear boundaries is important.",
+      "acceptable_keywords": [
+        "setting",
+        "boundaries",
+        "important"
+      ],
+      "hint": "경계는 'boundaries'로 표현하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "AI 기술이 고객 서비스를 혁신하고 있습니다.",
+      "answer": "AI technology is revolutionizing customer service.",
+      "acceptable_keywords": [
+        "AI",
+        "technology",
+        "revolutionizing",
+        "customer",
+        "service"
+      ],
+      "hint": "'혁신하다'는 'revolutionize'를 사용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "후속 회의를 예약하고 싶습니다.",
+      "answer": "I'd like to schedule a follow-up meeting.",
+      "acceptable_keywords": [
+        "schedule",
+        "follow-up",
+        "meeting"
+      ],
+      "hint": "'would like to'를 줄여서 표현해보세요."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Companies have reported significant cost savings while improving _____ times.",
+      "answer": "response",
+      "options": [
+        "response",
+        "reaction",
+        "reply",
+        "return"
+      ],
+      "korean": "기업들은 응답 시간을 개선하면서 상당한 비용 절감을 보고했습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "I need to _____ clear boundaries between work and personal life.",
+      "answer": "set",
+      "options": [
+        "set",
+        "make",
+        "create",
+        "build"
+      ],
+      "korean": "업무와 개인 생활 사이에 명확한 경계를 설정해야 합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The technology uses natural language _____ to understand customer questions.",
+      "answer": "processing",
+      "options": [
+        "processing",
+        "proceeding",
+        "producing",
+        "programming"
+      ],
+      "korean": "이 기술은 자연어 처리를 사용하여 고객 질문을 이해합니다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66540&part_seq=26619",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66566&part_seq=26620"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-05-28.mp3",
+    "귀트영": "audio/귀트영_2026-05-28.mp3"
+  }
+}
