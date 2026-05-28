@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-28",
-  "total_sentences": 138,
+  "last_updated": "2026-05-29",
+  "total_sentences": 141,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -1105,6 +1105,30 @@
       "korean": "주중에 시간을 절약하기 위해 이번 주말에 식사 준비를 할 계획입니다.",
       "category": "daily",
       "grammar_point": "'to + verb (infinitive)' 목적 표현"
+    },
+    {
+      "id": "2026-05-29_sent_01",
+      "date_added": "2026-05-29",
+      "english": "Let me share my screen so everyone can follow along with the presentation.",
+      "korean": "화면을 공유해서 모든 분들이 프레젠테이션을 따라갈 수 있도록 하겠습니다.",
+      "category": "business",
+      "grammar_point": "목적을 나타내는 'so that' 구문의 줄임형"
+    },
+    {
+      "id": "2026-05-29_sent_02",
+      "date_added": "2026-05-29",
+      "english": "Could you please put yourself on mute when you're not speaking?",
+      "korean": "말씀하지 않으실 때는 음소거 해주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "정중한 요청을 위한 'Could you please' 패턴"
+    },
+    {
+      "id": "2026-05-29_sent_03",
+      "date_added": "2026-05-29",
+      "english": "I've been working from home for two years now and I really miss office interactions.",
+      "korean": "재택근무한 지 이제 2년이 되었는데 사무실에서의 교류가 정말 그리워요.",
+      "category": "daily",
+      "grammar_point": "현재완료진행형(have been -ing)으로 지속된 상태 표현"
     }
   ]
 }

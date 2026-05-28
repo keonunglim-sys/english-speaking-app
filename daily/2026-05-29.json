@@ -1,0 +1,167 @@
+{
+  "date": "2026-05-29",
+  "day_of_week": "금요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Remote Work Etiquette",
+    "text": "Working from home has become the new normal for many professionals. However, maintaining proper etiquette during virtual meetings is crucial for career success. First, always test your technology beforehand to avoid technical difficulties. Make sure your camera and microphone are working properly. Second, choose an appropriate background and dress professionally, even if you're working from home. Your appearance reflects your professionalism. Third, mute yourself when not speaking to prevent background noise from disrupting the meeting. Fourth, maintain eye contact by looking at the camera, not the screen. This creates a more personal connection with your colleagues. Finally, be punctual and prepared just as you would for an in-person meeting. Have your materials ready and participate actively in discussions. These simple practices will help you maintain professional relationships and demonstrate your commitment to your work, regardless of your physical location.",
+    "korean_summary": "재택근무가 일반화되면서 화상회의 에티켓이 중요해졌습니다. 기술 점검, 적절한 복장과 배경, 음소거 사용, 카메라 응시를 통한 아이컨택, 그리고 시간 준수와 적극적 참여가 핵심입니다. 이러한 간단한 실천으로 전문성을 유지하고 동료들과의 관계를 원활히 할 수 있습니다."
+  },
+  "gwitunyeong": {
+    "title": "AI Chatbots Transform Customer Service",
+    "text": "Major corporations are increasingly adopting AI-powered chatbots to revolutionize their customer service operations. According to recent industry reports, companies using advanced chatbots have seen a 40% reduction in response times and a 25% increase in customer satisfaction scores. These intelligent systems can handle routine inquiries, process simple transactions, and even detect customer emotions through natural language processing. However, the technology isn't without challenges. Some customers still prefer human interaction for complex issues, and chatbots occasionally misunderstand nuanced requests. To address these concerns, many companies are implementing hybrid models that seamlessly transfer customers to human agents when needed. Experts predict that by 2025, AI chatbots will handle over 85% of initial customer interactions, fundamentally changing how businesses engage with their clients while maintaining the human touch for critical situations.",
+    "korean_summary": "대기업들이 AI 챗봇을 도입하여 고객 서비스를 혁신하고 있습니다. 응답 시간은 40% 단축되고 고객 만족도는 25% 증가했지만, 복잡한 문제에서는 여전히 인간 상담원이 필요한 상황입니다. 2025년까지 AI 챗봇이 초기 고객 응대의 85%를 처리할 것으로 예상됩니다."
+  },
+  "key_expressions": [
+    {
+      "english": "test your technology beforehand",
+      "korean": "미리 기술을 점검하다",
+      "example": "I always test my technology beforehand to ensure smooth presentations.",
+      "source": "입트영"
+    },
+    {
+      "english": "maintain eye contact",
+      "korean": "아이컨택을 유지하다",
+      "example": "It's important to maintain eye contact during virtual interviews.",
+      "source": "입트영"
+    },
+    {
+      "english": "participate actively",
+      "korean": "적극적으로 참여하다",
+      "example": "Employees who participate actively in meetings often get promoted faster.",
+      "source": "입트영"
+    },
+    {
+      "english": "demonstrate commitment",
+      "korean": "헌신을 보여주다",
+      "example": "Working overtime occasionally can demonstrate commitment to your team.",
+      "source": "입트영"
+    },
+    {
+      "english": "revolutionize operations",
+      "korean": "운영을 혁신하다",
+      "example": "The new software will revolutionize our manufacturing operations.",
+      "source": "귀트영"
+    },
+    {
+      "english": "customer satisfaction scores",
+      "korean": "고객 만족도 점수",
+      "example": "Our customer satisfaction scores have improved significantly this quarter.",
+      "source": "귀트영"
+    },
+    {
+      "english": "seamlessly transfer",
+      "korean": "매끄럽게 이관하다",
+      "example": "The system can seamlessly transfer calls to the appropriate department.",
+      "source": "귀트영"
+    },
+    {
+      "english": "fundamentally changing",
+      "korean": "근본적으로 변화시키다",
+      "example": "Remote work is fundamentally changing how we collaborate.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "Let me share my screen so everyone can follow along with the presentation.",
+      "korean": "화면을 공유해서 모든 분들이 프레젠테이션을 따라갈 수 있도록 하겠습니다.",
+      "category": "business",
+      "grammar_point": "목적을 나타내는 'so that' 구문의 줄임형"
+    },
+    {
+      "english": "Could you please put yourself on mute when you're not speaking?",
+      "korean": "말씀하지 않으실 때는 음소거 해주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "정중한 요청을 위한 'Could you please' 패턴"
+    },
+    {
+      "english": "I've been working from home for two years now and I really miss office interactions.",
+      "korean": "재택근무한 지 이제 2년이 되었는데 사무실에서의 교류가 정말 그리워요.",
+      "category": "daily",
+      "grammar_point": "현재완료진행형(have been -ing)으로 지속된 상태 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "회의 전에 미리 카메라와 마이크를 점검해야 합니다.",
+      "answer": "You should test your camera and microphone beforehand.",
+      "acceptable_keywords": [
+        "test",
+        "camera",
+        "microphone",
+        "beforehand"
+      ],
+      "hint": "'미리'는 'beforehand', '점검하다'는 'test'로 표현"
+    },
+    {
+      "type": "translation",
+      "korean": "AI 챗봇이 고객 서비스 운영을 혁신하고 있습니다.",
+      "answer": "AI chatbots are revolutionizing customer service operations.",
+      "acceptable_keywords": [
+        "chatbots",
+        "revolutionizing",
+        "customer service",
+        "operations"
+      ],
+      "hint": "'혁신하다'는 'revolutionize'로 표현"
+    },
+    {
+      "type": "translation",
+      "korean": "복잡한 문제에 대해서는 인간 상담원에게 매끄럽게 이관됩니다.",
+      "answer": "Complex issues are seamlessly transferred to human agents.",
+      "acceptable_keywords": [
+        "complex",
+        "seamlessly",
+        "transferred",
+        "human agents"
+      ],
+      "hint": "'매끄럽게'는 'seamlessly', '이관하다'는 'transfer'로 표현"
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Companies using AI chatbots have seen a 40% reduction in response times and increased customer ___ scores.",
+      "answer": "satisfaction",
+      "options": [
+        "satisfaction",
+        "complaint",
+        "feedback",
+        "survey"
+      ],
+      "korean": "AI 챗봇을 사용하는 회사들은 응답 시간이 40% 단축되고 고객 만족도가 증가했습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Always ___ yourself when not speaking to prevent background noise.",
+      "answer": "mute",
+      "options": [
+        "mute",
+        "hide",
+        "disconnect",
+        "pause"
+      ],
+      "korean": "배경 소음을 방지하기 위해 말하지 않을 때는 항상 음소거하세요."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Maintain eye contact by looking at the camera to create a more ___ connection.",
+      "answer": "personal",
+      "options": [
+        "personal",
+        "professional",
+        "technical",
+        "formal"
+      ],
+      "korean": "더 개인적인 연결감을 만들기 위해 카메라를 보며 아이컨택을 유지하세요."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66541&part_seq=26619",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66567&part_seq=26620"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-05-29.mp3",
+    "귀트영": "audio/귀트영_2026-05-29.mp3"
+  }
+}
