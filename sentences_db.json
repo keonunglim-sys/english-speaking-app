@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-29",
-  "total_sentences": 141,
+  "last_updated": "2026-05-30",
+  "total_sentences": 144,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -1129,6 +1129,30 @@
       "korean": "재택근무한 지 이제 2년이 되었는데 사무실에서의 교류가 정말 그리워요.",
       "category": "daily",
       "grammar_point": "현재완료진행형(have been -ing)으로 지속된 상태 표현"
+    },
+    {
+      "id": "2026-05-30_sent_01",
+      "date_added": "2026-05-30",
+      "english": "I'll circle back with you on this project by the end of the week.",
+      "korean": "이번 주말까지 이 프로젝트에 대해 다시 연락드리겠습니다.",
+      "category": "business",
+      "grammar_point": "'circle back'은 '나중에 다시 연락하다'는 뜻의 비즈니스 표현"
+    },
+    {
+      "id": "2026-05-30_sent_02",
+      "date_added": "2026-05-30",
+      "english": "We need to pivot our strategy based on the latest market research.",
+      "korean": "최신 시장 조사를 바탕으로 전략을 전환해야 합니다.",
+      "category": "business",
+      "grammar_point": "'pivot'은 '방향을 바꾸다, 전환하다'는 뜻으로 비즈니스에서 자주 사용"
+    },
+    {
+      "id": "2026-05-30_sent_03",
+      "date_added": "2026-05-30",
+      "english": "I'm trying to cut back on coffee, but it's harder than I thought.",
+      "korean": "커피를 줄이려고 하는데, 생각보다 어렵네요.",
+      "category": "daily",
+      "grammar_point": "'cut back on'은 '~을 줄이다'는 뜻의 일상 표현"
     }
   ]
 }

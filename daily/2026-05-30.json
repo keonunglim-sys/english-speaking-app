@@ -1,0 +1,164 @@
+{
+  "date": "2026-05-30",
+  "day_of_week": "토요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Building Trust in Remote Work Teams",
+    "text": "Trust is the foundation of any successful remote work team. Unlike traditional office settings where you can build relationships through casual conversations and face-to-face interactions, remote work requires intentional efforts to establish trust. One key strategy is maintaining consistent communication. Regular check-ins, video calls, and transparent updates about project progress help team members feel connected and informed. Another important aspect is following through on commitments. When you say you'll deliver something by a certain deadline, make sure you do. This reliability builds confidence among your colleagues. Additionally, being proactive in sharing both successes and challenges creates an atmosphere of openness. Don't wait for your manager to ask about problems – bring them up early and suggest solutions. Finally, show genuine interest in your teammates as people, not just as work colleagues. A simple 'How are you doing?' at the start of a meeting can go a long way in building meaningful professional relationships in a remote environment.",
+    "korean_summary": "원격 근무 팀에서 신뢰 구축의 중요성에 대한 글입니다. 일관된 소통, 약속 이행, 투명한 정보 공유, 그리고 동료들에 대한 진정한 관심이 원격 환경에서 신뢰를 쌓는 핵심 전략임을 설명합니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea Leads Global Digital Innovation Index",
+    "text": "South Korea has secured the top position in the 2024 Global Digital Innovation Index, surpassing traditional leaders like the United States and Singapore. The ranking, released by the World Economic Forum, evaluates countries based on digital infrastructure, innovation capacity, and technology adoption rates. Korea's success stems from its world-class 5G network coverage, which reaches 95% of the population, and significant government investment in artificial intelligence and semiconductor research. The country's digital payment system adoption rate of 87% also contributed significantly to its high ranking. Samsung and LG's continued global expansion in the tech sector has further strengthened Korea's position. However, experts warn that maintaining this lead will require addressing challenges such as an aging workforce and increasing competition from emerging markets like India and Vietnam in the technology sector.",
+    "korean_summary": "한국이 2024년 글로벌 디지털 혁신 지수에서 1위를 차지했습니다. 우수한 5G 인프라, AI 및 반도체 연구 투자, 높은 디지털 결제 시스템 채택률이 주요 성공 요인으로 분석됩니다."
+  },
+  "key_expressions": [
+    {
+      "english": "follow through on commitments",
+      "korean": "약속을 이행하다, 끝까지 해내다",
+      "example": "It's crucial to follow through on commitments to maintain team trust.",
+      "source": "입트영"
+    },
+    {
+      "english": "be proactive in",
+      "korean": "~에 적극적이다, 선제적으로 행동하다",
+      "example": "Being proactive in communication prevents many workplace misunderstandings.",
+      "source": "입트영"
+    },
+    {
+      "english": "build confidence among",
+      "korean": "~사이에 신뢰를 쌓다",
+      "example": "Regular updates help build confidence among remote team members.",
+      "source": "입트영"
+    },
+    {
+      "english": "go a long way in",
+      "korean": "~에 큰 도움이 되다, 상당한 효과가 있다",
+      "example": "Small gestures can go a long way in improving workplace relationships.",
+      "source": "입트영"
+    },
+    {
+      "english": "secure the top position",
+      "korean": "1위 자리를 차지하다",
+      "example": "The company secured the top position in market share this quarter.",
+      "source": "귀트영"
+    },
+    {
+      "english": "stem from",
+      "korean": "~에서 비롯되다, 기인하다",
+      "example": "Korea's success stems from its investment in digital infrastructure.",
+      "source": "귀트영"
+    },
+    {
+      "english": "contribute significantly to",
+      "korean": "~에 크게 기여하다",
+      "example": "Innovation contributed significantly to the company's growth.",
+      "source": "귀트영"
+    },
+    {
+      "english": "emerging markets",
+      "korean": "신흥 시장",
+      "example": "Many companies are expanding into emerging markets in Asia.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I'll circle back with you on this project by the end of the week.",
+      "korean": "이번 주말까지 이 프로젝트에 대해 다시 연락드리겠습니다.",
+      "category": "business",
+      "grammar_point": "'circle back'은 '나중에 다시 연락하다'는 뜻의 비즈니스 표현"
+    },
+    {
+      "english": "We need to pivot our strategy based on the latest market research.",
+      "korean": "최신 시장 조사를 바탕으로 전략을 전환해야 합니다.",
+      "category": "business",
+      "grammar_point": "'pivot'은 '방향을 바꾸다, 전환하다'는 뜻으로 비즈니스에서 자주 사용"
+    },
+    {
+      "english": "I'm trying to cut back on coffee, but it's harder than I thought.",
+      "korean": "커피를 줄이려고 하는데, 생각보다 어렵네요.",
+      "category": "daily",
+      "grammar_point": "'cut back on'은 '~을 줄이다'는 뜻의 일상 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "원격 근무에서는 일관된 소통이 매우 중요합니다.",
+      "answer": "Consistent communication is very important in remote work.",
+      "acceptable_keywords": [
+        "consistent",
+        "communication",
+        "important",
+        "remote work"
+      ],
+      "hint": "'일관된'은 'consistent', '소통'은 'communication'"
+    },
+    {
+      "type": "translation",
+      "korean": "한국은 디지털 혁신 분야에서 선두 자리를 유지하고 있습니다.",
+      "answer": "Korea is maintaining its leading position in digital innovation.",
+      "acceptable_keywords": [
+        "Korea",
+        "maintaining",
+        "leading position",
+        "digital innovation"
+      ],
+      "hint": "'선두 자리'는 'leading position', '유지하다'는 'maintain'"
+    },
+    {
+      "type": "translation",
+      "korean": "이 문제에 대해 적극적으로 해결책을 제시해야 합니다.",
+      "answer": "We need to be proactive in suggesting solutions to this problem.",
+      "acceptable_keywords": [
+        "proactive",
+        "suggesting",
+        "solutions",
+        "problem"
+      ],
+      "hint": "'적극적으로'는 'be proactive in'"
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Regular check-ins help build ___ among team members.",
+      "answer": "trust",
+      "options": [
+        "trust",
+        "tension",
+        "confusion",
+        "competition"
+      ],
+      "korean": "정기적인 점검은 팀원들 사이의 ___을 구축하는 데 도움이 됩니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Korea's success ___ from its excellent digital infrastructure.",
+      "answer": "stems",
+      "options": [
+        "stems",
+        "flows",
+        "comes",
+        "results"
+      ],
+      "korean": "한국의 성공은 우수한 디지털 인프라에서 ___됩니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Small gestures can ___ a long way in building relationships.",
+      "answer": "go",
+      "options": [
+        "go",
+        "take",
+        "make",
+        "come"
+      ],
+      "korean": "작은 제스처들이 관계 구축에 ___게 도움이 될 수 있습니다."
+    }
+  ],
+  "audio": {
+    "입트영": "",
+    "귀트영": ""
+  },
+  "audio_local": {}
+}
