@@ -1,0 +1,167 @@
+{
+  "date": "2026-05-31",
+  "day_of_week": "일요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Maximizing Your Lunch Break",
+    "text": "How you spend your lunch break can significantly impact your productivity and well-being at work. Many Korean office workers feel pressured to eat quickly and return to their desks, but this habit can actually decrease afternoon performance. I've discovered that taking a proper lunch break is crucial for maintaining focus throughout the day. Instead of scrolling through my phone while eating, I now step outside for a brief walk or find a quiet spot to clear my mind. Sometimes I use this time to catch up with colleagues from other departments, which helps build valuable workplace relationships. On busy days, I practice deep breathing exercises or listen to calming music. The key is to completely disconnect from work-related thoughts for at least 30 minutes. This mental reset allows me to approach afternoon tasks with renewed energy and creativity. Even simple activities like organizing my workspace or planning the next day's priorities can make the afternoon more productive. Remember, a well-spent lunch break isn't time wasted—it's an investment in your professional performance.",
+    "korean_summary": "점심시간을 어떻게 보내느냐가 업무 생산성과 웰빙에 큰 영향을 미칩니다. 많은 한국 직장인들이 빨리 먹고 업무로 돌아가야 한다는 압박감을 느끼지만, 제대로 된 점심시간을 갖는 것이 하루 종일 집중력을 유지하는 데 중요합니다. 산책을 하거나 동료들과 관계를 쌓는 시간으로 활용하면 오후 업무에 새로운 에너지로 접근할 수 있습니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea Leads Global Digital Government Innovation",
+    "text": "South Korea has maintained its position as the world leader in digital government services for the fourth consecutive year, according to the UN's latest e-Government Development Index. The country scored 0.9529 out of 1.0, significantly ahead of second-place Denmark. Korea's success stems from its comprehensive digital infrastructure and user-friendly online services that allow citizens to complete most government transactions remotely. The Korean government's mobile-first approach has been particularly praised, with over 90% of administrative services now available through smartphones. During the pandemic, Korea's digital systems proved invaluable, enabling seamless delivery of emergency relief funds and contact tracing. The government plans to further enhance its digital capabilities by incorporating artificial intelligence and blockchain technology into public services. This digital transformation has not only improved citizen satisfaction but also reduced administrative costs by approximately 30% over the past five years. Other nations are now studying Korea's model as they work to modernize their own government services.",
+    "korean_summary": "한국이 UN 전자정부 발전지수에서 4년 연속 세계 1위를 차지했습니다. 포괄적인 디지털 인프라와 모바일 우선 접근법이 성공의 핵심이며, 행정 서비스의 90% 이상을 스마트폰으로 이용할 수 있습니다. 다른 국가들도 한국의 모델을 연구하고 있습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "significantly impact",
+      "korean": "상당한 영향을 미치다",
+      "example": "Remote work policies can significantly impact employee satisfaction.",
+      "source": "입트영"
+    },
+    {
+      "english": "disconnect from work-related thoughts",
+      "korean": "업무 관련 생각에서 벗어나다",
+      "example": "It's important to disconnect from work-related thoughts during vacation.",
+      "source": "입트영"
+    },
+    {
+      "english": "approach tasks with renewed energy",
+      "korean": "새로운 에너지로 업무에 접근하다",
+      "example": "After the training session, I can approach tasks with renewed energy.",
+      "source": "입트영"
+    },
+    {
+      "english": "an investment in your professional performance",
+      "korean": "전문적 성과에 대한 투자",
+      "example": "Learning new skills is an investment in your professional performance.",
+      "source": "입트영"
+    },
+    {
+      "english": "maintain its position as",
+      "korean": "~로서의 지위를 유지하다",
+      "example": "The company aims to maintain its position as the market leader.",
+      "source": "귀트영"
+    },
+    {
+      "english": "comprehensive digital infrastructure",
+      "korean": "포괄적인 디지털 인프라",
+      "example": "The city invested heavily in comprehensive digital infrastructure.",
+      "source": "귀트영"
+    },
+    {
+      "english": "proved invaluable",
+      "korean": "매우 귀중한 것으로 입증되다",
+      "example": "The mentor's advice proved invaluable during the project.",
+      "source": "귀트영"
+    },
+    {
+      "english": "incorporate technology into",
+      "korean": "기술을 ~에 접목시키다",
+      "example": "We plan to incorporate AI technology into our customer service.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I'd like to schedule a follow-up meeting to discuss the implementation details.",
+      "korean": "구현 세부사항을 논의하기 위한 후속 회의를 예약하고 싶습니다.",
+      "category": "business",
+      "grammar_point": "would like to + 동사원형: 정중한 의향 표현"
+    },
+    {
+      "english": "Could you please send me the updated version of the proposal by end of day?",
+      "korean": "오늘 안으로 제안서의 업데이트된 버전을 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "Could you please + 동사원형: 정중한 부탁 표현"
+    },
+    {
+      "english": "I'm planning to start a new hobby this weekend to help me relax after work.",
+      "korean": "업무 후 휴식을 위해 이번 주말에 새로운 취미를 시작할 계획입니다.",
+      "category": "daily",
+      "grammar_point": "to help + 목적어 + 동사원형: 목적 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "적절한 점심시간을 갖는 것이 하루 종일 집중력을 유지하는 데 중요합니다.",
+      "answer": "Taking a proper lunch break is crucial for maintaining focus throughout the day.",
+      "acceptable_keywords": [
+        "proper",
+        "lunch break",
+        "crucial",
+        "maintaining",
+        "focus",
+        "throughout"
+      ],
+      "hint": "'적절한'은 'proper', '중요한'은 'crucial'로 표현하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "한국은 포괄적인 디지털 인프라 덕분에 세계 1위를 유지하고 있습니다.",
+      "answer": "Korea maintains its position as world leader thanks to comprehensive digital infrastructure.",
+      "acceptable_keywords": [
+        "maintains",
+        "position",
+        "world leader",
+        "comprehensive",
+        "digital infrastructure"
+      ],
+      "hint": "'지위를 유지하다'는 'maintain position'으로 표현하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "새로운 기술을 공공 서비스에 접목시킬 계획입니다.",
+      "answer": "We plan to incorporate new technology into public services.",
+      "acceptable_keywords": [
+        "plan",
+        "incorporate",
+        "technology",
+        "public services"
+      ],
+      "hint": "'접목시키다'는 'incorporate into'로 표현하세요."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "This mental reset allows me to approach afternoon tasks with ___ energy and creativity.",
+      "answer": "renewed",
+      "options": [
+        "renewed",
+        "reduced",
+        "required",
+        "repeated"
+      ],
+      "korean": "이런 정신적 재충전은 새로운 에너지와 창의력으로 오후 업무에 접근할 수 있게 해줍니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Korea's digital systems ___ invaluable during the pandemic.",
+      "answer": "proved",
+      "options": [
+        "proved",
+        "provided",
+        "prevented",
+        "promised"
+      ],
+      "korean": "한국의 디지털 시스템은 팬데믹 기간 동안 매우 귀중한 것으로 입증되었습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The government plans to ___ artificial intelligence into public services.",
+      "answer": "incorporate",
+      "options": [
+        "incorporate",
+        "investigate",
+        "interrupt",
+        "introduce"
+      ],
+      "korean": "정부는 인공지능을 공공 서비스에 접목시킬 계획입니다."
+    }
+  ],
+  "audio": {
+    "입트영": "",
+    "귀트영": ""
+  },
+  "audio_local": {}
+}
