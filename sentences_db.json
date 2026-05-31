@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-31",
-  "total_sentences": 147,
+  "last_updated": "2026-06-01",
+  "total_sentences": 150,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -1177,6 +1177,30 @@
       "korean": "업무 후 휴식을 위해 이번 주말에 새로운 취미를 시작할 계획입니다.",
       "category": "daily",
       "grammar_point": "to help + 목적어 + 동사원형: 목적 표현"
+    },
+    {
+      "id": "2026-06-01_sent_01",
+      "date_added": "2026-06-01",
+      "english": "I'd like to schedule a follow-up meeting to discuss the implementation timeline.",
+      "korean": "구현 일정을 논의하기 위해 후속 회의를 예약하고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to + 동사원형' - 정중한 의사 표현"
+    },
+    {
+      "id": "2026-06-01_sent_02",
+      "date_added": "2026-06-01",
+      "english": "Could you please provide an update on the project status by end of day?",
+      "korean": "오늘 업무 종료 시까지 프로젝트 현황에 대한 업데이트를 제공해 주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "'Could you please + 동사원형' - 정중한 요청 표현"
+    },
+    {
+      "id": "2026-06-01_sent_03",
+      "date_added": "2026-06-01",
+      "english": "I'm planning to grab lunch with some colleagues if you'd like to join us.",
+      "korean": "동료들과 점심을 먹으러 갈 예정인데, 함께 가고 싶으시면 오세요.",
+      "category": "daily",
+      "grammar_point": "'if you'd like to + 동사원형' - 정중한 초대 표현"
     }
   ]
 }

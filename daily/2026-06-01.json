@@ -1,0 +1,174 @@
+{
+  "date": "2026-06-01",
+  "day_of_week": "월요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Building Meaningful Connections at Work",
+    "text": "In today's fast-paced work environment, building genuine relationships with colleagues has become more challenging yet more important than ever. Many of us focus solely on completing tasks and meeting deadlines, often overlooking the value of personal connections. However, I've learned that taking time to engage with coworkers on a deeper level can significantly enhance both job satisfaction and career growth. Small gestures like remembering someone's weekend plans or offering help during busy periods can go a long way. I make it a point to have coffee chats with team members from different departments, which has opened doors to new opportunities and collaborations. These relationships have also created a support system during stressful times. The key is authenticity – people can sense when you're genuinely interested versus just networking. By investing in these connections, we create a more positive work culture and build lasting professional relationships that extend beyond our current roles.",
+    "korean_summary": "오늘날의 빠른 업무 환경에서 동료들과 진정한 관계를 구축하는 것이 더욱 어려워졌지만 그만큼 중요해졌습니다. 단순히 업무 완수에만 집중하기보다는 개인적인 관계 형성에 시간을 투자하는 것이 직무 만족도와 경력 발전에 큰 도움이 됩니다. 진정성 있는 관심과 작은 배려가 긍정적인 직장 문화를 만들고 장기적인 인맥을 구축하는 데 핵심입니다."
+  },
+  "gwitunyeong": {
+    "title": "AI Integration in Workplace Communication",
+    "text": "Companies worldwide are increasingly adopting AI-powered communication tools to enhance workplace efficiency. Recent studies show that 73% of organizations have implemented some form of artificial intelligence in their internal communication systems. These tools range from chatbots that handle routine employee inquiries to sophisticated translation software that breaks down language barriers in multinational teams. Microsoft Teams and Slack have integrated AI features that can summarize meeting notes, schedule appointments, and even suggest optimal meeting times based on participants' calendars. However, experts warn about the potential risks of over-reliance on AI for human interaction. While these technologies can streamline processes and reduce administrative burden, maintaining authentic human connections remains crucial for team morale and creativity. Companies are now seeking a balanced approach that leverages AI efficiency while preserving the personal touch in workplace relationships.",
+    "korean_summary": "전 세계 기업들이 업무 효율성 향상을 위해 AI 기반 커뮤니케이션 도구를 도입하고 있습니다. AI가 업무 프로세스를 간소화하는 장점이 있지만, 팀 사기와 창의성을 위한 진정한 인간관계 유지의 중요성도 강조되고 있습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "go a long way",
+      "korean": "큰 도움이 되다, 효과가 크다",
+      "example": "A simple thank you note can go a long way in building rapport with clients.",
+      "source": "입트영"
+    },
+    {
+      "english": "make it a point to",
+      "korean": "~하는 것을 원칙으로 하다, 꼭 ~하다",
+      "example": "I make it a point to review my emails before important meetings.",
+      "source": "입트영"
+    },
+    {
+      "english": "extend beyond",
+      "korean": "~을 넘어서다, ~을 초월하다",
+      "example": "Our partnership extends beyond simple business transactions.",
+      "source": "입트영"
+    },
+    {
+      "english": "open doors to",
+      "korean": "~의 기회를 열어주다",
+      "example": "Networking events can open doors to new career opportunities.",
+      "source": "입트영"
+    },
+    {
+      "english": "break down barriers",
+      "korean": "장벽을 허물다, 장애물을 제거하다",
+      "example": "Video conferencing helps break down geographical barriers in global teams.",
+      "source": "귀트영"
+    },
+    {
+      "english": "streamline processes",
+      "korean": "프로세스를 간소화하다",
+      "example": "The new software will help streamline our approval processes.",
+      "source": "귀트영"
+    },
+    {
+      "english": "over-reliance on",
+      "korean": "~에 대한 과도한 의존",
+      "example": "We need to avoid over-reliance on automated systems for customer service.",
+      "source": "귀트영"
+    },
+    {
+      "english": "leverage efficiency",
+      "korean": "효율성을 활용하다",
+      "example": "Companies are looking to leverage AI efficiency while maintaining human oversight.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I'd like to schedule a follow-up meeting to discuss the implementation timeline.",
+      "korean": "구현 일정을 논의하기 위해 후속 회의를 예약하고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to + 동사원형' - 정중한 의사 표현"
+    },
+    {
+      "english": "Could you please provide an update on the project status by end of day?",
+      "korean": "오늘 업무 종료 시까지 프로젝트 현황에 대한 업데이트를 제공해 주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "'Could you please + 동사원형' - 정중한 요청 표현"
+    },
+    {
+      "english": "I'm planning to grab lunch with some colleagues if you'd like to join us.",
+      "korean": "동료들과 점심을 먹으러 갈 예정인데, 함께 가고 싶으시면 오세요.",
+      "category": "daily",
+      "grammar_point": "'if you'd like to + 동사원형' - 정중한 초대 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "작은 배려가 동료들과의 관계 형성에 큰 도움이 됩니다.",
+      "answer": "Small gestures go a long way in building relationships with colleagues.",
+      "acceptable_keywords": [
+        "small",
+        "gestures",
+        "go",
+        "long",
+        "way",
+        "building",
+        "relationships"
+      ],
+      "hint": "'큰 도움이 되다'를 나타내는 관용 표현을 사용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "AI 도구들이 언어 장벽을 허물어 국제 팀워크를 향상시키고 있습니다.",
+      "answer": "AI tools are breaking down language barriers and improving international teamwork.",
+      "acceptable_keywords": [
+        "AI",
+        "tools",
+        "breaking",
+        "down",
+        "barriers",
+        "improving",
+        "teamwork"
+      ],
+      "hint": "'장벽을 허물다'는 표현을 사용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "저는 다른 부서 직원들과 정기적으로 커피 미팅을 갖는 것을 원칙으로 합니다.",
+      "answer": "I make it a point to have regular coffee meetings with staff from other departments.",
+      "acceptable_keywords": [
+        "make",
+        "point",
+        "regular",
+        "coffee",
+        "meetings",
+        "departments"
+      ],
+      "hint": "'~을 원칙으로 하다'라는 의미의 표현을 사용하세요."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Companies are seeking to _______ AI efficiency while preserving human connections.",
+      "answer": "leverage",
+      "options": [
+        "leverage",
+        "increase",
+        "maintain",
+        "develop"
+      ],
+      "korean": "기업들은 인간관계를 유지하면서 AI 효율성을 활용하려고 합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Networking events can _______ doors to new career opportunities.",
+      "answer": "open",
+      "options": [
+        "open",
+        "close",
+        "create",
+        "find"
+      ],
+      "korean": "네트워킹 행사는 새로운 경력 기회의 문을 열어줄 수 있습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "We should avoid _______ on automated systems for important decisions.",
+      "answer": "over-reliance",
+      "options": [
+        "over-reliance",
+        "dependence",
+        "trust",
+        "focus"
+      ],
+      "korean": "중요한 결정에 대해 자동화 시스템에 과도하게 의존하는 것을 피해야 합니다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66853&part_seq=26686",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66931&part_seq=26690"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-06-01.mp3"
+  }
+}
