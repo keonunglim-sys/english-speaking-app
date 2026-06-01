@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-01",
-  "total_sentences": 150,
+  "last_updated": "2026-06-02",
+  "total_sentences": 153,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -1201,6 +1201,30 @@
       "korean": "동료들과 점심을 먹으러 갈 예정인데, 함께 가고 싶으시면 오세요.",
       "category": "daily",
       "grammar_point": "'if you'd like to + 동사원형' - 정중한 초대 표현"
+    },
+    {
+      "id": "2026-06-02_sent_01",
+      "date_added": "2026-06-02",
+      "english": "I'd like to schedule a follow-up meeting to discuss the project timeline in more detail.",
+      "korean": "프로젝트 일정에 대해 더 자세히 논의하기 위한 후속 미팅을 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to + 동사원형'으로 정중한 의사표현"
+    },
+    {
+      "id": "2026-06-02_sent_02",
+      "date_added": "2026-06-02",
+      "english": "Could you please send me the updated proposal by the end of this week?",
+      "korean": "이번 주말까지 업데이트된 제안서를 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "'Could you please + 동사원형'으로 정중한 요청"
+    },
+    {
+      "id": "2026-06-02_sent_03",
+      "date_added": "2026-06-02",
+      "english": "I'm thinking about taking up a new hobby to relieve stress from work.",
+      "korean": "업무 스트레스 해소를 위해 새로운 취미를 시작할까 생각 중입니다.",
+      "category": "daily",
+      "grammar_point": "'be thinking about + -ing'로 계획이나 고려사항 표현"
     }
   ]
 }

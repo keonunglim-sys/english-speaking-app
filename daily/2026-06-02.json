@@ -1,0 +1,161 @@
+{
+  "date": "2026-06-02",
+  "day_of_week": "화요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Working from Home: Finding the Right Balance",
+    "text": "Working from home has become the new normal for many Korean office workers since the pandemic. While it offers flexibility and eliminates commuting time, it also presents unique challenges. One of the biggest struggles is maintaining a proper work-life balance when your office is just a few steps away from your bedroom. I've learned that setting clear boundaries is crucial. I designate specific hours for work and stick to them religiously. Creating a dedicated workspace, even if it's just a corner of my living room, helps me stay focused and productive. However, the lack of face-to-face interaction with colleagues can sometimes feel isolating. I make an effort to participate in virtual coffee breaks and team meetings to stay connected. The key is finding what works best for you and being disciplined about it. Remote work isn't going anywhere, so we might as well master it and make it work to our advantage.",
+    "korean_summary": "재택근무가 일상이 된 한국 직장인들에게 일과 삶의 균형 유지는 중요한 과제입니다. 명확한 경계 설정과 전용 작업공간 마련, 그리고 동료들과의 소통 노력이 성공적인 재택근무의 핵심입니다. 자신만의 방식을 찾아 체계적으로 관리하는 것이 중요합니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea Leads Global Digital Innovation Rankings",
+    "text": "South Korea has topped the latest Global Digital Innovation Index, surpassing traditional leaders like the United States and Singapore. The ranking, released by the International Technology Forum, evaluates countries based on their digital infrastructure, innovation capacity, and technology adoption rates. Korea's success is attributed to its world-class 5G network coverage, which reaches over 95% of the population, and aggressive government investment in artificial intelligence and semiconductor research. The country's digital transformation accelerated during the COVID-19 pandemic, with rapid adoption of contactless services and digital payment systems. Korean companies like Samsung and LG continue to drive global technology trends, while startups in fintech and e-commerce are gaining international recognition. This achievement reinforces Korea's position as a global technology powerhouse and highlights the effectiveness of its long-term digital strategy.",
+    "korean_summary": "한국이 최신 글로벌 디지털 혁신 지수에서 1위를 차지했습니다. 95% 이상의 5G 네트워크 커버리지와 AI, 반도체 분야에 대한 정부 투자, 그리고 팬데믹 기간 동안의 디지털 전환 가속화가 주요 성공 요인으로 분석됩니다."
+  },
+  "key_expressions": [
+    {
+      "english": "stick to them religiously",
+      "korean": "철저하게 지키다, 종교적으로 준수하다",
+      "example": "I stick to my morning routine religiously, even on weekends.",
+      "source": "입트영"
+    },
+    {
+      "english": "work to our advantage",
+      "korean": "우리에게 유리하게 작용하다",
+      "example": "Let's use this opportunity to work to our advantage in the negotiation.",
+      "source": "입트영"
+    },
+    {
+      "english": "make an effort to",
+      "korean": "~하려고 노력하다",
+      "example": "I make an effort to learn at least five new words every day.",
+      "source": "입트영"
+    },
+    {
+      "english": "isn't going anywhere",
+      "korean": "사라지지 않을 것이다, 계속될 것이다",
+      "example": "Online shopping isn't going anywhere, so traditional stores must adapt.",
+      "source": "입트영"
+    },
+    {
+      "english": "surpassing traditional leaders",
+      "korean": "기존 선두주자들을 앞지르며",
+      "example": "The startup is surpassing traditional leaders in market share.",
+      "source": "귀트영"
+    },
+    {
+      "english": "is attributed to",
+      "korean": "~에 기인하다, ~덕분이다",
+      "example": "The company's success is attributed to its innovative marketing strategy.",
+      "source": "귀트영"
+    },
+    {
+      "english": "gaining international recognition",
+      "korean": "국제적 인정을 받고 있다",
+      "example": "Korean cultural content is gaining international recognition worldwide.",
+      "source": "귀트영"
+    },
+    {
+      "english": "reinforces the position",
+      "korean": "지위를 강화하다",
+      "example": "This achievement reinforces the company's position as an industry leader.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I'd like to schedule a follow-up meeting to discuss the project timeline in more detail.",
+      "korean": "프로젝트 일정에 대해 더 자세히 논의하기 위한 후속 미팅을 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to + 동사원형'으로 정중한 의사표현"
+    },
+    {
+      "english": "Could you please send me the updated proposal by the end of this week?",
+      "korean": "이번 주말까지 업데이트된 제안서를 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "'Could you please + 동사원형'으로 정중한 요청"
+    },
+    {
+      "english": "I'm thinking about taking up a new hobby to relieve stress from work.",
+      "korean": "업무 스트레스 해소를 위해 새로운 취미를 시작할까 생각 중입니다.",
+      "category": "daily",
+      "grammar_point": "'be thinking about + -ing'로 계획이나 고려사항 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "재택근무는 이제 새로운 일상이 되었습니다.",
+      "answer": "Working from home has become the new normal.",
+      "acceptable_keywords": [
+        "working from home",
+        "new normal",
+        "become"
+      ],
+      "hint": "'새로운 일상'은 'new normal'로 표현"
+    },
+    {
+      "type": "translation",
+      "korean": "한국은 전통적인 선두주자들을 앞질렀습니다.",
+      "answer": "Korea has surpassed traditional leaders.",
+      "acceptable_keywords": [
+        "Korea",
+        "surpassed",
+        "traditional leaders"
+      ],
+      "hint": "'앞지르다'는 'surpass'로 표현"
+    },
+    {
+      "type": "translation",
+      "korean": "이번 주말까지 보고서를 완성해야 합니다.",
+      "answer": "I need to complete the report by the end of this week.",
+      "acceptable_keywords": [
+        "complete",
+        "report",
+        "end of week"
+      ],
+      "hint": "'~까지'는 'by' 전치사 사용"
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "I make an effort to _____ in virtual meetings to stay connected.",
+      "answer": "participate",
+      "options": [
+        "participate",
+        "contribute",
+        "communicate",
+        "collaborate"
+      ],
+      "korean": "연결 상태를 유지하기 위해 가상 회의에 참여하려고 노력합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Korea's success is _____ to its world-class digital infrastructure.",
+      "answer": "attributed",
+      "options": [
+        "attributed",
+        "related",
+        "connected",
+        "linked"
+      ],
+      "korean": "한국의 성공은 세계적 수준의 디지털 인프라 덕분입니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Setting clear _____ between work and personal life is crucial.",
+      "answer": "boundaries",
+      "options": [
+        "boundaries",
+        "limits",
+        "rules",
+        "guidelines"
+      ],
+      "korean": "일과 개인 생활 사이의 명확한 경계를 설정하는 것이 중요합니다."
+    }
+  ],
+  "audio": {
+    "입트영": "",
+    "귀트영": ""
+  },
+  "audio_local": {}
+}
