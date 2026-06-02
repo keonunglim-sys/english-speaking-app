@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-02",
-  "total_sentences": 153,
+  "last_updated": "2026-06-03",
+  "total_sentences": 156,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -1225,6 +1225,30 @@
       "korean": "업무 스트레스 해소를 위해 새로운 취미를 시작할까 생각 중입니다.",
       "category": "daily",
       "grammar_point": "'be thinking about + -ing'로 계획이나 고려사항 표현"
+    },
+    {
+      "id": "2026-06-03_sent_01",
+      "date_added": "2026-06-03",
+      "english": "Could we schedule this meeting for next week instead? I have a conflict with another appointment.",
+      "korean": "이 회의를 다음 주로 일정을 조정할 수 있을까요? 다른 약속과 겹칩니다.",
+      "category": "business",
+      "grammar_point": "Could we + 동사원형: 정중한 제안이나 요청을 할 때 사용"
+    },
+    {
+      "id": "2026-06-03_sent_02",
+      "date_added": "2026-06-03",
+      "english": "I need to wrap up this project by Friday to meet the deadline.",
+      "korean": "마감일을 맞추기 위해 금요일까지 이 프로젝트를 마무리해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형: 필요성이나 의무를 나타내는 표현"
+    },
+    {
+      "id": "2026-06-03_sent_03",
+      "date_added": "2026-06-03",
+      "english": "I'm thinking of taking a cooking class this weekend. Would you like to join me?",
+      "korean": "이번 주말에 요리 클래스를 들을 생각인데, 같이 가실래요?",
+      "category": "daily",
+      "grammar_point": "I'm thinking of + -ing: 계획이나 고려 중인 일을 표현할 때 사용"
     }
   ]
 }

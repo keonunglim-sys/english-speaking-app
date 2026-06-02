@@ -1,0 +1,164 @@
+{
+  "date": "2026-06-03",
+  "day_of_week": "수요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "The Art of Work-Life Balance in Modern Korea",
+    "text": "Work-life balance has become a hot topic among Korean office workers in recent years. With the implementation of the 52-hour work week policy, many companies are encouraging employees to leave the office on time and pursue personal interests. However, achieving true work-life balance requires more than just policy changes. It demands a shift in mindset from both employers and employees. I've noticed that successful professionals don't just work harder; they work smarter. They prioritize tasks, delegate when possible, and most importantly, they set clear boundaries between work and personal time. For instance, I now turn off work notifications after 7 PM and dedicate weekends to family and hobbies. This approach has not only improved my mental health but also made me more productive during work hours. The key is to remember that being busy doesn't necessarily mean being productive. Quality time, whether at work or at home, matters more than quantity.",
+    "korean_summary": "한국 직장인들 사이에서 워라밸이 중요한 화두가 되고 있습니다. 진정한 워라밸 달성을 위해서는 정책 변화뿐만 아니라 사고방식의 전환이 필요합니다. 성공하는 직장인들은 더 열심히가 아닌 더 스마트하게 일하며, 업무와 개인 시간의 명확한 경계를 설정합니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea's Digital Nomad Visa Program Gains Momentum",
+    "text": "South Korea is set to launch its digital nomad visa program in early 2024, targeting remote workers from around the world. The program allows foreign professionals to live and work in Korea for up to two years while maintaining employment with overseas companies. Applicants must demonstrate an annual income of at least $65,000 and have one year of work experience in their field. The initiative is part of Korea's broader strategy to attract global talent and boost its economy. Popular destinations for digital nomads include Seoul's Gangnam district and Jeju Island, both offering co-working spaces and high-speed internet infrastructure. The Korean government expects this program to bring in approximately 10,000 digital nomads annually, contributing significantly to local tourism and the service industry. This move positions Korea as a competitive destination in the growing digital nomad market.",
+    "korean_summary": "한국이 2024년 초 디지털 노마드 비자 프로그램을 시작합니다. 해외 기업에서 근무하는 원격 근무자들이 최대 2년간 한국에서 거주하며 일할 수 있게 됩니다. 이 프로그램을 통해 연간 약 1만 명의 디지털 노마드 유치를 기대하고 있습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "work smarter, not harder",
+      "korean": "더 열심히가 아닌 더 스마트하게 일하다",
+      "example": "Instead of staying late every night, try to work smarter, not harder by prioritizing your most important tasks.",
+      "source": "입트영"
+    },
+    {
+      "english": "set clear boundaries",
+      "korean": "명확한 경계를 설정하다",
+      "example": "It's important to set clear boundaries between your work and personal life.",
+      "source": "입트영"
+    },
+    {
+      "english": "shift in mindset",
+      "korean": "사고방식의 전환",
+      "example": "Achieving success requires a fundamental shift in mindset about how we approach challenges.",
+      "source": "입트영"
+    },
+    {
+      "english": "turn off notifications",
+      "korean": "알림을 끄다",
+      "example": "I turn off all work notifications after 6 PM to maintain my work-life balance.",
+      "source": "입트영"
+    },
+    {
+      "english": "gain momentum",
+      "korean": "탄력을 받다, 추진력을 얻다",
+      "example": "The environmental movement is gaining momentum across the globe.",
+      "source": "귀트영"
+    },
+    {
+      "english": "demonstrate an annual income",
+      "korean": "연간 소득을 증명하다",
+      "example": "Visa applicants must demonstrate an annual income of at least $50,000.",
+      "source": "귀트영"
+    },
+    {
+      "english": "broader strategy",
+      "korean": "더 넓은 전략, 포괄적인 전략",
+      "example": "This policy is part of the company's broader strategy to expand into Asian markets.",
+      "source": "귀트영"
+    },
+    {
+      "english": "contribute significantly to",
+      "korean": "~에 상당히 기여하다",
+      "example": "Tourism contributes significantly to the local economy.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "Could we schedule this meeting for next week instead? I have a conflict with another appointment.",
+      "korean": "이 회의를 다음 주로 일정을 조정할 수 있을까요? 다른 약속과 겹칩니다.",
+      "category": "business",
+      "grammar_point": "Could we + 동사원형: 정중한 제안이나 요청을 할 때 사용"
+    },
+    {
+      "english": "I need to wrap up this project by Friday to meet the deadline.",
+      "korean": "마감일을 맞추기 위해 금요일까지 이 프로젝트를 마무리해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형: 필요성이나 의무를 나타내는 표현"
+    },
+    {
+      "english": "I'm thinking of taking a cooking class this weekend. Would you like to join me?",
+      "korean": "이번 주말에 요리 클래스를 들을 생각인데, 같이 가실래요?",
+      "category": "daily",
+      "grammar_point": "I'm thinking of + -ing: 계획이나 고려 중인 일을 표현할 때 사용"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "워라밸을 달성하기 위해 업무와 개인 시간의 명확한 경계를 설정하는 것이 중요합니다.",
+      "answer": "It's important to set clear boundaries between work and personal time to achieve work-life balance.",
+      "acceptable_keywords": [
+        "boundaries",
+        "work-life balance",
+        "important",
+        "personal time"
+      ],
+      "hint": "'경계를 설정하다'는 'set boundaries'로 표현합니다."
+    },
+    {
+      "type": "translation",
+      "korean": "이 프로그램은 한국 경제를 활성화하려는 더 넓은 전략의 일부입니다.",
+      "answer": "This program is part of a broader strategy to boost Korea's economy.",
+      "acceptable_keywords": [
+        "broader strategy",
+        "boost",
+        "economy",
+        "part of"
+      ],
+      "hint": "'더 넓은 전략'은 'broader strategy'로 표현합니다."
+    },
+    {
+      "type": "translation",
+      "korean": "더 열심히가 아닌 더 스마트하게 일하는 것이 성공의 열쇠입니다.",
+      "answer": "Working smarter, not harder is the key to success.",
+      "acceptable_keywords": [
+        "work smarter",
+        "not harder",
+        "key",
+        "success"
+      ],
+      "hint": "'더 스마트하게 일하다'는 'work smarter'로 표현합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The environmental movement is gaining ___ across the globe.",
+      "answer": "momentum",
+      "options": [
+        "momentum",
+        "popularity",
+        "attention",
+        "support"
+      ],
+      "korean": "환경 운동이 전 세계적으로 탄력을 받고 있습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "I turn off all work ___ after 6 PM to maintain my work-life balance.",
+      "answer": "notifications",
+      "options": [
+        "notifications",
+        "messages",
+        "emails",
+        "calls"
+      ],
+      "korean": "워라밸을 유지하기 위해 오후 6시 이후에는 모든 업무 알림을 끕니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Tourism ___ significantly to the local economy.",
+      "answer": "contributes",
+      "options": [
+        "contributes",
+        "adds",
+        "brings",
+        "gives"
+      ],
+      "korean": "관광업이 지역 경제에 상당히 기여합니다."
+    }
+  ],
+  "audio": {
+    "입트영": "",
+    "귀트영": ""
+  },
+  "audio_local": {}
+}
