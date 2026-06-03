@@ -1,0 +1,169 @@
+{
+  "date": "2026-06-04",
+  "day_of_week": "목요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Remote Work Challenges and Solutions",
+    "text": "Working from home has become the new normal for many office workers in Korea. While remote work offers flexibility and eliminates commuting time, it also presents unique challenges. One of the biggest issues is maintaining work-life balance. Without clear boundaries between office and home, many employees find themselves working longer hours than before. Another challenge is effective communication with team members. Virtual meetings can feel impersonal, and spontaneous discussions that happen naturally in an office setting are harder to replicate online. To overcome these obstacles, I've established a dedicated workspace at home and stick to regular working hours. I also make an effort to have informal video calls with colleagues to maintain relationships. Setting clear expectations with family members about work hours has been crucial. Despite the challenges, remote work has taught me valuable skills in self-management and digital communication that will benefit my career in the long run.",
+    "korean_summary": "재택근무는 유연성을 제공하지만 일과 삶의 균형 유지와 효과적인 소통에 어려움이 있습니다. 전용 업무 공간 마련, 규칙적인 근무시간 준수, 동료들과의 비공식적 화상통화 등의 해결책을 통해 이러한 문제들을 극복할 수 있습니다. 재택근무는 자기관리와 디지털 소통 능력을 기르는 좋은 기회이기도 합니다."
+  },
+  "gwitunyeong": {
+    "title": "AI Chatbots Transform Customer Service Industry",
+    "text": "Artificial intelligence chatbots are revolutionizing customer service across various industries worldwide. Recent studies show that AI-powered customer support systems can handle up to 80% of routine inquiries without human intervention. Major companies are investing heavily in this technology to reduce costs and improve response times. The chatbots can provide 24/7 support, answer frequently asked questions, and even process simple transactions. However, experts warn that the widespread adoption of AI customer service could lead to significant job displacement in call centers and support departments. While AI excels at handling routine tasks, complex issues still require human empathy and problem-solving skills. Companies are now focusing on retraining their customer service representatives to handle more sophisticated inquiries that require emotional intelligence and creative solutions.",
+    "korean_summary": "AI 챗봇이 고객서비스 업계를 변화시키고 있으며, 일반적인 문의의 80%까지 처리할 수 있습니다. 하지만 콜센터 일자리 감소에 대한 우려도 있어, 기업들은 직원들을 더 복잡한 업무를 담당하도록 재교육하고 있습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "work-life balance",
+      "korean": "일과 삶의 균형",
+      "example": "Maintaining a healthy work-life balance is essential for long-term productivity.",
+      "source": "입트영"
+    },
+    {
+      "english": "stick to regular hours",
+      "korean": "규칙적인 시간을 지키다",
+      "example": "I try to stick to regular hours even when working from home.",
+      "source": "입트영"
+    },
+    {
+      "english": "make an effort to",
+      "korean": "~하려고 노력하다",
+      "example": "We should make an effort to communicate more effectively with our team.",
+      "source": "입트영"
+    },
+    {
+      "english": "in the long run",
+      "korean": "장기적으로",
+      "example": "Investing in employee training will benefit the company in the long run.",
+      "source": "입트영"
+    },
+    {
+      "english": "without human intervention",
+      "korean": "인간의 개입 없이",
+      "example": "The system can process orders without human intervention.",
+      "source": "귀트영"
+    },
+    {
+      "english": "invest heavily in",
+      "korean": "~에 대규모로 투자하다",
+      "example": "Tech companies are investing heavily in artificial intelligence research.",
+      "source": "귀트영"
+    },
+    {
+      "english": "job displacement",
+      "korean": "일자리 대체/감소",
+      "example": "Automation may cause job displacement in manufacturing industries.",
+      "source": "귀트영"
+    },
+    {
+      "english": "focus on retraining",
+      "korean": "재교육에 집중하다",
+      "example": "The company decided to focus on retraining employees for new roles.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "Could you walk me through the quarterly report before the meeting?",
+      "korean": "회의 전에 분기 보고서를 설명해 주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "'walk someone through'는 차근차근 설명해주다는 의미의 구동사"
+    },
+    {
+      "english": "We need to streamline our approval process to improve efficiency.",
+      "korean": "효율성을 높이기 위해 승인 과정을 간소화해야 합니다.",
+      "category": "business",
+      "grammar_point": "'need to + 동사원형'으로 필요성을 표현하는 구조"
+    },
+    {
+      "english": "I'm thinking of taking up a new hobby during the weekends.",
+      "korean": "주말에 새로운 취미를 시작해볼 생각이에요.",
+      "category": "daily",
+      "grammar_point": "'be thinking of + -ing'는 계획이나 고려 중인 일을 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "재택근무는 통근 시간을 없애주지만 새로운 도전과제를 제시합니다.",
+      "answer": "Remote work eliminates commuting time but presents new challenges.",
+      "acceptable_keywords": [
+        "remote work",
+        "eliminates",
+        "commuting",
+        "presents",
+        "challenges"
+      ],
+      "hint": "'없애다'는 eliminate, '제시하다'는 present를 사용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "AI 기술에 대한 투자가 고객 서비스 응답 시간을 개선하고 있습니다.",
+      "answer": "Investment in AI technology is improving customer service response times.",
+      "acceptable_keywords": [
+        "investment",
+        "AI technology",
+        "improving",
+        "customer service",
+        "response times"
+      ],
+      "hint": "'투자'는 investment, '개선하다'는 improve를 사용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "복잡한 문제들은 여전히 인간의 공감능력이 필요합니다.",
+      "answer": "Complex issues still require human empathy.",
+      "acceptable_keywords": [
+        "complex issues",
+        "still",
+        "require",
+        "human empathy"
+      ],
+      "hint": "'필요로 하다'는 require를 사용하세요."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Many employees find themselves working longer hours when there are no clear ___ between office and home.",
+      "answer": "boundaries",
+      "options": [
+        "boundaries",
+        "differences",
+        "distances",
+        "relations"
+      ],
+      "korean": "사무실과 집 사이에 명확한 경계가 없을 때 많은 직원들이 더 오래 일하게 됩니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Companies are ___ their employees to handle more sophisticated customer inquiries.",
+      "answer": "retraining",
+      "options": [
+        "retraining",
+        "replacing",
+        "removing",
+        "recruiting"
+      ],
+      "korean": "회사들은 더 복잡한 고객 문의를 처리하도록 직원들을 재교육하고 있습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "AI chatbots can provide 24/7 support and process simple ___ automatically.",
+      "answer": "transactions",
+      "options": [
+        "transactions",
+        "conversations",
+        "translations",
+        "transformations"
+      ],
+      "korean": "AI 챗봇은 24시간 지원을 제공하고 간단한 거래를 자동으로 처리할 수 있습니다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66856&part_seq=26686",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66934&part_seq=26690"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-06-04.mp3",
+    "귀트영": "audio/귀트영_2026-06-04.mp3"
+  }
+}
