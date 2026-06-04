@@ -1,0 +1,170 @@
+{
+  "date": "2026-06-05",
+  "day_of_week": "금요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Remote Work and Work-Life Balance",
+    "text": "Remote work has become increasingly common in today's business world, especially after the pandemic. Many Korean companies have adopted flexible working arrangements, allowing employees to work from home several days a week. This shift has brought both opportunities and challenges. On the positive side, remote work eliminates commuting time and allows for better work-life balance. Employees can spend more time with their families and pursue personal interests. However, it also requires strong self-discipline and time management skills. Some people struggle with distractions at home or feel isolated from their colleagues. To make remote work successful, it's important to establish clear boundaries between work and personal life. Setting up a dedicated workspace, maintaining regular communication with team members, and sticking to a consistent schedule are key strategies. Companies also need to provide proper digital tools and support systems. As we move forward, finding the right balance between remote and in-office work will be crucial for both productivity and employee satisfaction.",
+    "korean_summary": "팬데믹 이후 원격근무가 일반화되면서 한국 기업들도 유연근무제를 도입하고 있습니다. 출퇴근 시간 절약과 일과 삶의 균형이라는 장점이 있지만, 자기관리와 동료와의 소통에 어려움도 있습니다. 성공적인 원격근무를 위해서는 명확한 경계 설정과 체계적인 일정 관리가 중요합니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea's AI Chip Export Surge",
+    "text": "South Korea's semiconductor exports reached a record high in December 2024, driven primarily by strong demand for AI chips. According to the Korea International Trade Association, chip exports jumped 42% compared to the same period last year, totaling $13.2 billion. This surge reflects the global boom in artificial intelligence applications and data center construction. Samsung and SK Hynix, the country's leading memory chip manufacturers, have benefited significantly from increased orders from tech giants like Nvidia, Apple, and Microsoft. The growth in AI chip demand has also boosted related industries, including semiconductor equipment and materials. Industry experts predict this trend will continue throughout 2025 as companies worldwide invest heavily in AI infrastructure. The Korean government has announced plans to invest $19 billion in semiconductor research and development over the next decade to maintain its competitive edge in the global market.",
+    "korean_summary": "AI 칩 수요 급증으로 한국의 반도체 수출이 2024년 12월 사상 최고치를 기록했습니다. 삼성과 SK하이닉스가 글로벌 기술 기업들의 주문 증가로 큰 혜택을 받았으며, 정부는 경쟁력 유지를 위해 향후 10년간 190억 달러를 반도체 R&D에 투자할 계획입니다."
+  },
+  "key_expressions": [
+    {
+      "english": "work-life balance",
+      "korean": "일과 삶의 균형",
+      "example": "Achieving a good work-life balance is essential for long-term career success.",
+      "source": "입트영"
+    },
+    {
+      "english": "flexible working arrangements",
+      "korean": "유연근무제",
+      "example": "Our company offers flexible working arrangements including remote work and flexible hours.",
+      "source": "입트영"
+    },
+    {
+      "english": "establish clear boundaries",
+      "korean": "명확한 경계를 설정하다",
+      "example": "It's important to establish clear boundaries between your personal and professional life.",
+      "source": "입트영"
+    },
+    {
+      "english": "dedicated workspace",
+      "korean": "전용 업무 공간",
+      "example": "Setting up a dedicated workspace at home helps improve productivity.",
+      "source": "입트영"
+    },
+    {
+      "english": "record high",
+      "korean": "사상 최고치",
+      "example": "The company's profits reached a record high this quarter.",
+      "source": "귀트영"
+    },
+    {
+      "english": "driven primarily by",
+      "korean": "주로 ~에 의해 견인된",
+      "example": "The economic growth was driven primarily by increased consumer spending.",
+      "source": "귀트영"
+    },
+    {
+      "english": "benefit significantly from",
+      "korean": "~로부터 상당한 혜택을 받다",
+      "example": "Local businesses benefited significantly from the new government policy.",
+      "source": "귀트영"
+    },
+    {
+      "english": "maintain competitive edge",
+      "korean": "경쟁우위를 유지하다",
+      "example": "Companies must innovate constantly to maintain their competitive edge.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "We need to schedule a follow-up meeting to discuss the project timeline.",
+      "korean": "프로젝트 일정을 논의하기 위해 후속 회의를 잡아야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형 (필요성 표현)"
+    },
+    {
+      "english": "Could you please send me the quarterly report by the end of the week?",
+      "korean": "주말까지 분기 보고서를 보내주시겠어요?",
+      "category": "business",
+      "grammar_point": "Could you + 동사원형 (정중한 요청)"
+    },
+    {
+      "english": "I'm planning to take a cooking class this weekend to try something new.",
+      "korean": "이번 주말에 새로운 것을 시도해보기 위해 요리 수업을 들을 계획입니다.",
+      "category": "daily",
+      "grammar_point": "be planning to + 동사원형 (계획 표현)"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "원격근무는 출퇴근 시간을 없애고 더 나은 일과 삶의 균형을 가능하게 합니다.",
+      "answer": "Remote work eliminates commuting time and allows for better work-life balance.",
+      "acceptable_keywords": [
+        "remote work",
+        "eliminates",
+        "commuting",
+        "allows",
+        "work-life balance"
+      ],
+      "hint": "'없애다'는 eliminate, '가능하게 하다'는 allow for를 사용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "반도체 수출이 전년 동기 대비 42% 증가했습니다.",
+      "answer": "Semiconductor exports jumped 42% compared to the same period last year.",
+      "acceptable_keywords": [
+        "semiconductor",
+        "exports",
+        "jumped",
+        "compared",
+        "same period"
+      ],
+      "hint": "'급증하다'는 jump, '전년 동기'는 same period last year를 사용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "명확한 경계를 설정하는 것이 성공적인 원격근무의 핵심입니다.",
+      "answer": "Establishing clear boundaries is key to successful remote work.",
+      "acceptable_keywords": [
+        "establishing",
+        "clear boundaries",
+        "key",
+        "successful",
+        "remote work"
+      ],
+      "hint": "동명사 establishing으로 시작하고, 'key to'구문을 사용하세요."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Companies must provide proper digital tools and ___ systems for remote workers.",
+      "answer": "support",
+      "options": [
+        "support",
+        "control",
+        "security",
+        "payment"
+      ],
+      "korean": "회사들은 원격근무자들을 위해 적절한 디지털 도구와 지원 시스템을 제공해야 합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The Korean government plans to invest heavily in semiconductor ___ and development.",
+      "answer": "research",
+      "options": [
+        "research",
+        "production",
+        "marketing",
+        "distribution"
+      ],
+      "korean": "한국 정부는 반도체 연구개발에 대규모 투자를 계획하고 있습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "This trend will continue as companies invest in AI ___.",
+      "answer": "infrastructure",
+      "options": [
+        "infrastructure",
+        "personnel",
+        "marketing",
+        "regulations"
+      ],
+      "korean": "기업들이 AI 인프라에 투자하면서 이러한 추세는 계속될 것입니다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66857&part_seq=26686",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66935&part_seq=26690"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-06-05.mp3",
+    "귀트영": "audio/귀트영_2026-06-05.mp3"
+  }
+}
