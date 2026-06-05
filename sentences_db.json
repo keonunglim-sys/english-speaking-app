@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-05",
-  "total_sentences": 162,
+  "last_updated": "2026-06-06",
+  "total_sentences": 165,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -1297,6 +1297,30 @@
       "korean": "이번 주말에 새로운 것을 시도해보기 위해 요리 수업을 들을 계획입니다.",
       "category": "daily",
       "grammar_point": "be planning to + 동사원형 (계획 표현)"
+    },
+    {
+      "id": "2026-06-06_sent_01",
+      "date_added": "2026-06-06",
+      "english": "I'll need to schedule a follow-up meeting to discuss the project timeline.",
+      "korean": "프로젝트 일정을 논의하기 위해 후속 회의를 예약해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형 (필요성 표현)"
+    },
+    {
+      "id": "2026-06-06_sent_02",
+      "date_added": "2026-06-06",
+      "english": "Could you please send me the updated budget report by end of day?",
+      "korean": "업데이트된 예산 보고서를 오늘 끝까지 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "Could you + 동사원형 (정중한 요청)"
+    },
+    {
+      "id": "2026-06-06_sent_03",
+      "date_added": "2026-06-06",
+      "english": "I'm thinking of trying that new restaurant everyone's been talking about.",
+      "korean": "모든 사람들이 얘기하고 있는 그 새로운 식당을 가봐야겠어요.",
+      "category": "daily",
+      "grammar_point": "현재진행형으로 미래 계획 표현"
     }
   ]
 }

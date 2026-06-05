@@ -1,0 +1,163 @@
+{
+  "date": "2026-06-06",
+  "day_of_week": "토요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Working from Home: A New Normal",
+    "text": "Working from home has become increasingly common in today's workplace. When the pandemic first started, many of us struggled to adapt to remote work. I remember feeling disconnected from my colleagues and finding it hard to maintain work-life balance. However, over time, I've learned to appreciate the benefits of working from home. I save commuting time and can create a more comfortable work environment. The key is establishing a proper routine and setting clear boundaries between work and personal time. I start my day by getting dressed as if I'm going to the office, which helps me get into work mode. I also make sure to take regular breaks and step away from my computer. Communication with team members has actually improved through video calls and instant messaging. While I sometimes miss the energy of being in the office, working from home has taught me valuable skills about self-discipline and time management. It's definitely changed how I view work flexibility.",
+    "korean_summary": "재택근무가 팬데믹 이후 새로운 표준이 되었으며, 처음에는 적응이 어려웠지만 시간이 지나면서 통근 시간 절약과 편안한 근무 환경 등의 장점을 발견했습니다. 성공적인 재택근무를 위해서는 적절한 루틴 설정과 업무-개인 시간의 명확한 경계가 중요합니다. 재택근무를 통해 자기 훈련과 시간 관리에 대한 귀중한 기술을 배웠으며, 업무 유연성에 대한 관점이 변화했습니다."
+  },
+  "gwitunyeong": {
+    "title": "AI Chatbots Transform Customer Service Industry",
+    "text": "Artificial intelligence chatbots are revolutionizing customer service across various industries. Major companies are increasingly adopting AI-powered chat systems to handle customer inquiries 24/7. These advanced chatbots can understand natural language, process complaints, and provide instant solutions to common problems. According to recent industry reports, businesses using AI chatbots have seen a 40% reduction in customer service costs while improving response times significantly. However, the technology also raises concerns about job displacement for human customer service representatives. Some customers still prefer speaking with human agents for complex issues that require empathy and nuanced understanding. Companies are finding that the most effective approach combines AI efficiency with human expertise, using chatbots for initial inquiries and routing complex cases to human specialists. As AI technology continues to evolve, the customer service landscape is expected to become even more automated while maintaining the human touch where it matters most.",
+    "korean_summary": "AI 챗봇이 다양한 산업 분야의 고객 서비스를 혁신하고 있으며, 24시간 고객 문의를 처리할 수 있어 비용을 40% 절감하고 응답 시간을 크게 개선했습니다. 그러나 인간 상담원의 일자리 대체에 대한 우려도 있어, 가장 효과적인 접근법은 AI의 효율성과 인간의 전문성을 결합하는 것으로 나타났습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "work-life balance",
+      "korean": "일과 삶의 균형",
+      "example": "Maintaining work-life balance is crucial for long-term productivity.",
+      "source": "입트영"
+    },
+    {
+      "english": "get into work mode",
+      "korean": "업무 모드로 들어가다",
+      "example": "I need my morning coffee to get into work mode.",
+      "source": "입트영"
+    },
+    {
+      "english": "set clear boundaries",
+      "korean": "명확한 경계를 설정하다",
+      "example": "It's important to set clear boundaries when working from home.",
+      "source": "입트영"
+    },
+    {
+      "english": "step away from",
+      "korean": "~에서 벗어나다, 떨어지다",
+      "example": "I try to step away from my desk every hour.",
+      "source": "입트영"
+    },
+    {
+      "english": "around the clock",
+      "korean": "24시간 내내, 밤낮없이",
+      "example": "The AI chatbot provides customer support around the clock.",
+      "source": "귀트영"
+    },
+    {
+      "english": "process complaints",
+      "korean": "불만 사항을 처리하다",
+      "example": "The new system can process complaints more efficiently.",
+      "source": "귀트영"
+    },
+    {
+      "english": "job displacement",
+      "korean": "일자리 대체",
+      "example": "Automation may lead to job displacement in some industries.",
+      "source": "귀트영"
+    },
+    {
+      "english": "nuanced understanding",
+      "korean": "미묘한 차이를 아는 이해력",
+      "example": "Complex issues require nuanced understanding from human agents.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I'll need to schedule a follow-up meeting to discuss the project timeline.",
+      "korean": "프로젝트 일정을 논의하기 위해 후속 회의를 예약해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형 (필요성 표현)"
+    },
+    {
+      "english": "Could you please send me the updated budget report by end of day?",
+      "korean": "업데이트된 예산 보고서를 오늘 끝까지 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "Could you + 동사원형 (정중한 요청)"
+    },
+    {
+      "english": "I'm thinking of trying that new restaurant everyone's been talking about.",
+      "korean": "모든 사람들이 얘기하고 있는 그 새로운 식당을 가봐야겠어요.",
+      "category": "daily",
+      "grammar_point": "현재진행형으로 미래 계획 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "재택근무를 하면서 업무와 개인 시간의 경계를 설정하는 것이 중요합니다.",
+      "answer": "It's important to set boundaries between work and personal time when working from home.",
+      "acceptable_keywords": [
+        "boundaries",
+        "work",
+        "personal time",
+        "working from home"
+      ],
+      "hint": "'경계를 설정하다'는 'set boundaries'로 표현합니다."
+    },
+    {
+      "type": "translation",
+      "korean": "AI 챗봇은 24시간 고객 문의를 처리할 수 있습니다.",
+      "answer": "AI chatbots can handle customer inquiries 24/7.",
+      "acceptable_keywords": [
+        "chatbots",
+        "handle",
+        "customer inquiries",
+        "24/7"
+      ],
+      "hint": "'24시간'은 '24/7'로 줄여서 표현할 수 있습니다."
+    },
+    {
+      "type": "translation",
+      "korean": "프로젝트 일정에 대해 후속 회의를 예약해야 합니다.",
+      "answer": "We need to schedule a follow-up meeting about the project timeline.",
+      "acceptable_keywords": [
+        "schedule",
+        "follow-up meeting",
+        "project timeline"
+      ],
+      "hint": "'후속 회의'는 'follow-up meeting'입니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "I save commuting time and can create a more _______ work environment.",
+      "answer": "comfortable",
+      "options": [
+        "comfortable",
+        "difficult",
+        "expensive",
+        "dangerous"
+      ],
+      "korean": "통근 시간을 절약하고 더 편안한 근무 환경을 만들 수 있습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "These advanced chatbots can understand natural language and _______ complaints.",
+      "answer": "process",
+      "options": [
+        "process",
+        "ignore",
+        "create",
+        "avoid"
+      ],
+      "korean": "이러한 고급 챗봇들은 자연어를 이해하고 불만사항을 처리할 수 있습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Companies are finding that the most effective approach _______ AI efficiency with human expertise.",
+      "answer": "combines",
+      "options": [
+        "combines",
+        "separates",
+        "replaces",
+        "eliminates"
+      ],
+      "korean": "기업들은 가장 효과적인 접근법이 AI의 효율성과 인간의 전문성을 결합하는 것임을 발견하고 있습니다."
+    }
+  ],
+  "audio": {
+    "입트영": "",
+    "귀트영": ""
+  },
+  "audio_local": {}
+}
