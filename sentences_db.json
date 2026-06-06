@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-06",
-  "total_sentences": 165,
+  "last_updated": "2026-06-07",
+  "total_sentences": 168,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -1321,6 +1321,30 @@
       "korean": "모든 사람들이 얘기하고 있는 그 새로운 식당을 가봐야겠어요.",
       "category": "daily",
       "grammar_point": "현재진행형으로 미래 계획 표현"
+    },
+    {
+      "id": "2026-06-07_sent_01",
+      "date_added": "2026-06-07",
+      "english": "I need to schedule a meeting with the development team to discuss the project timeline.",
+      "korean": "프로젝트 일정을 논의하기 위해 개발팀과 회의를 잡아야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형: ~해야 한다"
+    },
+    {
+      "id": "2026-06-07_sent_02",
+      "date_added": "2026-06-07",
+      "english": "Could you please send me the quarterly report by the end of this week?",
+      "korean": "이번 주말까지 분기 보고서를 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "Could you please + 동사원형: 정중한 부탁 표현"
+    },
+    {
+      "id": "2026-06-07_sent_03",
+      "date_added": "2026-06-07",
+      "english": "I'm planning to try that new restaurant everyone's been talking about.",
+      "korean": "모든 사람들이 얘기하고 있는 그 새로운 식당에 가볼 계획이에요.",
+      "category": "daily",
+      "grammar_point": "현재완료 진행형: have/has been + ~ing"
     }
   ]
 }
