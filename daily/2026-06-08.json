@@ -1,0 +1,164 @@
+{
+  "date": "2026-06-08",
+  "day_of_week": "월요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Effective Time Management at Work",
+    "text": "Managing time effectively has become one of the most crucial skills in today's fast-paced work environment. As deadlines pile up and responsibilities multiply, I've learned that successful time management isn't just about working harder—it's about working smarter. One strategy that has transformed my productivity is time blocking. Instead of jumping between tasks randomly, I allocate specific time slots for different types of work. For instance, I reserve my morning hours for deep, focused work when my energy is at its peak, and schedule meetings and administrative tasks for the afternoon. Another game-changer has been learning to say no. It's tempting to take on every project that comes your way, but overcommitting leads to burnout and poor-quality work. I now carefully evaluate each request against my priorities and politely decline when necessary. Additionally, I've embraced the two-minute rule: if a task takes less than two minutes to complete, I do it immediately rather than adding it to my ever-growing to-do list. These simple strategies have dramatically improved my work-life balance and job satisfaction.",
+    "korean_summary": "효과적인 시간 관리는 현대 직장에서 가장 중요한 스킬 중 하나가 되었습니다. 시간 블로킹, 거절하는 법 배우기, 2분 규칙 등의 전략을 통해 더 스마트하게 일할 수 있습니다. 이러한 방법들은 업무-생활 균형과 직무 만족도를 크게 향상시켜줍니다."
+  },
+  "gwitunyeong": {
+    "title": "Global Shift Toward Four-Day Work Week",
+    "text": "Companies worldwide are increasingly experimenting with four-day work weeks as a response to changing employee expectations and the lessons learned from the pandemic. Recent trials in countries including the UK, Iceland, and Belgium have shown promising results, with many organizations reporting maintained productivity levels despite reduced working hours. Microsoft Japan famously reported a 40% productivity boost after implementing a four-day work week in 2019. The concept is gaining traction as employers recognize the importance of employee well-being and work-life balance in attracting and retaining talent. However, critics argue that not all industries can adapt to this model, particularly those requiring continuous customer service or manufacturing operations. As remote work becomes more normalized, the four-day work week represents another significant shift in how we define traditional employment. Many experts predict that flexible work arrangements, including shortened work weeks, will become standard practice in the coming decade.",
+    "korean_summary": "전 세계 기업들이 직원들의 변화하는 기대와 팬데믹의 교훈에 대응하여 주 4일 근무제를 실험하고 있습니다. 영국, 아이슬란드, 벨기에 등에서의 시범 운영은 근무 시간이 줄었음에도 생산성이 유지되는 긍정적인 결과를 보여주었습니다. 전문가들은 유연한 근무 형태가 앞으로 10년 내에 표준이 될 것으로 예측합니다."
+  },
+  "key_expressions": [
+    {
+      "english": "time blocking",
+      "korean": "시간 블로킹 (특정 업무를 위해 시간대를 미리 정해두는 것)",
+      "example": "I use time blocking to dedicate my mornings to creative work.",
+      "source": "입트영"
+    },
+    {
+      "english": "work-life balance",
+      "korean": "일과 생활의 균형",
+      "example": "The company's flexible policies have greatly improved my work-life balance.",
+      "source": "입트영"
+    },
+    {
+      "english": "overcommitting",
+      "korean": "과도한 약속/업무를 맡는 것",
+      "example": "Overcommitting to projects often leads to burnout and stress.",
+      "source": "입트영"
+    },
+    {
+      "english": "two-minute rule",
+      "korean": "2분 규칙 (2분 이내로 끝날 일은 바로 처리하는 원칙)",
+      "example": "Following the two-minute rule helps me stay on top of small tasks.",
+      "source": "입트영"
+    },
+    {
+      "english": "gaining traction",
+      "korean": "관심을 끌고 있다, 추진력을 얻고 있다",
+      "example": "The idea of remote work is gaining traction among startups.",
+      "source": "귀트영"
+    },
+    {
+      "english": "productivity boost",
+      "korean": "생산성 향상",
+      "example": "The new software provided a significant productivity boost for our team.",
+      "source": "귀트영"
+    },
+    {
+      "english": "attracting and retaining talent",
+      "korean": "인재 유치 및 유지",
+      "example": "Competitive benefits are essential for attracting and retaining talent.",
+      "source": "귀트영"
+    },
+    {
+      "english": "standard practice",
+      "korean": "표준 관행, 일반적인 관례",
+      "example": "Video interviews have become standard practice in many industries.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I need to prioritize my tasks based on their urgency and importance.",
+      "korean": "긴급성과 중요도에 따라 업무의 우선순위를 정해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형: ~해야 한다 (필요성 표현)"
+    },
+    {
+      "english": "Could we schedule a follow-up meeting to discuss the project details?",
+      "korean": "프로젝트 세부사항을 논의하기 위한 후속 미팅을 잡을 수 있을까요?",
+      "category": "business",
+      "grammar_point": "Could we + 동사원형: 정중한 제안이나 요청 표현"
+    },
+    {
+      "english": "I'm trying to cut down on screen time before bed to sleep better.",
+      "korean": "더 잘 자기 위해 잠자리에 들기 전 스크린 시간을 줄이려고 노력하고 있어요.",
+      "category": "daily",
+      "grammar_point": "cut down on: ~을 줄이다, 감소시키다"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "업무량이 늘어나면서 시간 관리가 더욱 중요해졌습니다.",
+      "answer": "Time management has become more important as workloads have increased.",
+      "acceptable_keywords": [
+        "time management",
+        "important",
+        "workload",
+        "increased"
+      ],
+      "hint": "'~해졌다'는 'has become' 또는 'has got'으로 표현"
+    },
+    {
+      "type": "translation",
+      "korean": "우리 회사는 직원들의 복지를 위해 유연근무제를 도입했습니다.",
+      "answer": "Our company introduced flexible work arrangements for employee welfare.",
+      "acceptable_keywords": [
+        "company",
+        "flexible work",
+        "employee welfare",
+        "introduced"
+      ],
+      "hint": "'도입하다'는 'introduce', 'implement', 'adopt' 등으로 표현 가능"
+    },
+    {
+      "type": "translation",
+      "korean": "생산성을 유지하면서도 근무시간을 줄일 수 있다는 것이 입증되었습니다.",
+      "answer": "It has been proven that working hours can be reduced while maintaining productivity.",
+      "acceptable_keywords": [
+        "proven",
+        "working hours",
+        "reduced",
+        "maintaining productivity"
+      ],
+      "hint": "'입증되다'는 수동형 'has been proven' 사용"
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Learning to say no is crucial for avoiding ___ and maintaining work quality.",
+      "answer": "burnout",
+      "options": [
+        "burnout",
+        "promotion",
+        "meeting",
+        "deadline"
+      ],
+      "korean": "'아니오'라고 말하는 것을 배우는 것은 ___을 피하고 업무 품질을 유지하는 데 중요합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Many companies are ___ with shorter work weeks to improve employee satisfaction.",
+      "answer": "experimenting",
+      "options": [
+        "experimenting",
+        "competing",
+        "struggling",
+        "complaining"
+      ],
+      "korean": "많은 회사들이 직원 만족도를 향상시키기 위해 짧은 근무주를 ___하고 있습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The four-day work week is ___ momentum as more trial results show positive outcomes.",
+      "answer": "gaining",
+      "options": [
+        "gaining",
+        "losing",
+        "avoiding",
+        "missing"
+      ],
+      "korean": "더 많은 시범 운영 결과가 긍정적인 성과를 보여주면서 주 4일 근무제가 ___하고 있습니다."
+    }
+  ],
+  "audio": {
+    "입트영": "",
+    "귀트영": ""
+  },
+  "audio_local": {}
+}

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-07",
-  "total_sentences": 168,
+  "last_updated": "2026-06-08",
+  "total_sentences": 171,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -1345,6 +1345,30 @@
       "korean": "모든 사람들이 얘기하고 있는 그 새로운 식당에 가볼 계획이에요.",
       "category": "daily",
       "grammar_point": "현재완료 진행형: have/has been + ~ing"
+    },
+    {
+      "id": "2026-06-08_sent_01",
+      "date_added": "2026-06-08",
+      "english": "I need to prioritize my tasks based on their urgency and importance.",
+      "korean": "긴급성과 중요도에 따라 업무의 우선순위를 정해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형: ~해야 한다 (필요성 표현)"
+    },
+    {
+      "id": "2026-06-08_sent_02",
+      "date_added": "2026-06-08",
+      "english": "Could we schedule a follow-up meeting to discuss the project details?",
+      "korean": "프로젝트 세부사항을 논의하기 위한 후속 미팅을 잡을 수 있을까요?",
+      "category": "business",
+      "grammar_point": "Could we + 동사원형: 정중한 제안이나 요청 표현"
+    },
+    {
+      "id": "2026-06-08_sent_03",
+      "date_added": "2026-06-08",
+      "english": "I'm trying to cut down on screen time before bed to sleep better.",
+      "korean": "더 잘 자기 위해 잠자리에 들기 전 스크린 시간을 줄이려고 노력하고 있어요.",
+      "category": "daily",
+      "grammar_point": "cut down on: ~을 줄이다, 감소시키다"
     }
   ]
 }
