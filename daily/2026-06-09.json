@@ -1,0 +1,161 @@
+{
+  "date": "2026-06-09",
+  "day_of_week": "화요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Work-Life Balance in Korean Corporate Culture",
+    "text": "Work-life balance has become a hot topic in Korean corporate culture. In the past, working long hours was considered a virtue, and staying late at the office was seen as dedication. However, younger generations are now prioritizing personal time and well-being over traditional work expectations. Many companies are implementing flexible working hours and remote work policies to attract and retain talent. The government has also introduced the 52-hour workweek to protect employees' rights. Despite these changes, some traditional companies still maintain the old-school mindset where face time is valued more than productivity. The key is finding a balance that works for both employees and employers. Companies that embrace work-life balance often see improved employee satisfaction, reduced turnover rates, and higher productivity. As Korea continues to evolve, the definition of success is shifting from just career achievements to overall life satisfaction. This cultural transformation is essential for creating a healthier and more sustainable work environment.",
+    "korean_summary": "한국 기업 문화에서 워라밸이 중요한 화두가 되고 있습니다. 과거의 장시간 근무 문화에서 벗어나 젊은 세대는 개인 시간과 웰빙을 우선시하고 있으며, 많은 기업들이 유연근무제와 재택근무를 도입하고 있습니다. 워라밸을 받아들이는 기업들이 더 나은 성과를 보이고 있으며, 성공의 정의가 단순한 커리어 성취에서 전반적인 삶의 만족도로 변화하고 있습니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea's Digital Healthcare Revolution",
+    "text": "South Korea is leading a digital healthcare revolution with the integration of artificial intelligence and telemedicine services. The government recently announced a $2.3 billion investment plan to digitize the healthcare system by 2027. Major hospitals are now using AI-powered diagnostic tools that can detect diseases with remarkable accuracy. Telemedicine, which expanded rapidly during the COVID-19 pandemic, has become a permanent fixture in Korean healthcare. Patients can now consult doctors remotely through smartphone apps and receive prescriptions digitally. The aging population and shortage of medical professionals in rural areas have accelerated this digital transformation. Samsung and LG have partnered with hospitals to develop smart medical devices that monitor patients' vital signs in real-time. However, concerns about data privacy and the digital divide among elderly patients remain challenges that need to be addressed.",
+    "korean_summary": "한국이 AI와 원격의료 서비스를 통합하여 디지털 헬스케어 혁명을 주도하고 있습니다. 정부는 2027년까지 의료 시스템 디지털화를 위해 23억 달러를 투자한다고 발표했으며, 주요 병원들이 AI 진단 도구를 활용하고 있습니다. 고령화와 의료진 부족이 이러한 디지털 전환을 가속화하고 있지만, 데이터 프라이버시와 고령층의 디지털 격차 문제는 여전히 해결해야 할 과제입니다."
+  },
+  "key_expressions": [
+    {
+      "english": "hot topic",
+      "korean": "화두, 뜨거운 이슈",
+      "example": "Remote work has become a hot topic in our company lately.",
+      "source": "입트영"
+    },
+    {
+      "english": "old-school mindset",
+      "korean": "구식 사고방식",
+      "example": "Some managers still have an old-school mindset about office attendance.",
+      "source": "입트영"
+    },
+    {
+      "english": "face time",
+      "korean": "사무실에서 보내는 시간, 상사 앞에서 보이는 시간",
+      "example": "The company values results over face time in the office.",
+      "source": "입트영"
+    },
+    {
+      "english": "reduced turnover rates",
+      "korean": "감소된 이직률",
+      "example": "Companies with good benefits often have reduced turnover rates.",
+      "source": "입트영"
+    },
+    {
+      "english": "remarkable accuracy",
+      "korean": "놀라운 정확도",
+      "example": "The new AI system diagnoses diseases with remarkable accuracy.",
+      "source": "귀트영"
+    },
+    {
+      "english": "permanent fixture",
+      "korean": "영구적인 요소, 고정적인 부분",
+      "example": "Online meetings have become a permanent fixture in our work routine.",
+      "source": "귀트영"
+    },
+    {
+      "english": "digital divide",
+      "korean": "디지털 격차",
+      "example": "The digital divide between generations affects technology adoption.",
+      "source": "귀트영"
+    },
+    {
+      "english": "vital signs",
+      "korean": "생체 신호, 활력 징후",
+      "example": "The smart watch can monitor your vital signs throughout the day.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I need to finish this report by the end of the day, but I also want to maintain my work-life balance.",
+      "korean": "오늘 안에 이 보고서를 끝내야 하지만, 워라밸도 유지하고 싶어요.",
+      "category": "business",
+      "grammar_point": "대조를 나타내는 but 사용법"
+    },
+    {
+      "english": "Our company has implemented flexible working hours to improve employee satisfaction.",
+      "korean": "우리 회사는 직원 만족도 향상을 위해 유연근무제를 도입했습니다.",
+      "category": "business",
+      "grammar_point": "현재완료 시제 (has implemented)"
+    },
+    {
+      "english": "I prefer consulting my doctor through telemedicine because it saves time and is more convenient.",
+      "korean": "원격진료로 의사와 상담하는 것을 선호해요. 시간도 절약되고 더 편리하거든요.",
+      "category": "daily",
+      "grammar_point": "이유를 나타내는 because 절"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "워라밸이 요즘 우리 회사의 뜨거운 화제입니다.",
+      "answer": "Work-life balance is a hot topic in our company these days.",
+      "acceptable_keywords": [
+        "work-life balance",
+        "hot topic",
+        "company"
+      ],
+      "hint": "'뜨거운 화제'에 해당하는 영어 표현을 사용하세요."
+    },
+    {
+      "type": "translation",
+      "korean": "AI 진단 도구는 놀라운 정확도로 질병을 감지할 수 있습니다.",
+      "answer": "AI diagnostic tools can detect diseases with remarkable accuracy.",
+      "acceptable_keywords": [
+        "AI diagnostic tools",
+        "detect",
+        "remarkable accuracy"
+      ],
+      "hint": "'놀라운 정확도'를 영어로 어떻게 표현할까요?"
+    },
+    {
+      "type": "translation",
+      "korean": "원격의료는 팬데믹 이후 우리 의료 시스템의 영구적인 요소가 되었습니다.",
+      "answer": "Telemedicine has become a permanent fixture in our healthcare system after the pandemic.",
+      "acceptable_keywords": [
+        "telemedicine",
+        "permanent fixture",
+        "healthcare system"
+      ],
+      "hint": "'영구적인 요소'에 해당하는 영어 표현을 생각해보세요."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Many companies are implementing flexible working hours to attract and _____ talent.",
+      "answer": "retain",
+      "options": [
+        "retain",
+        "obtain",
+        "maintain",
+        "sustain"
+      ],
+      "korean": "많은 회사들이 인재를 유치하고 유지하기 위해 유연근무제를 도입하고 있다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The _____ population and shortage of medical professionals have accelerated digital transformation.",
+      "answer": "aging",
+      "options": [
+        "aging",
+        "growing",
+        "increasing",
+        "expanding"
+      ],
+      "korean": "고령 인구와 의료진 부족이 디지털 전환을 가속화했다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Companies that embrace work-life balance often see improved employee satisfaction and reduced _____ rates.",
+      "answer": "turnover",
+      "options": [
+        "turnover",
+        "overtime",
+        "transfer",
+        "training"
+      ],
+      "korean": "워라밸을 받아들이는 회사들은 종종 직원 만족도 향상과 이직률 감소를 경험한다."
+    }
+  ],
+  "audio": {
+    "입트영": "",
+    "귀트영": ""
+  },
+  "audio_local": {}
+}

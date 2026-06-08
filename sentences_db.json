@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-08",
-  "total_sentences": 171,
+  "last_updated": "2026-06-09",
+  "total_sentences": 174,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -1369,6 +1369,30 @@
       "korean": "더 잘 자기 위해 잠자리에 들기 전 스크린 시간을 줄이려고 노력하고 있어요.",
       "category": "daily",
       "grammar_point": "cut down on: ~을 줄이다, 감소시키다"
+    },
+    {
+      "id": "2026-06-09_sent_01",
+      "date_added": "2026-06-09",
+      "english": "I need to finish this report by the end of the day, but I also want to maintain my work-life balance.",
+      "korean": "오늘 안에 이 보고서를 끝내야 하지만, 워라밸도 유지하고 싶어요.",
+      "category": "business",
+      "grammar_point": "대조를 나타내는 but 사용법"
+    },
+    {
+      "id": "2026-06-09_sent_02",
+      "date_added": "2026-06-09",
+      "english": "Our company has implemented flexible working hours to improve employee satisfaction.",
+      "korean": "우리 회사는 직원 만족도 향상을 위해 유연근무제를 도입했습니다.",
+      "category": "business",
+      "grammar_point": "현재완료 시제 (has implemented)"
+    },
+    {
+      "id": "2026-06-09_sent_03",
+      "date_added": "2026-06-09",
+      "english": "I prefer consulting my doctor through telemedicine because it saves time and is more convenient.",
+      "korean": "원격진료로 의사와 상담하는 것을 선호해요. 시간도 절약되고 더 편리하거든요.",
+      "category": "daily",
+      "grammar_point": "이유를 나타내는 because 절"
     }
   ]
 }
