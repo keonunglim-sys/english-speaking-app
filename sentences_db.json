@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-09",
-  "total_sentences": 174,
+  "last_updated": "2026-06-10",
+  "total_sentences": 177,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -1393,6 +1393,30 @@
       "korean": "원격진료로 의사와 상담하는 것을 선호해요. 시간도 절약되고 더 편리하거든요.",
       "category": "daily",
       "grammar_point": "이유를 나타내는 because 절"
+    },
+    {
+      "id": "2026-06-10_sent_01",
+      "date_added": "2026-06-10",
+      "english": "Could we reschedule this meeting to allow more time for preparation?",
+      "korean": "준비 시간을 더 확보하기 위해 이 회의를 다시 잡을 수 있을까요?",
+      "category": "business",
+      "grammar_point": "Could we + 동사원형: 정중한 제안이나 요청을 할 때 사용"
+    },
+    {
+      "id": "2026-06-10_sent_02",
+      "date_added": "2026-06-10",
+      "english": "I need to block out some time for focused work this afternoon.",
+      "korean": "오늘 오후에 집중 업무를 위한 시간을 확보해야 합니다.",
+      "category": "business",
+      "grammar_point": "block out time: 특정 시간을 미리 비워두다/확보하다"
+    },
+    {
+      "id": "2026-06-10_sent_03",
+      "date_added": "2026-06-10",
+      "english": "I'm trying to cut down on unnecessary meetings to be more productive.",
+      "korean": "더 생산적이 되기 위해 불필요한 회의를 줄이려고 노력하고 있어요.",
+      "category": "daily",
+      "grammar_point": "cut down on: ~을 줄이다, 감소시키다"
     }
   ]
 }
