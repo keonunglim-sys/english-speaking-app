@@ -1,0 +1,165 @@
+{
+  "date": "2026-06-11",
+  "day_of_week": "목요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Video Conference Etiquette",
+    "text": "Video conferences have become an essential part of our work routine since the pandemic. However, many people still struggle with proper video call etiquette. First and foremost, always test your audio and video before joining important meetings. There's nothing more embarrassing than spending the first five minutes trying to unmute yourself while everyone waits. Secondly, find a quiet, well-lit space with a professional background. Your colleagues don't need to see your unmade bed or hear your neighbor's dog barking. During the meeting, mute yourself when you're not speaking to avoid background noise. Make eye contact by looking at the camera, not the screen, when you're presenting or responding to questions. Finally, dress appropriately from head to toe - you never know when you might need to stand up unexpectedly. These simple guidelines can make a significant difference in how professional and prepared you appear to your colleagues and clients during virtual meetings.",
+    "korean_summary": "팬데믹 이후 화상회의가 업무의 필수 요소가 되었지만, 많은 사람들이 아직 올바른 화상회의 예절을 익히지 못하고 있습니다. 중요한 회의 전 오디오와 비디오를 미리 테스트하고, 조용하고 밝은 전문적인 배경의 공간을 찾아야 합니다. 회의 중에는 말하지 않을 때 음소거를 하고, 카메라를 보며 눈맞춤을 하며, 적절한 복장을 갖춰야 합니다. 이런 간단한 가이드라인들이 동료와 고객들에게 전문적이고 준비된 모습을 보여주는 데 큰 차이를 만들 수 있습니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea's Four-Day Workweek Trial",
+    "text": "South Korea is piloting a four-day workweek program in select companies and government agencies throughout 2024. The initiative aims to improve work-life balance and boost productivity in a country known for its long working hours. Under the trial program, employees work 32 hours per week instead of the traditional 40 hours, while maintaining the same salary level. Early results show promising outcomes, with participating companies reporting reduced employee burnout and increased job satisfaction. However, some concerns remain about meeting deadlines and maintaining competitiveness in global markets. The program is part of the government's broader effort to address declining birth rates and attract younger talent to the workforce. If successful, the four-day workweek could become a permanent policy, positioning South Korea as a leader in progressive workplace reforms in Asia.",
+    "korean_summary": "한국이 2024년 동안 선별된 기업과 정부기관에서 주 4일 근무제 시범 프로그램을 진행하고 있습니다. 이 프로그램은 장시간 근무로 유명한 한국에서 일과 삶의 균형을 개선하고 생산성을 높이는 것을 목표로 합니다. 초기 결과는 직원 번아웃 감소와 직무 만족도 증가 등 긍정적인 성과를 보여주고 있으며, 성공할 경우 영구 정책이 될 수 있습니다."
+  },
+  "key_expressions": [
+    {
+      "english": "first and foremost",
+      "korean": "무엇보다도, 가장 먼저",
+      "example": "First and foremost, we need to address the budget concerns before moving forward.",
+      "source": "입트영"
+    },
+    {
+      "english": "from head to toe",
+      "korean": "머리부터 발끝까지, 완전히",
+      "example": "She was dressed professionally from head to toe for the job interview.",
+      "source": "입트영"
+    },
+    {
+      "english": "make a significant difference",
+      "korean": "상당한 차이를 만들다, 큰 영향을 주다",
+      "example": "Regular exercise can make a significant difference in your overall health.",
+      "source": "입트영"
+    },
+    {
+      "english": "there's nothing more embarrassing than",
+      "korean": "~보다 더 당황스러운 것은 없다",
+      "example": "There's nothing more embarrassing than forgetting someone's name right after being introduced.",
+      "source": "입트영"
+    },
+    {
+      "english": "pilot a program",
+      "korean": "프로그램을 시범 운영하다",
+      "example": "The company decided to pilot a flexible working program for six months.",
+      "source": "귀트영"
+    },
+    {
+      "english": "work-life balance",
+      "korean": "일과 삶의 균형",
+      "example": "Many millennials prioritize work-life balance over high salaries.",
+      "source": "귀트영"
+    },
+    {
+      "english": "promising outcomes",
+      "korean": "유망한 결과, 긍정적인 성과",
+      "example": "The new marketing strategy has shown promising outcomes in the first quarter.",
+      "source": "귀트영"
+    },
+    {
+      "english": "address declining birth rates",
+      "korean": "출산율 저하 문제를 해결하다",
+      "example": "The government introduced new policies to address declining birth rates.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "Could you please share your screen so we can review the presentation together?",
+      "korean": "발표 자료를 함께 검토할 수 있도록 화면을 공유해 주시겠어요?",
+      "category": "business",
+      "grammar_point": "Could you please + 동사원형: 정중한 요청 표현"
+    },
+    {
+      "english": "I'm having trouble with my audio connection. Can everyone hear me clearly now?",
+      "korean": "오디오 연결에 문제가 있어서요. 지금 제 목소리가 잘 들리나요?",
+      "category": "business",
+      "grammar_point": "현재진행형(be having trouble): 현재 겪고 있는 문제 표현"
+    },
+    {
+      "english": "I usually do my grocery shopping on weekends to save time during weekdays.",
+      "korean": "평일에 시간을 절약하기 위해 보통 주말에 장을 봅니다.",
+      "category": "daily",
+      "grammar_point": "to부정사의 목적 용법: ~하기 위해서"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "무엇보다도 우리는 예산 문제를 먼저 해결해야 합니다.",
+      "answer": "First and foremost, we need to address the budget issue.",
+      "acceptable_keywords": [
+        "first and foremost",
+        "address",
+        "budget",
+        "issue"
+      ],
+      "hint": "'무엇보다도'는 'First and foremost'로 표현합니다."
+    },
+    {
+      "type": "translation",
+      "korean": "이 새로운 정책은 일과 삶의 균형을 개선하는 데 큰 차이를 만들 것입니다.",
+      "answer": "This new policy will make a significant difference in improving work-life balance.",
+      "acceptable_keywords": [
+        "make a significant difference",
+        "work-life balance",
+        "improving"
+      ],
+      "hint": "'큰 차이를 만들다'는 'make a significant difference'입니다."
+    },
+    {
+      "type": "translation",
+      "korean": "회사는 6개월 동안 유연근무 프로그램을 시범 운영하기로 결정했습니다.",
+      "answer": "The company decided to pilot a flexible working program for six months.",
+      "acceptable_keywords": [
+        "pilot",
+        "flexible working program",
+        "six months"
+      ],
+      "hint": "'시범 운영하다'는 'pilot'을 동사로 사용합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The trial program has shown _______ outcomes with reduced employee burnout.",
+      "answer": "promising",
+      "options": [
+        "promising",
+        "disappointing",
+        "confusing",
+        "temporary"
+      ],
+      "korean": "시범 프로그램은 직원 번아웃 감소와 함께 유망한 결과를 보여주었습니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "_______ your audio and video before joining important meetings.",
+      "answer": "Test",
+      "options": [
+        "Test",
+        "Check",
+        "Try",
+        "Fix"
+      ],
+      "korean": "중요한 회의에 참여하기 전에 오디오와 비디오를 테스트하세요."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Many companies are trying to _______ declining productivity issues.",
+      "answer": "address",
+      "options": [
+        "address",
+        "ignore",
+        "create",
+        "avoid"
+      ],
+      "korean": "많은 회사들이 생산성 저하 문제를 해결하려고 노력하고 있습니다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66861&part_seq=26686",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66940&part_seq=26690"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-06-11.mp3",
+    "귀트영": "audio/귀트영_2026-06-11.mp3"
+  }
+}

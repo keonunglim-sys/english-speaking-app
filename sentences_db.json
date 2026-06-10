@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-10",
-  "total_sentences": 177,
+  "last_updated": "2026-06-11",
+  "total_sentences": 180,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -1417,6 +1417,30 @@
       "korean": "더 생산적이 되기 위해 불필요한 회의를 줄이려고 노력하고 있어요.",
       "category": "daily",
       "grammar_point": "cut down on: ~을 줄이다, 감소시키다"
+    },
+    {
+      "id": "2026-06-11_sent_01",
+      "date_added": "2026-06-11",
+      "english": "Could you please share your screen so we can review the presentation together?",
+      "korean": "발표 자료를 함께 검토할 수 있도록 화면을 공유해 주시겠어요?",
+      "category": "business",
+      "grammar_point": "Could you please + 동사원형: 정중한 요청 표현"
+    },
+    {
+      "id": "2026-06-11_sent_02",
+      "date_added": "2026-06-11",
+      "english": "I'm having trouble with my audio connection. Can everyone hear me clearly now?",
+      "korean": "오디오 연결에 문제가 있어서요. 지금 제 목소리가 잘 들리나요?",
+      "category": "business",
+      "grammar_point": "현재진행형(be having trouble): 현재 겪고 있는 문제 표현"
+    },
+    {
+      "id": "2026-06-11_sent_03",
+      "date_added": "2026-06-11",
+      "english": "I usually do my grocery shopping on weekends to save time during weekdays.",
+      "korean": "평일에 시간을 절약하기 위해 보통 주말에 장을 봅니다.",
+      "category": "daily",
+      "grammar_point": "to부정사의 목적 용법: ~하기 위해서"
     }
   ]
 }
