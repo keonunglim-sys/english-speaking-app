@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-11",
-  "total_sentences": 180,
+  "last_updated": "2026-06-12",
+  "total_sentences": 183,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -1441,6 +1441,30 @@
       "korean": "평일에 시간을 절약하기 위해 보통 주말에 장을 봅니다.",
       "category": "daily",
       "grammar_point": "to부정사의 목적 용법: ~하기 위해서"
+    },
+    {
+      "id": "2026-06-12_sent_01",
+      "date_added": "2026-06-12",
+      "english": "I need to schedule a follow-up meeting to discuss the project timeline.",
+      "korean": "프로젝트 일정을 논의하기 위해 후속 회의를 예약해야 합니다.",
+      "category": "business",
+      "grammar_point": "need to + 동사원형: 필요성을 나타내는 표현"
+    },
+    {
+      "id": "2026-06-12_sent_02",
+      "date_added": "2026-06-12",
+      "english": "Could you please send me the quarterly report by the end of this week?",
+      "korean": "이번 주 말까지 분기별 보고서를 보내주실 수 있나요?",
+      "category": "business",
+      "grammar_point": "Could you please + 동사원형: 정중한 요청 표현"
+    },
+    {
+      "id": "2026-06-12_sent_03",
+      "date_added": "2026-06-12",
+      "english": "I usually grab a quick coffee before starting my morning routine.",
+      "korean": "보통 아침 루틴을 시작하기 전에 커피를 빨리 마셔요.",
+      "category": "daily",
+      "grammar_point": "before + -ing: ~하기 전에"
     }
   ]
 }
