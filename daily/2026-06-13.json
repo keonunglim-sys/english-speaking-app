@@ -1,0 +1,168 @@
+{
+  "date": "2026-06-13",
+  "day_of_week": "토요일",
+  "has_source": false,
+  "ipteunyeong": {
+    "title": "Working from Home vs. Office",
+    "text": "The debate between working from home and working in the office has become more relevant than ever. After experiencing remote work during the pandemic, many employees have discovered both the benefits and drawbacks of each arrangement. Working from home offers flexibility and eliminates commuting time, allowing for better work-life balance. I can start my day without rushing through morning traffic and have more time for personal activities. However, I sometimes miss the spontaneous conversations with colleagues that spark creative ideas. Office work provides better collaboration opportunities and clearer boundaries between work and personal life. The office environment helps me stay focused and motivated, especially when tackling challenging projects. Yet, the daily commute can be exhausting and time-consuming. I believe the ideal solution is a hybrid approach, combining the best of both worlds. This allows employees to enjoy flexibility while maintaining meaningful connections with their team members.",
+    "korean_summary": "재택근무와 사무실 근무의 장단점을 비교한 에세이입니다. 재택근무는 유연성과 통근 시간 절약의 장점이 있지만 동료와의 자연스러운 소통이 부족할 수 있습니다. 사무실 근무는 협업과 집중력 향상에 도움이 되지만 통근의 부담이 있습니다. 두 방식을 결합한 하이브리드 근무가 이상적인 해결책이라고 제안합니다."
+  },
+  "gwitunyeong": {
+    "title": "South Korea Leads Global EV Battery Market",
+    "text": "South Korean battery manufacturers continue to dominate the global electric vehicle battery market, with companies like LG Energy Solution, Samsung SDI, and SK On securing major contracts worldwide. According to recent industry reports, South Korean firms hold approximately 30% of the global EV battery market share. LG Energy Solution has expanded its manufacturing facilities in North America and Europe to meet growing demand from automakers like General Motors and Ford. The company's advanced lithium-ion battery technology offers improved energy density and faster charging capabilities. Samsung SDI has also announced plans to invest $2.6 billion in new battery plants across multiple countries. These investments reflect the surging demand for electric vehicles as governments worldwide push for carbon neutrality goals. Industry experts predict that the global EV battery market will continue to grow exponentially, reaching $200 billion by 2030.",
+    "korean_summary": "한국의 배터리 제조업체들이 글로벌 전기차 배터리 시장에서 약 30%의 점유율을 차지하며 선두를 유지하고 있습니다. LG에너지솔루션, 삼성SDI, SK온 등이 해외 생산시설 확장에 대규모 투자를 진행하고 있으며, 2030년까지 시장 규모가 2000억 달러에 달할 것으로 전망됩니다."
+  },
+  "key_expressions": [
+    {
+      "english": "work-life balance",
+      "korean": "일과 생활의 균형",
+      "example": "Remote work has significantly improved my work-life balance.",
+      "source": "입트영"
+    },
+    {
+      "english": "tackle challenging projects",
+      "korean": "도전적인 프로젝트를 해결하다",
+      "example": "Our team needs to tackle this challenging project by next month.",
+      "source": "입트영"
+    },
+    {
+      "english": "hybrid approach",
+      "korean": "하이브리드 접근법",
+      "example": "Many companies are adopting a hybrid approach to workplace flexibility.",
+      "source": "입트영"
+    },
+    {
+      "english": "meaningful connections",
+      "korean": "의미 있는 관계",
+      "example": "Building meaningful connections with colleagues takes time and effort.",
+      "source": "입트영"
+    },
+    {
+      "english": "dominate the market",
+      "korean": "시장을 지배하다",
+      "example": "Korean tech companies continue to dominate the global smartphone market.",
+      "source": "귀트영"
+    },
+    {
+      "english": "secure major contracts",
+      "korean": "주요 계약을 확보하다",
+      "example": "The company managed to secure major contracts worth billions of dollars.",
+      "source": "귀트영"
+    },
+    {
+      "english": "energy density",
+      "korean": "에너지 밀도",
+      "example": "The new battery technology offers higher energy density than previous models.",
+      "source": "귀트영"
+    },
+    {
+      "english": "carbon neutrality goals",
+      "korean": "탄소 중립 목표",
+      "example": "Many countries have set ambitious carbon neutrality goals for 2050.",
+      "source": "귀트영"
+    }
+  ],
+  "today_sentences": [
+    {
+      "english": "I'd like to schedule a meeting to discuss our quarterly performance.",
+      "korean": "분기별 성과를 논의하기 위해 회의 일정을 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to' - 정중한 의사 표현"
+    },
+    {
+      "english": "Could you please send me the updated project timeline by Friday?",
+      "korean": "금요일까지 업데이트된 프로젝트 일정표를 보내주시겠어요?",
+      "category": "business",
+      "grammar_point": "'Could you please' - 공손한 부탁 표현"
+    },
+    {
+      "english": "I'm thinking of trying that new restaurant downtown this weekend.",
+      "korean": "이번 주말에 시내에 있는 새로운 식당을 가보려고 생각 중이에요.",
+      "category": "daily",
+      "grammar_point": "'be thinking of -ing' - 계획이나 의도 표현"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "translation",
+      "korean": "재택근무는 통근 시간을 없애고 더 나은 일과 생활의 균형을 가능하게 합니다.",
+      "answer": "Remote work eliminates commuting time and allows for better work-life balance.",
+      "acceptable_keywords": [
+        "remote work",
+        "eliminates",
+        "commuting",
+        "work-life balance"
+      ],
+      "hint": "'통근 시간을 없애다'는 'eliminate commuting time'"
+    },
+    {
+      "type": "translation",
+      "korean": "한국 기업들이 글로벌 전기차 배터리 시장의 30%를 차지하고 있습니다.",
+      "answer": "Korean companies hold 30% of the global EV battery market.",
+      "acceptable_keywords": [
+        "Korean companies",
+        "hold",
+        "30%",
+        "global",
+        "EV battery market"
+      ],
+      "hint": "'차지하다'는 'hold'로 표현"
+    },
+    {
+      "type": "translation",
+      "korean": "우리는 다음 달까지 이 도전적인 프로젝트를 완료해야 합니다.",
+      "answer": "We need to complete this challenging project by next month.",
+      "acceptable_keywords": [
+        "need to",
+        "complete",
+        "challenging project",
+        "by next month"
+      ],
+      "hint": "'~해야 한다'는 'need to'로 표현"
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The company's advanced technology offers improved energy ___ and faster charging capabilities.",
+      "answer": "density",
+      "options": [
+        "density",
+        "capacity",
+        "efficiency",
+        "performance"
+      ],
+      "korean": "그 회사의 첨단 기술은 향상된 에너지 밀도와 더 빠른 충전 기능을 제공합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "Many employees prefer a ___ approach that combines remote and office work.",
+      "answer": "hybrid",
+      "options": [
+        "hybrid",
+        "flexible",
+        "modern",
+        "balanced"
+      ],
+      "korean": "많은 직원들이 재택근무와 사무실 근무를 결합한 하이브리드 접근법을 선호합니다."
+    },
+    {
+      "type": "fill_in_blank",
+      "sentence": "The industry expects the market to grow ___ over the next decade.",
+      "answer": "exponentially",
+      "options": [
+        "exponentially",
+        "gradually",
+        "steadily",
+        "moderately"
+      ],
+      "korean": "업계는 향후 10년간 시장이 기하급수적으로 성장할 것으로 예상합니다."
+    }
+  ],
+  "audio": {
+    "입트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66863&part_seq=26686",
+    "귀트영": "https://www.bookdonga.com/utility/download.donga?type=EXTRADATAFILE&fieldname=listen_flnm&data_seq=66942&part_seq=26690"
+  },
+  "audio_local": {
+    "입트영": "audio/입트영_2026-06-13.mp3",
+    "귀트영": "audio/귀트영_2026-06-13.mp3"
+  }
+}

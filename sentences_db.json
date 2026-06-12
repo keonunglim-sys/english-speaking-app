@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-12",
-  "total_sentences": 183,
+  "last_updated": "2026-06-13",
+  "total_sentences": 186,
   "sentences": [
     {
       "id": "2026-04-13_sent_01",
@@ -1465,6 +1465,30 @@
       "korean": "보통 아침 루틴을 시작하기 전에 커피를 빨리 마셔요.",
       "category": "daily",
       "grammar_point": "before + -ing: ~하기 전에"
+    },
+    {
+      "id": "2026-06-13_sent_01",
+      "date_added": "2026-06-13",
+      "english": "I'd like to schedule a meeting to discuss our quarterly performance.",
+      "korean": "분기별 성과를 논의하기 위해 회의 일정을 잡고 싶습니다.",
+      "category": "business",
+      "grammar_point": "'would like to' - 정중한 의사 표현"
+    },
+    {
+      "id": "2026-06-13_sent_02",
+      "date_added": "2026-06-13",
+      "english": "Could you please send me the updated project timeline by Friday?",
+      "korean": "금요일까지 업데이트된 프로젝트 일정표를 보내주시겠어요?",
+      "category": "business",
+      "grammar_point": "'Could you please' - 공손한 부탁 표현"
+    },
+    {
+      "id": "2026-06-13_sent_03",
+      "date_added": "2026-06-13",
+      "english": "I'm thinking of trying that new restaurant downtown this weekend.",
+      "korean": "이번 주말에 시내에 있는 새로운 식당을 가보려고 생각 중이에요.",
+      "category": "daily",
+      "grammar_point": "'be thinking of -ing' - 계획이나 의도 표현"
     }
   ]
 }
